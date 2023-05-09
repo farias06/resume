@@ -9,6 +9,8 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 - [Linkedin](http://fr.linkedin.com/in/ariasfrederic)
 
+   - [A noter que j'ai bloqué des comptes sur Linkedin](https://www.cyber-neurones.org/2022/01/linkedin-bloquer-les-covidiots/)
+
 - [Mastodon](https://pouet.chapril.org/@Cyberneurones)
 
 - Pas de Twitter, Pas de Facebook, Pas d'Instagram, Pas de WhatsApp ....
@@ -40,17 +42,63 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 #### Software 
 
-- PostgreSQL / Mosquitto / MySQL / RabbitMQ / Jenkins .
+- [PostgreSQL](https://www.postgresql.org/) / [Redis](https://redis.io/) / NGINX / Mosquitto / MySQL / RabbitMQ / Jenkins / Supervisord / Grafana.
 
 - Asterisk 
-   - Script AEL for Asterisk.
-   - Build / Installation / Administration  Asterisk
+   - Script AEL for Asterisk .
+   - Build / Installation / Administration Asterisk .
+   - Pour Oracle Linux .
 
 #### Tools 
 
 - Teams / Slack / JIRA / Github / SVN / 
 
 ### 2022 (RESIDEO)
+
+#### Langage Dev : 
+
+- C (70%) / PHP (20%) / BASH / AEL.
+
+- Protocol XML / JSON / SIP / RTP / Alarm ...
+
+#### OS :
+
+- Oracle Linux 8.7 / Oracle Linux 7.9 / Oracle Linux 9.1 .
+
+- Ubuntu .
+
+- Kali .
+
+- Docker .
+   - Oracle Linux.
+   - RancherOS.
+   - Alpine.
+
+- Marathon/Apache Mesos : End of life.
+  - [Marathon/Mesos : Environnement complet via Docker ( docker-compose )](https://www.cyber-neurones.org/2022/04/marathon-mesos-environnement-complet-via-docker-docker-compose/)
+
+#### Software 
+
+- [PostgreSQL](https://www.postgresql.org/) / [Redis](https://redis.io/) / NGINX / Mosquitto / MySQL / RabbitMQ / Jenkins / Supervisord / Prometheus / Grafana.
+
+- Asterisk
+   - Script AEL for Asterisk .
+   - Build / Installation / Administration Asterisk .
+   - Pour Oracle Linux .
+
+#### Tools 
+
+- Teams / Slack / JIRA / Github / SVN /
+
+#### Notes 
+
+- [Quels sont les langages de programmation les plus verts ? (Dr. Milan Milanović)](https://www.cyber-neurones.org/2022/08/quels-sont-les-langages-de-programmation-les-plus-verts-dr-milan-milanovic/)
+
+- [Voici pourquoi linux est plus facile à débugger](https://www.cyber-neurones.org/2022/08/voici-pourquoi-linux-est-plus-facile-a-debugger/)
+
+- [Asterisk : Fichier asterisk.service pour Oracle Linux 8.6](https://www.cyber-neurones.org/2022/07/asterisk-fichier-asterisk-service-pour-oracle-linux-8-6/)
+
+- [Migration de Oracle Linux 7.x vers Oracle Linux 8.x avec leapp : Echec complet](https://www.cyber-neurones.org/2022/05/migration-de-oracle-linux-7-x-vers-oracle-linux-8-x-avec-leapp-echec-complet/)
 
 ### 2021 (RESIDEO)
 
@@ -69,6 +117,8 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 ### 2014
 
 ### 2013
+
+### 2012
 
 ### Support Client 
 
@@ -175,7 +225,55 @@ Lycée La Borde Basse. Mention Passable.
 
 :link: [Wordpress](https://www.cyber-neurones.org/2022/12/cross-amnesty-de-valbonne-edition-2022/)
 
-:runner: Cross, 11 km, 296m D+, 00:59:30
+:runner: Cross, 11 km, 296 m D+, 00:59:30
+
+#### Courir pour une fleur à Antibes 
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/10/courir-pour-une-fleur-a-antibes-edition-2022/)
+
+:runner: Course, 10 km, 109 m D+, 00:48:27
+
+####  Trail Per Cami : Parcours découverte de 13 km
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
+
+:runner: Tail, 13 km, 1043 m D+, 02:19:12
+
+#### Trail Mounte Cala à Gréolières-les-Neiges
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
+
+:runner: Trail, 12 km, 1072 m D+, 02:54:56
+
+#### Traversée des Dentelles de Montmirail
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/06/trail-traversee-des-dentelles-de-montmirail-ou-marathon-de-gigondas-ou-marathon-des-dentelles-edition-2022/)
+
+:runner: Trail, 42 km, 2168 m D+, 07:30:11
+
+#### Trail de Rimplas
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
+
+:runner: Trail, 20 km, 1669 m D+, 04:18:29
+
+#### Trail de Biot
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
+
+:runner: Trail, 16 km, 398 m D+, 01:41:21
+
+#### Calvaire d’Antibes
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/04/calvaire-dantibes-edition-2022/)
+
+:runner: Course, 10 km, 205 m D+, 00:53:19
+
+#### Trail des merveilles à Breil-sur-roya
+
+:link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
+
+:runner: Trail, 33 km, 2068 m D+, 05:29:01
 
 ### 2021 
 
@@ -190,7 +288,12 @@ Lycée La Borde Basse. Mention Passable.
 Installation / Administration (sous Ubuntu).
 
 - [No space left on device in /usr/share/nginx/nextcloud/lib/private/Log/File.php on line 89](https://www.cyber-neurones.org/2023/01/nextcloud-no-space-left-on-device-in-usr-share-nginx-nextcloud-lib-private-log-file-php-on-line-89/)
+
 - [Migration to 25.0.3](https://www.cyber-neurones.org/2023/01/nextcloud-migration-to-25-0-3/)
+
+- [NEXTCLOUD 24.0.1 : Migration de php 7.3 vers 7.4](https://www.cyber-neurones.org/2022/05/nextcloud-24-0-1-migration-de-php-7-3-vers-7-4/)
+
+- [NEXTCLOUD : Problème d’index](https://www.cyber-neurones.org/2022/05/nextcloud-probleme-dindex/)
 
 
 #### [Wordpress](https://wordpress.com/fr/)
@@ -202,6 +305,10 @@ J'ai installer Wordpress pour mon blog en 2014 :
 ![Visite du site](./img/2023-05-09-21-48-52.png)
 
 - [WordPress : Passage en PHP 8.1](https://www.cyber-neurones.org/2022/12/wordpress-passage-en-php-8-1/)
+
+- [WordPress : Upgrade 6.0](https://www.cyber-neurones.org/2022/05/wordpress-upgrade-6-0/)
+
+J'ai aussi mis le plugin Matomo afin de supprimer Google Analytics.
 
 #### [Drupal](https://www.drupal.fr/)
 
@@ -216,6 +323,8 @@ Installation / Administration (sous Debian).
 Installation / Administration (sous Debian)
 
 Competences : Apache / Humhub / Debian / Firewall . 
+
+- [Humhub v1.11.1 : Migration de php 7.3 vers php 7.4](https://www.cyber-neurones.org/2022/05/humhub-v1-11-1-migration-de-php-7-3-vers-php-7-4/)
 
 #### [Home Assitant](https://www.home-assistant.io/) 
 
@@ -241,23 +350,62 @@ Installation sur serveur DELL.
 
 #### Alpes-Maritimes
 
-[Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia]([https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
+- [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia]([https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
 
-[Boucle des chasseurs entre Biot et Villeneuve-Loubet](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
+- [Boucle des chasseurs entre Biot et Villeneuve-Loubet](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
 
-[Chapelle Saint-Jean, Arche de Ponadieu, Grotte des deux goules, Cascades ](https://www.cyber-neurones.org/2023/02/randonnee-tres-difficile-chapelle-saint-jean-arche-de-ponadieu-grotte-des-deux-goules-cascades/)
+- [Chapelle Saint-Jean, Arche de Ponadieu, Grotte des deux goules, Cascades ](https://www.cyber-neurones.org/2023/02/randonnee-tres-difficile-chapelle-saint-jean-arche-de-ponadieu-grotte-des-deux-goules-cascades/)
 
-[Sommet (ou pointe) des quatre cantons au départ de Bairols](https://www.cyber-neurones.org/2023/02/randonnee-sommet-ou-pointe-des-quatre-cantons-au-depart-de-bairols/)
+- [Sommet (ou pointe) des quatre cantons au départ de Bairols](https://www.cyber-neurones.org/2023/02/randonnee-sommet-ou-pointe-des-quatre-cantons-au-depart-de-bairols/)
 
-[Tête de Giarons, Tête de l’Abric, Les Cluots](https://www.cyber-neurones.org/2023/01/randonnee-hivernale-tete-de-giarons-tete-de-labric-les-cluots-avec-13-au-sommet/)
+- [Tête de Giarons, Tête de l’Abric, Les Cluots](https://www.cyber-neurones.org/2023/01/randonnee-hivernale-tete-de-giarons-tete-de-labric-les-cluots-avec-13-au-sommet/)
+
+- [Tour du Mont Lion (avec passage par le sommet) au départ de Gilette](https://www.cyber-neurones.org/2022/06/randonnee-tour-du-mont-lion-avec-passage-par-le-sommet-au-depart-de-gilette/)
+
+- [Tour complet du Cap d’Antibes](https://www.cyber-neurones.org/2022/04/marche-tour-complet-du-cap-dantibes/)
+
+- [Brec d’Utelle au départ de Saint-Jean La Rivière](https://www.cyber-neurones.org/2022/03/randonnee-a-utelle-brec-dutelle-au-depart-de-saint-jean-la-riviere/)
+
+- [Randonnée à Caille : Crêtes du Bauroux](https://www.cyber-neurones.org/2022/02/randonnee-a-caille-cretes-du-bauroux/)
+
+- [Randonnée : Sommet de Thiey au départ de Nans](https://www.cyber-neurones.org/2022/01/randonnee-sommet-de-thiey-au-depart-de-nans/)
+
+
+#### Savoie
+
+- [Valloire : Randonnée Le Verneys vers Le Crey Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-verneys-vers-le-crey-rond/)
+
+- [Valloire : Randonnée : Col du Boléon (2845m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-col-du-boleon-2845m/)
+
+- [Valloire : Randonnée : Le Grand Galibier](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-grand-galibier/)
+
+- [Valloire : Randonnée de Bonnenuit vers l’Aiguille de l’Epaisseur (3230m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-laiguille-de-lepaisseur-3230m/)
+
+- [Valloire : Randonnée de Bonnenuit vers le Lac Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-le-lac-rond/) 
+
+#### Corse
+
+- [Sentier des plages de Bonifacio en deux étapes](https://www.cyber-neurones.org/2022/04/randonnee-en-corse-sentier-des-plages-de-bonifacio-en-deux-etapes/)
+
+- [Tour de Sénèque au départ de Fieno (Cap Corse)](https://www.cyber-neurones.org/2022/04/corse-tour-de-seneque-au-depart-de-fieno/)
+
+- 
 
 ## Developpement
+
+### Python
+
+- [Python/BRISQUE : Voir la « qualité » des photos NEXTCLOUD avec un script](https://www.cyber-neurones.org/2022/06/python-brisque-voir-la-qualite-des-photos-nextcloud-avec-un-script/)
+
+- [Python/OpenCV : Détection des contours du blob](https://www.cyber-neurones.org/2022/04/python-opencv-brouillon-detection-des-contours-du-blob/)
+
+- [Issue : NVIDIA GeForce RTX 3060 Laptop GPU with CUDA capability sm_86 is not compatible with the current PyTorch installation.](https://www.cyber-neurones.org/2022/03/issue-nvidia-geforce-rtx-3060-laptop-gpu-with-cuda-capability-sm_86-is-not-compatible-with-the-current-pytorch-installation/)
 
 ## Vélo 
 
 ### Information
 
-[Consommation vélo electrique](https://www.cyber-neurones.org/2023/04/consommation-velo-electrique/)
+- [Consommation vélo electrique](https://www.cyber-neurones.org/2023/04/consommation-velo-electrique/)
 
 ### Association 
 
@@ -267,17 +415,34 @@ Installation sur serveur DELL.
 
 ##### Alpes-Maritimes
 
-[Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/)
+- [Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/)
 
-[Biot vers Gourdon en gravel](https://www.cyber-neurones.org/2023/03/gravel-biot-vers-gourdon-en-gravel/)
+- [Biot vers Gourdon en gravel](https://www.cyber-neurones.org/2023/03/gravel-biot-vers-gourdon-en-gravel/)
+
+- [Allianz Riviera à Vélo : au départ de Biot ](https://www.cyber-neurones.org/2022/08/allianz-riviera-a-velo-au-depart-de-biot-ostrea/)
+
+- [Rond point d’Opio – Col de Gourdon – Col de l’Ecre – Observatoire de Calern](https://www.cyber-neurones.org/2022/07/velo-rond-point-dopio-col-de-gourdon-col-de-lecre-observatoire-de-calern/)
+
+- 
+
+##### Hautes-Alpes
+
+- [Col du Galibier au départ de Le Verneys](https://www.cyber-neurones.org/2022/08/col-du-galibier-au-depart-de-le-verneys/)
+
 
 ##### Tarn
 
-[Boucle de La Capelette](https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/)
+- [Boucle de La Capelette](https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/)
 
-[Dourgne la montée de Montalric](https://www.cyber-neurones.org/2023/04/velo-gravel-dourgne-la-montee-de-montalric/)
+- [Dourgne la montée de Montalric](https://www.cyber-neurones.org/2023/04/velo-gravel-dourgne-la-montee-de-montalric/)
 
 #### VTT
+
+##### Alpes-Maritimes
+
+- [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/)
+
+- [Boucle dans l’Estérel autour du pic de l’Ours au départ de Théoule-sur-mer](https://www.cyber-neurones.org/2022/10/vtt-boucle-dans-lesterel-autour-du-pic-de-lours-au-depart-de-theoule-sur-mer/)
 
 # Logiciels 
 
