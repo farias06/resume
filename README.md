@@ -21,21 +21,30 @@ Ma vie publique (version fr) , en cours de construction.
 
 #### Langage Dev : 
 
-- C (70%) / PHP (20%) / Perl / BASH . 
+- C (70%) / PHP (20%) / BASH / AEL. 
+
+- Protocol XML / JSON / SIP / RTP / Alarm ...
 
 #### OS :
 
-- Oracle Linux 8.7 / Oracle Linux 7.9 / Oracle Linux 9.1
+- Oracle Linux 8.7 / Oracle Linux 7.9 / Oracle Linux 9.1 .
 
 - Ubuntu .
 
 - Kali .
 
 - Docker .
+   - Oracle Linux.
+   - RancherOS.
+   - Alpine.
 
 #### Software 
 
 - PostgreSQL / Mosquitto / MySQL / RabbitMQ / Jenkins .
+
+- Asterisk 
+   - Script AEL for Asterisk.
+   - Build / Installation / Administration  Asterisk
 
 #### Tools 
 
@@ -56,6 +65,10 @@ Ma vie publique (version fr) , en cours de construction.
 ### 2016
 
 ### 2015
+
+### 2014
+
+### 2013
 
 ### Support Client 
 
@@ -114,7 +127,22 @@ Lycée La Borde Basse. Mention Passable.
 
 ### 2023
 
+#### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
+
+[Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
+
+Gravel, 114 km, 3300 m D+, 10:15:47.
+
+#### Semi-marathon de Nice 
+
+[Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
+
+Course, 21 km, 90m D+, 01:51:30.
+
+
+
 ### 2022
+
 
 ### 2021 
 
@@ -134,7 +162,7 @@ Installation / Administration (sous Débian).
 
 J'ai installer Wordpress pour mon blog en 2014 :
 
-[Visite du site](./img/2023-05-09-21-48-52.png)
+![Visite du site](./img/2023-05-09-21-48-52.png)
 
 #### [Drupal](https://www.drupal.fr/)
 
@@ -162,11 +190,30 @@ Installation / Administration (sous Debian).
 
 ## Randonnées 
 
+### France
+
+#### Alpes-Maritimes
+
+(Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia)[https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/]
+
+
 ## Developpement
 
 ## Vélo 
 
 ### Association 
+
+### Parcours
+
+#### Gravel
+
+##### Alpes-Maritimes
+
+(Canal de la Siagne de Mougins à Grasse)[https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/]
+
+##### Tarn
+
+(Boucle de La Capelette)[https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/]
 
 # Logiciels 
 
