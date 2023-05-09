@@ -129,17 +129,25 @@ Lycée La Borde Basse. Mention Passable.
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
-[Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
+:link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
 Gravel, 114 km, 3300 m D+, 10:15:47.
 
 #### Semi-marathon de Nice 
 
-[Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
+:link: [Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
 
 Course, 21 km, 90m D+, 01:51:30.
 
+#### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
+:link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
+
+Trail, 13 km, 670 D+, 01:38:34.
+
+#### Trail du Ventoux : Origine 46 km 
+
+:link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-du-ventoux-origine-46-km-edition-2023/)
 
 ### 2022
 
@@ -201,6 +209,10 @@ Installation / Administration (sous Debian).
 
 ## Vélo 
 
+### Information
+
+[Consommation vélo electrique](https://www.cyber-neurones.org/2023/04/consommation-velo-electrique/)
+
 ### Association 
 
 ### Parcours
@@ -209,11 +221,17 @@ Installation / Administration (sous Debian).
 
 ##### Alpes-Maritimes
 
-(Canal de la Siagne de Mougins à Grasse)[https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/]
+[Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/)
+
+[Biot vers Gourdon en gravel](https://www.cyber-neurones.org/2023/03/gravel-biot-vers-gourdon-en-gravel/)
 
 ##### Tarn
 
-(Boucle de La Capelette)[https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/]
+[Boucle de La Capelette](https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/)
+
+[Dourgne la montée de Montalric](https://www.cyber-neurones.org/2023/04/velo-gravel-dourgne-la-montee-de-montalric/)
+
+#### VTT
 
 # Logiciels 
 
