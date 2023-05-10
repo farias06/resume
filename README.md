@@ -176,13 +176,13 @@ Lycée La Borde Basse. Mention Passable.
 
 ## Compétitions
 
-- [Strava](https://www.strava.com/athletes/12487918) : Profil privé.
+- [Strava](https://www.strava.com/athletes/12487918) : Profil privé. :lock:
 
-- [ITRA](https://itra.run/RunnerSpace/ARIAS.Frederic/1260843) : Profil public.
+- [ITRA](https://itra.run/RunnerSpace/ARIAS.Frederic/1260843) : Profil public. :unlock:
 
-- [J'aime courrir](https://www.jaimecourir.fr/) : Profil privé.
+- [J'aime courrir](https://www.jaimecourir.fr/) : Profil privé. :lock:
 
--  
+- [BeTrail](https://www.betrail.run/runner/arias.frederic/overview) : Profil public. :unlock:
 
 ### 2023
 
@@ -198,7 +198,7 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Course, 21 km, 90m D+, 01:51:30.
 
-:triangular_flag_on_post: FFA : 1390. (1149M - 133M2)	1h51'28''
+:triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2)	1h51'28''
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
@@ -212,7 +212,7 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Trail, 46 km, 2690m D+, 07:31:53.
 
-:triangular_flag_on_post: FFA : 746. (658M - 118M2)	7h31'40''
+:triangular_flag_on_post: :fr: FFA : 746. (658M - 118M2)	7h31'40''
 
 #### Balcon de la Roya 
 
@@ -220,7 +220,7 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Trail, 16 km, 1057m D+, 02:16:15
 
-:triangular_flag_on_post: FFA :  52. (49M - 7M2)	2h16'23''
+:triangular_flag_on_post: :fr: FFA :  52. (49M - 7M2)	2h16'23''
 
 #### Trаіl dеs Сrêtеs de Gréolières-les-neiges 
 
@@ -234,7 +234,7 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Trail, 26 km, 686 m D+, 02:42:48
 
-:triangular_flag_on_post: FFA : 154. (135M - 18M2)	2h42'50''
+:triangular_flag_on_post: :fr: FFA : 154. (135M - 18M2)	2h42'50''
 
 ### 2022
 
@@ -244,17 +244,23 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Cross, 11 km, 296 m D+, 00:59:30
 
+:triangular_flag_on_post: :fr: FFA : 51. (46M - 13M2)	59'31''
+
 #### Courir pour une fleur à Antibes 
 
 :link: [Wordpress](https://www.cyber-neurones.org/2022/10/courir-pour-une-fleur-a-antibes-edition-2022/)
 
 :runner: Course, 10 km, 109 m D+, 00:48:27
 
+:triangular_flag_on_post: :fr: FFA : 312. (267M - 38M2)	48'55'' (48'19'')
+
 ####  Trail Per Cami : Parcours découverte de 13 km
 
 :link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
 
 :runner: Tail, 13 km, 1043 m D+, 02:19:12
+
+:triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2)	2h19'13''
 
 #### Trail Mounte Cala à Gréolières-les-Neiges
 
@@ -268,11 +274,15 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Trail, 42 km, 2168 m D+, 07:30:11
 
+:triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2)	7h30'24''
+
 #### Trail de Rimplas
 
 :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
 
 :runner: Trail, 20 km, 1669 m D+, 04:18:29
+
+:triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2)	4h18'28''
 
 #### Trail de Biot
 
@@ -286,11 +296,15 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Course, 10 km, 205 m D+, 00:53:19
 
+:triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2) 53'21''
+
 #### Trail des merveilles à Breil-sur-roya
 
 :link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
 
 :runner: Trail, 33 km, 2068 m D+, 05:29:01
+
+:triangular_flag_on_post: :fr: FFA : 	96. (87M - 15M2)	5h29'16''
 
 ### 2021 
 
@@ -305,6 +319,18 @@ Lycée La Borde Basse. Mention Passable.
 :link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
 
 :runner: Trail, 24 km, 1181 m D+, :watch: 03:15:33
+
+#### Semi-marathon de Nice
+
+:link: [Wordpress](https://www.cyber-neurones.org/2021/09/semi-marathon-de-nice-edition-2021/)
+
+:runner: Course, 21 km, 166 m D+, :watch: 01:50:13
+
+#### Urban Trail de Cannes 
+
+:link: [Wordpress](https://www.cyber-neurones.org/2021/09/urban-trail-de-cannes-edition-2021/)
+
+:runner: Trail, 27 km, 758 m D+,  :watch: 03:09:51
 
 ### 2020 
 
@@ -324,6 +350,9 @@ Installation / Administration (sous Ubuntu).
 
 - [NEXTCLOUD : Problème d’index](https://www.cyber-neurones.org/2022/05/nextcloud-probleme-dindex/)
 
+- [NextCloud : Erreur : « Unable to generate a URL for the named route \ »theming.Theming.getImage\ » as such route does not exist. »](https://www.cyber-neurones.org/2021/08/nextcloud-erreur-unable-to-generate-a-url-for-the-named-route-theming-theming-getimage-as-such-route-does-not-exist/)
+
+
 
 #### [Wordpress](https://wordpress.com/fr/)
 
@@ -337,7 +366,13 @@ J'ai installer Wordpress pour mon blog en 2014 :
 
 - [WordPress : Upgrade 6.0](https://www.cyber-neurones.org/2022/05/wordpress-upgrade-6-0/)
 
+- [WordPress : Installation de Matomo …](https://www.cyber-neurones.org/2021/08/wordpress-installation-de-matomo/)
+
 J'ai aussi mis le plugin Matomo afin de supprimer Google Analytics.
+
+- [WordPress : Modification de la configuration : Passage de HTTP en HTTPS](https://www.cyber-neurones.org/2021/07/modification-de-la-configuration-passage-de-http-en-https/)
+
+
 
 #### [Drupal](https://www.drupal.fr/)
 
@@ -401,6 +436,13 @@ Installation sur serveur DELL.
 
 - [Randonnée : Sommet de Thiey au départ de Nans](https://www.cyber-neurones.org/2022/01/randonnee-sommet-de-thiey-au-depart-de-nans/)
 
+- [Randonnée : Baisse de Tueis (Camp d’Argent) vers La Minière de Vallauria](https://www.cyber-neurones.org/2021/08/randonnee-baisse-de-tueis-camp-dargent-vers-la-miniere-de-vallauria/)
+
+- [Randonnée hors piste : La voie Mathis : La minière de Vallauria vers la pointe de la Corne de Bouc](https://www.cyber-neurones.org/2021/08/randonnee-hors-piste-la-voie-mathis-la-miniere-de-vallauria-vers-la-pointe-de-la-corne-de-bouc/)
+
+- [Randonnée sportive : Boucle de 22 km sur la Vallée de Merveilles](https://www.cyber-neurones.org/2021/08/randonnee-sportive-boucle-de-22-km-sur-la-vallee-de-merveilles/)
+
+- [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/)
 
 #### Savoie
 
@@ -440,6 +482,10 @@ Installation sur serveur DELL.
 
 ### Association 
 
+- [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/)
+
+
+
 ### Parcours
 
 #### Gravel
@@ -454,7 +500,12 @@ Installation sur serveur DELL.
 
 - [Rond point d’Opio – Col de Gourdon – Col de l’Ecre – Observatoire de Calern](https://www.cyber-neurones.org/2022/07/velo-rond-point-dopio-col-de-gourdon-col-de-lecre-observatoire-de-calern/)
 
-- 
+- [Vélo : Col de Braus : 1002 m depuis Sospel](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-sospel/)
+
+- [Vélo : Mont Agaisen : 751 m depuis Sospel](https://www.cyber-neurones.org/2021/09/velo-mont-agaisen-751-m-depuis-sospel/)
+
+- [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/)
+
 
 ##### Hautes-Alpes
 
@@ -466,6 +517,16 @@ Installation sur serveur DELL.
 - [Boucle de La Capelette](https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/)
 
 - [Dourgne la montée de Montalric](https://www.cyber-neurones.org/2023/04/velo-gravel-dourgne-la-montee-de-montalric/)
+
+- [Vélo : Montagne Noire : Les segments pour les grimpeurs](https://www.cyber-neurones.org/2021/08/velo-montagne-noire-les-segments-pour-les-grimpeurs/)
+
+- [Vélo : Saint-Avit (Tarn) vers le Lac du Dicosa](https://www.cyber-neurones.org/2021/08/velo-saint-avit-tarn-vers-le-lac-du-dicosa/)
+
+- [Vélo : Pic de Nore au départ des passerelles Mazamet](https://www.cyber-neurones.org/2021/08/velo-pic-de-nore-au-depart-des-passerelles-mazamet/)
+
+- [Vélo : La Rigole de la montagne noire : La prise d’Alzeau vers les Cammazes](https://www.cyber-neurones.org/2021/08/velo-la-rigole-de-la-montagne-noire-la-prise-dalzeau-vers-les-cammazes/)
+
+- 
 
 #### VTT
 
@@ -499,9 +560,17 @@ Meilleur bloc note.
 
 Meilleur logiciel de suivi de sport, même si l'export n'est pas très propre.
 
+- [RubiTrack 6 : Installation et test … toujours pas de vrai Export !](https://www.cyber-neurones.org/2021/08/rubitrack-6-installation-et-test-toujours-pas-de-vrai-export/)
+
 ## Signal
 
 Meilleure alternative à WhatsApp.
 
+# Hardware
 
+## TUXEDO
+
+Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour faire des dev sous Ubuntu. C'est un très bon rapport qualité/prix.
+
+- [TUXEDO InfinityBook Pro 14 v5 : Suppression de la batterie](https://www.cyber-neurones.org/2021/08/tuxedo-infinitybook-pro-14-v5-suppression-de-la-batterie/)
 
