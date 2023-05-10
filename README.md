@@ -146,11 +146,33 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 ### 2012
 
-### Support Client 
+### Support Client SeCOM / HONEYWELL / RESIDEO
 
 J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en Finlande (Helsinki) , en Norvège (Olso) , en Suède (Linkoping, Malmo) , au Portugal (Lisbonne),  en France (Paris, Aix-en-Provence, Strasbourg, Dieppe, Besancon, Lyon, Nantes, Blois, Signes, Toulouse, Hossegor, Bry-sur-Marne)  , en Grande-Bretagne (Manchester) , en Italie (Come, Florence, Milan), en Russie (Moscou), en Allemagne (Meshede) , en Suisse (Genève) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
 
-### Connaissance OS:
+## Mi-Avril 2000 à Mi-Janvier 2001 ( CYBERWORKERS – Aubagne )
+
+- Cyberworkers est une société qui développe une plate-forme destinée au télétravail pour les indépendants. http://www.cyberworkers.com/ Développeur, concepteur et DBA de 80% de la plate-forme sous LINUX :
+
+- Création de pages dynamiques : Utilisation de PHP et SQL :
+   - MySQL – Apache .
+   - PostgreSQL – Apache.
+   -  OpenLDAP – Apache.
+
+- Création de requêtes complexes sous PostgreSQL : Utilisation de PL/SQL & PL/Perl
+
+- Création d’une application pour le WAP.
+
+- Développement en PERL – JavaScript – C – Java ( JSP, servlets ) .
+
+- Création du MLD ( Modèle Logique des Données ) à l’aide des méthodes MERISE et UML (120 tables).
+
+- Rédaction de la documentation.
+
+- Environnement : Linux( Debian, SuSE ), Perl, PHP, JavaScript, C, Java (JSP, servlets), Apache, Merise, UML, PL/SQL, Tomcat
+
+
+## Connaissance OS:
 
 Systèmes Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
 
