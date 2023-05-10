@@ -654,9 +654,11 @@ Competences : Apache / Humhub / Debian / Firewall .
 
 - [Installation de humhub version 1.6.3 sur Debian](https://www.cyber-neurones.org/2020/11/installation-de-humhub-version-1-6-3-sur-debian/)
 
-#### [Home Assitant](https://www.home-assistant.io/) 
+#### [Home Assistant](https://www.home-assistant.io/) 
 
 Installation / Administration (sous Debian).
+
+Avant j'utilisais [Jeedom](https://www.jeedom.com/fr/) sur Raspberry mais depuis 2021 je suis sur Home Assistant sus VM.
 
 #### [Jenkins](https://www.jenkins.io/)
 
