@@ -18,7 +18,7 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 # Experiences professionnelles :
 
-## SECOM / HONEYWELL / RESIDEO
+## SECOM / HONEYWELL / RESIDEO ( Mougins )
 
 ### 2023 (RESIDEO)
 
@@ -149,6 +149,18 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 ### Support Client SeCOM / HONEYWELL / RESIDEO
 
 J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en Finlande (Helsinki) , en Norvège (Olso) , en Suède (Linkoping, Malmo) , au Portugal (Lisbonne),  en France (Paris, Aix-en-Provence, Strasbourg, Dieppe, Besancon, Lyon, Nantes, Blois, Signes, Toulouse, Hossegor, Bry-sur-Marne)  , en Grande-Bretagne (Manchester) , en Italie (Come, Florence, Milan), en Russie (Moscou), en Allemagne (Meshede) , en Suisse (Genève) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
+
+## Mi-Janvier 2001 à Mi-Mai 2001 ( RIGTHVISION – Mouans Sartoux ) 
+
+- Righvision est une société qui développe des Appliances ( EyeBox ) sous Linux. http://www.rightvision.com/
+
+- Développeur sous Windows et sous Linux.
+
+- Création d’une interface en PHP pour la gestion de MySQL.
+- Mise en place de Bench en Perl et optimisation sur MySQL sous Linux.
+- Création d’une interface générique et développement d’un bureau virtuel en Flash5.
+
+- Environnement : Linux( RedHat ), Windows, Perl, PHP, Apache, OpenlDAP, CVS, MySQL, Flash5( Action Script )
 
 ## Mi-Avril 2000 à Mi-Janvier 2001 ( CYBERWORKERS – Aubagne )
 
