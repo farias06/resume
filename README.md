@@ -128,6 +128,10 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 ### 2019
 
+#### Notes
+
+- [Issue : Only one processor or Unsupported PM cap regs version (7).](https://www.cyber-neurones.org/2019/12/issue-only-one-processor-or-unsupported-pm-cap-regs-version-7/) : Oracle Linux 7.3
+
 ### 2018 
 
 ### 2017
@@ -281,59 +285,59 @@ Lycée La Borde Basse. Mention Passable.
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
 
-- :runner: Tail, 13 km, 1043 m D+, 02:19:12
+- :runner: Tail, 13 km, 1043 m D+, :watch: 02:19:12
 
-- :triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2)	2h19'13''
+- :triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2) :watch:	2h19'13''
 
 #### Trail Mounte Cala à Gréolières-les-Neiges
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
 
-- :runner: Trail, 12 km, 1072 m D+, 02:54:56
+- :runner: Trail, 12 km, 1072 m D+, :watch: 02:54:56
 
 #### Traversée des Dentelles de Montmirail
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/06/trail-traversee-des-dentelles-de-montmirail-ou-marathon-de-gigondas-ou-marathon-des-dentelles-edition-2022/)
 
-- :runner: Trail, 42 km, 2168 m D+, 07:30:11
+- :runner: Trail, 42 km, 2168 m D+, :watch: 07:30:11
 
-- :triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2)	7h30'24''
+- :triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2) :watch:	7h30'24''
 
 #### Trail de Rimplas
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
 
-- :runner: Trail, 20 km, 1669 m D+, 04:18:29
+- :runner: Trail, 20 km, 1669 m D+, :watch: 04:18:29
 
-- :triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2)	4h18'28''
+- :triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2) :watch:	4h18'28''
 
 #### Trail de Biot
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
-- :runner: Trail, 16 km, 398 m D+, 01:41:21
+- :runner: Trail, 16 km, 398 m D+, :watch: 01:41:21
 
 #### Calvaire d’Antibes
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/04/calvaire-dantibes-edition-2022/)
 
-- :runner: Course, 10 km, 205 m D+, 00:53:19
+- :runner: Course, 10 km, 205 m D+, :watch: 00:53:19
 
-- :triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2) 53'21''
+- :triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2)  :watch: 53'21''
 
 #### Trail des merveilles à Breil-sur-roya
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
 
-- :runner: Trail, 33 km, 2068 m D+, 05:29:01
+- :runner: Trail, 33 km, 2068 m D+, :watch: 05:29:01
 
-- :triangular_flag_on_post: :fr: FFA : 	96. (87M - 15M2)	5h29'16''
+- :triangular_flag_on_post: :fr: FFA : 	96. (87M - 15M2) :watch:	5h29'16''
 
 ### 2021 
 
 #### Cross Amnesty
 
-- :triangular_flag_on_post: :fr: FFA : 116. (89M - 15M2)	1h15'53''
+- :triangular_flag_on_post: :fr: FFA : 116. (89M - 15M2) :watch: 	1h15'53''
 
 #### Trail de l'Ours à Levens
 
@@ -341,7 +345,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Trail, 30 km, 2062 m D+, :watch: 05:39:34
 
-- :triangular_flag_on_post: :fr: FFA : 146. (131M - 14M2)	5h39'42'' (5h39'31'')
+- :triangular_flag_on_post: :fr: FFA : 146. (131M - 14M2) :watch:	5h39'42'' (5h39'31'')
 
 #### Grasse Running Days 2021 : Trail de 24 km
 
@@ -349,7 +353,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Trail, 24 km, 1181 m D+, :watch: 03:15:33
 
-- :triangular_flag_on_post: :fr: FFA : 117. (110M - 22M2)	3h15'55''
+- :triangular_flag_on_post: :fr: FFA : 117. (110M - 22M2) :watch:	3h15'55''
 
 #### Semi-marathon de Nice
 
@@ -357,7 +361,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Course, 21 km, 166 m D+, :watch: 01:50:13
 
-- :triangular_flag_on_post: :fr: FFA :  	519. (460M - 66M2)	1h51'55'' (1h50'13'')
+- :triangular_flag_on_post: :fr: FFA :  	519. (460M - 66M2) :watch:	1h51'55'' (1h50'13'')
 
 #### Urban Trail de Cannes 
 
@@ -365,7 +369,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Trail, 27 km, 758 m D+,  :watch: 03:09:51
 
-- :triangular_flag_on_post: :fr: FFA :   130. (109M - 24M2)	3h09'50''
+- :triangular_flag_on_post: :fr: FFA :   130. (109M - 24M2) :watch:	3h09'50''
 
 #### Eco-Trail de Carros
 
@@ -373,7 +377,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Trail, 8 km, 516 m D+, :watch: 01:06:26
 
-- :triangular_flag_on_post: :fr: FFA : 96. (80M - 14M2)	1h06'24''
+- :triangular_flag_on_post: :fr: FFA : 96. (80M - 14M2) :watch:	1h06'24''
 
 #### Calvaire Antibois Connecté
 
@@ -389,7 +393,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Trail, 20 km, 870 m D+, :watch: 02:34:52
 
-- :triangular_flag_on_post: :fr: FFA : 86. (79M - 13M2)	2h34'51''
+- :triangular_flag_on_post: :fr: FFA : 86. (79M - 13M2) :watch:	2h34'51''
 
 ####  UTCAM MERCANTOUR 45 km
 
@@ -397,7 +401,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Trail, 45 km, 3244 m D+, :watch: 10:33:19
 
-- :triangular_flag_on_post: :fr: 	264. (220M - 30M2)	10h33'09''
+- :triangular_flag_on_post: :fr: 	264. (220M - 30M2) :watch:	10h33'09''
 
 - :triangular_flag_on_post: :star: ITRA : 264 / 327 
    - iTRA SCORE : 400 
@@ -405,7 +409,47 @@ Lycée La Borde Basse. Mention Passable.
    - Mountain Points : 10
    - Finisher Level : 360
 
+#### Urban Trail de Cannes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2020/01/urban-trail-de-cannes-edition-2020/)
+
+- :runner: Trail, 26 km ,  689 m D+, :watch: 03:01:13
+
+- :triangular_flag_on_post: :fr:  492. (408M - 79M2) :watch:	3h01'18'' (3h01'18'')
+
+#### PROM Classic
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2020/01/prom-classic-edition-2020/)
+
+- :runner: Course
+
+- :triangular_flag_on_post: :fr: 3021. (2515M - 349M2) :watch: 	57'24'' (51'01'')
+
+### 2019
+
+#### Trail de la Turbie : Pèlerinage de Laghet – 20 km
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/12/trail-de-la-turbie-pelerinage-de-laghet-20-km-edition-2019/)
+
+- :runner: Trail, 20 km, 1059 m D+, :watch: 03:06:45
+
+#### Marathon des Alpes-Maritimes 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/11/marathon-des-alpes-maritimes-edition-2019/)
+
+- :runner: Course, 21 km, 
+
+- :triangular_flag_on_post: :fr: 1573. (1288M - 419V1) :watch:	2h00'15'' (1h57'00'')
+
 ## Linux 
+
+### Association
+
+#### [APRIL](https://www.april.org/)
+
+#### [La Quadrature du Net](https://www.laquadrature.net/)
+
+- [Association : La Quadrature Du Net](https://www.cyber-neurones.org/2019/12/association-la-quadrature-du-net/)
 
 ### Ubuntu
 
@@ -423,13 +467,23 @@ Lycée La Borde Basse. Mention Passable.
 
 - [Internet Explorer sous Ubuntu 18.04 , c’est possible ? (en mode virtualbox et non libvrt)](https://www.cyber-neurones.org/2020/04/internet-explorer-sous-ubuntu-18-04-cest-possible-en-mode-virtualbox-et-non-libvrt/)
 
+- [Installation Citrix Workspace sous Ubuntu 18](https://www.cyber-neurones.org/2020/04/installation-citrix-workspace-sous-ubuntu-18/)
 
+- [Ubuntu 18 : Installation d’un client NextCloud avec Flatpak](https://www.cyber-neurones.org/2020/03/ubuntu-18-installation-dun-client-nextcloud-avec-flatpak/)
+
+- [Digikam : sqlite3 lecture des tables afin de supprimer les images similaires](https://www.cyber-neurones.org/2020/01/digikam-sqlite3-lecture-des-tables-afin-de-supprimer-les-images-similaires/)
+
+- [Ubuntu : Compression et dimenssion des photos](https://www.cyber-neurones.org/2020/01/ubuntu-compression-et-dimenssion-des-photos/)
+
+- [Changer la date de modification et de création de photo avec exiftool](https://www.cyber-neurones.org/2020/01/changer-la-date-de-modification-et-de-creation-de-photo-avec-exiftool/)
 
 ### Debian
 
 - [Débian : failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory](https://www.cyber-neurones.org/2020/12/debian-failed-to-load-module-mdraid-libbd_mdraid-so-2-cannot-open-shared-object-file-no-such-file-or-directory/)
 
 - [Comment ajouter un disque externe vierge à un serveur Débian ?](https://www.cyber-neurones.org/2020/11/comment-ajouter-un-disque-externe-vierge-a-un-serveur-debian/)
+
+- [GNUPLOT : Pour l’analyse de mon script de débit](https://www.cyber-neurones.org/2019/10/gnuplot-pour-lanalyse-de-mon-script-de-debit/)
 
 ### Installation serveur
 
@@ -535,6 +589,8 @@ Installation sur serveur DELL.
 - [Analyse via Grafana du compte Twitter @CYBERNEURONES](https://www.cyber-neurones.org/2021/01/analyse-via-grafana-du-compte-twitter-cyberneurones/)
 
 - [ENEDIS : Migration des données pour une utilisation dans Mariadb / Grafana (fait en Python)](https://www.cyber-neurones.org/2020/04/enedis-migration-des-donnees-pour-une-utilisation-dans-mariadb-grafana-fait-en-python/)
+
+- [Thunderbird mbox to Influxdb and Postgresql to Grafana in Python](https://www.cyber-neurones.org/2020/03/thunderbird-mbox-to-influxdb-and-postgresql-to-grafana-in-python/)
 
 ## Randonnées 
 
@@ -644,7 +700,9 @@ Installation sur serveur DELL.
 
 - [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Détection des cyclistes et des casques](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-detection-des-cyclistes-et-des-casques/)
 
-- 
+- [MacOS : Python : Suppression des doublons d’emails avec l’API Python Elasticsearch/Kibana (Version V3)](https://www.cyber-neurones.org/2019/11/macos-python-suppression-des-doublons-demails-avec-lapi-python-elasticsearch-kibana-version-v3/)
+
+- [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/)
 
 ## Vélo 
 
@@ -656,7 +714,7 @@ Installation sur serveur DELL.
 
 - [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/)
 
-
+- [Tous à vélo : Biot – Antibes – Cannes . ( Edition 2019 ) #TousàVélo](https://www.cyber-neurones.org/2019/11/tous-a-velo-biot-antibes-cannes-edition-2019-tousavelo/)
 
 ### Parcours
 
@@ -758,6 +816,8 @@ Mes logiciels préférés
 
 Meilleur bloc note.
 
+- [JOPLIN : Script to rename tacitpart file](https://www.cyber-neurones.org/2019/11/joplin-script-to-rename-tacitpart-file/)
+
 ## [RubiTrack sous MacOS](https://www.rubitrack.com/fr/)
 
 Meilleur logiciel de suivi de sport, même si l'export n'est pas très propre.
@@ -777,4 +837,6 @@ Meilleure alternative à WhatsApp.
 Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour faire des dev sous Ubuntu. C'est un très bon rapport qualité/prix.
 
 - [TUXEDO InfinityBook Pro 14 v5 : Suppression de la batterie](https://www.cyber-neurones.org/2021/08/tuxedo-infinitybook-pro-14-v5-suppression-de-la-batterie/)
+
+- [TUXEDO Computers GmbH : TUXEDO InfinityBook Pro 14 v5](https://www.cyber-neurones.org/2020/01/tuxedo-computers-gmbh-tuxedo-infinitybook-pro-14-v5/) : Toujours en vie, donc il a plus de 3 ans. 
 
