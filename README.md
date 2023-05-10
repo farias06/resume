@@ -378,9 +378,29 @@ Lycée La Borde Basse. Mention Passable.
 
 - :runner: Course, 10 km,  201 m D+, :watch:  00:53:20
 
-
-
 ### 2020 
+
+#### EcoTrail de Montauroux 19 km
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2020/09/ecotrail-de-montauroux-19-km-edition-2020/)
+
+- :runner: Trail, 20 km, 870 m D+, :watch: 02:34:52
+
+- :triangular_flag_on_post: :fr: FFA : 86. (79M - 13M2)	2h34'51''
+
+#### 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2020/09/trail-utcam-trail-cote-dazur-mercantour-version-45-km-edition-2020/)
+
+- :runner: Trail, 45 km, 3244 m D+, :watch: 10:33:19
+
+- :triangular_flag_on_post: :fr: 	264. (220M - 30M2)	10h33'09''
+
+- :triangular_flag_on_post: :star: ITRA : 264 / 327 
+   - iTRA SCORE : 400 
+   - iTRA POINT : 3
+   - Mountain Points : 10
+   - Finisher Level : 360
 
 ## Linux 
 
@@ -430,6 +450,8 @@ C'est la meilleure alternative pour la synchronisation des fichiers sur le LAN s
 
 - [NEXTCLOUD : Error : SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock](https://www.cyber-neurones.org/2020/11/nextcloud-error-sqlstate40001-serialization-failure-1213-deadlock-found-when-trying-to-get-lock/)
 
+- [NextCloud : Ajouter un certificat SSL sur Apache.](https://www.cyber-neurones.org/2020/11/nextcloud-ajouter-un-certificat-ssl-sur-apache/)
+
 
 
 #### [Wordpress](https://wordpress.com/fr/)
@@ -450,6 +472,7 @@ J'ai aussi mis le plugin Matomo afin de supprimer Google Analytics.
 
 - [WordPress : Modification de la configuration : Passage de HTTP en HTTPS](https://www.cyber-neurones.org/2021/07/modification-de-la-configuration-passage-de-http-en-https/)
 
+- [WordPress : WP-Optimize option cache : Des résultats visibles !](https://www.cyber-neurones.org/2020/11/wordpress-wp-optimize-option-cache-des-resultats-visibles/)
 
 
 #### [Drupal](https://www.drupal.fr/)
@@ -464,7 +487,7 @@ Installation / Administration (sous Debian).
 
 Installation / Administration (sous Debian)
 
-C'est la meilleure alternative à Facebook pour des groupes à taille humaine.
+C'est la meilleure alternative à Facebook pour des groupes à taille humaine. En cours d'utilisation depuis le 11/2020. 
 
 Competences : Apache / Humhub / Debian / Firewall . 
 
@@ -475,6 +498,8 @@ Competences : Apache / Humhub / Debian / Firewall .
 - [Humhub : runtime/searchdb/segments… is not readable.](https://www.cyber-neurones.org/2020/12/humhub-runtime-searchdb-segments-is-not-readable/)
 
 - [Humhub : Administration à faire](https://www.cyber-neurones.org/2020/11/humhub-administration-a-faire/)
+
+- [Installation de humhub version 1.6.3 sur Debian](https://www.cyber-neurones.org/2020/11/installation-de-humhub-version-1-6-3-sur-debian/)
 
 #### [Home Assitant](https://www.home-assistant.io/) 
 
@@ -542,6 +567,10 @@ Installation sur serveur DELL.
 
 - [Courmes : Randonnée sur le plateau de Saint-Barnabé.](https://www.cyber-neurones.org/2021/01/courmes-randonnee-sur-le-plateau-de-saint-barnabe/)
 
+- [Randonnée 2 jours : Vallée des merveilles .](https://www.cyber-neurones.org/2020/09/randonnee-2-jours-vallee-des-merveilles/)
+
+- [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/)
+
 #### Savoie
 
 - [Valloire : Randonnée Le Verneys vers Le Crey Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-verneys-vers-le-crey-rond/)
@@ -573,6 +602,22 @@ Installation sur serveur DELL.
 - [Issue : NVIDIA GeForce RTX 3060 Laptop GPU with CUDA capability sm_86 is not compatible with the current PyTorch installation.](https://www.cyber-neurones.org/2022/03/issue-nvidia-geforce-rtx-3060-laptop-gpu-with-cuda-capability-sm_86-is-not-compatible-with-the-current-pytorch-installation/)
 
 - [Python : Creation de PNG à base de CSV, avec des EXIF de localisation](https://www.cyber-neurones.org/2021/02/python-creation-de-png-a-base-de-csv-avec-des-exif-de-localisation/)
+
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes avec yolo model et floutage des visages](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-avec-yolo-model-et-floutage-des-visages/)
+
+- [Python facetool : Modification d’un visage par une image dans un MP4.](https://www.cyber-neurones.org/2020/10/python-facetool-modification-dun-visage-par-une-image-dans-un-mp4/)
+
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes avec yolo model](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-avec-yolo-model/)
+
+- [Ubuntu : Merge de 4 MP4 en screen split avec Kdenlive](https://www.cyber-neurones.org/2020/10/ubuntu-merge-de-4-mp4-en-screen-split-avec-kdenlive/)
+
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-2/)
+
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes/)
+
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Détection des cyclistes et des casques](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-detection-des-cyclistes-et-des-casques/)
+
+- 
 
 ## Vélo 
 
@@ -620,6 +665,8 @@ Installation sur serveur DELL.
 
 - [Boucle au départ de la place de Biot, puis Saint-Philippe et le pont des Tamarins](https://www.cyber-neurones.org/2021/04/gravel-a-biot-boucle-au-depart-de-la-place-de-biot-puis-saint-philippe-et-le-pont-des-tamarins/)
 
+- [Vélo : Nice ( Vieux port ) vers Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/)
+
 ##### Hautes-Alpes
 
 - [Col du Galibier au départ de Le Verneys](https://www.cyber-neurones.org/2022/08/col-du-galibier-au-depart-de-le-verneys/)
@@ -659,6 +706,8 @@ Installation sur serveur DELL.
 - [Boucle dans l’Estérel autour du pic de l’Ours au départ de Théoule-sur-mer](https://www.cyber-neurones.org/2022/10/vtt-boucle-dans-lesterel-autour-du-pic-de-lours-au-depart-de-theoule-sur-mer/)
 
 - [VTT : De Biot vers les ruines du château de Roquefort](https://www.cyber-neurones.org/2021/03/vtt-de-biot-vers-les-ruines-du-chateau-de-roquefort/)
+
+- [VTT à Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
 
 ## Padel
 
