@@ -6,6 +6,7 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 # Lien externe 
 
 - [Mon blog](www.cyber-neurones.org)
+   - Actuellement mon blog est sur Wordpress, j'utilise mon bloc comme "Bloc Note Public" sachant que mon "Bloc Note Privé" c'est [Joplin](https://joplinapp.org/). L'idée est donc d'avoir le même format pour les post à savoir [Markdown](https://fr.wikipedia.org/wiki/Markdown) . Le mieux est donc de migrer vers [Hugo](https://gohugo.io/) . J'ai vu qu'il existait [des softs pour la migration](https://gohugo.io/tools/migrations/#wordpress) . La seule fonctionnalité que je ne veux pas perdre c'est de pouvoir visualiser les GPX de facons dynamique.   
 
 - [Linkedin](http://fr.linkedin.com/in/ariasfrederic)
 
@@ -277,6 +278,18 @@ Lycée La Borde Basse. Mention Passable.
 
 ### 2021 
 
+#### Trail de l'Ours à Levens
+
+:link: [Wordpress](https://www.cyber-neurones.org/2021/11/trail-de-lours-a-levens/)
+
+:runner: Trail, 30 km, 2062 m D+, :watch: 05:39:34
+
+#### Grasse Running Days 2021 : Trail de 24 km
+
+:link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
+
+:runner: Trail, 24 km, 1181 m D+, :watch: 03:15:33
+
 ### 2020 
 
 ## Linux 
@@ -338,11 +351,13 @@ Installation / Administration (sous Debian).
 
 Installation sur serveur DELL.
 
-#### [IPTable]
+#### [IPTable](https://doc.ubuntu-fr.org/iptables)
 
-[Mon IPTable](https://www.cyber-neurones.org/2023/01/mon-ip-table-liste-de-toutes-les-ip-bloquees/)
+- [Mon IPTable](https://www.cyber-neurones.org/2023/01/mon-ip-table-liste-de-toutes-les-ip-bloquees/)
 
-### POC en Python 
+#### [Grafana](https://grafana.com/)
+
+- [Analyse de mon compte Twitter avec Grafana](https://www.cyber-neurones.org/2021/12/analyse-de-mon-compte-twitter-avec-grafana/)
 
 ## Randonnées 
 
@@ -350,7 +365,7 @@ Installation sur serveur DELL.
 
 #### Alpes-Maritimes
 
-- [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia]([https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
+- [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
 
 - [Boucle des chasseurs entre Biot et Villeneuve-Loubet](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
 
@@ -443,6 +458,18 @@ Installation sur serveur DELL.
 - [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/)
 
 - [Boucle dans l’Estérel autour du pic de l’Ours au départ de Théoule-sur-mer](https://www.cyber-neurones.org/2022/10/vtt-boucle-dans-lesterel-autour-du-pic-de-lours-au-depart-de-theoule-sur-mer/)
+
+## Padel
+
+## Ski 
+
+## Ski de randonnée
+
+- [Ski de randonnée à Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
+
+## Musique : Saxophone .
+
+## Rugby
 
 # Logiciels 
 
