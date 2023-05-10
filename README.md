@@ -32,14 +32,17 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 - Oracle Linux 8.7 / Oracle Linux 7.9 / Oracle Linux 9.1 .
 
-- Ubuntu .
+- Ubuntu 
 
-- Kali .
+- Kali 
 
-- Docker .
+- Docker 
    - Oracle Linux.
    - RancherOS.
    - Alpine.
+
+- Yocto
+   - Linphone
 
 #### Software 
 
@@ -388,7 +391,7 @@ Lycée La Borde Basse. Mention Passable.
 
 - :triangular_flag_on_post: :fr: FFA : 86. (79M - 13M2)	2h34'51''
 
-#### 
+####  UTCAM MERCANTOUR 45 km
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/trail-utcam-trail-cote-dazur-mercantour-version-45-km-edition-2020/)
 
@@ -413,6 +416,14 @@ Lycée La Borde Basse. Mention Passable.
 - [TUXEDO InfinityBook Pro 14 v5 : Migration de Ubuntu 18.04 vers Ubuntu 20.04](https://www.cyber-neurones.org/2021/01/tuxedo-infinitybook-pro-14-v5-migration-de-ubuntu-18-04-vers-ubuntu-20-04/)
 
 - [Ubuntu : Crash de update-manager](https://www.cyber-neurones.org/2021/01/ubuntu-crash-de-update-manager/)
+
+- [Ubuntu 18 : Slack vs Teams ( CPU et Memory )](https://www.cyber-neurones.org/2020/05/ubuntu-18-slack-vs-teams-cpu-et-memory/)
+
+- [Installation de Darling sous Ubuntu afin de lancer des logiciels MacOS](https://www.cyber-neurones.org/2020/04/installation-de-darling-sous-ubuntu-afin-de-lancer-des-logiciels-macos-echec/)
+
+- [Internet Explorer sous Ubuntu 18.04 , c’est possible ? (en mode virtualbox et non libvrt)](https://www.cyber-neurones.org/2020/04/internet-explorer-sous-ubuntu-18-04-cest-possible-en-mode-virtualbox-et-non-libvrt/)
+
+
 
 ### Debian
 
@@ -523,6 +534,8 @@ Installation sur serveur DELL.
 
 - [Analyse via Grafana du compte Twitter @CYBERNEURONES](https://www.cyber-neurones.org/2021/01/analyse-via-grafana-du-compte-twitter-cyberneurones/)
 
+- [ENEDIS : Migration des données pour une utilisation dans Mariadb / Grafana (fait en Python)](https://www.cyber-neurones.org/2020/04/enedis-migration-des-donnees-pour-une-utilisation-dans-mariadb-grafana-fait-en-python/)
+
 ## Randonnées 
 
 ### France
@@ -569,7 +582,21 @@ Installation sur serveur DELL.
 
 - [Randonnée 2 jours : Vallée des merveilles .](https://www.cyber-neurones.org/2020/09/randonnee-2-jours-vallee-des-merveilles/)
 
+- [Randonnée : Départ de Duranus vers Mine de l’Eguisse , la Chapelle Saint-Michel et les ruines de Rocca Sparvièra.](https://www.cyber-neurones.org/2020/06/randonnees-depart-de-duranus-vers-mine-de-leguisse-la-chapelle-saint-michel-et-les-ruines-de-rocca-sparviera/)
+
+- [Randonnée : Gréolières-les-neiges vers Vegay](https://www.cyber-neurones.org/2020/06/randonnee-greoliere-les-neiges-vers-vegay/)
+
+- [Randonnée : La crête du Cheiron au départ de Gréolières-les-neiges ( Gréolières station )](https://www.cyber-neurones.org/2020/06/randonnee-la-crete-du-cheiron-au-depart-de-greoliere-station/)
+
+- [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/)
+
+- 
+
+##### Pyrénées-Orientales
+
 - [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/)
+
+- [Randonnée : Bivouac 2 jours : Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/)
 
 #### Savoie
 
