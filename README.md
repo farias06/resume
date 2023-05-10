@@ -176,6 +176,14 @@ Lycée La Borde Basse. Mention Passable.
 
 ## Compétitions
 
+- [Strava](https://www.strava.com/athletes/12487918) : Profil privé.
+
+- [ITRA](https://itra.run/RunnerSpace/ARIAS.Frederic/1260843) : Profil public.
+
+- [J'aime courrir](https://www.jaimecourir.fr/) : Profil privé.
+
+-  
+
 ### 2023
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
@@ -190,6 +198,8 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Course, 21 km, 90m D+, 01:51:30.
 
+:triangular_flag_on_post: FFA : 1390. (1149M - 133M2)	1h51'28''
+
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
 :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
@@ -202,11 +212,15 @@ Lycée La Borde Basse. Mention Passable.
 
 :runner: Trail, 46 km, 2690m D+, 07:31:53.
 
+:triangular_flag_on_post: FFA : 746. (658M - 118M2)	7h31'40''
+
 #### Balcon de la Roya 
 
 :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-balcon-de-la-roya-edition-2023/)
 
 :runner: Trail, 16 km, 1057m D+, 02:16:15
+
+:triangular_flag_on_post: FFA :  52. (49M - 7M2)	2h16'23''
 
 #### Trаіl dеs Сrêtеs de Gréolières-les-neiges 
 
@@ -219,6 +233,8 @@ Lycée La Borde Basse. Mention Passable.
 :link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
 
 :runner: Trail, 26 km, 686 m D+, 02:42:48
+
+:triangular_flag_on_post: FFA : 154. (135M - 18M2)	2h42'50''
 
 ### 2022
 
