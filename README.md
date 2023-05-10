@@ -150,6 +150,42 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en Finlande (Helsinki) , en Norvège (Olso) , en Suède (Linkoping, Malmo) , au Portugal (Lisbonne),  en France (Paris, Aix-en-Provence, Strasbourg, Dieppe, Besancon, Lyon, Nantes, Blois, Signes, Toulouse, Hossegor, Bry-sur-Marne)  , en Grande-Bretagne (Manchester) , en Italie (Come, Florence, Milan), en Russie (Moscou), en Allemagne (Meshede) , en Suisse (Genève) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
 
+### Connaissance OS:
+
+Systèmes Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
+
+Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
+
+- Redhat 5.2 ( la date de release est : 2 novembre 1998 ) : A l’université de Toulouse.
+- SuSE & Mandrake : Au Centre Océanographique de Marseille.
+- Debian ? & NetBSD : Chez Cyber-workers / Alias .
+- Redhat ? : Chez Rightvision / Altior .
+- Redhat 7.2 ( date release : 22 octobre 2001 ) & Unix SCO version 5 : Chez Honeywell / SeCOM
+- Redhat 8.0 ( date release : 30 septembre 2002 )  : Chez Honeywell / SeCOM
+- Redhat 9.0 ( date release : 31 septembre 2003 )  : Chez Honeywell / SeCOM
+- Fédora 9.0 ( date release : 13 mai 2008 ) : Chez Honeywell / SeCOM
+- Fédora 14.0 ( date release : 2 novembre 2010 )  : Chez Honeywell / SeCOM
+- Fédora 17.0 ( date release : 29 mai 2012 ) : Chez Honeywell / SeCOM
+- Oracle 7.0  ( date release : 23 juillet 2014 ) : Chez Honeywell / SeCOM
+- Oracle 7.2 ( date release : 25 novembre 2015 ) : Chez Honeywell / SeCOM
+- Oracle 7.3 ( date release : 10 novembre 2016 ) : Chez Honeywell / SeCOM
+- Oracle 7.4 ( date release : 8 aout 2017 ) : Chez Honeywell / SeCOM
+- Oracle 7.5 ( date release : 17 avril 2018 ) & Fédora 26 ( date release : 11 juillet 2017 ) sous Docker 17 ( RancherOS : https://rancher.com/rancher-os/ ): Chez Honeywell / SeCOM
+- Ubuntu 16.04 ( date release : 21 avril 2016 ) & YOCTO :  Chez Resideo / SeCOM .
+- Ubuntu 18.04 ( date release : 26 avril 2018 ) & YOCTO :  Chez Resideo / SeCOM .
+- Oracle 7.6 ( date release : 2019-08-15 ) : Chez Resideo / SeCOM .
+- Oracle 8.2 ( date release : 2020-05-06 ) : Chez Resideo / SeCOM .
+- Oracle 8.3 ( date release : 2020-11-13 ) : Chez Resideo / SeCOM .
+- Ubuntu 20.04 ( date release : 23 avril 2020 ) & Docker :  Chez Resideo / SeCOM .
+- Debian 11 : Chez Resideo / SeCOM .
+- Oracle Linux 7.9 :  Chez Resideo / SeCOM .
+- Oralce Linux 8.7 : Chez Resideo / SeCOM .
+- [Oracle Linux 9.1](https://docs.oracle.com/en/operating-systems/oracle-linux/9/relnotes9.1/) : Chez Resideo / SeCOM .
+- Kali : Chez Resideo / SeCOM .
+- [Alpine](https://www.alpinelinux.org/releases/) : Chez Resideo / SeCOM .
+- Ubuntu 22.04 ( date release : April 21, 2022 ) : Chez Resideo / SeCOM .
+
+
 # Formations 
 
 ## Initiales
@@ -484,6 +520,8 @@ Lycée La Borde Basse. Mention Passable.
 - [Comment ajouter un disque externe vierge à un serveur Débian ?](https://www.cyber-neurones.org/2020/11/comment-ajouter-un-disque-externe-vierge-a-un-serveur-debian/)
 
 - [GNUPLOT : Pour l’analyse de mon script de débit](https://www.cyber-neurones.org/2019/10/gnuplot-pour-lanalyse-de-mon-script-de-debit/)
+
+### [RASPBIAN](https://raspbian.org)
 
 ### Installation serveur
 
