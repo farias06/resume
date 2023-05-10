@@ -103,6 +103,24 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 ### 2021 (RESIDEO)
 
+#### OS :
+
+- Oracle Linux 8.x / Oracle Linux 7.x 
+
+- Ubuntu .
+
+#### Software 
+
+- [PostgreSQL](https://www.postgresql.org/) / [Redis](https://redis.io/) / NGINX / Mosquitto / MySQL / RabbitMQ / Jenkins / Supervisord / Prometheus / Grafana.
+
+#### Tools 
+
+- Teams / Slack / JIRA / Github / SVN /
+
+#### Notes 
+
+- [Oracle Linux 8.2 : Installation de redis.so pour PHP 7.2](https://www.cyber-neurones.org/2021/02/oracle-linux-8-2-installation-de-redis-so-pour-php-7-2/)
+
 ### 2020
 
 ### 2019
@@ -188,159 +206,207 @@ Lycée La Borde Basse. Mention Passable.
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
-:bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47.
+- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47.
 
 #### Semi-marathon de Nice 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
 
-:runner: Course, 21 km, 90m D+, 01:51:30.
+- :runner: Course, 21 km, 90m D+, 01:51:30.
 
-:triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2)	1h51'28''
+- :triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2)	1h51'28''
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
 
-:runner: Trail, 13 km, 670m D+, 01:38:34.
+- :runner: Trail, 13 km, 670m D+, 01:38:34.
 
 #### Trail du Ventoux : Origine 46 km 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-du-ventoux-origine-46-km-edition-2023/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-du-ventoux-origine-46-km-edition-2023/)
 
-:runner: Trail, 46 km, 2690m D+, 07:31:53.
+- :runner: Trail, 46 km, 2690m D+, 07:31:53.
 
-:triangular_flag_on_post: :fr: FFA : 746. (658M - 118M2)	7h31'40''
+- :triangular_flag_on_post: :fr: FFA : 746. (658M - 118M2)	7h31'40''
+
+- :triangular_flag_on_post: :star: ITRA : Ranking 746 / 1074  iTRA Score : 449 
 
 #### Balcon de la Roya 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-balcon-de-la-roya-edition-2023/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-balcon-de-la-roya-edition-2023/)
 
-:runner: Trail, 16 km, 1057m D+, 02:16:15
+- :runner: Trail, 16 km, 1057m D+, 02:16:15
 
-:triangular_flag_on_post: :fr: FFA :  52. (49M - 7M2)	2h16'23''
+- :triangular_flag_on_post: :fr: FFA :  52. (49M - 7M2)	2h16'23''
 
 #### Trаіl dеs Сrêtеs de Gréolières-les-neiges 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/02/tr%d0%b0%d1%96l-d%d0%b5s-%d1%81ret%d0%b5s-de-greolieres-les-neiges-edition-2023/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/02/tr%d0%b0%d1%96l-d%d0%b5s-%d1%81ret%d0%b5s-de-greolieres-les-neiges-edition-2023/)
 
-:runner: Trail, 11 km, 600m D+, 01:38:37
+- :runner: Trail, 11 km, 600m D+, 01:38:37
 
 #### Urban Trail de Cannes : Version 26 km 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
 
-:runner: Trail, 26 km, 686 m D+, 02:42:48
+- :runner: Trail, 26 km, 686 m D+, 02:42:48
 
-:triangular_flag_on_post: :fr: FFA : 154. (135M - 18M2)	2h42'50''
+- :triangular_flag_on_post: :fr: FFA : 154. (135M - 18M2)	2h42'50''
 
 ### 2022
 
 #### Cross Amnesty de Valbonne 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/12/cross-amnesty-de-valbonne-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/12/cross-amnesty-de-valbonne-edition-2022/)
 
-:runner: Cross, 11 km, 296 m D+, 00:59:30
+- :runner: Cross, 11 km, 296 m D+, 00:59:30
 
-:triangular_flag_on_post: :fr: FFA : 51. (46M - 13M2)	59'31''
+- :triangular_flag_on_post: :fr: FFA : 51. (46M - 13M2)	59'31''
 
 #### Courir pour une fleur à Antibes 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/10/courir-pour-une-fleur-a-antibes-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/10/courir-pour-une-fleur-a-antibes-edition-2022/)
 
-:runner: Course, 10 km, 109 m D+, 00:48:27
+- :runner: Course, 10 km, 109 m D+, 00:48:27
 
-:triangular_flag_on_post: :fr: FFA : 312. (267M - 38M2)	48'55'' (48'19'')
+- :triangular_flag_on_post: :fr: FFA : 312. (267M - 38M2)	48'55'' (48'19'')
 
 ####  Trail Per Cami : Parcours découverte de 13 km
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
 
-:runner: Tail, 13 km, 1043 m D+, 02:19:12
+- :runner: Tail, 13 km, 1043 m D+, 02:19:12
 
-:triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2)	2h19'13''
+- :triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2)	2h19'13''
 
 #### Trail Mounte Cala à Gréolières-les-Neiges
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
 
-:runner: Trail, 12 km, 1072 m D+, 02:54:56
+- :runner: Trail, 12 km, 1072 m D+, 02:54:56
 
 #### Traversée des Dentelles de Montmirail
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/06/trail-traversee-des-dentelles-de-montmirail-ou-marathon-de-gigondas-ou-marathon-des-dentelles-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/06/trail-traversee-des-dentelles-de-montmirail-ou-marathon-de-gigondas-ou-marathon-des-dentelles-edition-2022/)
 
-:runner: Trail, 42 km, 2168 m D+, 07:30:11
+- :runner: Trail, 42 km, 2168 m D+, 07:30:11
 
-:triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2)	7h30'24''
+- :triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2)	7h30'24''
 
 #### Trail de Rimplas
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
 
-:runner: Trail, 20 km, 1669 m D+, 04:18:29
+- :runner: Trail, 20 km, 1669 m D+, 04:18:29
 
-:triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2)	4h18'28''
+- :triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2)	4h18'28''
 
 #### Trail de Biot
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
-:runner: Trail, 16 km, 398 m D+, 01:41:21
+- :runner: Trail, 16 km, 398 m D+, 01:41:21
 
 #### Calvaire d’Antibes
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/04/calvaire-dantibes-edition-2022/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/04/calvaire-dantibes-edition-2022/)
 
-:runner: Course, 10 km, 205 m D+, 00:53:19
+- :runner: Course, 10 km, 205 m D+, 00:53:19
 
-:triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2) 53'21''
+- :triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2) 53'21''
 
 #### Trail des merveilles à Breil-sur-roya
 
-:link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
 
-:runner: Trail, 33 km, 2068 m D+, 05:29:01
+- :runner: Trail, 33 km, 2068 m D+, 05:29:01
 
-:triangular_flag_on_post: :fr: FFA : 	96. (87M - 15M2)	5h29'16''
+- :triangular_flag_on_post: :fr: FFA : 	96. (87M - 15M2)	5h29'16''
 
 ### 2021 
 
+#### Cross Amnesty
+
+- :triangular_flag_on_post: :fr: FFA : 116. (89M - 15M2)	1h15'53''
+
 #### Trail de l'Ours à Levens
 
-:link: [Wordpress](https://www.cyber-neurones.org/2021/11/trail-de-lours-a-levens/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2021/11/trail-de-lours-a-levens/)
 
-:runner: Trail, 30 km, 2062 m D+, :watch: 05:39:34
+- :runner: Trail, 30 km, 2062 m D+, :watch: 05:39:34
+
+- :triangular_flag_on_post: :fr: FFA : 146. (131M - 14M2)	5h39'42'' (5h39'31'')
 
 #### Grasse Running Days 2021 : Trail de 24 km
 
-:link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
 
-:runner: Trail, 24 km, 1181 m D+, :watch: 03:15:33
+- :runner: Trail, 24 km, 1181 m D+, :watch: 03:15:33
+
+- :triangular_flag_on_post: :fr: FFA : 117. (110M - 22M2)	3h15'55''
 
 #### Semi-marathon de Nice
 
-:link: [Wordpress](https://www.cyber-neurones.org/2021/09/semi-marathon-de-nice-edition-2021/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2021/09/semi-marathon-de-nice-edition-2021/)
 
-:runner: Course, 21 km, 166 m D+, :watch: 01:50:13
+- :runner: Course, 21 km, 166 m D+, :watch: 01:50:13
+
+- :triangular_flag_on_post: :fr: FFA :  	519. (460M - 66M2)	1h51'55'' (1h50'13'')
 
 #### Urban Trail de Cannes 
 
-:link: [Wordpress](https://www.cyber-neurones.org/2021/09/urban-trail-de-cannes-edition-2021/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2021/09/urban-trail-de-cannes-edition-2021/)
 
-:runner: Trail, 27 km, 758 m D+,  :watch: 03:09:51
+- :runner: Trail, 27 km, 758 m D+,  :watch: 03:09:51
+
+- :triangular_flag_on_post: :fr: FFA :   130. (109M - 24M2)	3h09'50''
+
+#### Eco-Trail de Carros
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2021/06/eco-trail-de-carros-une-bonne-reprise/)
+
+- :runner: Trail, 8 km, 516 m D+, :watch: 01:06:26
+
+- :triangular_flag_on_post: :fr: FFA : 96. (80M - 14M2)	1h06'24''
+
+#### Calvaire Antibois Connecté
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2021/04/calvaire-antibois-connecte-2021/)
+
+- :runner: Course, 10 km,  201 m D+, :watch:  00:53:20
+
+
 
 ### 2020 
 
 ## Linux 
+
+### Ubuntu
+
+- [Ubuntu : Pour la recherche de photos en double findimagedupes](https://www.cyber-neurones.org/2021/03/ubuntu-pour-la-recherche-de-photos-en-double-findimagedupes/)
+
+- [Ubuntu 20.04 & VirtualBox 6.1 : Creation d’une VM MacOS Catalina](https://www.cyber-neurones.org/2021/01/ubuntu-20-04-virtualbox-6-1-creation-dune-vm-macos/) : Un des projets très interessant mais que je n'ai pas réussi. Faire tourner MacOS dans une VM ....
+
+- [TUXEDO InfinityBook Pro 14 v5 : Migration de Ubuntu 18.04 vers Ubuntu 20.04](https://www.cyber-neurones.org/2021/01/tuxedo-infinitybook-pro-14-v5-migration-de-ubuntu-18-04-vers-ubuntu-20-04/)
+
+- [Ubuntu : Crash de update-manager](https://www.cyber-neurones.org/2021/01/ubuntu-crash-de-update-manager/)
+
+### Debian
+
+- [Débian : failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory](https://www.cyber-neurones.org/2020/12/debian-failed-to-load-module-mdraid-libbd_mdraid-so-2-cannot-open-shared-object-file-no-such-file-or-directory/)
+
+- [Comment ajouter un disque externe vierge à un serveur Débian ?](https://www.cyber-neurones.org/2020/11/comment-ajouter-un-disque-externe-vierge-a-un-serveur-debian/)
 
 ### Installation serveur
 
 #### NextCloud 
 
 Installation / Administration (sous Ubuntu).
+
+C'est la meilleure alternative pour la synchronisation des fichiers sur le LAN sur different OS ( Linux / Windows / MacOS). Je ne suis pas un pour mettre NextCloud visible sur internet. Nextcloud est mon outil de sauvegarde à local.
 
 - [No space left on device in /usr/share/nginx/nextcloud/lib/private/Log/File.php on line 89](https://www.cyber-neurones.org/2023/01/nextcloud-no-space-left-on-device-in-usr-share-nginx-nextcloud-lib-private-log-file-php-on-line-89/)
 
@@ -351,6 +417,18 @@ Installation / Administration (sous Ubuntu).
 - [NEXTCLOUD : Problème d’index](https://www.cyber-neurones.org/2022/05/nextcloud-probleme-dindex/)
 
 - [NextCloud : Erreur : « Unable to generate a URL for the named route \ »theming.Theming.getImage\ » as such route does not exist. »](https://www.cyber-neurones.org/2021/08/nextcloud-erreur-unable-to-generate-a-url-for-the-named-route-theming-theming-getimage-as-such-route-does-not-exist/)
+
+- [Nextcloud : Problème dans la rotation des fichiers nextcloud.log](https://www.cyber-neurones.org/2021/07/nextcloud-probleme-dans-la-rotation-des-fichiers-nextcloud-log/)
+
+- [NextCloud : APCu not available for local cache (Is the matching PHP module installed and enabled?)](https://www.cyber-neurones.org/2021/07/nextcloud-apcu-not-available-for-local-cache-is-the-matching-php-module-installed-and-enabled/)
+
+- [NexCloud : Mise à jours en version 20.0.10](https://www.cyber-neurones.org/2021/05/nexcloud-mise-a-jours-en-version-20-0-10/)
+
+- [NextCloud : Suppression manuelle des anciennes versions de fichier](https://www.cyber-neurones.org/2021/03/nextcloud-suppression-manuelle-des-anciennes-versions-de-fichier/)
+
+- [Nextcloud : Comment forcer le scan des photos avoir fait des modifications ( Application Maps )](https://www.cyber-neurones.org/2021/02/nextcloud-comment-forcer-le-scan-des-photos-avoir-fait-des-modifications-application-maps/)
+
+- [NEXTCLOUD : Error : SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock](https://www.cyber-neurones.org/2020/11/nextcloud-error-sqlstate40001-serialization-failure-1213-deadlock-found-when-trying-to-get-lock/)
 
 
 
@@ -386,9 +464,17 @@ Installation / Administration (sous Debian).
 
 Installation / Administration (sous Debian)
 
+C'est la meilleure alternative à Facebook pour des groupes à taille humaine.
+
 Competences : Apache / Humhub / Debian / Firewall . 
 
 - [Humhub v1.11.1 : Migration de php 7.3 vers php 7.4](https://www.cyber-neurones.org/2022/05/humhub-v1-11-1-migration-de-php-7-3-vers-php-7-4/)
+
+- [HumHub : Compression d’image](https://www.cyber-neurones.org/2021/05/humhub-compression-dimage/)
+
+- [Humhub : runtime/searchdb/segments… is not readable.](https://www.cyber-neurones.org/2020/12/humhub-runtime-searchdb-segments-is-not-readable/)
+
+- [Humhub : Administration à faire](https://www.cyber-neurones.org/2020/11/humhub-administration-a-faire/)
 
 #### [Home Assitant](https://www.home-assistant.io/) 
 
@@ -409,6 +495,8 @@ Installation sur serveur DELL.
 #### [Grafana](https://grafana.com/)
 
 - [Analyse de mon compte Twitter avec Grafana](https://www.cyber-neurones.org/2021/12/analyse-de-mon-compte-twitter-avec-grafana/)
+
+- [Analyse via Grafana du compte Twitter @CYBERNEURONES](https://www.cyber-neurones.org/2021/01/analyse-via-grafana-du-compte-twitter-cyberneurones/)
 
 ## Randonnées 
 
@@ -442,7 +530,17 @@ Installation sur serveur DELL.
 
 - [Randonnée sportive : Boucle de 22 km sur la Vallée de Merveilles](https://www.cyber-neurones.org/2021/08/randonnee-sportive-boucle-de-22-km-sur-la-vallee-de-merveilles/)
 
-- [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/)
+- [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/) :grinning:
+
+- [Randonnée : Le Pra – Refuge de Vens – Col du Fer](https://www.cyber-neurones.org/2021/07/randonnee-le-pra-refuge-de-vens-col-du-fer/)
+
+- [Trail/Marche sur Biot : Au départ du pont des Tamarins (une boucle de 10 km)](https://www.cyber-neurones.org/2021/04/trail-marche-sur-biot-au-depart-du-pont-des-tamarins-une-boucle-de-10-km/)
+
+- [Randonnée à Caussols : Boucle autour du plateau](https://www.cyber-neurones.org/2021/02/randonnee-a-caussols-boucle-autour-du-plateau/)
+
+- [Courmes : Randonnée vers le Pic de Courmettes](https://www.cyber-neurones.org/2021/01/courmes-randonnee-vers-le-pic-de-courmettes/)
+
+- [Courmes : Randonnée sur le plateau de Saint-Barnabé.](https://www.cyber-neurones.org/2021/01/courmes-randonnee-sur-le-plateau-de-saint-barnabe/)
 
 #### Savoie
 
@@ -473,6 +571,8 @@ Installation sur serveur DELL.
 - [Python/OpenCV : Détection des contours du blob](https://www.cyber-neurones.org/2022/04/python-opencv-brouillon-detection-des-contours-du-blob/)
 
 - [Issue : NVIDIA GeForce RTX 3060 Laptop GPU with CUDA capability sm_86 is not compatible with the current PyTorch installation.](https://www.cyber-neurones.org/2022/03/issue-nvidia-geforce-rtx-3060-laptop-gpu-with-cuda-capability-sm_86-is-not-compatible-with-the-current-pytorch-installation/)
+
+- [Python : Creation de PNG à base de CSV, avec des EXIF de localisation](https://www.cyber-neurones.org/2021/02/python-creation-de-png-a-base-de-csv-avec-des-exif-de-localisation/)
 
 ## Vélo 
 
@@ -506,6 +606,19 @@ Installation sur serveur DELL.
 
 - [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/)
 
+- [Vélo : Boucle Biot, Cagnes-sur-Mer, La gaude, Carros, Bouyon, Coursegoules, Pont-du-Loup, Bar-sur-Loup, Valbonne](https://www.cyber-neurones.org/2021/07/velo-boucle-biot-cagnes-sur-mer-la-gaude-carros-bouyon-coursegoules-pont-du-loup-bar-sur-loup-valbonne/)
+
+- [Vélo & Gravel : Boucle au départ de Biot, Villeneuve-Loubet, La Colle Sur Loup, Châteauneuf-Grasse, Opio, Valbonne](https://www.cyber-neurones.org/2021/05/velo-gravel-boucle-au-depart-de-biot-villeneuve-loubet-la-colle-sur-loup-chateauneuf-grasse-opio-valbonne/)
+
+- [Vélo & Gravel : Col de Vence au départ de Biot](https://www.cyber-neurones.org/2021/05/velo-gravel-col-de-vence-au-depart-de-biot/)
+
+- [Vélo Course/Gravel : Mur de Courmettes au départ de la D2210](https://www.cyber-neurones.org/2021/04/velo-course-gravel-mur-de-courmettes-au-depart-de-la-d2210/)
+
+- [Gravel/Vélo de Course : Départ de Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/)
+
+- [Départ de l’office du Tourisme vers le Phare de la Garoupe à Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/)
+
+- [Boucle au départ de la place de Biot, puis Saint-Philippe et le pont des Tamarins](https://www.cyber-neurones.org/2021/04/gravel-a-biot-boucle-au-depart-de-la-place-de-biot-puis-saint-philippe-et-le-pont-des-tamarins/)
 
 ##### Hautes-Alpes
 
@@ -526,7 +639,16 @@ Installation sur serveur DELL.
 
 - [Vélo : La Rigole de la montagne noire : La prise d’Alzeau vers les Cammazes](https://www.cyber-neurones.org/2021/08/velo-la-rigole-de-la-montagne-noire-la-prise-dalzeau-vers-les-cammazes/)
 
-- 
+- [Vélo : Biot vers Coursegoules par le Col de Vence](https://www.cyber-neurones.org/2021/06/velo-biot-vers-coursegoules-par-le-col-de-vence/)
+
+- [Vélo/Gravel : De Biot à Gourdon](https://www.cyber-neurones.org/2021/06/velo-gravel-de-biot-a-gourdon/)
+
+- [Vélo : Biot vers Courmes](https://www.cyber-neurones.org/2021/06/velo-biot-vers-courmes/) 
+
+
+##### Vaucluse
+
+- [Mont Ventoux en Gravel au départ de Bédoin](https://www.cyber-neurones.org/2021/06/mont-ventoux-en-gravel-au-depart-de-bedoin/)
 
 #### VTT
 
@@ -536,6 +658,8 @@ Installation sur serveur DELL.
 
 - [Boucle dans l’Estérel autour du pic de l’Ours au départ de Théoule-sur-mer](https://www.cyber-neurones.org/2022/10/vtt-boucle-dans-lesterel-autour-du-pic-de-lours-au-depart-de-theoule-sur-mer/)
 
+- [VTT : De Biot vers les ruines du château de Roquefort](https://www.cyber-neurones.org/2021/03/vtt-de-biot-vers-les-ruines-du-chateau-de-roquefort/)
+
 ## Padel
 
 ## Ski 
@@ -543,6 +667,8 @@ Installation sur serveur DELL.
 ## Ski de randonnée
 
 - [Ski de randonnée à Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
+
+- [Ski de randonnée à Auron : Parcours simple.](https://www.cyber-neurones.org/2021/03/ski-de-randonnee-a-auron-parcours-simple/)
 
 ## Musique : Saxophone .
 
@@ -556,15 +682,17 @@ Mes logiciels préférés
 
 Meilleur bloc note.
 
-## RubiTrack sous MacOS
+## [RubiTrack sous MacOS](https://www.rubitrack.com/fr/)
 
 Meilleur logiciel de suivi de sport, même si l'export n'est pas très propre.
 
 - [RubiTrack 6 : Installation et test … toujours pas de vrai Export !](https://www.cyber-neurones.org/2021/08/rubitrack-6-installation-et-test-toujours-pas-de-vrai-export/)
 
-## Signal
+## [Signal](https://signal.org/fr/download/)
 
 Meilleure alternative à WhatsApp.
+
+- [Fin de la migration de WhatsApp vers Signal : suppression du compte WhatsApp](https://www.cyber-neurones.org/2021/01/fin-de-la-migration-de-whatsapp-vers-signal-suppression-du-compte-whatsapp/)
 
 # Hardware
 
