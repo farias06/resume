@@ -586,6 +586,22 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 1573. (1288M - 419V1) :watch:	2h00'15'' (1h57'00'')
 
+#### Courir pour une Fleur à Antibes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/10/courir-pour-une-fleur-a-antibes-edition-2019/)
+
+- :runner: Course, 21 km, :watch: 01:57:15
+
+- :triangular_flag_on_post: :fr: 530. (467M - 199V1) :watch:	1h57'56'' (1h57'09'')
+
+#### Trail de Tourrettes-sur-Loup 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/09/trail-de-tourrettes-sur-loup-edition-2019/)
+
+- :runner: Trail, 18 km, 1052 m D+, :watch: 02:31:34
+
+- :triangular_flag_on_post: :fr: 158. (140M - 39V1) :watch:	2h31'35''
+
 ## Linux 
 
 ### Association
@@ -859,6 +875,12 @@ J'ai migrer de Raspberry vers ESX.
 
 - [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/)
 
+### BASH
+
+- [Mon script de test de débit](https://www.cyber-neurones.org/2019/10/mon-script-de-test-de-debit/)
+
+- 
+
 ## Vélo 
 
 ### Information
@@ -996,4 +1018,8 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 - [TUXEDO InfinityBook Pro 14 v5 : Suppression de la batterie](https://www.cyber-neurones.org/2021/08/tuxedo-infinitybook-pro-14-v5-suppression-de-la-batterie/)
 
 - [TUXEDO Computers GmbH : TUXEDO InfinityBook Pro 14 v5](https://www.cyber-neurones.org/2020/01/tuxedo-computers-gmbh-tuxedo-infinitybook-pro-14-v5/) : Toujours en vie, donc il a plus de 3 ans. 
+
+# Biot 
+
+- [Trail à Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
 
