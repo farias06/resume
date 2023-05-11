@@ -132,6 +132,8 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 - [Issue : Only one processor or Unsupported PM cap regs version (7).](https://www.cyber-neurones.org/2019/12/issue-only-one-processor-or-unsupported-pm-cap-regs-version-7/) : Oracle Linux 7.3
 
+- [Jenkins / LibVirt / Qemu / Fédora : Brouillon d’une tentative de mise en place …](https://www.cyber-neurones.org/2019/09/jenkins-libvirt-qemu-fedora-brouillon-dune-tentative-de-mise-en-place/)
+
 ### 2018 
 
 ### 2017
@@ -602,6 +604,22 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 158. (140M - 39V1) :watch:	2h31'35''
 
+#### UTMB CCC :sweat: Abandon au kilomètre 71 :sweat:
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/09/utmb-ccc-abandon-au-kilometre-71-des-regrets/)
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/08/utmb-ccc-contenu-de-mon-sac-a-dos/)
+
+- :runner: Trail, 73 km, 4254 m D+, :watch: 17:22:15
+
+#### Trail de UBAYE Elite
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/08/trail-de-ubaye-elite-a-barcelonnette-edition-2019/)
+
+- :runner: Trail, 41 km, 2522 m D+, :watch:  07:05:09
+
+- :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06''
+
 ## Linux 
 
 ### Association
@@ -649,6 +667,14 @@ Promouvoir et défendre le logiciel libre.
 - [GNUPLOT : Pour l’analyse de mon script de débit](https://www.cyber-neurones.org/2019/10/gnuplot-pour-lanalyse-de-mon-script-de-debit/)
 
 ### [RASPBIAN](https://raspbian.org)
+
+#### Raspberry
+
+#### Rock64
+
+- [Rock64 / Débian : Ajouter un disque dur externe](https://www.cyber-neurones.org/2019/09/rock64-debian-ajouter-un-disque-dur-externe/)
+
+- [Installation de NextCloud sur Rock64](https://www.cyber-neurones.org/2019/09/installation-de-nextcloud-sur-rock64/)
 
 ### Installation serveur
 
@@ -817,7 +843,9 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/)
 
-- 
+- [Isola 2000 : Randonnée vers les Lacs de Terre Rouge et le Col Baisse de Druos](https://www.cyber-neurones.org/2019/08/isola-2000-randonnee-vers-les-lacs-de-terre-rouge-et-le-col-baisse-de-druos/)
+
+- [Isola 2000 : Ranndonnée : Col de Mercière, Tête Mercière, Tête de la Roubine, Col de la Valette](https://www.cyber-neurones.org/2019/08/isola-2000-ranndonnee-col-de-merciere-tete-merciere-tete-de-la-roubine-col-de-la-valette/)
 
 ##### Pyrénées-Orientales
 
