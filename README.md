@@ -620,6 +620,12 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06''
 
+#### Trail de VALBERG
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-de-valberg-edition-2019/)
+
+- :runner: Trail, 29 km, 1635 m D+, :watch: 05:23:16
+
 ## Linux 
 
 ### Association
@@ -872,6 +878,36 @@ J'ai migrer de Raspberry vers ESX.
 - [Tour de Sénèque au départ de Fieno (Cap Corse)](https://www.cyber-neurones.org/2022/04/corse-tour-de-seneque-au-depart-de-fieno/)
 
 - 
+
+### Autriche
+
+#### Tyrol
+
+- [Randonnée Tyrol en Autriche : De Juns Fener-Haus vers Tote Böden](https://www.cyber-neurones.org/2019/08/randonnee-tyrol-en-autriche-de-juns-fener-haus-vers-tote-boden/)
+
+- [Randonnée Tyrol en Autriche : De Tuxer Fener-Haus vers Friesenbergscharte](https://www.cyber-neurones.org/2019/08/randonnee-tyrol-en-autriche-de-tuxer-fener-haus-vers-friesenbergscharte)
+
+- [Hintertux : Panorama Gefrorene-Wand-Spitzen en télécabine.](https://www.cyber-neurones.org/2019/08/hintertux-panorama-gefrorene-wand-spitzen-en-telecabine/)
+
+- [Randonnée Tyrol en Autriche : De Tux vers Geiselalm](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-de-tux-vers-geiselalm/)
+
+- [Randonnée Tyrol en Autriche : De Finkenberg vers Penkenjoch](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-de-finkenberg-vers-penkenjoch/)
+
+- [Randonnée Tyrol en Autriche : Cascade (ou chutes) de Krimml](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-cascade-de-krimml/)
+
+- [Randonnée Tyrol en Autriche : Karlshütte vers le barrage de Schlegeisspeicher](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-karshutte-vers-le-barrage-de-schlegeisspeicher/)
+
+- [Randonnée Tyrol en Autriche : Hintertux vers Pfannkopfl](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-pfannkopfl/)
+
+- [Randonnée Tyrol en Autriche : Juns vers Grüblspitze](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-juns-vers-grublspitze/)
+
+- [Randonnée Tyrol en Autriche : Hintertux vers Tuxer Ferner-Haus](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-tuxer-ferner-haus/)
+
+- [Randonnée Tyrol en Autriche : Hintertux vers Tettensjoch, puis Hollebsteinhütte](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-tettensjoch-puis-hollebsteinhutte/)
+
+- [Randonnée Tyrol en Autriche : Hintertux vers Bichlalm](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-bichlalm/)
+
+
 
 ## Developpement
 
