@@ -618,13 +618,33 @@ Sujets :
 
 - :runner: Trail, 41 km, 2522 m D+, :watch:  07:05:09
 
-- :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06''
+- :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
 
 #### Trail de VALBERG
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-de-valberg-edition-2019/)
 
 - :runner: Trail, 29 km, 1635 m D+, :watch: 05:23:16
+
+#### Trail Var Verdon
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-var-verdon-30-km-edition-2019/)
+
+- :runner: Trail,31 km, 1785 m D+, :watch: 06:25:27
+
+- :triangular_flag_on_post: :fr: 222. (183M - 54V1) :watch:	6h25'26'' :round_pushpin: Aiguines
+
+#### Jeux de Sophia
+
+- :link: [Trail](https://www.cyber-neurones.org/2019/06/trail-de-15-km-des-jeux-de-sophia/)
+
+#### Trail des Gorges de l’Ardèche 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/05/trail-des-gorges-de-lardeche-gtga-mais-finalement-la-tga/)
+
+- :runner: Trail, 44 km, 1882 m D+, :watch: 07:54:20
+
+- :triangular_flag_on_post: :fr:  171. (143M - 53V1)	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
 
 ## Linux 
 
@@ -664,6 +684,7 @@ Promouvoir et défendre le logiciel libre.
 
 - [Changer la date de modification et de création de photo avec exiftool](https://www.cyber-neurones.org/2020/01/changer-la-date-de-modification-et-de-creation-de-photo-avec-exiftool/)
 
+
 ### Debian
 
 - [Débian : failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory](https://www.cyber-neurones.org/2020/12/debian-failed-to-load-module-mdraid-libbd_mdraid-so-2-cannot-open-shared-object-file-no-such-file-or-directory/)
@@ -671,6 +692,7 @@ Promouvoir et défendre le logiciel libre.
 - [Comment ajouter un disque externe vierge à un serveur Débian ?](https://www.cyber-neurones.org/2020/11/comment-ajouter-un-disque-externe-vierge-a-un-serveur-debian/)
 
 - [GNUPLOT : Pour l’analyse de mon script de débit](https://www.cyber-neurones.org/2019/10/gnuplot-pour-lanalyse-de-mon-script-de-debit/)
+
 
 ### [RASPBIAN](https://raspbian.org)
 
@@ -737,13 +759,18 @@ J'ai aussi mis le plugin Matomo afin de supprimer Google Analytics.
 - [WordPress : WP-Optimize option cache : Des résultats visibles !](https://www.cyber-neurones.org/2020/11/wordpress-wp-optimize-option-cache-des-resultats-visibles/)
 
 
+
 #### [Drupal](https://www.drupal.fr/)
 
 Installation / Administration (sous Debian).
 
+
+
 #### [Joomla](https://www.joomla.fr/)
 
 Installation / Administration (sous Debian).
+
+
 
 #### [Humhub](https://www.humhub.com/en)
 
@@ -763,6 +790,8 @@ Competences : Apache / Humhub / Debian / Firewall .
 
 - [Installation de humhub version 1.6.3 sur Debian](https://www.cyber-neurones.org/2020/11/installation-de-humhub-version-1-6-3-sur-debian/)
 
+
+
 #### [Home Assistant](https://www.home-assistant.io/) 
 
 Installation / Administration (sous Debian).
@@ -771,15 +800,21 @@ Avant j'utilisais [Jeedom](https://www.jeedom.com/fr/) sur Raspberry mais depuis
 
 J'utilise du "SONOFF ZigBee" pour les périphériques.
 
+
+
 #### [Jenkins](https://www.jenkins.io/)
 
 Installation / Administration (sous Debian).
+
+
 
 #### [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
 
 Installation sur serveur DELL PowerEdge T110 II avec 32 Go.
 
 J'ai migrer de Raspberry vers ESX.
+
+
 
 #### [IPTable](https://doc.ubuntu-fr.org/iptables)
 
@@ -794,6 +829,8 @@ J'ai migrer de Raspberry vers ESX.
 - [ENEDIS : Migration des données pour une utilisation dans Mariadb / Grafana (fait en Python)](https://www.cyber-neurones.org/2020/04/enedis-migration-des-donnees-pour-une-utilisation-dans-mariadb-grafana-fait-en-python/)
 
 - [Thunderbird mbox to Influxdb and Postgresql to Grafana in Python](https://www.cyber-neurones.org/2020/03/thunderbird-mbox-to-influxdb-and-postgresql-to-grafana-in-python/)
+
+
 
 ## Randonnées 
 
@@ -853,6 +890,18 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Isola 2000 : Ranndonnée : Col de Mercière, Tête Mercière, Tête de la Roubine, Col de la Valette](https://www.cyber-neurones.org/2019/08/isola-2000-ranndonnee-col-de-merciere-tete-merciere-tete-de-la-roubine-col-de-la-valette/)
 
+- [Randonnée de l’Adous (Villars-sur-Var) vers le Baisse des Colettes](https://www.cyber-neurones.org/2019/06/randonnee-de-ladous-villars-sur-var-vers-le-baisse-des-colettes/)
+
+- [Randonnée/escalade : Baou de Saint-Jeannet ( avec équipement )](https://www.cyber-neurones.org/2019/06/randonnee-escalade-baou-de-saint-jeannet-avec-equipement/)
+
+- [Randonnée à Puget-Théniers vers le Col de Rigaudon](https://www.cyber-neurones.org/2019/06/randonnee-a-puget-theniers-vers-le-col-de-rigaudon/)
+
+- [Randonnée de Sausse vers la Tête de Travers](https://www.cyber-neurones.org/2019/06/randonnee-de-sausse-vers-la-tete-de-travers/)
+
+- [Randonnée dans les Gorges de Daluis](https://www.cyber-neurones.org/2019/06/randonnee-dans-les-gorges-de-daluis/)
+
+
+
 ##### Pyrénées-Orientales
 
 - [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/)
@@ -878,6 +927,8 @@ J'ai migrer de Raspberry vers ESX.
 - [Tour de Sénèque au départ de Fieno (Cap Corse)](https://www.cyber-neurones.org/2022/04/corse-tour-de-seneque-au-depart-de-fieno/)
 
 - 
+
+
 
 ### Autriche
 
@@ -938,6 +989,8 @@ J'ai migrer de Raspberry vers ESX.
 - [MacOS : Python : Suppression des doublons d’emails avec l’API Python Elasticsearch/Kibana (Version V3)](https://www.cyber-neurones.org/2019/11/macos-python-suppression-des-doublons-demails-avec-lapi-python-elasticsearch-kibana-version-v3/)
 
 - [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/)
+
+
 
 ### BASH
 
