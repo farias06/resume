@@ -18,7 +18,7 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 # Experiences professionnelles :
 
-## SECOM / HONEYWELL / RESIDEO ( Mougins )
+## Mi-Mai 2001 à aujdourd'hui ( SECOM / HONEYWELL / RESIDEO - Mougins )
 
 ### 2023 (RESIDEO)
 
@@ -146,7 +146,42 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 ### 2012
 
-### Support Client SeCOM / HONEYWELL / RESIDEO
+### Connaissances informatiques
+
+Impossible de lister tous les protocoles et outils ... 
+
+- Langages de Programmation :  C, C++, Perl, PHP, Java (JSB, Servlets), JavaScript, GO LANG, Python, Bash , Perl, Pascal ...
+   - 70% de mes programmes sont fait en C, le Java/Javascript/Pascal je le fais que sous la torture ... et j'aimerai bien faire du RUST. 
+
+- Langages de balisage :  XML, HTML, JSON, Markdown ...
+
+- Langages de requête   : SQL, PL/SQL , NoSQL (comme REDIS) ...
+
+- Librairie : CURL, OPENSSL, HIREDIS, SYSLOG, SIP, MQTT ...
+
+- Database : SGBD Oracle, MySQL (et maintenant MariaDB), MSQL, Access, PostgreSQL, SQL server, MongoDB, Redis, SQLLite ...
+
+- Protocoles ouverts : HTTP , FTP,  SIP, UCP, SMS ...
+
+- Protocoles dédiée à la securité : SIA DC 03, SIA DC 07, SIA DC 09, CONTACT-ID, SURGARD MLR2, ADEMCO 685, F1COM, SECOM3, VAT, TIP ( TIP-EVT, ..)  .... 
+
+- Serveurs (non Database & MQTT ) : Apache, Tomcat, Bind, OpenLDAP, SendMail, Samba, wu-Ftp, Asterisk, OpenSSH, QNIX, Munin, ELK, Jenkins ...
+
+- Statistiques :  ProjetR ...
+
+- Développement sous CVS, SVN, GIT, Bitbucket ..
+
+- Tools : gcc, gdb, lsof, strace, gprof, google Test : [Gtest](https://github.com/google/googletest) ... 
+
+- Divers Editeurs :  vi, emacs, LaTex, Doxygen, xfig , JBuider, mkdocs ....
+
+- VirtualBox, VMWare, Docker ...
+
+- Outils [Atlassian](https://fr.atlassian.com) : JIRA, Confluence, Bamboo, Bitbucket ...
+
+- Outils Microsoft : Teams, Excel, Words ...
+
+### Support Client ( SeCOM / HONEYWELL / RESIDEO ) 
 
 J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en Finlande (Helsinki) , en Norvège (Olso) , en Suède (Linkoping, Malmo) , au Portugal (Lisbonne),  en France (Paris, Aix-en-Provence, Strasbourg, Dieppe, Besancon, Lyon, Nantes, Blois, Signes, Toulouse, Hossegor, Bry-sur-Marne)  , en Grande-Bretagne (Manchester) , en Italie (Come, Florence, Milan), en Russie (Moscou), en Allemagne (Meshede) , en Suisse (Genève) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
 
@@ -257,31 +292,55 @@ Lycée La Borde Basse. Mention Passable.
 
 # Salons
 
-## Salon Linux 
+## Salon Open Source Expérience à Paris (Open Source Summit) : novembre 2022 
 
-### Salon Linux à Paris (Open Source Summit) : novembre 2022 
+Sujets :
 
-### Salon Linux à Paris (Open Source Summit) : Dock pullman : décembre 2017
+## Salon Linux à Paris (Open Source Summit) : Dock pullman : décembre 2017
 
-### Docker à Sophia-Antipolis : mars 2017 
+Tags : #OSSParis2017
 
-### Salon Linux à Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
+Sujets : DevOps , Python , Haskell , Cloud , IA , Cybersecurity .
 
-### Docker à Sophia-Antipolis : mars 2016 .
+## Docker à Sophia-Antipolis : mars 2017 
 
-### Salon Linux à Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
+Sujet : Docker
 
-### Salon Cloud à Paris : Mars 2012
+## Salon Linux à Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
-### Salon Linux à Paris : Avril 2009
+Sujets :
 
-### Salon VOIP à Paris : Avril 2008
+## Docker à Sophia-Antipolis : mars 2016 .
 
-### Salon VOIP à Paris : Mai 2006
+Sujet : Docker
 
-### Salon Linux à Paris : Février 2006
+## Salon Linux à Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
 
-### Salon Linux à Paris 
+Sujets :
+
+## Salon Cloud à Paris : Mars 2012
+
+Sujets :
+
+## Salon Linux à Paris : Avril 2009
+
+Sujets :
+
+## Salon VOIP à Paris : Avril 2008
+
+Sujets :
+
+## Salon VOIP à Paris : Mai 2006
+
+Sujets :
+
+## Salon Linux à Paris : Février 2006
+
+Sujets :
+
+## Salon Linux à Paris 
+
+Sujets :
 
 # Loisirs 
 
@@ -533,6 +592,8 @@ Lycée La Borde Basse. Mention Passable.
 
 #### [APRIL](https://www.april.org/)
 
+Promouvoir et défendre le logiciel libre.
+
 #### [La Quadrature du Net](https://www.laquadrature.net/)
 
 - [Association : La Quadrature Du Net](https://www.cyber-neurones.org/2019/12/association-la-quadrature-du-net/)
@@ -660,13 +721,17 @@ Installation / Administration (sous Debian).
 
 Avant j'utilisais [Jeedom](https://www.jeedom.com/fr/) sur Raspberry mais depuis 2021 je suis sur Home Assistant sus VM.
 
+J'utilise du "SONOFF ZigBee" pour les périphériques.
+
 #### [Jenkins](https://www.jenkins.io/)
 
 Installation / Administration (sous Debian).
 
 #### [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
 
-Installation sur serveur DELL.
+Installation sur serveur DELL PowerEdge T110 II avec 32 Go.
+
+J'ai migrer de Raspberry vers ESX.
 
 #### [IPTable](https://doc.ubuntu-fr.org/iptables)
 
@@ -907,6 +972,8 @@ Mes logiciels préférés
 Meilleur bloc note.
 
 - [JOPLIN : Script to rename tacitpart file](https://www.cyber-neurones.org/2019/11/joplin-script-to-rename-tacitpart-file/)
+
+J'ai commencé par ANotes (uniquement sous iOS/MacOS), puis Diaro et maintenant Joplin . Et Joplin c'est parfait surtout qu'il y a une plugin sous Nextcloud pour la synchronisation sur le LAN local.
 
 ## [RubiTrack sous MacOS](https://www.rubitrack.com/fr/)
 
