@@ -795,6 +795,13 @@ J'ai été membre ... maintenant je suis plutôt APRIL.
 
 - [Raspberry/Munin : Plugin pour Awox pour suivre la consommation.](https://www.cyber-neurones.org/2018/10/raspberry-munin-plugin-pour-awox-pour-suivre-la-consommation/)
 
+- [Raspberry/Jeedom : Installation …](https://www.cyber-neurones.org/2018/10/raspberry-jeedom-installation/)
+
+- [Raspberry/ELK : Installation de Filebeat](https://www.cyber-neurones.org/2018/10/raspberry-elk-installation-de-filebeat/)
+
+- [Raspberry/ELK : Installation sur 3 Raspberry(s) ](https://www.cyber-neurones.org/2018/10/raspberry-elk-installation-sur-3-raspberrys/)
+
+- [Raspberry/Rsyslog : Centralisation des logs via syslog](https://www.cyber-neurones.org/2018/10/raspberry-rsyslog-centralisation-des-logs/)
 
 
 
@@ -811,6 +818,15 @@ J'ai été membre ... maintenant je suis plutôt APRIL.
 
 
 ### Installation serveur
+
+#### Cloud
+
+- [Raspberry / Cloud Privé : Architecture : Interrogation écrite !](https://www.cyber-neurones.org/2018/10/raspberry-cloud-prive-architecture-interrogation-ecrite/)
+
+- [Raspberry : Architecture : Interrogation écrite !](https://www.cyber-neurones.org/2018/10/raspberry-architecture-interrogation-ecrite/)
+
+
+
 
 #### NextCloud 
 
