@@ -17,7 +17,7 @@ Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC av
 
 - [Mastodon](https://pouet.chapril.org/@Cyberneurones)
 
-- Pas de Twitter, Pas de Facebook, Pas d'Instagram, Pas de WhatsApp ....
+- Pas de Twitter, Pas de Facebook(Supprimé le 26/11/2018) , Pas d'Instagram(Supprimé le 26/11/2018), Pas de WhatsApp (Supprimé le 26/11/2018), Pas de Pinterest (Supprimé le 26/11/2018), Pas de Viadeo (Supprimé le 26/11/2018), Pas de Xing (Supprimé le 26/11/2018) ....
 
 # Experiences professionnelles :
 
@@ -138,6 +138,10 @@ Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC av
 - [Jenkins / LibVirt / Qemu / Fédora : Brouillon d’une tentative de mise en place …](https://www.cyber-neurones.org/2019/09/jenkins-libvirt-qemu-fedora-brouillon-dune-tentative-de-mise-en-place/)
 
 ### 2018 
+
+#### Notes 
+
+- [Resideo : Mon premier jour chez Resideo](https://www.cyber-neurones.org/2018/10/resideo-mon-premier-jour-chez-resideo/)
 
 ### 2017
 
@@ -369,13 +373,13 @@ Sujets :
 
 - :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin  
 
-#### Semi-marathon de Nice 
+#### Semi-marathon de :round_pushpin: Nice 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
 
 - :runner: Course, 21 km, 90m D+, 01:51:30.
 
-- :triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2)	1h51'28''
+- :triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2)	1h51'28'' :round_pushpin:  Nice 
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
@@ -389,7 +393,7 @@ Sujets :
 
 - :runner: Trail, 46 km, 2690m D+, 07:31:53.
 
-- :triangular_flag_on_post: :fr: FFA : 746. (658M - 118M2)	7h31'40''
+- :triangular_flag_on_post: :fr: FFA : 746. (658M - 118M2)	7h31'40''  :round_pushpin:	Bedoin
 
 - :triangular_flag_on_post: :star: ITRA : Ranking 746 / 1074  iTRA Score : 449 
 
@@ -617,6 +621,8 @@ Sujets :
 
 - :runner: Trail, 73 km, 4254 m D+, :watch: 17:22:15
 
+- :triangular_flag_on_post: :star: ITRA :  98 km / 6150 m+ 		DNF 	DNF 
+
 #### Trail de UBAYE Elite
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/trail-de-ubaye-elite-a-barcelonnette-edition-2019/)
@@ -624,6 +630,8 @@ Sujets :
 - :runner: Trail, 41 km, 2522 m D+, :watch:  07:05:09
 
 - :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
+
+- :triangular_flag_on_post: :star: ITRA :  40 km / 2420 m+ 	7:05:06 	265 / 386 	238 / 343 iTRA Score	461 
 
 #### Trail de :round_pushpin: Valberg
 
@@ -639,6 +647,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 222. (183M - 54V1) :watch:	6h25'26'' :round_pushpin: Aiguines
 
+- :triangular_flag_on_post: :star: ITRA :  30 km / 1560 m+ 	6:25:26 	222 / 243 	185 / 197 	iTRA Score 371 
+
 #### Jeux de Sophia
 
 - :link: [Trail](https://www.cyber-neurones.org/2019/06/trail-de-15-km-des-jeux-de-sophia/)
@@ -652,6 +662,8 @@ Sujets :
 - :runner: Trail, 44 km, 1882 m D+, :watch: 07:54:20
 
 - :triangular_flag_on_post: :fr:  171. (143M - 53V1) :watch:	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
+
+- :triangular_flag_on_post: :star: ITRA : 37 km / 1590 m+ 	10:54:28 	171 / 201 	144 / 164 	iTRA Score 298 
 
 #### 16 ème CO’Tour de Sophia 
 
@@ -689,15 +701,37 @@ Sujets :
 
 - :triangular_flag_on_post: :fr:  	621. (504M - 201V1)  :watch:	3h07'23'' :round_pushpin:	Cannes
 
+#### PROM Classic :round_pushpin: Nice
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/01/prom-classic-edition-2019/)
+
+- :runner: Course, 10 km, 
+
+- :triangular_flag_on_post: :fr:  	2017. (1775M - 499V1) :watch: 	52'06'' (49'16'') :round_pushpin: 	Nice
+
+### 2018
+
+#### Courir pour une fleur à :round_pushpin: Antibes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/10/courir-pour-une-fleur-edition-2018/)
+
+- :runner: Course, 21 km, 242 m D+,  :watch: 02:01:06
+
+- :triangular_flag_on_post: :fr:   
+
+
+
 ## Linux 
 
 ### Association
 
 #### [APRIL](https://www.april.org/)
 
-Promouvoir et défendre le logiciel libre.
+Promouvoir et défendre le logiciel libre. :heavy_check_mark: Je suis membre . 
 
 #### [La Quadrature du Net](https://www.laquadrature.net/)
+
+J'ai été membre ... maintenant je suis plutôt APRIL. 
 
 - [Association : La Quadrature Du Net](https://www.cyber-neurones.org/2019/12/association-la-quadrature-du-net/)
 
@@ -746,6 +780,23 @@ Promouvoir et défendre le logiciel libre.
 
 
 #### Raspberry
+
+- [Raspberry ( Raspbian : stretch ) / Git Server : Installation en bref](https://www.cyber-neurones.org/2018/11/raspberry-raspbian-stretch-git-server-installation-en-bref/)
+
+- [Raspberry ( Raspbian : stretch ) / OwnCloud (10.0.10) : Installation en bref …](https://www.cyber-neurones.org/2018/11/raspberry-owncloud-installation-en-bref/)
+
+- [SWAP sur Raspbian](https://www.cyber-neurones.org/2018/10/swap-sur-raspbian/)
+
+- [PSSH/SSHPASS : Lancer des scripts en parallèle.](https://www.cyber-neurones.org/2018/10/pssh-sshpass-lancer-des-scripts-en-parallele/)
+
+- [Raspberry / Munin / USB : Température via l’USB](https://www.cyber-neurones.org/2018/10/raspberry-munin-usb-temperature-via-lusb/)
+
+- [Raspberry / Munin / USB : Température via l’USB : OK mais s’abstenir si on n’est pas développeur !](https://www.cyber-neurones.org/2018/10/munin-usb-temperature-via-lusb-ok-mais-sabstenir-si-on-nest-pas-developpeur/)
+
+- [Raspberry/Munin : Plugin pour Awox pour suivre la consommation.](https://www.cyber-neurones.org/2018/10/raspberry-munin-plugin-pour-awox-pour-suivre-la-consommation/)
+
+
+
 
 #### Rock64
 
@@ -892,6 +943,8 @@ J'ai migrer de Raspberry vers ESX.
 #### [Munin](http://munin-monitoring.org/)
 
 - [MUNIN : Comment ajouter un multiping ?](https://www.cyber-neurones.org/2019/05/munin-comment-ajouter-un-multiping/)
+
+- [Raspberry : Munin : les graphiques de la Freebox après un mois](https://www.cyber-neurones.org/2018/10/raspberry-munin-les-graphiques-de-la-freebox-apres-un-mois/)
 
 
 
