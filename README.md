@@ -3,6 +3,8 @@ ARIAS FREDERIC
 
 Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
+Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est Linux et plutôt le coté serveur. Sachant que vu que je fais du C on peut le mettre sur le l'IoT sans problème.
+
 # Lien externe 
 
 - [Mon blog](www.cyber-neurones.org)
@@ -11,6 +13,7 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 - [Linkedin](http://fr.linkedin.com/in/ariasfrederic)
 
    - [A noter que j'ai bloqué des comptes sur Linkedin](https://www.cyber-neurones.org/2022/01/linkedin-bloquer-les-covidiots/)
+   - [Certification de mon parcours](https://www.lassuranceretraite.fr/vitae/index.html#/c?p=8fdf2636ccb2425b8c19b6cde2c20d04)
 
 - [Mastodon](https://pouet.chapril.org/@Cyberneurones)
 
@@ -18,7 +21,7 @@ Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 # Experiences professionnelles :
 
-## Mi-Mai 2001 à aujdourd'hui ( SECOM / HONEYWELL / RESIDEO - Mougins )
+## Mi-Mai 2001 à aujdourd'hui ( SECOM / HONEYWELL / RESIDEO - :round_pushpin: Mougins )
 
 ### 2023 (RESIDEO)
 
@@ -185,9 +188,9 @@ Impossible de lister tous les protocoles et outils ...
 
 ### Support Client ( SeCOM / HONEYWELL / RESIDEO ) 
 
-J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en Finlande (Helsinki) , en Norvège (Olso) , en Suède (Linkoping, Malmo) , au Portugal (Lisbonne),  en France (Paris, Aix-en-Provence, Strasbourg, Dieppe, Besancon, Lyon, Nantes, Blois, Signes, Toulouse, Hossegor, Bry-sur-Marne)  , en Grande-Bretagne (Manchester) , en Italie (Come, Florence, Milan), en Russie (Moscou), en Allemagne (Meshede) , en Suisse (Genève) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
+J’ai effectué de nombreux déplacements en Espagne ( :round_pushpin: Madrid, :round_pushpin: Barcelone ) , en Finlande ( :round_pushpin: Helsinki) , en Norvège ( :round_pushpin: Olso ) , en Suède ( :round_pushpin: Linkoping , :round_pushpin: Malmo ) , au Portugal ( :round_pushpin: Lisbonne ),  en France ( :round_pushpin: Paris , :round_pushpin: Aix-en-Provence , :round_pushpin: Strasbourg , :round_pushpin: Dieppe , :round_pushpin: Besancon , :round_pushpin: Lyon , :round_pushpin: Nantes , :round_pushpin: Blois , :round_pushpin: Signes , :round_pushpin: Toulouse , :round_pushpin: Hossegor , :round_pushpin: Bry-sur-Marne )  , en Grande-Bretagne ( :round_pushpin: Manchester ) , en Italie ( :round_pushpin: Come , :round_pushpin: Florence , :round_pushpin: Milan ), en Russie ( :round_pushpin: Moscou ), en Allemagne ( :round_pushpin: Meshede ) , en Suisse ( :round_pushpin: Genève ) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
 
-## Mi-Janvier 2001 à Mi-Mai 2001 ( RIGTHVISION – Mouans Sartoux ) 
+## Mi-Janvier 2001 à Mi-Mai 2001 ( RIGTHVISION – :round_pushpin: Mouans Sartoux ) 
 
 - Righvision est une société qui développe des Appliances ( EyeBox ) sous Linux. http://www.rightvision.com/
 
@@ -199,7 +202,7 @@ J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en F
 
 - Environnement : Linux( RedHat ), Windows, Perl, PHP, Apache, OpenlDAP, CVS, MySQL, Flash5( Action Script )
 
-## Mi-Avril 2000 à Mi-Janvier 2001 ( CYBERWORKERS – Aubagne )
+## Mi-Avril 2000 à Mi-Janvier 2001 ( CYBERWORKERS – :round_pushpin: Aubagne )
 
 - Cyberworkers est une société qui développe une plate-forme destinée au télétravail pour les indépendants. http://www.cyberworkers.com/ Développeur, concepteur et DBA de 80% de la plate-forme sous LINUX :
 
@@ -221,7 +224,7 @@ J’ai effectué de nombreux déplacements en Espagne (Madrid, Barcelone) , en F
 - Environnement : Linux( Debian, SuSE ), Perl, PHP, JavaScript, C, Java (JSP, servlets), Apache, Merise, UML, PL/SQL, Tomcat
 
 
-## Connaissance OS:
+## Connaissance OS :
 
 Systèmes Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
 
@@ -261,7 +264,7 @@ Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
 
 ## Initiales
 
-### 1999-2000 D.E.S.S. Mathématiques pour l’Ingénieur
+### 1999-2000 D.E.S.S. Mathématiques pour l’Ingénieur - :round_pushpin: Marseille
 
 - Université de la Méditerranée & de Provence. Mention Assez-bien.
 
@@ -274,73 +277,73 @@ Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
          - Création de formulaire d’interrogation de la base de donnée à travers le Web par le langage PHP3 intégré à HTML ainsi que du JavaScript
          - Environnement : Linux ( Mandrake ) et Linux ( SuSE ), MySQL, SQL, C, Perl, PHP, JavaScript, HTML, Apache
 
-### 1998-1999 Maîtrise d’Ingénierie Mathématique – Section calcul scientifique
+### 1998-1999 Maîtrise d’Ingénierie Mathématique – Section calcul scientifique - :round_pushpin: Toulouse
 
 Université Paul Sabatier. Mention Assez-bien.
 
-### 1994-1995 Baccalauréat Scientifique (Option Mathématiques)
+### 1994-1995 Baccalauréat Scientifique (Option Mathématiques) - :round_pushpin: Castres
 
 Lycée La Borde Basse. Mention Passable.
 
 ## Autres
 
-- Six Sigma : DFSS : Design For Six Sigma (1 semaine) à Comes (Italie) : Juin 2004. 
+- Six Sigma : DFSS : Design For Six Sigma (1 semaine) à :round_pushpin: Comes (Italie) : Juin 2004. 
 
-- Formation à l’Institut Nationale des Télécoms d’Evry à Evry ( http://int-evry.fr/ ) : Novembre 2004 (2 semaines).
+- Formation à l’Institut Nationale des Télécoms d’Evry à :round_pushpin: Evry ( http://int-evry.fr/ ) : Novembre 2004 (2 semaines).
 
-- Formation Administration SQL Server : CM 2321 (2 semaines) à Sophia-Antipolis ( Newport Communications ) : Décembre 2005 .
+- Formation Administration SQL Server : CM 2321 (2 semaines) à :round_pushpin: Sophia-Antipolis ( Newport Communications ) : Décembre 2005 .
 
-- Formation Linux Embarqué Yocto BSP à Sophia-Antipolis ( http://www.phytec.fr )  : Septembre 2018 (1 semaine) 
+- Formation Linux Embarqué Yocto BSP à :round_pushpin: Sophia-Antipolis ( http://www.phytec.fr )  : Septembre 2018 (1 semaine) 
 
 # Salons
 
-## Salon Open Source Expérience à Paris (Open Source Summit) : novembre 2022 
+## Salon Open Source Expérience à :round_pushpin: Paris (Open Source Summit) : novembre 2022 
 
 Sujets :
 
-## Salon Linux à Paris (Open Source Summit) : Dock pullman : décembre 2017
+## Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : décembre 2017
 
 Tags : #OSSParis2017
 
 Sujets : DevOps , Python , Haskell , Cloud , IA , Cybersecurity .
 
-## Docker à Sophia-Antipolis : mars 2017 
+## Docker à :round_pushpin: Sophia-Antipolis : mars 2017 
 
 Sujet : Docker
 
-## Salon Linux à Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
+## Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
 Sujets :
 
-## Docker à Sophia-Antipolis : mars 2016 .
+## Docker à :round_pushpin: Sophia-Antipolis : mars 2016 .
 
 Sujet : Docker
 
-## Salon Linux à Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
+## Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
 
 Sujets :
 
-## Salon Cloud à Paris : Mars 2012
+## Salon Cloud à :round_pushpin: Paris : Mars 2012
 
 Sujets :
 
-## Salon Linux à Paris : Avril 2009
+## Salon Linux à :round_pushpin: Paris : Avril 2009
 
 Sujets :
 
-## Salon VOIP à Paris : Avril 2008
+## Salon VOIP à :round_pushpin: Paris : Avril 2008
 
 Sujets :
 
-## Salon VOIP à Paris : Mai 2006
+## Salon VOIP à :round_pushpin: Paris : Mai 2006
 
 Sujets :
 
-## Salon Linux à Paris : Février 2006
+## Salon Linux à :round_pushpin: Paris : Février 2006
 
 Sujets :
 
-## Salon Linux à Paris 
+## Salon Linux à :round_pushpin: Paris 
 
 Sujets :
 
@@ -356,13 +359,15 @@ Sujets :
 
 - [BeTrail](https://www.betrail.run/runner/arias.frederic/overview) : Profil public. :unlock:
 
+- [kikourou](http://www.kikourou.net/) : Profil public. :unlock:
+
 ### 2023
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
-- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47.
+- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin  
 
 #### Semi-marathon de Nice 
 
@@ -396,13 +401,13 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :  52. (49M - 7M2)	2h16'23''
 
-#### Trаіl dеs Сrêtеs de Gréolières-les-neiges 
+#### Trаіl dеs Сrêtеs de :round_pushpin: Gréolières-les-neiges 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/02/tr%d0%b0%d1%96l-d%d0%b5s-%d1%81ret%d0%b5s-de-greolieres-les-neiges-edition-2023/)
 
 - :runner: Trail, 11 km, 600m D+, 01:38:37
 
-#### Urban Trail de Cannes : Version 26 km 
+#### Urban Trail de :round_pushpin: Cannes : Version 26 km 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
 
@@ -412,7 +417,7 @@ Sujets :
 
 ### 2022
 
-#### Cross Amnesty de Valbonne 
+#### Cross Amnesty de :round_pushpin: Valbonne 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/12/cross-amnesty-de-valbonne-edition-2022/)
 
@@ -420,7 +425,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 51. (46M - 13M2)	59'31''
 
-#### Courir pour une fleur à Antibes 
+#### Courir pour une fleur à :round_pushpin: Antibes 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/10/courir-pour-une-fleur-a-antibes-edition-2022/)
 
@@ -436,7 +441,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2) :watch:	2h19'13''
 
-#### Trail Mounte Cala à Gréolières-les-Neiges
+#### Trail Mounte Cala à :round_pushpin: Gréolières-les-Neiges
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
 
@@ -448,7 +453,7 @@ Sujets :
 
 - :runner: Trail, 42 km, 2168 m D+, :watch: 07:30:11
 
-- :triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2) :watch:	7h30'24''
+- :triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2) :watch:	7h30'24'' 
 
 #### Trail de Rimplas
 
@@ -458,7 +463,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2) :watch:	4h18'28''
 
-#### Trail de Biot
+#### Trail de :round_pushpin: Biot
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
@@ -472,7 +477,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2)  :watch: 53'21''
 
-#### Trail des merveilles à Breil-sur-roya
+#### Trail des merveilles à :round_pushpin: Breil-sur-roya
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
 
@@ -482,11 +487,11 @@ Sujets :
 
 ### 2021 
 
-#### Cross Amnesty
+#### Cross Amnesty à :round_pushpin: Valbonne
 
 - :triangular_flag_on_post: :fr: FFA : 116. (89M - 15M2) :watch: 	1h15'53''
 
-#### Trail de l'Ours à Levens
+#### Trail de l'Ours à :round_pushpin: Levens
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/trail-de-lours-a-levens/)
 
@@ -502,7 +507,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 117. (110M - 22M2) :watch:	3h15'55''
 
-#### Semi-marathon de Nice
+#### Semi-marathon de :round_pushpin: Nice
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/09/semi-marathon-de-nice-edition-2021/)
 
@@ -510,7 +515,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :  	519. (460M - 66M2) :watch:	1h51'55'' (1h50'13'')
 
-#### Urban Trail de Cannes 
+#### Urban Trail de :round_pushpin: Cannes 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/09/urban-trail-de-cannes-edition-2021/)
 
@@ -518,7 +523,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :   130. (109M - 24M2) :watch:	3h09'50''
 
-#### Eco-Trail de Carros
+#### Eco-Trail de :round_pushpin: Carros
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/06/eco-trail-de-carros-une-bonne-reprise/)
 
@@ -526,7 +531,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 96. (80M - 14M2) :watch:	1h06'24''
 
-#### Calvaire Antibois Connecté
+#### Calvaire Antibois Connecté à :round_pushpin: Antibes
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/04/calvaire-antibois-connecte-2021/)
 
@@ -534,7 +539,7 @@ Sujets :
 
 ### 2020 
 
-#### EcoTrail de Montauroux 19 km
+#### EcoTrail de :round_pushpin: Montauroux 19 km
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/ecotrail-de-montauroux-19-km-edition-2020/)
 
@@ -556,7 +561,7 @@ Sujets :
    - Mountain Points : 10
    - Finisher Level : 360
 
-#### Urban Trail de Cannes
+#### Urban Trail de :round_pushpin: Cannes
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/01/urban-trail-de-cannes-edition-2020/)
 
@@ -564,7 +569,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr:  492. (408M - 79M2) :watch:	3h01'18'' (3h01'18'')
 
-#### PROM Classic
+#### PROM Classic à :round_pushpin: Nice 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/01/prom-classic-edition-2020/)
 
@@ -580,7 +585,7 @@ Sujets :
 
 - :runner: Trail, 20 km, 1059 m D+, :watch: 03:06:45
 
-#### Marathon des Alpes-Maritimes 
+#### Marathon des Alpes-Maritimes à :round_pushpin: Nice 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/11/marathon-des-alpes-maritimes-edition-2019/)
 
@@ -588,7 +593,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 1573. (1288M - 419V1) :watch:	2h00'15'' (1h57'00'')
 
-#### Courir pour une Fleur à Antibes
+#### Courir pour une Fleur à :round_pushpin: Antibes
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/10/courir-pour-une-fleur-a-antibes-edition-2019/)
 
@@ -596,7 +601,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 530. (467M - 199V1) :watch:	1h57'56'' (1h57'09'')
 
-#### Trail de Tourrettes-sur-Loup 
+#### Trail de :round_pushpin: Tourrettes-sur-Loup 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/09/trail-de-tourrettes-sur-loup-edition-2019/)
 
@@ -620,7 +625,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
 
-#### Trail de VALBERG
+#### Trail de :round_pushpin: Valberg
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-de-valberg-edition-2019/)
 
@@ -638,13 +643,51 @@ Sujets :
 
 - :link: [Trail](https://www.cyber-neurones.org/2019/06/trail-de-15-km-des-jeux-de-sophia/)
 
+- :link: [Course d'orientation & Course](https://www.cyber-neurones.org/2019/05/jeux-de-sophia-2019/)
+
 #### Trail des Gorges de l’Ardèche 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/trail-des-gorges-de-lardeche-gtga-mais-finalement-la-tga/)
 
 - :runner: Trail, 44 km, 1882 m D+, :watch: 07:54:20
 
-- :triangular_flag_on_post: :fr:  171. (143M - 53V1)	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
+- :triangular_flag_on_post: :fr:  171. (143M - 53V1) :watch:	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
+
+#### 16 ème CO’Tour de Sophia 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/05/16-eme-cotour-de-sophia/)
+
+- :runner: Course d'orientation en 5 étapes.
+
+#### Urban Trail de Biot 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/05/urban-trail-de-biot-edition-2019/)
+
+- :runner: Trail, 17 km, 472 m D+, :watch: 01:51:41
+
+- :triangular_flag_on_post: :fr: 65. (56M - 21V1) :watch:	1h50'40'' :round_pushpin:	Biot 
+
+#### Semi-Marathon de :round_pushpin: Nice
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/05/semi-marathon-de-nice-edition-2019/)
+
+- :runner: Course, 21 km, 162 m D+, :watch:  01:57:04
+
+- :triangular_flag_on_post: :fr:  1573. (1288M - 419V1) :watch: 	2h00'15'' (1h57'00'') :round_pushpin:	Nice
+
+#### Raid Vallis Bona
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/04/raid-vallis-bona-edition-2019/)
+
+- :runner: Course d'orientation, Tir à l'arc, Lancée de buche, Rameur, ....
+
+#### Urban Trail de :round_pushpin: Cannes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2019/01/urban-trail-de-cannes-edition-2019/)
+
+- :runner: Trail, 26 km, 706 m D+, :watch: 03:07:25
+
+- :triangular_flag_on_post: :fr:  	621. (504M - 201V1)  :watch:	3h07'23'' :round_pushpin:	Cannes
 
 ## Linux 
 
@@ -684,6 +727,8 @@ Promouvoir et défendre le logiciel libre.
 
 - [Changer la date de modification et de création de photo avec exiftool](https://www.cyber-neurones.org/2020/01/changer-la-date-de-modification-et-de-creation-de-photo-avec-exiftool/)
 
+- [Mojave : Build dlib : issue : fatal error: ‘X11/Xlib.h’ file not found](https://www.cyber-neurones.org/2019/02/mojave-build-dlib-issue-fatal-error-x11-xlib-h-file-not-found/)
+
 
 ### Debian
 
@@ -696,6 +741,10 @@ Promouvoir et défendre le logiciel libre.
 
 ### [RASPBIAN](https://raspbian.org)
 
+- [IoT : les langages de programmation les plus utilisés](https://www.cyber-neurones.org/2019/04/iot-les-langages-de-programmation-les-plus-utilises/)
+
+
+
 #### Raspberry
 
 #### Rock64
@@ -703,6 +752,12 @@ Promouvoir et défendre le logiciel libre.
 - [Rock64 / Débian : Ajouter un disque dur externe](https://www.cyber-neurones.org/2019/09/rock64-debian-ajouter-un-disque-dur-externe/)
 
 - [Installation de NextCloud sur Rock64](https://www.cyber-neurones.org/2019/09/installation-de-nextcloud-sur-rock64/)
+
+- [Rock64 : Les premiers pas …](https://www.cyber-neurones.org/2019/03/rock64-les-premiers-pas/)
+
+- [Rock64 & 2 capteurs de débits d’eau ( Débitmètre )](https://www.cyber-neurones.org/2019/03/rock64-2-capteurs-de-debits-deau-debitmetre/)
+
+
 
 ### Installation serveur
 
@@ -806,6 +861,9 @@ J'utilise du "SONOFF ZigBee" pour les périphériques.
 
 Installation / Administration (sous Debian).
 
+- [Jenkins : 32 Go de RAM …](https://www.cyber-neurones.org/2019/04/jenkins-32-go-de-ram/)
+
+- [Jenkins & Docker : /usr/bin/cat: cannot execute binary file](https://www.cyber-neurones.org/2019/04/jenkins-docker-usr-bin-cat-cannot-execute-binary-file/)
 
 
 #### [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
@@ -831,6 +889,11 @@ J'ai migrer de Raspberry vers ESX.
 - [Thunderbird mbox to Influxdb and Postgresql to Grafana in Python](https://www.cyber-neurones.org/2020/03/thunderbird-mbox-to-influxdb-and-postgresql-to-grafana-in-python/)
 
 
+#### [Munin](http://munin-monitoring.org/)
+
+- [MUNIN : Comment ajouter un multiping ?](https://www.cyber-neurones.org/2019/05/munin-comment-ajouter-un-multiping/)
+
+
 
 ## Randonnées 
 
@@ -840,7 +903,7 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
 
-- [Boucle des chasseurs entre Biot et Villeneuve-Loubet](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
+- [Boucle des chasseurs entre :round_pushpin: Biot et :round_pushpin: Villeneuve-Loubet ](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
 
 - [Chapelle Saint-Jean, Arche de Ponadieu, Grotte des deux goules, Cascades ](https://www.cyber-neurones.org/2023/02/randonnee-tres-difficile-chapelle-saint-jean-arche-de-ponadieu-grotte-des-deux-goules-cascades/)
 
@@ -900,13 +963,26 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée dans les Gorges de Daluis](https://www.cyber-neurones.org/2019/06/randonnee-dans-les-gorges-de-daluis/)
 
+- [Randonnée : Du bas de :round_pushpin: Gréolière à la Cime du Cheiron (via une partie du GR4)](https://www.cyber-neurones.org/2019/05/randonnee-du-bas-de-greoliere-a-la-cime-du-cheiron-via-une-partie-du-gr4/)
+
+
+##### Tarn
+
+- [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/)
+
+- [Randonnée à :round_pushpin: Dourgne : Source du Melzic](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-source-du-melzic/)
+
+- [Balade à :round_pushpin: Mazamet : La passerelle d’Hautpoul](https://www.cyber-neurones.org/2019/04/balade-a-mazamet-la-passerelle-dhautpoul/)
+
 
 
 ##### Pyrénées-Orientales
 
 - [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/)
 
-- [Randonnée : Bivouac 2 jours : Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/)
+- [Randonnée : Bivouac 2 jours : :round_pushpin: Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/)
+
+
 
 #### Savoie
 
@@ -919,6 +995,8 @@ J'ai migrer de Raspberry vers ESX.
 - [Valloire : Randonnée de Bonnenuit vers l’Aiguille de l’Epaisseur (3230m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-laiguille-de-lepaisseur-3230m/)
 
 - [Valloire : Randonnée de Bonnenuit vers le Lac Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-le-lac-rond/) 
+
+
 
 #### Corse
 
@@ -990,6 +1068,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/)
 
+- [OpenDataGouv : Transaction immobilière sur Biot](https://www.cyber-neurones.org/2019/04/opendatagouv-transaction-immobiliere-sur-biot/)
+
 
 
 ### BASH
@@ -1006,9 +1086,13 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Association 
 
+Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
+
 - [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/)
 
-- [Tous à vélo : Biot – Antibes – Cannes . ( Edition 2019 ) #TousàVélo](https://www.cyber-neurones.org/2019/11/tous-a-velo-biot-antibes-cannes-edition-2019-tousavelo/)
+- [Tous à vélo : :round_pushpin: Biot – :round_pushpin: Antibes – :round_pushpin: Cannes . ( Edition 2019 ) #TousàVélo](https://www.cyber-neurones.org/2019/11/tous-a-velo-biot-antibes-cannes-edition-2019-tousavelo/)
+
+
 
 ### Parcours
 
@@ -1038,13 +1122,13 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Vélo Course/Gravel : Mur de Courmettes au départ de la D2210](https://www.cyber-neurones.org/2021/04/velo-course-gravel-mur-de-courmettes-au-depart-de-la-d2210/)
 
-- [Gravel/Vélo de Course : Départ de Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/)
+- [Gravel/Vélo de Course : Départ de :round_pushpin: Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/)
 
-- [Départ de l’office du Tourisme vers le Phare de la Garoupe à Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/)
+- [Départ de l’office du Tourisme vers le Phare de la Garoupe à :round_pushpin: Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/)
 
 - [Boucle au départ de la place de Biot, puis Saint-Philippe et le pont des Tamarins](https://www.cyber-neurones.org/2021/04/gravel-a-biot-boucle-au-depart-de-la-place-de-biot-puis-saint-philippe-et-le-pont-des-tamarins/)
 
-- [Vélo : Nice ( Vieux port ) vers Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/)
+- [Vélo : :round_pushpin:  Nice ( Vieux port ) vers :round_pushpin:  Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/)
 
 ##### Hautes-Alpes
 
@@ -1055,11 +1139,11 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Boucle de La Capelette](https://www.cyber-neurones.org/2023/04/velo-gravel-a-dourgne-boucle-de-la-capelette/)
 
-- [Dourgne la montée de Montalric](https://www.cyber-neurones.org/2023/04/velo-gravel-dourgne-la-montee-de-montalric/)
+- [ :round_pushpin: Dourgne la montée de Montalric](https://www.cyber-neurones.org/2023/04/velo-gravel-dourgne-la-montee-de-montalric/)
 
 - [Vélo : Montagne Noire : Les segments pour les grimpeurs](https://www.cyber-neurones.org/2021/08/velo-montagne-noire-les-segments-pour-les-grimpeurs/)
 
-- [Vélo : Saint-Avit (Tarn) vers le Lac du Dicosa](https://www.cyber-neurones.org/2021/08/velo-saint-avit-tarn-vers-le-lac-du-dicosa/)
+- [Vélo : :round_pushpin: Saint-Avit (Tarn) vers le Lac du Dicosa](https://www.cyber-neurones.org/2021/08/velo-saint-avit-tarn-vers-le-lac-du-dicosa/)
 
 - [Vélo : Pic de Nore au départ des passerelles Mazamet](https://www.cyber-neurones.org/2021/08/velo-pic-de-nore-au-depart-des-passerelles-mazamet/)
 
@@ -1074,7 +1158,8 @@ J'ai migrer de Raspberry vers ESX.
 
 ##### Vaucluse
 
-- [Mont Ventoux en Gravel au départ de Bédoin](https://www.cyber-neurones.org/2021/06/mont-ventoux-en-gravel-au-depart-de-bedoin/)
+- [Mont Ventoux en Gravel au départ de :round_pushpin: Bédoin](https://www.cyber-neurones.org/2021/06/mont-ventoux-en-gravel-au-depart-de-bedoin/)
+
 
 #### VTT
 
@@ -1086,21 +1171,25 @@ J'ai migrer de Raspberry vers ESX.
 
 - [VTT : De Biot vers les ruines du château de Roquefort](https://www.cyber-neurones.org/2021/03/vtt-de-biot-vers-les-ruines-du-chateau-de-roquefort/)
 
-- [VTT à Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
+- [VTT à :round_pushpin: Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
+
 
 ## Padel
 
-## Ski 
+## :ski: Ski 
+
+- [La piste Luc Alphand à Serre-Chevalier](https://www.cyber-neurones.org/2019/02/la-piste-luc-alphand-a-serre-chevalier/)
 
 ## Ski de randonnée
 
-- [Ski de randonnée à Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
+- [Ski de randonnée à :round_pushpin: Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
 
-- [Ski de randonnée à Auron : Parcours simple.](https://www.cyber-neurones.org/2021/03/ski-de-randonnee-a-auron-parcours-simple/)
+- [Ski de randonnée à :round_pushpin: Auron : Parcours simple.](https://www.cyber-neurones.org/2021/03/ski-de-randonnee-a-auron-parcours-simple/)
 
-## Musique : Saxophone .
 
-## Rugby
+## Musique : :saxophone: Saxophone .
+
+## :rugby_football: Rugby
 
 # Logiciels 
 
@@ -1108,11 +1197,36 @@ Mes logiciels préférés
 
 ## Joplin
 
-Meilleur bloc note.
+Meilleur bloc note, avec comme format natif le Markdown ! :tada: 
+
+J'ai commencé par ANotes (uniquement sous iOS/MacOS), puis Diaro et maintenant Joplin . Et Joplin c'est parfait surtout qu'il y a une plugin sous Nextcloud pour la synchronisation sur le LAN local.
 
 - [JOPLIN : Script to rename tacitpart file](https://www.cyber-neurones.org/2019/11/joplin-script-to-rename-tacitpart-file/)
 
-J'ai commencé par ANotes (uniquement sous iOS/MacOS), puis Diaro et maintenant Joplin . Et Joplin c'est parfait surtout qu'il y a une plugin sous Nextcloud pour la synchronisation sur le LAN local.
+- [Python : How to clean ressources of Joplin not used ?](https://www.cyber-neurones.org/2019/03/python-how-to-clean-ressources-of-joplin-not-used/)
+
+- [Joplin : Je suis heureux de recevoir le badge « New User of the Month »](https://www.cyber-neurones.org/2019/02/joplin-je-suis-heureux-de-recevoir-le-badge-new-user-of-the-month/)
+
+- [Joplin : Très robuste, et avec une API REST ! Mais que demande le peuple ? Plus d’open source](https://www.cyber-neurones.org/2019/02/joplin-tres-robuste-et-avec-une-api-rest-mais-que-demande-le-peuple-plus-dopen-source/)
+
+- [Python : How to migrate data of Awesome Note 2 (bridworks.com) to Joplin ?](https://www.cyber-neurones.org/2019/02/python-how-to-migrate-data-of-awesome-note-bridworks-com-to-joplin/)
+
+- [Python : How to do a Word Cloud with data (Title or body) in Joplin ?](https://www.cyber-neurones.org/2019/02/how-to-do-a-word-cloud-with-title-or-boby-in-joplin/)
+
+- [Joplin & Python ( Static Map ) : How to create a Maps (JPEG) with REST API and data in Joplin ?](https://www.cyber-neurones.org/2019/02/joplin-python-static-map-how-to-create-a-maps-jpeg-with-rest-api-and-data-in-joplin/)
+
+- [Joplin & Python ( gmplot Google Map) : How to create a Maps with REST API and data in Joplin ?](https://www.cyber-neurones.org/2019/02/joplin-python-gmplot-google-map-how-to-create-a-maps-with-rest-api-and-data-in-joplin/)
+
+- [How to import data of WordPress (Feed RSS) to Joplin ?](https://www.cyber-neurones.org/2019/02/how-to-import-data-of-wordpress-feed-rss-to-joplin/)
+
+- [How to import data of Google+ to Joplin ?](https://www.cyber-neurones.org/2019/02/how-to-import-data-of-google-to-joplin/)
+
+- [Diaro App (PIXEL CRATER LTD) : DiaroBackup.xml : How to migrate data to JOPLIN ?](https://www.cyber-neurones.org/2019/02/diaro-app-pixel-crater-ltd-diarobackup-xml-how-to-migrate-data-to-joplin/)
+
+- [Diaro App : DiaroBackup.xml : How to parse in python ? (Draft n°4)](https://www.cyber-neurones.org/2019/02/diaro-app-diarobackup-xml-how-to-parse-in-python-draft-n4/)
+
+- [Pourquoi l’application Joplin sous Android est mieux que Diaro ? ( Diaro App )](https://www.cyber-neurones.org/2019/02/pourquoi-lapplication-joplin-sous-android-est-mieux-que-diaro-diaro-app/)
+
 
 ## [RubiTrack sous MacOS](https://www.rubitrack.com/fr/)
 
@@ -1120,11 +1234,15 @@ Meilleur logiciel de suivi de sport, même si l'export n'est pas très propre.
 
 - [RubiTrack 6 : Installation et test … toujours pas de vrai Export !](https://www.cyber-neurones.org/2021/08/rubitrack-6-installation-et-test-toujours-pas-de-vrai-export/)
 
+
+
 ## [Signal](https://signal.org/fr/download/)
 
 Meilleure alternative à WhatsApp.
 
 - [Fin de la migration de WhatsApp vers Signal : suppression du compte WhatsApp](https://www.cyber-neurones.org/2021/01/fin-de-la-migration-de-whatsapp-vers-signal-suppression-du-compte-whatsapp/)
+
+
 
 # Hardware
 
@@ -1136,7 +1254,12 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 
 - [TUXEDO Computers GmbH : TUXEDO InfinityBook Pro 14 v5](https://www.cyber-neurones.org/2020/01/tuxedo-computers-gmbh-tuxedo-infinitybook-pro-14-v5/) : Toujours en vie, donc il a plus de 3 ans. 
 
-# Biot 
 
-- [Trail à Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
+# :round_pushpin: Biot 
+
+- [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
+
+## Inondation
+
+- [NAIAD : Atelier participatif du jeudi 20 Décembre 2018, IMREDD Nice](https://www.cyber-neurones.org/2019/02/naiad-atelier-participatif-du-eudi-20-decembre-2018-imredd-nice/)
 
