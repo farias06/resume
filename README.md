@@ -155,6 +155,28 @@ Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC av
 
 ### 2012
 
+### 2011
+
+### 2010
+
+### 2009
+
+### 2008
+
+### 2007
+
+### 2006
+
+### 2005
+
+### 2004
+
+### 2003
+
+### 2002
+
+### 2001
+
 ### Connaissances informatiques
 
 Impossible de lister tous les protocoles et outils ... 
@@ -717,7 +739,17 @@ Sujets :
 
 - :runner: Course, 21 km, 242 m D+,  :watch: 02:01:06
 
-- :triangular_flag_on_post: :fr:   
+- :triangular_flag_on_post: :fr:   662. (580M - 202V1)	2h02'47'' :round_pushpin:	Antibes
+
+#### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/09/trail-utmb-occ-au-depart-de-orsiere-version-de-56-km/)
+
+- :runner: Trail, 60 km, 3492 m D+,  :watch: 11:19:38
+
+- :triangular_flag_on_post: :fr: 969. (775M - 268V1) :watch: 	11h19'45''  :round_pushpin: 	Chamonix Mont Blanc
+
+- :triangular_flag_on_post: :star: ITRA : 56 km / 3450 m+ :watch: 	11:19:45 	969 / 1572 	776 / 1185  iTRA Score	418 
 
 
 
@@ -763,6 +795,8 @@ J'ai été membre ... maintenant je suis plutôt APRIL.
 
 - [Mojave : Build dlib : issue : fatal error: ‘X11/Xlib.h’ file not found](https://www.cyber-neurones.org/2019/02/mojave-build-dlib-issue-fatal-error-x11-xlib-h-file-not-found/)
 
+- [Ubuntu : Connaitre la version en ligne de commande .](https://www.cyber-neurones.org/2018/09/ubuntu-connaitre-la-version-en-ligne-de-commande/)
+
 
 ### Debian
 
@@ -803,6 +837,29 @@ J'ai été membre ... maintenant je suis plutôt APRIL.
 
 - [Raspberry/Rsyslog : Centralisation des logs via syslog](https://www.cyber-neurones.org/2018/10/raspberry-rsyslog-centralisation-des-logs/)
 
+- [Raspberry : Installation de l’écran WAVESHARE 5″ HDMI LCD (B)](https://www.cyber-neurones.org/2018/10/raspberry-installation-de-lecran-waveshare-5-hdmi-lcd-b/)
+
+- [Munin/Raspberry : Correction à faire ?! ( irqstats, snmp_admin_swap, acpi )](https://www.cyber-neurones.org/2018/10/munin-raspberry-correction-a-faire-irqstats-snmp_admin_swap-acpi/)
+
+- [Raspberry : Disque SSD vs Carte SD](https://www.cyber-neurones.org/2018/10/raspberry-disque-ssd-vs-carte-sd/)
+
+- [Si tu n’as pas de salle serveur à 50 ans, on peut dire que tu as raté ta vie ;)](https://www.cyber-neurones.org/2018/10/si-tu-nas-pas-de-salle-serveur-a-50-ans-on-peut-dire-que-tu-as-rate-ta-vie/)
+
+- [Raspberry/Munin : Installation d’un client SNMP pour Munin](https://www.cyber-neurones.org/2018/09/raspberry-munin-installation-dun-client-snmp-pour-munin/)
+
+- [Raspberry : Configuration réseau sur une Raspbian GNU/Linux 9 (stretch) avec une Freebox](https://www.cyber-neurones.org/2018/09/raspberry-configuration-reseau-sur-une-raspbian-gnu-linux-9-stretch-avec-une-freebox/)
+
+- [Raspberry/Munin : Monitor d’un site WordPress distant ( httpresponsetime )](https://www.cyber-neurones.org/2018/09/raspberry-munin-monitor-dun-site-wordpress-distant-httpresponsetime/)
+
+- [Raspberry/Mac OS : ApplePi-Baker : Créer une carte SD pour le Raspberry.](https://www.cyber-neurones.org/2018/09/raspberry-mac-os-applepi-baker-creer-une-carte-sd-pour-le-raspberry/)
+
+- [Raspberry : Que faire avec ?](https://www.cyber-neurones.org/2018/09/raspberry-que-faire-avec/)
+
+- [OSMC/Raspberry : Basculement d’un carte SD à un disque dur SSD.](https://www.cyber-neurones.org/2018/09/osmc-raspberry-basculement-dun-carte-sd-a-un-disque-dur-ssd/)
+
+- [OSMC/Raspberry : installation de munin ( et Apache2) avec un script pour Freebox](https://www.cyber-neurones.org/2018/09/osmc-raspberry-installation-de-muni-node-et-apache2-avec-un-script-pour-freebox/)
+
+- [OSMC/Raspberry : Ajout de ELK ( Elasticsearch / Logstash / Kibana / Beats / Nginx )](https://www.cyber-neurones.org/2018/09/osmc-raspberry-ajout-de-elk-elasticsearch-logstash-kibana-beats-nginx/)
 
 
 #### Rock64
@@ -1106,6 +1163,12 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée Tyrol en Autriche : Hintertux vers Bichlalm](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-bichlalm/)
 
 
+### Italie
+
+#### Dolomite 
+
+- [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/)
+
 
 ## Developpement
 
@@ -1331,4 +1394,8 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 ## Inondation
 
 - [NAIAD : Atelier participatif du jeudi 20 Décembre 2018, IMREDD Nice](https://www.cyber-neurones.org/2019/02/naiad-atelier-participatif-du-eudi-20-decembre-2018-imredd-nice/)
+
+- [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/)
+
+
 
