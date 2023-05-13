@@ -579,7 +579,7 @@ Sujets :
 
 - :runner: Trail, 45 km, 3244 m D+, :watch: 10:33:19
 
-- :triangular_flag_on_post: :fr: 	264. (220M - 30M2) :watch:	10h33'09''
+- :triangular_flag_on_post: :fr: FFA : 	264. (220M - 30M2) :watch:	10h33'09''
 
 - :triangular_flag_on_post: :star: ITRA : 264 / 327 
    - iTRA SCORE : 400 
@@ -593,7 +593,7 @@ Sujets :
 
 - :runner: Trail, 26 km ,  689 m D+, :watch: 03:01:13
 
-- :triangular_flag_on_post: :fr:  492. (408M - 79M2) :watch:	3h01'18'' (3h01'18'')
+- :triangular_flag_on_post: :fr:  FFA : 492. (408M - 79M2) :watch:	3h01'18'' (3h01'18'')
 
 #### PROM Classic à :round_pushpin: Nice 
 
@@ -601,7 +601,7 @@ Sujets :
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: 3021. (2515M - 349M2) :watch: 	57'24'' (51'01'')
+- :triangular_flag_on_post: :fr: FFA :   3021. (2515M - 349M2) :watch: 	57'24'' (51'01'')
 
 ### 2019
 
@@ -617,7 +617,7 @@ Sujets :
 
 - :runner: Course, 21 km, 
 
-- :triangular_flag_on_post: :fr: 1573. (1288M - 419V1) :watch:	2h00'15'' (1h57'00'')
+- :triangular_flag_on_post: :fr: FFA : 1573. (1288M - 419V1) :watch:	2h00'15'' (1h57'00'')
 
 #### Courir pour une Fleur à :round_pushpin: Antibes
 
@@ -625,7 +625,7 @@ Sujets :
 
 - :runner: Course, 21 km, :watch: 01:57:15
 
-- :triangular_flag_on_post: :fr: 530. (467M - 199V1) :watch:	1h57'56'' (1h57'09'')
+- :triangular_flag_on_post: :fr: FFA : 530. (467M - 199V1) :watch:	1h57'56'' (1h57'09'')
 
 #### Trail de :round_pushpin: Tourrettes-sur-Loup 
 
@@ -633,7 +633,7 @@ Sujets :
 
 - :runner: Trail, 18 km, 1052 m D+, :watch: 02:31:34
 
-- :triangular_flag_on_post: :fr: 158. (140M - 39V1) :watch:	2h31'35''
+- :triangular_flag_on_post: :fr: FFA :  158. (140M - 39V1) :watch:	2h31'35''
 
 #### UTMB CCC :sweat: Abandon au kilomètre 71 :sweat:
 
@@ -651,9 +651,9 @@ Sujets :
 
 - :runner: Trail, 41 km, 2522 m D+, :watch:  07:05:09
 
-- :triangular_flag_on_post: :fr: 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
+- :triangular_flag_on_post: :fr: FFA : 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
 
-- :triangular_flag_on_post: :star: ITRA :  40 km / 2420 m+ 	7:05:06 	265 / 386 	238 / 343 iTRA Score	461 
+- :triangular_flag_on_post: :star: ITRA :  40 km / 2420 m+ :watch:  	7:05:06  :black_circle:	265 / 386 :black_circle: 	238 / 343 iTRA Score	461 
 
 #### Trail de :round_pushpin: Valberg
 
@@ -667,9 +667,9 @@ Sujets :
 
 - :runner: Trail,31 km, 1785 m D+, :watch: 06:25:27
 
-- :triangular_flag_on_post: :fr: 222. (183M - 54V1) :watch:	6h25'26'' :round_pushpin: Aiguines
+- :triangular_flag_on_post: :fr: FFA :  222. (183M - 54V1) :watch:	6h25'26'' :round_pushpin: Aiguines
 
-- :triangular_flag_on_post: :star: ITRA :  30 km / 1560 m+ 	6:25:26 	222 / 243 	185 / 197 	iTRA Score 371 
+- :triangular_flag_on_post: :star: ITRA :  30 km / 1560 m+ :watch: 	6:25:26 :black_circle: 	222 / 243 :black_circle:	185 / 197 	iTRA Score 371 
 
 #### Jeux de Sophia
 
@@ -683,9 +683,9 @@ Sujets :
 
 - :runner: Trail, 44 km, 1882 m D+, :watch: 07:54:20
 
-- :triangular_flag_on_post: :fr:  171. (143M - 53V1) :watch:	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
+- :triangular_flag_on_post: :fr:  FFA  : 171. (143M - 53V1) :watch:	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
 
-- :triangular_flag_on_post: :star: ITRA : 37 km / 1590 m+ 	10:54:28 	171 / 201 	144 / 164 	iTRA Score 298 
+- :triangular_flag_on_post: :star: ITRA : 37 km / 1590 m+ :watch: 	10:54:28  :black_circle:	171 / 201  :black_circle:	144 / 164 	iTRA Score 298 
 
 #### 16 ème CO’Tour de Sophia 
 
@@ -699,7 +699,7 @@ Sujets :
 
 - :runner: Trail, 17 km, 472 m D+, :watch: 01:51:41
 
-- :triangular_flag_on_post: :fr: 65. (56M - 21V1) :watch:	1h50'40'' :round_pushpin:	Biot 
+- :triangular_flag_on_post: :fr: FFA : 65. (56M - 21V1) :watch:	1h50'40'' :round_pushpin:	Biot 
 
 #### Semi-Marathon de :round_pushpin: Nice
 
@@ -707,7 +707,7 @@ Sujets :
 
 - :runner: Course, 21 km, 162 m D+, :watch:  01:57:04
 
-- :triangular_flag_on_post: :fr:  1573. (1288M - 419V1) :watch: 	2h00'15'' (1h57'00'') :round_pushpin:	Nice
+- :triangular_flag_on_post: :fr: FFA :  1573. (1288M - 419V1) :watch: 	2h00'15'' (1h57'00'') :round_pushpin:	Nice
 
 #### Raid Vallis Bona
 
@@ -721,7 +721,7 @@ Sujets :
 
 - :runner: Trail, 26 km, 706 m D+, :watch: 03:07:25
 
-- :triangular_flag_on_post: :fr:  	621. (504M - 201V1)  :watch:	3h07'23'' :round_pushpin:	Cannes
+- :triangular_flag_on_post: :fr:  FFA : 	621. (504M - 201V1)  :watch:	3h07'23'' :round_pushpin:	Cannes
 
 #### PROM Classic :round_pushpin: Nice
 
@@ -729,7 +729,7 @@ Sujets :
 
 - :runner: Course, 10 km, 
 
-- :triangular_flag_on_post: :fr:  	2017. (1775M - 499V1) :watch: 	52'06'' (49'16'') :round_pushpin: 	Nice
+- :triangular_flag_on_post: :fr:  FFA :	2017. (1775M - 499V1) :watch: 	52'06'' (49'16'') :round_pushpin: 	Nice
 
 ### 2018
 
@@ -739,7 +739,7 @@ Sujets :
 
 - :runner: Course, 21 km, 242 m D+,  :watch: 02:01:06
 
-- :triangular_flag_on_post: :fr:   662. (580M - 202V1)	2h02'47'' :round_pushpin:	Antibes
+- :triangular_flag_on_post: :fr: FFA :    662. (580M - 202V1)	2h02'47'' :round_pushpin:	Antibes
 
 #### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
 
@@ -747,9 +747,9 @@ Sujets :
 
 - :runner: Trail, 60 km, 3492 m D+,  :watch: 11:19:38
 
-- :triangular_flag_on_post: :fr: 969. (775M - 268V1) :watch: 	11h19'45''  :round_pushpin: 	Chamonix Mont Blanc
+- :triangular_flag_on_post: :fr: FFA :  969. (775M - 268V1) :watch: 	11h19'45''  :round_pushpin: 	Chamonix Mont Blanc
 
-- :triangular_flag_on_post: :star: ITRA : 56 km / 3450 m+ :watch: 	11:19:45 	969 / 1572 	776 / 1185  iTRA Score	418 
+- :triangular_flag_on_post: :star: ITRA : 56 km / 3450 m+ :watch: 	11:19:45 :black_circle:	969 / 1572 :black_circle:	776 / 1185  iTRA Score	418 
 
 
 
