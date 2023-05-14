@@ -1165,6 +1165,10 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : Boucle de 16 km sur Roquebillière vers la pointe de Siruol](https://www.cyber-neurones.org/2018/05/randonnee-boucle-de-16-km-sur-roquebilliere-vers-la-pointe-de-siruol/)
 
+- [Randonnée : Boucle de 15 km : Malausséne – Mont Vial – Col du Vial.](https://www.cyber-neurones.org/2018/04/randonnee-boucle-de-15-km-malaussene-mont-vial-col-du-vial/)
+
+- [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/)
+
 
 
 ##### Alpes-de-Haute-Provence
@@ -1321,6 +1325,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Tous à vélo : :round_pushpin: Biot – :round_pushpin: Antibes – :round_pushpin: Cannes . ( Edition 2019 ) #TousàVélo](https://www.cyber-neurones.org/2019/11/tous-a-velo-biot-antibes-cannes-edition-2019-tousavelo/)
 
+- [Plan vélo de Sophia Antipolis et les extensions prévues pour 2020](https://www.cyber-neurones.org/2018/04/plan-velo-de-sophia-antipolis-et-les-extensions-prevues-pour-2020/)
+
 
 
 ### Parcours
@@ -1415,6 +1421,9 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [La piste Luc Alphand à Serre-Chevalier](https://www.cyber-neurones.org/2019/02/la-piste-luc-alphand-a-serre-chevalier/)
 
+- [Alpe d’Huez : La piste Sarenne …. pour moi c’est 11 km maximum !](https://www.cyber-neurones.org/2018/03/alpe-dhuez-la-piste-sarenne-pour-moi-cest-11-km-maximum/)
+
+
 ## Ski de randonnée
 
 - [Ski de randonnée à :round_pushpin: Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
@@ -1470,6 +1479,8 @@ Meilleur logiciel de suivi de sport, même si l'export n'est pas très propre.
 - [RubiTrack 6 : Installation et test … toujours pas de vrai Export !](https://www.cyber-neurones.org/2021/08/rubitrack-6-installation-et-test-toujours-pas-de-vrai-export/)
 
 - [rubiTrack 5 Pro : Comment est calculé le Trimp ?](https://www.cyber-neurones.org/2018/05/rubitrack-5-pro-comment-est-calcule-le-trimp/)
+
+- [Rubitrack : Quel est la limite du logiciel ?](https://www.cyber-neurones.org/2018/03/rubitrack-quel-est-la-limite-du-logiciel/)
 
 
 
