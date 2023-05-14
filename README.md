@@ -394,6 +394,12 @@ Sujets :
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
+<div class="pull-left"> 
+<center>
+<img src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg"/><a href="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg">SOURCE DE L'IMAGE</a>
+</center>
+</div>
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
 - :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin  
@@ -800,6 +806,14 @@ Sujets :
 
 - Tir à l'arc, :runner: Trail, VTT, Karting, Baby Foot, Squash, Bowling, Course d'orientation.
 
+#### Semi-marathon de :round_pushpin: Nice
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/04/semi-marathon-de-nice-edition-2018/)
+
+- :runner: Course, 21 km,  :watch:  01:43:43
+
+- :triangular_flag_on_post: :fr: FFA :  	871. (762M - 259V1) :watch: 	1h52'15'' (1h49'44'') :round_pushpin: 	Nice
+
 
 ## Linux 
 
@@ -1149,6 +1163,9 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : Du bas de :round_pushpin: Gréolière à la Cime du Cheiron (via une partie du GR4)](https://www.cyber-neurones.org/2019/05/randonnee-du-bas-de-greoliere-a-la-cime-du-cheiron-via-une-partie-du-gr4/)
 
+- [Randonnée : Boucle de 16 km sur Roquebillière vers la pointe de Siruol](https://www.cyber-neurones.org/2018/05/randonnee-boucle-de-16-km-sur-roquebilliere-vers-la-pointe-de-siruol/)
+
+
 
 ##### Alpes-de-Haute-Provence
 
@@ -1162,6 +1179,8 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée à :round_pushpin: Dourgne : Source du Melzic](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-source-du-melzic/)
 
 - [Balade à :round_pushpin: Mazamet : La passerelle d’Hautpoul](https://www.cyber-neurones.org/2019/04/balade-a-mazamet-la-passerelle-dhautpoul/)
+
+- [Saint-Avit (Tarn) vers le Dicosa](https://www.cyber-neurones.org/2018/04/velo-saint-avit-tarn-vers-le-dicosa/)
 
 
 
@@ -1340,6 +1359,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Vélo : :round_pushpin:  Nice ( Vieux port ) vers :round_pushpin:  Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/)
 
+
+
 ##### Hautes-Alpes
 
 - [Col du Galibier au départ de Le Verneys](https://www.cyber-neurones.org/2022/08/col-du-galibier-au-depart-de-le-verneys/)
@@ -1364,6 +1385,10 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [Vélo/Gravel : De Biot à Gourdon](https://www.cyber-neurones.org/2021/06/velo-gravel-de-biot-a-gourdon/)
 
 - [Vélo : Biot vers Courmes](https://www.cyber-neurones.org/2021/06/velo-biot-vers-courmes/) 
+
+- [Lautrec vers Lombers via la voie verte.](https://www.cyber-neurones.org/2018/04/velo-lautrec-vers-lombers-via-la-voie-verte/)
+
+- [Boucle Saint-Avit (Tarn), Dourgne, Montalric, Sorèze, Cahuzac, Lagardiolle.](https://www.cyber-neurones.org/2018/04/velo-boucle-saint-avit-tarn-dourgne-montalric-soreze-cahuzac-lagardiolle/)
 
 
 ##### Vaucluse
@@ -1444,6 +1469,8 @@ Meilleur logiciel de suivi de sport, même si l'export n'est pas très propre.
 
 - [RubiTrack 6 : Installation et test … toujours pas de vrai Export !](https://www.cyber-neurones.org/2021/08/rubitrack-6-installation-et-test-toujours-pas-de-vrai-export/)
 
+- [rubiTrack 5 Pro : Comment est calculé le Trimp ?](https://www.cyber-neurones.org/2018/05/rubitrack-5-pro-comment-est-calcule-le-trimp/)
+
 
 
 ## [Signal](https://signal.org/fr/download/)
@@ -1469,6 +1496,7 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 
 - [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
 
+
 ## Inondation
 
 - [NAIAD : Atelier participatif du jeudi 20 Décembre 2018, IMREDD Nice](https://www.cyber-neurones.org/2019/02/naiad-atelier-participatif-du-eudi-20-decembre-2018-imredd-nice/)
@@ -1476,4 +1504,6 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 - [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/)
 
 - [Sénat : Aménagement de l’autoroute A8 : buses de l’Autoroute ( par Dominique Estrosi Sassone )](https://www.cyber-neurones.org/2018/06/senat-buses-de-lautoroute/)
+
+
 
