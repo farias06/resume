@@ -400,9 +400,9 @@ Sujets :
 </center>
 </div>
 
-- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
+:link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
-- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin
+:bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin
 
 
 #### Semi-marathon de :round_pushpin: Nice 
