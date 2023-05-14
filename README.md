@@ -1,3 +1,4 @@
+<style type="text/css">
 img[alt$=">"] {
   float: right;
 }
@@ -13,6 +14,7 @@ img[alt$="><"] {
   margin: auto;
   float: none!important;
 }
+</style>
 
 ARIAS FREDERIC
 ==============
