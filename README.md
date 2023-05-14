@@ -394,15 +394,16 @@ Sujets :
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
-- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
-
-- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin
-
-<div class="pull-left"> 
+<div class="pull-right"> 
 <center>
 <img src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg"/>
 </center>
 </div>
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
+
+- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin
+
 
 #### Semi-marathon de :round_pushpin: Nice 
 
