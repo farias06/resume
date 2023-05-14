@@ -412,6 +412,8 @@ Sujets :
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
+<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/03/20230319-114455-300x169.jpg">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
 
 - :runner: Trail, 13 km, 670m D+, 01:38:34.
