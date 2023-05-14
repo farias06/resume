@@ -1,8 +1,21 @@
+img[alt$=">"] {
+  float: right;
+}
+
+img[alt$="<"] {
+  float: left;
+}
+
+img[alt$="><"] {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  float: none!important;
+}
+
 ARIAS FREDERIC
 ==============
-
-img[alt$=">"]{float:right;width:25%;}
-
 
 Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
