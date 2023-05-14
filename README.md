@@ -1,6 +1,9 @@
 ARIAS FREDERIC
 ==============
 
+img[alt$=">"]{float:right;width:25%;}
+
+
 Ma vie publique en un seul Markdown (version fr) , en cours de construction.
 
 Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est Linux et plutôt le coté serveur. Sachant que vu que je fais du C on peut le mettre sur le l'IoT sans problème.
