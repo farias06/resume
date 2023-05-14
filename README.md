@@ -1167,6 +1167,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : Boucle de 15 km : Malausséne – Mont Vial – Col du Vial.](https://www.cyber-neurones.org/2018/04/randonnee-boucle-de-15-km-malaussene-mont-vial-col-du-vial/)
 
+<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-300x169.jpg">
+
 - [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/)
 
 
