@@ -143,6 +143,9 @@ Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC av
 
 - [Resideo : Mon premier jour chez Resideo](https://www.cyber-neurones.org/2018/10/resideo-mon-premier-jour-chez-resideo/)
 
+- [Oracle Linux 7.x : History of GLIBC and CVE](https://www.cyber-neurones.org/2018/06/oracle-linux-7-x-history-of-glibc-and-cve/)
+
+
 ### 2017
 
 ### 2016
@@ -751,6 +754,51 @@ Sujets :
 
 - :triangular_flag_on_post: :star: ITRA : 56 km / 3450 m+ :watch: 	11:19:45 :black_circle:	969 / 1572 :black_circle:	776 / 1185  iTRA Score	418 
 
+#### Trail des Mélèzes – Version 25 km au départ de :round_pushpin: Colmars
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-des-melezes-version-25-km-au-depart-de-colmars/)
+
+- :runner: Trail, 28 km, 1964 m D+, :watch: 05:28:56
+
+- :triangular_flag_on_post: :fr: FFA : 	172. (143M - 45V1) :watch: 	5h28'42''	 :round_pushpin:  Beauvezer
+
+#### Trail : HTV : High Trail Vanoise :sweat: Abandon au kilomètre 51 :sweat:
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-high-trail-vanoise-2018/)
+
+- :link: [Materiel](https://www.cyber-neurones.org/2018/07/materiel-pour-high-trail-vanoise/)
+
+- :runner: Trail, 51 km, 3716 m D+,  :watch: 11:39:46
+
+#### Foulée Biotoise
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/07/foulee-biotoise-2018/)
+
+- :runner: Course, :watch: 49:48:00
+
+#### Ultra-Trail Var Verdon
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/06/ultra-trail-var-verdon-edition-2018/)
+
+- :runner: Trail, 66 km, 3315 m D+, :watch: 12:28:56
+
+- :triangular_flag_on_post: :star: ITRA :  60 km / 3400 m+  :watch:	12:28:36  :black_circle: 	111 / 179   :black_circle:	103 / 161 iTRA Score	437 
+
+#### Trail La chaussée des Géants – Thueyts Ardèche
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/06/trail-la-chaussee-des-geants-thueyts-ardeche-edition-2018/)
+
+- :runner: Trail, 50 km,  2782 m D+,  :watch: 09:02:35
+
+- :triangular_flag_on_post: :fr: FFA : 	157. (151M - 50V1) :watch:	9h02'21'' :round_pushpin:	Thueyts
+
+- :triangular_flag_on_post: :star: ITRA : 49 km / 2870 m+ :watch:  	9:02:21  :black_circle:	157 / 200 :black_circle: 	151 / 187  iTRA Score	435 
+
+#### Jeux de Sophia - Edition 2018
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/05/jeux-de-sophia-2018/)
+
+- Tir à l'arc, :runner: Trail, VTT, Karting, Baby Foot, Squash, Bowling, Course d'orientation.
 
 
 ## Linux 
@@ -761,11 +809,21 @@ Sujets :
 
 Promouvoir et défendre le logiciel libre. :heavy_check_mark: Je suis membre . 
 
+#### Framasoft 
+
+- [PeerTube](https://www.cyber-neurones.org/2018/06/framasoft-peertube-a-free-and-federated-video-platform/)
+
 #### [La Quadrature du Net](https://www.laquadrature.net/)
 
 J'ai été membre ... maintenant je suis plutôt APRIL. 
 
 - [Association : La Quadrature Du Net](https://www.cyber-neurones.org/2019/12/association-la-quadrature-du-net/)
+
+### VIM
+
+Meilleur éditeur au monde 
+
+- [VIM sous Windows (version 8.0.586) : comment supprimé les ^M](https://www.cyber-neurones.org/2018/06/vim-sous-windows-version-8-0-586-comment-supprime-les-m/)
 
 ### Ubuntu
 
@@ -1092,6 +1150,11 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée : Du bas de :round_pushpin: Gréolière à la Cime du Cheiron (via une partie du GR4)](https://www.cyber-neurones.org/2019/05/randonnee-du-bas-de-greoliere-a-la-cime-du-cheiron-via-une-partie-du-gr4/)
 
 
+##### Alpes-de-Haute-Provence
+
+- [Colmars les alpes : Cascade de la Lance & Cascade de Chaumie](https://www.cyber-neurones.org/2018/07/colmars-les-alpes-cascade-de-la-lance-cascade-de-chaumie/)
+
+
 ##### Tarn
 
 - [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/)
@@ -1168,6 +1231,21 @@ J'ai migrer de Raspberry vers ESX.
 #### Dolomite 
 
 - [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/)
+
+- [Italie Dolomites : Randonnée n°517,18,22 : Karer Pass, échec de l’ascension vers Latemar (mal sécurisé)](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n5171822-karer-pass-echec-de-lascension-vers-latemar-mal-securise/)
+
+- [Italie Dolomites : Randonnée n°580,579 : De Mazzin à la cascade Spina de Lech](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n580579-de-mazzin-a-la-cascade-spina-de-lech/)
+
+- [Italie Dolomites : Randonnée n°2,9 : Aller-Retour de Weisslahnbad à Schafkopfe.](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n29-aller-retour-de-weisslahnbad-a-schafkopfe/)
+
+- [Italie Dolomites : Randonnée n°5,5A,1,1A : Boucle de Tiers (Tires) vers NigerPass](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n55a11a-boucle-de-tiers-tires-vers-nigerpass/)
+
+- [Italie Dolomites : Randonnée n°1,550,541,549 : Boucle départ Nigerpass autour de Coronelle, Zigolade, Rotwand.](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n1550541549-boucle-depart-nigerpass-autour-de-coronelle-zigolade-rotwand/)
+
+- [Italie Dolomites : Randonnée n°2,1,7,7B,4 : Boucle Weisslahnbad, Sesselsschwaige, Tschafonhütte .](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n2177b4-boucle-weisslahnbad-sesselsschwaige-tschafonhutte/)
+
+- [Italie Dolomites : Randonnée n°3 : Rifugio (Refuge) Alpe di Tires ( Tierser Alpl )](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n3-rifugio-refuge-alpe-di-tires-tierser-alpl/)
+
 
 
 ## Developpement
@@ -1397,5 +1475,5 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 
 - [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/)
 
-
+- [Sénat : Aménagement de l’autoroute A8 : buses de l’Autoroute ( par Dominique Estrosi Sassone )](https://www.cyber-neurones.org/2018/06/senat-buses-de-lautoroute/)
 
