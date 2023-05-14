@@ -1,20 +1,3 @@
-<style type="text/css">
-img[alt$=">"] {
-  float: right;
-}
-
-img[alt$="<"] {
-  float: left;
-}
-
-img[alt$="><"] {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: auto;
-  float: none!important;
-}
-</style>
 
 ARIAS FREDERIC
 ==============
@@ -412,7 +395,7 @@ Sujets :
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
-![image >](https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg)
+<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
