@@ -1125,6 +1125,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée sportive : Boucle de 22 km sur la Vallée de Merveilles](https://www.cyber-neurones.org/2021/08/randonnee-sportive-boucle-de-22-km-sur-la-vallee-de-merveilles/)
 
+<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2021/07/p-20210725-114006-300x225.jpg">
+
 - [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/) :grinning:
 
 - [Randonnée : Le Pra – Refuge de Vens – Col du Fer](https://www.cyber-neurones.org/2021/07/randonnee-le-pra-refuge-de-vens-col-du-fer/)
