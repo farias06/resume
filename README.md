@@ -588,6 +588,8 @@ Sujets :
 
 ####  UTCAM MERCANTOUR 45 km
 
+<img align="right" src="./img/D5C_9695.jpg" width="300">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/trail-utcam-trail-cote-dazur-mercantour-version-45-km-edition-2020/)
 
 - :runner: Trail, 45 km, 3244 m D+, :watch: 10:33:19
@@ -660,13 +662,19 @@ Sujets :
 
 #### Trail de UBAYE Elite
 
+<img align="right" src="./img/67815508_2276016295780505_3875428040053882880_n.jpg" width="300">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/trail-de-ubaye-elite-a-barcelonnette-edition-2019/)
 
 - :runner: Trail, 41 km, 2522 m D+, :watch:  07:05:09
 
 - :triangular_flag_on_post: :fr: FFA : 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
 
-- :triangular_flag_on_post: :star: ITRA :  40 km / 2420 m+ :watch:  	7:05:06  :black_circle:	265 / 386 :black_circle: 	238 / 343 iTRA Score	461 
+- :triangular_flag_on_post: :star: ITRA :  40 km / 2420 m+ 
+    - :watch:  	7:05:06  
+    - :black_circle:	265 / 386 
+    - :black_circle: 	238 / 343 
+    - iTRA Score	461 
 
 #### Trail de :round_pushpin: Valberg
 
@@ -755,6 +763,8 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :    662. (580M - 202V1)	2h02'47'' :round_pushpin:	Antibes
 
 #### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
+
+- <img align="right" src="./img/51989192.jpg" width="300">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/09/trail-utmb-occ-au-depart-de-orsiere-version-de-56-km/)
 
