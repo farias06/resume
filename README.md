@@ -1351,8 +1351,11 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Tour de Sénèque au départ de Fieno (Cap Corse)](https://www.cyber-neurones.org/2022/04/corse-tour-de-seneque-au-depart-de-fieno/)
 
+- GR20 
+
 - 
 
+- 
 
 
 ### Autriche
