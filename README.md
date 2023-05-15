@@ -1276,6 +1276,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/)
 
+<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="300">
+
 - [Isola 2000 : Randonnée vers les Lacs de Terre Rouge et le Col Baisse de Druos](https://www.cyber-neurones.org/2019/08/isola-2000-randonnee-vers-les-lacs-de-terre-rouge-et-le-col-baisse-de-druos/)
 
 - [Isola 2000 : Ranndonnée : Col de Mercière, Tête Mercière, Tête de la Roubine, Col de la Valette](https://www.cyber-neurones.org/2019/08/isola-2000-ranndonnee-col-de-merciere-tete-merciere-tete-de-la-roubine-col-de-la-valette/)
@@ -1295,8 +1297,6 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée : Boucle de 16 km sur Roquebillière vers la pointe de Siruol](https://www.cyber-neurones.org/2018/05/randonnee-boucle-de-16-km-sur-roquebilliere-vers-la-pointe-de-siruol/)
 
 - [Randonnée : Boucle de 15 km : Malausséne – Mont Vial – Col du Vial.](https://www.cyber-neurones.org/2018/04/randonnee-boucle-de-15-km-malaussene-mont-vial-col-du-vial/)
-
-<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="300">
 
 - [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/)
 
