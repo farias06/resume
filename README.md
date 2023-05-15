@@ -2,9 +2,11 @@
 ARIAS FREDERIC
 ==============
 
-Ma vie publique en un seul Markdown (version fr) , en cours de construction.
+Ma "vie publique" en un seul Markdown (version fr) , :construction: en cours de construction. :construction: 
 
 Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est Linux et plutôt le coté serveur. Sachant que vu que je fais du C on peut le mettre sur le l'IoT sans problème.
+
+Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
 
 # Lien externe 
 
@@ -336,6 +338,8 @@ Sujets :
 Tags : #OSSParis2017
 
 Sujets : DevOps , Python , Haskell , Cloud , IA , Cybersecurity .
+
+- [Paris Open Source Summit 2017 : #OSSParis2017](https://www.cyber-neurones.org/2017/12/paris-open-source-summit-2017-ossparis2017/)
 
 ## Docker à :round_pushpin: Sophia-Antipolis : mars 2017 
 
@@ -770,6 +774,8 @@ Sujets :
 
 #### Trail : HTV : High Trail Vanoise :sweat: Abandon au kilomètre 51 :sweat:
 
+<img align="right" src="./img/8_HTV_1752.JPG" width="300">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-high-trail-vanoise-2018/)
 
 - :link: [Materiel](https://www.cyber-neurones.org/2018/07/materiel-pour-high-trail-vanoise/)
@@ -814,6 +820,105 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :  	871. (762M - 259V1) :watch: 	1h52'15'' (1h49'44'') :round_pushpin: 	Nice
 
+#### Trail de la Galinette : Les drailles de la Galinette (46 km) à :round_pushpin: Cadolive
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/02/trail-de-la-galinette-les-drailles-de-la-galinette-46-km-a-cadolive/)
+
+- :runner: Trail, 46 km
+
+- :triangular_flag_on_post: :star: ITRA : 46 km / 2400 m+ 
+   - :watch:	7:59:50 
+   - :black_circle: 	228 / 291 
+   - :black_circle: 	207 / 264 
+   - iTRA Score 	432 
+
+#### Urban Trail de Cannes : 26 km : Grand Cannois
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/01/urban-trail-de-cannes-26-km-grand-cannois/)
+
+- :runner: Trai, 26 km
+
+- :triangular_flag_on_post: :fr: FFA :  342. (304M - 125V1) :watch:	2h43'07'' :round_pushpin:	Cannes 
+
+#### PROM Classic à  :round_pushpin:  Nice
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2018/01/prom-classic-edition-2018/)
+
+- :runner: Course, 10 km
+
+- :triangular_flag_on_post: :fr: FFA : 	2092. (1809M - 558V1)	56'14'' (49'01'') :round_pushpin: 	Nice
+
+### 2017
+
+#### Hivernale des templiers : Le marathon d’Orchis.
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/12/hivernale-des-templiers-le-marathon-dorchis/)
+
+- :runner: Trail, 39 km, 
+
+- :triangular_flag_on_post: :fr: FFA :
+
+- :triangular_flag_on_post: :star: ITRA :  	39 km / 1970 m+ 	
+    - :watch: 5:29:17 	
+    - :black_circle: 520 / 802
+    - :black_circle: 	463 / 659
+    - iTRA Score 	448 
+
+#### L’Alpin Trail De PICHAURIS (Edition Elite) – 2017
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/11/lalpin-trail-de-pichauris-edition-elite-2017/)
+
+- :triangular_flag_on_post: :fr: FFA :
+
+- :triangular_flag_on_post: :star: ITRA :  30 km / 1660 m+
+    - :watch:	5:32:44 
+    - :black_circle:	291 / 327
+    - :black_circle: 	258 / 283 
+    - iTRA Score	395 
+
+### 2016
+
+### 2015
+
+### 2014
+
+### 2013
+
+### 2012
+
+### 2011
+
+### 2010
+
+### 2009
+
+### 2008
+
+### 2007
+
+### 2006
+
+### 2005
+
+### 2004
+
+### 2003
+
+### 2002
+
+### 2008
+
+### 2000
+
+### 1999
+
+### 1998
+
+### 1997
+
+### 1996
+
+### 1995
 
 ## Linux 
 
@@ -832,6 +937,10 @@ Promouvoir et défendre le logiciel libre. :heavy_check_mark: Je suis membre .
 J'ai été membre ... maintenant je suis plutôt APRIL. 
 
 - [Association : La Quadrature Du Net](https://www.cyber-neurones.org/2019/12/association-la-quadrature-du-net/)
+
+- [Rappel : SOUTENEZ LA QUADRATURE DU NET !](https://www.cyber-neurones.org/2017/12/rappel-soutenez-la-quadrature-du-net/)
+
+
 
 ### VIM
 
@@ -1331,6 +1440,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Plan vélo de Sophia Antipolis et les extensions prévues pour 2020](https://www.cyber-neurones.org/2018/04/plan-velo-de-sophia-antipolis-et-les-extensions-prevues-pour-2020/)
 
+- [Rapport indemnité vélo ( IKV ) : un rapport comme je les aime !](https://www.cyber-neurones.org/2017/12/rapport-indemnite-velo-ikv-un-rapport-comme-je-les-aime/)
+
 
 
 ### Parcours
@@ -1475,6 +1586,9 @@ J'ai commencé par ANotes (uniquement sous iOS/MacOS), puis Diaro et maintenant 
 
 - [Pourquoi l’application Joplin sous Android est mieux que Diaro ? ( Diaro App )](https://www.cyber-neurones.org/2019/02/pourquoi-lapplication-joplin-sous-android-est-mieux-que-diaro-diaro-app/)
 
+- [Diaro ( diaroapp.com ) : Import from Awesome Note ( bridworks.com )](https://www.cyber-neurones.org/2018/01/diaro-diaroapp-com-import-from-awesome-note-bridworks-com/)
+
+
 
 ## [RubiTrack sous MacOS](https://www.rubitrack.com/fr/)
 
@@ -1519,6 +1633,9 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 - [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/)
 
 - [Sénat : Aménagement de l’autoroute A8 : buses de l’Autoroute ( par Dominique Estrosi Sassone )](https://www.cyber-neurones.org/2018/06/senat-buses-de-lautoroute/)
+
+- [BIOT PPRI](https://www.cyber-neurones.org/2018/02/biot-ppri-lien-nouvelle-carte-et-documents/)
+
 
 
 
