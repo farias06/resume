@@ -8,7 +8,7 @@ Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC av
 
 Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
 
-# Lien externe 
+# Liens externes 
 
 <img align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="300">
 
@@ -154,6 +154,10 @@ Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
 
 
 ### 2017
+
+#### Notes
+
+- [Redis : Configuration et performance sous Fédora & Redhat](https://www.cyber-neurones.org/2017/09/redis-configuration-et-performance-sous-fedora-redhat/)
 
 ### 2016
 
@@ -870,7 +874,7 @@ Sujets :
 
 - :runner: Trail, 39 km, 
 
-- :triangular_flag_on_post: :fr: FFA :
+- :triangular_flag_on_post: :fr: FFA : 516. (459M - 150V1)	5h29'17'' round_pushpin:	Roquefort Sur Soulzon
 
 - :triangular_flag_on_post: :star: ITRA :  	39 km / 1970 m+ 	
     - :watch: 5:29:17 	
@@ -882,13 +886,19 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/11/lalpin-trail-de-pichauris-edition-elite-2017/)
 
-- :triangular_flag_on_post: :fr: FFA :
+- :triangular_flag_on_post: :fr: FFA : 	Alpin trail e lite 30 kms d/1700m	290. (257M - 111MA)	5h32'44'' :round_pushpin: 	Allauch
 
 - :triangular_flag_on_post: :star: ITRA :  30 km / 1660 m+
     - :watch:	5:32:44 
     - :black_circle:	291 / 327
     - :black_circle: 	258 / 283 
     - iTRA Score	395 
+
+#### Marathon des Alpes-Maritimes en relais
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/11/marathon-des-alpes-maritimes-en-relais/)
+
+- :triangular_flag_on_post: :fr: FFA : :watch: 1:52:11 
 
 ### 2016
 
@@ -1300,6 +1310,9 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/)
 
+- [Randonnée à Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/)
+
+
 
 
 ##### Alpes-de-Haute-Provence
@@ -1668,5 +1681,7 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 - [BIOT PPRI](https://www.cyber-neurones.org/2018/02/biot-ppri-lien-nouvelle-carte-et-documents/)
 
 
+## Réunion 
 
+- [Biot : Rénion du quartier n°2](https://www.cyber-neurones.org/2017/09/biot-renion-du-quartier-n2/)
 
