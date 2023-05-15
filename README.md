@@ -1238,6 +1238,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Tour complet du Cap d’Antibes](https://www.cyber-neurones.org/2022/04/marche-tour-complet-du-cap-dantibes/)
 
+<img align="right" src="./img/20230423_122023.jpg" width="300">
+
 - [Brec d’Utelle au départ de Saint-Jean La Rivière](https://www.cyber-neurones.org/2022/03/randonnee-a-utelle-brec-dutelle-au-depart-de-saint-jean-la-riviere/)
 
 - [Randonnée à Caille : Crêtes du Bauroux](https://www.cyber-neurones.org/2022/02/randonnee-a-caille-cretes-du-bauroux/)
@@ -1319,6 +1321,8 @@ J'ai migrer de Raspberry vers ESX.
 
 ##### Pyrénées-Orientales
 
+<img align="right" src="./img/IMG_20200722_063659.jpg" width="300">
+
 - [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/)
 
 - [Randonnée : Bivouac 2 jours : :round_pushpin: Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/)
@@ -1355,6 +1359,8 @@ J'ai migrer de Raspberry vers ESX.
 
 #### Tyrol
 
+<img align="right" src="./img/IMG_20190724_093231.jpg" width="300">
+
 - [Randonnée Tyrol en Autriche : De Juns Fener-Haus vers Tote Böden](https://www.cyber-neurones.org/2019/08/randonnee-tyrol-en-autriche-de-juns-fener-haus-vers-tote-boden/)
 
 - [Randonnée Tyrol en Autriche : De Tuxer Fener-Haus vers Friesenbergscharte](https://www.cyber-neurones.org/2019/08/randonnee-tyrol-en-autriche-de-tuxer-fener-haus-vers-friesenbergscharte)
@@ -1366,6 +1372,8 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée Tyrol en Autriche : De Finkenberg vers Penkenjoch](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-de-finkenberg-vers-penkenjoch/)
 
 - [Randonnée Tyrol en Autriche : Cascade (ou chutes) de Krimml](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-cascade-de-krimml/)
+
+<img align="right" src="./img/IMG_20190731_091230.jpg" width="300">
 
 - [Randonnée Tyrol en Autriche : Karlshütte vers le barrage de Schlegeisspeicher](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-karshutte-vers-le-barrage-de-schlegeisspeicher/)
 
@@ -1382,7 +1390,9 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Italie
 
-#### Dolomite 
+#### Dolomites 
+
+<img align="right" src="./img/IMG_20180813_150631.jpg" width="300">
 
 - [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/)
 
