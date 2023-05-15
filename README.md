@@ -10,6 +10,8 @@ Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
 
 # Lien externe 
 
+<img align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="300">
+
 - [Mon blog](www.cyber-neurones.org)
    - Actuellement mon blog est sur Wordpress, j'utilise mon bloc comme "Bloc Note Public" sachant que mon "Bloc Note Privé" c'est [Joplin](https://joplinapp.org/). L'idée est donc d'avoir le même format pour les post à savoir [Markdown](https://fr.wikipedia.org/wiki/Markdown) . Le mieux est donc de migrer vers [Hugo](https://gohugo.io/) . J'ai vu qu'il existait [des softs pour la migration](https://gohugo.io/tools/migrations/#wordpress) . La seule fonctionnalité que je ne veux pas perdre c'est de pouvoir visualiser les GPX de facons dynamique.   
 
@@ -51,6 +53,8 @@ Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
    - Linphone
 
 #### Software 
+
+<img align="right" src="./img/1200px-Postgresql_elephant.svg.png" width="300">
 
 - [PostgreSQL](https://www.postgresql.org/) / [Redis](https://redis.io/) / NGINX / Mosquitto / MySQL / RabbitMQ / Jenkins / Supervisord / Grafana.
 
@@ -1218,6 +1222,8 @@ J'ai migrer de Raspberry vers ESX.
 
 #### Alpes-Maritimes
 
+<img align="right" src="./img/20230225_095708~2.jpg" width="300">
+
 - [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
 
 - [Boucle des chasseurs entre :round_pushpin: Biot et :round_pushpin: Villeneuve-Loubet ](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
@@ -1334,6 +1340,8 @@ J'ai migrer de Raspberry vers ESX.
 
 
 #### Corse
+
+<img align="right" src="./img/06267.jpg" width="300">
 
 - [Sentier des plages de Bonifacio en deux étapes](https://www.cyber-neurones.org/2022/04/randonnee-en-corse-sentier-des-plages-de-bonifacio-en-deux-etapes/)
 
