@@ -161,6 +161,8 @@ De Mi-Mai 2001 à aujdourd'hui.
 
 - [Redis : Configuration et performance sous Fédora & Redhat](https://www.cyber-neurones.org/2017/09/redis-configuration-et-performance-sous-fedora-redhat/)
 
+- [tmpwatch : Ménage dans /tmp/ sous Linux Redhat & Fédora](https://www.cyber-neurones.org/2017/01/tmpwatch-menage-dans-tmp-sous-linux-redhat-fedora/)
+
 ### 2016
 
 ### 2015
@@ -359,9 +361,13 @@ Sujets : DevOps , Python , Haskell , Cloud , IA , Cybersecurity .
 
 Sujet : Docker
 
+- [Celebration of Docker’s 4th Birthday à Sophia-Antipolis](https://www.cyber-neurones.org/2017/03/celebration-of-dockers-4th-birthday-a-sophia-antipolis/)
+
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
 Sujets :
+
+- [Paris Open Source Summit 2016 : #OSSPARIS2016 ](https://www.cyber-neurones.org/2016/11/paris-open-source-summit-2016-ossparis2016/)
 
 #### Docker à :round_pushpin: Sophia-Antipolis : mars 2016 .
 
@@ -944,6 +950,28 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 	427. (357M - 238MA) :watch:	3h05'23'' :round_pushpin:	Ensues La Redonne
 
+#### Trail Hermes Fréjus Estérel
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-hermes-frejus-esterel/)
+
+- :runner: Trail :watch:
+
+- :triangular_flag_on_post: :fr: FFA : 	167. (137M - 46V1)	3h10'10'' :round_pushpin:	Frejus 
+
+#### :round_pushpin: Mougins Urban Trail (Première édition)
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/03/mougins-urban-trail-premiere-edition/)
+
+- :runner:  Course
+
+#### Trail des 3 cols à :round_pushpin: Bormes-les-mimosas 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/02/trail-des-3-cols-a-bormes-les-mimosas/)
+
+- :runner: Trail
+
+- :triangular_flag_on_post: :fr: FFA :  210. (167M - 63V1)	3h02'42'' :round_pushpin:	Bormes Les Mimosas
+
 ### 2016
 
 ### 2015
@@ -1018,7 +1046,7 @@ gantt
 
 ## Linux 
 
-### Association
+### Associatioins
 
 #### [APRIL](https://www.april.org/)
 
@@ -1214,6 +1242,7 @@ J'ai aussi mis le plugin Matomo afin de supprimer Google Analytics.
 
 - [WordPress : WP-Optimize option cache : Des résultats visibles !](https://www.cyber-neurones.org/2020/11/wordpress-wp-optimize-option-cache-des-resultats-visibles/)
 
+- [Transposh , le plugin WordPress qui consomme toute la base de donnée !](https://www.cyber-neurones.org/2016/12/transposh-le-plugin-qui-consomme-toute-la-base-de-donnee/)
 
 
 #### [Drupal](https://www.drupal.fr/)
@@ -1388,6 +1417,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Balade à l’ombre : De Biot à Valbonne par la Brague](https://www.cyber-neurones.org/2017/08/balade-de-biot-a-valbonne-par-la-brague/)
 
+- [Randonnée : Piste du Castellaras (Commune d’Andon)](https://www.cyber-neurones.org/2016/12/randonnee-piste-du-castellaras-commune-dandon/)
+
 
 
 
@@ -1405,6 +1436,8 @@ J'ai migrer de Raspberry vers ESX.
 - [Balade à :round_pushpin: Mazamet : La passerelle d’Hautpoul](https://www.cyber-neurones.org/2019/04/balade-a-mazamet-la-passerelle-dhautpoul/)
 
 - [Saint-Avit (Tarn) vers le Dicosa](https://www.cyber-neurones.org/2018/04/velo-saint-avit-tarn-vers-le-dicosa/)
+
+- [La Capelette de Saint-Ferréol à Dourgne](https://www.cyber-neurones.org/2016/12/la-capelette-de-saint-ferreol-a-dourgne-dans-le-tarn-2/)
 
 
 
@@ -1533,8 +1566,6 @@ J'ai migrer de Raspberry vers ESX.
 - [MacOS : Python : Suppression des doublons d’emails avec l’API Python Elasticsearch/Kibana (Version V3)](https://www.cyber-neurones.org/2019/11/macos-python-suppression-des-doublons-demails-avec-lapi-python-elasticsearch-kibana-version-v3/)
 
 - [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/)
-
-- [OpenDataGouv : Transaction immobilière sur Biot](https://www.cyber-neurones.org/2019/04/opendatagouv-transaction-immobiliere-sur-biot/)
 
 
 
@@ -1671,7 +1702,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [Formation Niveau 1 en plongée avec Kalliste Plongée et Divingeek à Porto Vecchio](https://www.cyber-neurones.org/2017/08/formation-niveau-1-en-plongee-avec-kalliste-plongee-et-divingeek-a-porto-vecchio/)
 
 
-## Surf
+## :surfer: Surf
 
 - [La meilleure école de surf sur Léon : One Palm ](https://www.cyber-neurones.org/2017/07/la-meilleure-ecole-de-surf-sur-leon-one-palm/)
 
@@ -1716,6 +1747,8 @@ J'ai commencé par ANotes (uniquement sous iOS/MacOS), puis Diaro et maintenant 
 - [Pourquoi l’application Joplin sous Android est mieux que Diaro ? ( Diaro App )](https://www.cyber-neurones.org/2019/02/pourquoi-lapplication-joplin-sous-android-est-mieux-que-diaro-diaro-app/)
 
 - [Diaro ( diaroapp.com ) : Import from Awesome Note ( bridworks.com )](https://www.cyber-neurones.org/2018/01/diaro-diaroapp-com-import-from-awesome-note-bridworks-com/)
+
+- [Diaro sous Android](https://www.cyber-neurones.org/2016/12/diaro-sous-android/)
 
 
 
@@ -1767,8 +1800,20 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 
 - [BIOT nouveau PPRI](https://www.cyber-neurones.org/2017/05/biot-nouveau-plan-de-prevention-des-risques-dinondation-ppri/)
 
+- [Biot Réunion du 31 : Porter à connaissance de la nouvelle cartographie des zones inondables](https://www.cyber-neurones.org/2017/02/biot-reunion-du-31-porter-a-connaissance-de-la-nouvelle-cartographie-des-zones-inondables/)
 
 ## Réunion 
 
 - [Biot : Rénion du quartier n°2](https://www.cyber-neurones.org/2017/09/biot-renion-du-quartier-n2/)
+
+- [Conseil de quartier à Biot n°2: j’y étais pour vous](https://www.cyber-neurones.org/2016/11/conseil-de-quartier-a-biot-n2-jy-etais-pour-vous/)
+
+# Autres
+
+## [OpenData](https://www.data.gouv.fr/fr/)
+
+- [OpenDataGouv : Transaction immobilière sur Biot](https://www.cyber-neurones.org/2019/04/opendatagouv-transaction-immobiliere-sur-biot/)
+
+- [OpenData : Il suffisait de demander pour avoir un format exploitable ;)](https://www.cyber-neurones.org/2016/11/opendata-il-suffisait-de-demander-pour-avoir-un-format-exploitable/)
+
 
