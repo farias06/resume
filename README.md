@@ -973,18 +973,18 @@ gantt
     excludes    weekends
 
     section Cardiofréquencemètre
-    Polar M51  :done,    des8, 2000-09-03,des7
-    Polar M22+  :done,    des7, 2001-12-30,des6
-    Garmin 405 HRM            :done,    des6, 2009-01-17,des5
-    Garmin 310 XT HR            :done,    des5, 2011-08-03,des4
-    Garmin 920 XT HR            :done,    des4, 2015-05-29,des3
-    Garmin 935 XT HR            :done,    des3, 2017-08-18,des2
-    Garmin 945 XT HR            :done,    des2, 2019-07-23,des1
+    Polar M51  :done,    des8, 2000-09-03,2001-12-30
+    Polar M22+  :done,    des7, 2001-12-30,2009-01-17
+    Garmin 405 HRM            :done,    des6, 2009-01-17, 2011-08-03
+    Garmin 310 XT HR            :done,    des5, 2011-08-03, 2015-05-29
+    Garmin 920 XT HR            :done,    des4, 2015-05-29, 2017-08-18
+    Garmin 935 XT HR            :done,    des3, 2017-08-18, 2019-07-23
+    Garmin 945 XT HR            :done,    des2, 2019-07-23, 2022-07-15
     Garmin 955 Solar               :active,  des1, 2022-07-15, 600d
 
     section Smartphones
-    Honor Views 10: done, asc3, 2019-06-19, asc2
-    Asus Zenphone Pro 7 :done, asc2, 2020-12-20, asc1
+    Honor Views 10: done, asc3, 2019-06-19, 2020-12-20
+    Asus Zenphone Pro 7 :done, asc2, 2020-12-20, 2023-02-08
     SAMSUNG Galaxy A53 5G : active,  asc1, 2023-02-08, 600d
 ```
 
