@@ -916,6 +916,34 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
 
+#### Jeux de Sophia 2017
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/06/jeux-de-sophia-2017/)
+
+- Basket-ball, Tir à l'arc, Tir au pistolet, Football à 5, Karting, Padel, Bowling, Course d'orientation, Babyfoot, Flechettes.
+
+#### Lachens-mer, randonnée en VTT
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/05/lachens-mer-randonnee-en-vtt/)
+
+- VTT, 90 km.
+
+#### Trail des Balcons d’Azur : P’tit TBA
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-des-balcons-dazur-ptit-tba/)
+
+- :runner: Trail :watch: 3:33:26
+
+- :triangular_flag_on_post: :fr: FFA : 283. (229M - 77V1) :watch:	3h34'38'' :round_pushpin: 	Mandelieu La Napoule
+
+#### Trail des 5 Calanques 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-des-5-calanques-edition-2017/)
+
+- :runner: Trail :watch: 
+
+- :triangular_flag_on_post: :fr: FFA : 	427. (357M - 238MA) :watch:	3h05'23'' :round_pushpin:	Ensues La Redonne
+
 ### 2016
 
 ### 2015
@@ -1356,6 +1384,10 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée à Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/)
 
+- [Randonnée à Auron : Cime de la Bercha via une boucle](https://www.cyber-neurones.org/2017/08/randonnee-a-auron-cime-de-la-bercha-via-une-boucle/)
+
+- [Balade à l’ombre : De Biot à Valbonne par la Brague](https://www.cyber-neurones.org/2017/08/balade-de-biot-a-valbonne-par-la-brague/)
+
 
 
 
@@ -1634,6 +1666,15 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [Ski de randonnée à :round_pushpin: Auron : Parcours simple.](https://www.cyber-neurones.org/2021/03/ski-de-randonnee-a-auron-parcours-simple/)
 
 
+## Plongée
+
+- [Formation Niveau 1 en plongée avec Kalliste Plongée et Divingeek à Porto Vecchio](https://www.cyber-neurones.org/2017/08/formation-niveau-1-en-plongee-avec-kalliste-plongee-et-divingeek-a-porto-vecchio/)
+
+
+## Surf
+
+- [La meilleure école de surf sur Léon : One Palm ](https://www.cyber-neurones.org/2017/07/la-meilleure-ecole-de-surf-sur-leon-one-palm/)
+
 ## Musique : :saxophone: Saxophone .
 
 ## :rugby_football: Rugby
@@ -1723,6 +1764,8 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 - [Sénat : Aménagement de l’autoroute A8 : buses de l’Autoroute ( par Dominique Estrosi Sassone )](https://www.cyber-neurones.org/2018/06/senat-buses-de-lautoroute/)
 
 - [BIOT PPRI](https://www.cyber-neurones.org/2018/02/biot-ppri-lien-nouvelle-carte-et-documents/)
+
+- [BIOT nouveau PPRI](https://www.cyber-neurones.org/2017/05/biot-nouveau-plan-de-prevention-des-risques-dinondation-ppri/)
 
 
 ## Réunion 
