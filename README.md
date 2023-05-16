@@ -476,6 +476,8 @@ Sujets :
 
 ## Compétitions
 
+<img align="right" src="./img/20220515_172410.jpg">
+
 - [Strava](https://www.strava.com/athletes/12487918) : Profil privé. :lock:
 
 - [ITRA](https://itra.run/RunnerSpace/ARIAS.Frederic/1260843) : Profil public. :unlock:
@@ -539,6 +541,8 @@ Sujets :
 
 #### Urban Trail de :round_pushpin: Cannes : Version 26 km 
 
+<img align="right" src="./img/03123-444ff4a282864e829307e51de45e9259.jpg">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
 
 - :runner: Trail, 26 km, 686 m D+, 02:42:48
@@ -594,6 +598,8 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2) :watch:	4h18'28''
 
 #### Trail de :round_pushpin: Biot
+
+<img align="right" src="IMG_20190512_094339.jpg">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
