@@ -1041,13 +1041,39 @@ Sujets :
 
 - :runner:  Course
 
-#### Trail des 3 cols à :round_pushpin: Bormes-les-mimosas 
+#### Trail des 3 cols à :round_pushpin: Bormes-les-mimosas .
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/02/trail-des-3-cols-a-bormes-les-mimosas/)
 
 - :runner: Trail
 
-- :triangular_flag_on_post: :fr: FFA :  210. (167M - 63V1)	3h02'42'' :round_pushpin:	Bormes Les Mimosas
+- :triangular_flag_on_post: :fr: FFA :  210. (167M - 63V1)	3h02'42'' :round_pushpin:	Bormes Les Mimosas .
+
+#### Marathon Alpes-Maritimes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/11/marathon-des-alpes-maritimes-edition-2016/)
+
+- :runner: Course, Marathon, 
+
+- :triangular_flag_on_post: :fr: FFA :  	4627. (3836M - 1552V1) :watch: 	4h23'12'' :round_pushpin:	Nice .
+
+#### :round_pushpin: Gorbio : Kilomètre vertical
+
+<img align="right" src="./img/42AE9ABD-B65D-48F9-A059-242A83806D2A.jpeg" width="300">
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/10/gorbio-kilometre-vertical/)
+
+- :runner: Trail, 
+
+- :triangular_flag_on_post: :fr: FFA :  57. (51M - 11V1)	1h12'29'' :round_pushpin:	Gorbio
+
+#### Courir pour une fleur – le semi – 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/10/courir-pour-une-fleur-le-semi-edition-2016/)
+
+- :runner: Course
+
+- :triangular_flag_on_post: :fr: FFA : 421. (386M - 152V1)	1h55'24'' :round_pushpin:	Antibes
 
 ### 2016
 
@@ -1242,6 +1268,10 @@ Meilleur éditeur au monde
 - [OSMC/Raspberry : installation de munin ( et Apache2) avec un script pour Freebox](https://www.cyber-neurones.org/2018/09/osmc-raspberry-installation-de-muni-node-et-apache2-avec-un-script-pour-freebox/)
 
 - [OSMC/Raspberry : Ajout de ELK ( Elasticsearch / Logstash / Kibana / Beats / Nginx )](https://www.cyber-neurones.org/2018/09/osmc-raspberry-ajout-de-elk-elasticsearch-logstash-kibana-beats-nginx/)
+
+- [Installation un media-center avec OSMC sur un Raspberry Pi 3 Model B](https://www.cyber-neurones.org/2016/09/installation-un-media-center-avec-osmc-sur-un-raspberry-pi-3-model-b/)
+
+
 
 
 #### Rock64
@@ -1496,6 +1526,12 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : Piste du Castellaras (Commune d’Andon)](https://www.cyber-neurones.org/2016/12/randonnee-piste-du-castellaras-commune-dandon/)
 
+- [Balade sur le Plateau de Cavillore à Gourdon](https://www.cyber-neurones.org/2016/11/balade-sur-le-plateau-de-cavillore-a-gourdon/)
+
+- [Balade Sportive : Le Grand Mont](https://www.cyber-neurones.org/2016/10/balade-sportive-le-grand-mont/)
+
+- [Balade à Tanneron : Les crêtes de Tanneron](https://www.cyber-neurones.org/2016/10/balade-a-tanneron-les-cretes-de-tanneron/)
+
 
 
 
@@ -1660,6 +1696,8 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Association 
 
+<img align="right" src="./img/IMG_20201004_125253-01.jpeg" width="300">
+
 Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/)
@@ -1714,6 +1752,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Vélo : :round_pushpin:  Nice ( Vieux port ) vers :round_pushpin:  Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/)
 
+- [Balade en vélo (équivalente à San Rémo) de Nice à Antibes](https://www.cyber-neurones.org/2016/08/balade-en-velo-equivalente-a-san-remo-de-nice-a-antibes/)
 
 
 ##### Hautes-Alpes
@@ -1896,6 +1935,10 @@ Mes portables de dev (sous Ubuntu), je change tous les 2-3 ans :
 - [BIOT nouveau PPRI](https://www.cyber-neurones.org/2017/05/biot-nouveau-plan-de-prevention-des-risques-dinondation-ppri/)
 
 - [Biot Réunion du 31 : Porter à connaissance de la nouvelle cartographie des zones inondables](https://www.cyber-neurones.org/2017/02/biot-reunion-du-31-porter-a-connaissance-de-la-nouvelle-cartographie-des-zones-inondables/)
+
+- [BIOT, Présentation du porter à connaissance par la Direction Départementale des Territoires et de la Mer. J’y étais pour vous !](https://www.cyber-neurones.org/2016/09/biot-presentation-du-porter-a-connaissance-par-la-direction-departementale-des-territoires-et-de-la-mer-jy-etais-pour-vous/)
+
+- [BIOT : PLU Réunion Diagnostic , j’y étais pour vous](https://www.cyber-neurones.org/2016/09/biot-plu-reunion-diagnostic-jy-etais-pour-vous/)
 
 ## Réunion 
 
