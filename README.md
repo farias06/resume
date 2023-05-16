@@ -234,6 +234,77 @@ Impossible de lister tous les protocoles et outils ...
 
 J’ai effectué de nombreux déplacements en Espagne ( :round_pushpin: Madrid, :round_pushpin: Barcelone ) , en Finlande ( :round_pushpin: Helsinki) , en Norvège ( :round_pushpin: Olso ) , en Suède ( :round_pushpin: Linkoping , :round_pushpin: Malmo ) , au Portugal ( :round_pushpin: Lisbonne ),  en France ( :round_pushpin: Paris , :round_pushpin: Aix-en-Provence , :round_pushpin: Strasbourg , :round_pushpin: Dieppe , :round_pushpin: Besancon , :round_pushpin: Lyon , :round_pushpin: Nantes , :round_pushpin: Blois , :round_pushpin: Signes , :round_pushpin: Toulouse , :round_pushpin: Hossegor , :round_pushpin: Bry-sur-Marne )  , en Grande-Bretagne ( :round_pushpin: Manchester ) , en Italie ( :round_pushpin: Come , :round_pushpin: Florence , :round_pushpin: Milan ), en Russie ( :round_pushpin: Moscou ), en Allemagne ( :round_pushpin: Meshede ) , en Suisse ( :round_pushpin: Genève ) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
 
+### Quelques logiciels "systemes" 
+
+<img align="right" src="./img/screenshot-from-2021-04-16-10-49-50.png">
+
+Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
+
+- PE1800IP / PE1800IP-S / PE1800XS / PE1800HB / PE1800 ( C’est un ensemble de logiciels pour la reception/transmission d’evenement relatif aux alarmes) :
+    - XACAPELA (Linux in C): (Alpha release only) Manage client to use text to speech.
+    - XACTIVITY (Linux in C): (Alpha release only) Supervision of process.
+    - XADEMCO685 (Linux in C): Manage the protocol Ademco685 to send event.
+    - XCCMD / XCCMD2 (Linux in C): Manage client for protocol TIP-CMD.
+    - XCEVT (Linux in C) : Manage client for protocol TIP-EVT.
+    - XCEVTONE (Linux in C): Manage client for protocol TIP-EVT.
+    - XCIST (Linux in C):(Alpha release only) Manage client for protocol TIP-IST.
+    - XCMESSAGE (Linux in C): Mange client for protocol Message for SIA Alarm ( Smartphone )
+    - XCONF (Linux in C): Manage configuration.
+    - XCSMS (Linux in C): Manage client on serial port to send SMS ( with Gateway WaveCom of other )
+    - XCSPEECH (Linux in C): Manage client to use text to speech.
+    - XCVAT (Linux in C): Manage PSTN board for protocol SECOM3 and VAT.
+    - XDEFAULT / XDEFAULT2 / XDEFAULT3 (Linux in C): Manage de default of heartbeat
+    - XEICONTOOLS (Linux in C): (Alpha release only) : Manage PSTN board EICON.
+    - DIALOUTEZ (Linux in C): (Alpha release only) : Manage PSTN board EICON.
+    - XFEP (Linux in C): Manage protocol FEP.
+    - XFRONTEL (Linux in C): (Alpha release only) Manage protocol Frontel.
+    - XFRONTELCC (Linux in C): (Alpha release only) Manage protocol CC for Frontel
+    - XFTP (Linux in C): Send file in FTP, SFTP, SCP.
+    - XGTC (Linux in C): Manage all process to send default in syslog.
+    - XHEARTBEAT / XHEARTBEAT2 (Linux in C): Manage protocol for heartbeat.
+    - XIMG (Linux in C): Manage and merde picture.
+    - XIP (Linux in C): Manage protocol SECOM3/VAT in TCP/IP
+    - XLOADIP / XLOADIP2 (Linux in C): Test load on IP.
+    - XMAIL (Linux in C): Send mail.
+    - XMQTT (Linux in C): (Alpha release only) Manage MQTT for event.
+    - XNUAGE / XNUAGE2 (Linux in C): Manage protocol for heartbeat.
+    - XODBC (Linux in C): Manage ODBC to Microsoft SQL Server
+    - XOPENSSL (Linux in C): Send SMS with protocol SSL.
+    - XPARTITION (Linux in C): Manage partition.
+    - XPE12 (Linux in C): Manage protocol PE1200.
+    - XPING (Linux in C): Manage internet link.
+    - XPRINT (Linux in C): Send event to printer.
+    - XPROTO (Linux in C): Manage protocol for PSTN board (B-channel)
+    - XPURGE (Linux in C): Purge file on server.
+    - XPURGEDATABASE (Linux in C): Purge event on database.
+    - XPUSH (Linux in C): (Alpha release only) Push event on XML/JSON.
+    - XPUSHJSON (Linux in C): (Alpha release only) Push event on XML/JSON.
+    - XREPLIK (Linux in C): Share keys.
+    - XRNIS (Linux in C): Manage server for protocol TIP-CMD and manage PSTN board (D-channel).
+    - XSAS (Linux in C): Manage protocol SAS.
+    - XSECHO / XSECHO2 (Linux in C):(Alpha release only)
+    - XSERIAL (Linux in C): Manage serial port for protocol VAT.
+    - XSEVT (Linux in C): Manage server with protocol TIP-EVT.
+    - XSF1COM (Linux in C): Manage protocol F1COM to send event.
+    - XSIADC09 (Linux in C): Manage protocol SIA DC 09 to send alarm.
+    - XSIADC09GRIP (Linux in C): Manage protocol SIA DC 09 to receive alarm (in TCP/IP).
+    - XSIAIP (Linux in C): Manage protocol SIA DC 03 to receive alarm (in TCP/IP).
+    - XSIAUDP (Linux in C): Manage protocol SIA DC 09 to receive alarm (in UDP/IP).
+    - XSIP (Linux in C): (Alpha release only)  Manage protocol SIP.
+    - XSIST (Linux in C): (Alpha release only) Manage server with protocol TIP-IST.
+    - XSMS (Linux in C): Send SMS with lot of providers (Orange, Vodafone, Ocito, Text Anywhere, Pswin, TMobil, Mblox, …).
+    - XSMSC (Linux in C): Send SMS with protocol UCP.
+    - XSURGARD (Linux in C): Manage protocol MLR2 to send event.
+    - XSVAT (Linux in C): Manage server with protocol TIP-VAT.
+    - XSYNC / XSYNC2 (Linux in C): Sync of event.
+    - XTICTAC (Linux in C):  Manage time and freeze of time.
+    - XTRANSVEIL (Linux in C): (Alpha release only) Manage protocol Transveil.
+    - XVEBONIP (Linux in C): (Alpha release only) Manage protocol Vebon
+    - XVOIP (Linux in C): (Alpha release only) Manage Voice Over IP.
+    - XWHATSUP (Linux in C):  (Alpha release only) Supervision of process.
+    - …
+    - XLOFT (Linux in PHP): GUI and WebService.
+
 ## RIGTHVISION – :round_pushpin: Mouans Sartoux 
 
 - De Mi-Janvier 2001 à Mi-Mai 2001
