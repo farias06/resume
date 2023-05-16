@@ -26,7 +26,9 @@ Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
 
 # Experiences professionnelles :
 
-## Mi-Mai 2001 à aujdourd'hui ( SECOM / HONEYWELL / RESIDEO - :round_pushpin: Mougins )
+## SECOM / HONEYWELL / RESIDEO - :round_pushpin: Mougins 
+
+De Mi-Mai 2001 à aujdourd'hui.
 
 ### 2023 (RESIDEO)
 
@@ -230,7 +232,9 @@ Impossible de lister tous les protocoles et outils ...
 
 J’ai effectué de nombreux déplacements en Espagne ( :round_pushpin: Madrid, :round_pushpin: Barcelone ) , en Finlande ( :round_pushpin: Helsinki) , en Norvège ( :round_pushpin: Olso ) , en Suède ( :round_pushpin: Linkoping , :round_pushpin: Malmo ) , au Portugal ( :round_pushpin: Lisbonne ),  en France ( :round_pushpin: Paris , :round_pushpin: Aix-en-Provence , :round_pushpin: Strasbourg , :round_pushpin: Dieppe , :round_pushpin: Besancon , :round_pushpin: Lyon , :round_pushpin: Nantes , :round_pushpin: Blois , :round_pushpin: Signes , :round_pushpin: Toulouse , :round_pushpin: Hossegor , :round_pushpin: Bry-sur-Marne )  , en Grande-Bretagne ( :round_pushpin: Manchester ) , en Italie ( :round_pushpin: Come , :round_pushpin: Florence , :round_pushpin: Milan ), en Russie ( :round_pushpin: Moscou ), en Allemagne ( :round_pushpin: Meshede ) , en Suisse ( :round_pushpin: Genève ) pour l’intégration de nos produits, la configuration des produits liés aux nouvelles technologies ( GSM-Data, GPRS, SMS, VOIP, Ethernet, …)
 
-## Mi-Janvier 2001 à Mi-Mai 2001 ( RIGTHVISION – :round_pushpin: Mouans Sartoux ) 
+## RIGTHVISION – :round_pushpin: Mouans Sartoux 
+
+- De Mi-Janvier 2001 à Mi-Mai 2001
 
 - Righvision est une société qui développe des Appliances ( EyeBox ) sous Linux. http://www.rightvision.com/
 
@@ -242,7 +246,9 @@ J’ai effectué de nombreux déplacements en Espagne ( :round_pushpin: Madrid, 
 
 - Environnement : Linux( RedHat ), Windows, Perl, PHP, Apache, OpenlDAP, CVS, MySQL, Flash5( Action Script )
 
-## Mi-Avril 2000 à Mi-Janvier 2001 ( CYBERWORKERS – :round_pushpin: Aubagne )
+## CYBERWORKERS – :round_pushpin: Aubagne 
+
+- De Mi-Avril 2000 à Mi-Janvier 2001
 
 - Cyberworkers est une société qui développe une plate-forme destinée au télétravail pour les indépendants. http://www.cyberworkers.com/ Développeur, concepteur et DBA de 80% de la plate-forme sous LINUX :
 
@@ -295,7 +301,7 @@ Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
 - Oracle Linux 7.9 :  Chez Resideo / SeCOM .
 - Oralce Linux 8.7 : Chez Resideo / SeCOM .
 - [Oracle Linux 9.1](https://docs.oracle.com/en/operating-systems/oracle-linux/9/relnotes9.1/) : Chez Resideo / SeCOM .
-- Kali : Chez Resideo / SeCOM .
+- [Kali](https://www.kali.org/) : Chez Resideo / SeCOM .
 - [Alpine](https://www.alpinelinux.org/releases/) : Chez Resideo / SeCOM .
 - Ubuntu 22.04 ( date release : April 21, 2022 ) : Chez Resideo / SeCOM .
 
@@ -337,11 +343,11 @@ Lycée La Borde Basse. Mention Passable.
 
 # Salons
 
-## Salon Open Source Expérience à :round_pushpin: Paris (Open Source Summit) : novembre 2022 
+#### Salon Open Source Expérience à :round_pushpin: Paris (Open Source Summit) : novembre 2022 
 
 Sujets :
 
-## Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : décembre 2017
+#### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : décembre 2017
 
 Tags : #OSSParis2017
 
@@ -349,43 +355,43 @@ Sujets : DevOps , Python , Haskell , Cloud , IA , Cybersecurity .
 
 - [Paris Open Source Summit 2017 : #OSSParis2017](https://www.cyber-neurones.org/2017/12/paris-open-source-summit-2017-ossparis2017/)
 
-## Docker à :round_pushpin: Sophia-Antipolis : mars 2017 
+#### Docker à :round_pushpin: Sophia-Antipolis : mars 2017 
 
 Sujet : Docker
 
-## Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
+#### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
 Sujets :
 
-## Docker à :round_pushpin: Sophia-Antipolis : mars 2016 .
+#### Docker à :round_pushpin: Sophia-Antipolis : mars 2016 .
 
 Sujet : Docker
 
-## Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
+#### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
 
 Sujets :
 
-## Salon Cloud à :round_pushpin: Paris : Mars 2012
+#### Salon Cloud à :round_pushpin: Paris : Mars 2012
 
 Sujets :
 
-## Salon Linux à :round_pushpin: Paris : Avril 2009
+#### Salon Linux à :round_pushpin: Paris : Avril 2009
 
 Sujets :
 
-## Salon VOIP à :round_pushpin: Paris : Avril 2008
+#### Salon VOIP à :round_pushpin: Paris : Avril 2008
 
 Sujets :
 
-## Salon VOIP à :round_pushpin: Paris : Mai 2006
+#### Salon VOIP à :round_pushpin: Paris : Mai 2006
 
 Sujets :
 
-## Salon Linux à :round_pushpin: Paris : Février 2006
+#### Salon Linux à :round_pushpin: Paris : Février 2006
 
 Sujets :
 
-## Salon Linux à :round_pushpin: Paris 
+#### Salon Linux à :round_pushpin: Paris 
 
 Sujets :
 
@@ -854,7 +860,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/01/urban-trail-de-cannes-26-km-grand-cannois/)
 
-- :runner: Trai, 26 km
+- :runner: Trail, 26 km
 
 - :triangular_flag_on_post: :fr: FFA :  342. (304M - 125V1) :watch:	2h43'07'' :round_pushpin:	Cannes 
 
@@ -898,7 +904,17 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/11/marathon-des-alpes-maritimes-en-relais/)
 
+- :runner: Course,
+
 - :triangular_flag_on_post: :fr: FFA : :watch: 1:52:11 
+
+#### Trail de la Vésubie – version 44 km :sweat: Abandon :sweat:
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2017/08/trail-de-la-vesubie-version-44-km/)
+
+- :runner: Trail,
+
+- :triangular_flag_on_post: :fr: FFA :
 
 ### 2016
 
@@ -943,6 +959,34 @@ Sujets :
 ### 1996
 
 ### 1995
+
+### Materiels
+
+Deux outils essentiels : Cardio-fréquence & Smartphone pour les photos (et secours).
+
+#### Cardiofréquencemètre
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Cardio-frequence 
+    excludes    weekends
+
+    section Cardiofréquencemètre
+    Polar M51  :done,    des8, 2000-09-03,des7
+    Polar M22+  :done,    des7, 2001-12-30,des6
+    Garmin 405 HRM            :done,    des6, 2009-01-17,des5
+    Garmin 310 XT HR            :done,    des5, 2011-08-03,des4
+    Garmin 920 XT HR            :done,    des4, 2015-05-29,des3
+    Garmin 935 XT HR            :done,    des3, 2017-08-18,des2
+    Garmin 945 XT HR            :done,    des2, 2019-07-23,des1
+    Garmin 955 Solar               :active,  des1, 2022-07-15
+
+    section Smartphones
+    Honor Views 10: done, asc3, 2019-06-19, asc2
+    Asus Zenphone Pro 7 :done, asc2, 2020-12-20, asc1
+    SAMSUNG Galaxy A53 5G : active,  asc1, 2023-02-08
+```
 
 ## Linux 
 
