@@ -980,12 +980,12 @@ gantt
     Garmin 920 XT HR            :done,    des4, 2015-05-29,des3
     Garmin 935 XT HR            :done,    des3, 2017-08-18,des2
     Garmin 945 XT HR            :done,    des2, 2019-07-23,des1
-    Garmin 955 Solar               :active,  des1, 2022-07-15
+    Garmin 955 Solar               :active,  des1, 2022-07-15, 600d
 
     section Smartphones
     Honor Views 10: done, asc3, 2019-06-19, asc2
     Asus Zenphone Pro 7 :done, asc2, 2020-12-20, asc1
-    SAMSUNG Galaxy A53 5G : active,  asc1, 2023-02-08
+    SAMSUNG Galaxy A53 5G : active,  asc1, 2023-02-08, 600d
 ```
 
 ## Linux 
