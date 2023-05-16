@@ -1601,6 +1601,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Alpes-Maritimes
 
+<img align="right" src="./img/P_20210326_170603.jpg" width="300">
+
 - [Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/)
 
 - [Biot vers Gourdon en gravel](https://www.cyber-neurones.org/2023/03/gravel-biot-vers-gourdon-en-gravel/)
@@ -1615,6 +1617,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/)
 
+<img align="right" src="./img/P_20210801_121637.jpg" width="300">
+
 - [Vélo : Boucle Biot, Cagnes-sur-Mer, La gaude, Carros, Bouyon, Coursegoules, Pont-du-Loup, Bar-sur-Loup, Valbonne](https://www.cyber-neurones.org/2021/07/velo-boucle-biot-cagnes-sur-mer-la-gaude-carros-bouyon-coursegoules-pont-du-loup-bar-sur-loup-valbonne/)
 
 - [Vélo & Gravel : Boucle au départ de Biot, Villeneuve-Loubet, La Colle Sur Loup, Châteauneuf-Grasse, Opio, Valbonne](https://www.cyber-neurones.org/2021/05/velo-gravel-boucle-au-depart-de-biot-villeneuve-loubet-la-colle-sur-loup-chateauneuf-grasse-opio-valbonne/)
@@ -1624,6 +1628,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [Vélo Course/Gravel : Mur de Courmettes au départ de la D2210](https://www.cyber-neurones.org/2021/04/velo-course-gravel-mur-de-courmettes-au-depart-de-la-d2210/)
 
 - [Gravel/Vélo de Course : Départ de :round_pushpin: Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/)
+
+<img align="right" src="./img/signal-2022-07-30-09-29-50-991-4.jpg" width="300">
 
 - [Départ de l’office du Tourisme vers le Phare de la Garoupe à :round_pushpin: Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/)
 
@@ -1671,6 +1677,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 #### VTT
 
 ##### Alpes-Maritimes
+
+<img align="right" src="./img/P_20170525_165946.jpg" width="300">
 
 - [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/)
 
