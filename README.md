@@ -22,7 +22,7 @@ Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
 
 - [Mastodon](https://pouet.chapril.org/@Cyberneurones)
 
-- Pas de Twitter, Pas de Facebook(Supprimé le 26/11/2018) , Pas d'Instagram(Supprimé le 26/11/2018), Pas de WhatsApp (Supprimé le 26/11/2018), Pas de Pinterest (Supprimé le 26/11/2018), Pas de Viadeo (Supprimé le 26/11/2018), Pas de Xing (Supprimé le 26/11/2018) ....
+- Pas de Twitter : #DeleteTwitter , Pas de Facebook : #DeleteFacebook (Supprimé le 26/11/2018) , Pas d'Instagram : #DeleteInstagram (Supprimé le 26/11/2018), Pas de WhatsApp #DeleteWhatsApp (Supprimé le 26/11/2018), Pas de Pinterest (Supprimé le 26/11/2018), Pas de Viadeo (Supprimé le 26/11/2018), Pas de Xing (Supprimé le 26/11/2018) ....
 
 # Experiences professionnelles :
 
@@ -1861,6 +1861,16 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 
 - [TUXEDO Computers GmbH : TUXEDO InfinityBook Pro 14 v5](https://www.cyber-neurones.org/2020/01/tuxedo-computers-gmbh-tuxedo-infinitybook-pro-14-v5/) : Toujours en vie, donc il a plus de 3 ans. 
 
+Mes portables de dev (sous Ubuntu), je change tous les 2-3 ans :
+
+- Tuxedo InfinityBook Pro 14 v5 :
+  - 64 GB DDR4
+  - 2x1 To SSD
+  - Garantie 2 ans
+- Tuxedo Infinity Pro 17 :
+  - 64 GB DDR4
+  - 2x1 To SSD
+  - Garantie 2 ans
 
 # :round_pushpin: Biot 
 
