@@ -599,7 +599,7 @@ Sujets :
 
 #### Trail de :round_pushpin: Biot
 
-<img align="right" src="IMG_20190512_094339.jpg">
+<img align="right" src="./img/IMG_20190512_094339.jpg">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
