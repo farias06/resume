@@ -1709,7 +1709,6 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [Rapport indemnité vélo ( IKV ) : un rapport comme je les aime !](https://www.cyber-neurones.org/2017/12/rapport-indemnite-velo-ikv-un-rapport-comme-je-les-aime/)
 
 
-
 ### Parcours
 
 #### Gravel
@@ -1784,11 +1783,17 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Boucle Saint-Avit (Tarn), Dourgne, Montalric, Sorèze, Cahuzac, Lagardiolle.](https://www.cyber-neurones.org/2018/04/velo-boucle-saint-avit-tarn-dourgne-montalric-soreze-cahuzac-lagardiolle/)
 
+- [Voie verte : de Mazamet (Pont de L’Arn) – Bédarieux : « Passa Païs »](https://www.cyber-neurones.org/2016/08/voie-verte-de-mazamet-pont-de-larn-bedarieux-passa-pais/)
+
 
 ##### Vaucluse
 
 - [Mont Ventoux en Gravel au départ de :round_pushpin: Bédoin](https://www.cyber-neurones.org/2021/06/mont-ventoux-en-gravel-au-depart-de-bedoin/)
 
+
+##### Autre
+
+- [Vélo Palavas-les-flots vers La Grande Motte par le Canal du Rhone à Sète](https://www.cyber-neurones.org/2016/08/velo-palavas-les-flots-vers-la-grande-motte-par-le-canal-du-rhone-a-sete/)
 
 #### VTT
 
@@ -1803,6 +1808,11 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [VTT : De Biot vers les ruines du château de Roquefort](https://www.cyber-neurones.org/2021/03/vtt-de-biot-vers-les-ruines-du-chateau-de-roquefort/)
 
 - [VTT à :round_pushpin: Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
+
+
+### Voyage 
+
+- [Randonné (ou voyage) en vélo : De Mazamet à Antibes : 500 km en 4 jours ( une premier expérience )](https://www.cyber-neurones.org/2016/08/randonne-en-velo-de-mazamet-a-antibes-500-km-une-premier-experience/)
 
 
 ## Padel
