@@ -365,6 +365,8 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 ## Connaissance OS :
 
+<img align="right" src="./img/142-1422592_oracle-logo-png-download-oracle-linux-logo.jpeg" width="300">
+
 Systèmes Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
 
 Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
