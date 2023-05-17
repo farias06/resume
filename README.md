@@ -1841,7 +1841,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ##### Alpes-maritimes :
 
-- Bar-sur-loup : 50 Euro/pers en 2015.
+- Bar-sur-loup : 
     - Le Loup : 2h00. (Approche : 0h10 / Retour : 0h15)
     - Note sur [descente-canyon.com](descente-canyon.com) : 2.1/4 (55 votes)
 
@@ -2164,14 +2164,14 @@ Je conseille cette marque : :computer: [Tuxedo](https://www.tuxedocomputers.com/
 
 Mes portables de dev (sous Ubuntu), je change tous les 2-3 ans :
 
-- :computer: Tuxedo InfinityBook Pro 14 v5 : ( 1500 Euros )
+- :computer: Tuxedo InfinityBook Pro 14 v5 : ( 1500 Euros :euro: )
   - 64 GB DDR4
   - 2x1 To SSD SAMSUNG
   - Garantie 2 ans
-- :computer: Tuxedo Infinity Pro 17 : ( 2300 Euros ) 
+- :computer: Tuxedo Infinity Pro 17 : ( 2300 Euros :euro: ) 
   - 64 GB DDR4
   - 2x1 To SSD SAMSUNG
-  - NVIDIA GeForce RTX 3060 ( Fortement recommandé ) 
+  - NVIDIA GeForce RTX 3060 ( Fortement recommandé, pas pour jouer  ) 
   - Garantie 2 ans
 
 A noter que j'ai arreté les MacBook car la mémoire était soudé et que le prix devenait déraisonnable ... Et je regrette pas, pour avoir un MacBook avec 64 GB de DDR4 et 2x1 To de SSD SAMSUNG ... euh, c'est pas possible.
@@ -2193,8 +2193,19 @@ gantt
 
 # :round_pushpin: Biot 
 
-- [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
+<img align="right" src="./img/P_20160313_125015.jpg" width="300">
 
+- [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
+   - Distance : 14,7 km / 433 m D+
+
+- [Trail à Biot : Le Mega Tour du Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/)
+   - Distance : 21,6 km / 680 m D+
+
+- [Trail à Biot : L’Extra Tour du Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/)
+   - Distance : 20,1 km / 657 m D+
+
+- [Trail à Biot : Le Grand Tour du Sanglier , le GTS pour les pros !](https://www.cyber-neurones.org/2020/05/trail-a-biot-le-grand-tour-du-sanglier-le-gts-pour-les-pros/)
+   - Distance : 16,9 km / 526 m D+
 
 ## Inondation
 
