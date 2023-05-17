@@ -565,7 +565,7 @@ Sujets :
 - :triangular_flag_on_post: :star: ITRA : 
     - Ranking 746 / 1074  
     - iTRA Score : 449 
-    - Finisher Level : 282
+    - :checkered_flag: Finisher Level : 282
 
 #### Balcon de la Roya 
 
@@ -743,7 +743,7 @@ Sujets :
    - iTRA SCORE : 400 
    - iTRA POINT : 3
    - Mountain Points : 10
-   - Finisher Level : 360
+   - :checkered_flag: Finisher Level : 360
 
 #### Urban Trail de :round_pushpin: Cannes
 
@@ -824,7 +824,7 @@ Sujets :
     - :black_circle: iTRA Score :	461 
     - :black_circle: iTRA Points : 2
     - :black_circle: Moutain Points : 8
-    - :black_circle:  Finisher Level : 310.
+    - :black_circle:  :checkered_flag: Finisher Level : 310.
 
 #### Trail de :round_pushpin: Valberg
 
@@ -848,7 +848,7 @@ Sujets :
     - :black_circle:  iTRA Score 371 
     - :black_circle: iTRA Points : 2
     - :black_circle: Moutain Points : 6
-    - :black_circle:  Finisher Level : 300.
+    - :black_circle:  :checkered_flag: Finisher Level : 300.
 
 #### Jeux de Sophia
 
@@ -874,7 +874,7 @@ Sujets :
     - :black_circle:  iTRA Score : 298 
     - :black_circle:  iTRA Points : 2
     - :black_circle:  Moutain Points : 4 
-    - :black_circle:  Finisher Level : 310.
+    - :black_circle:  :checkered_flag: Finisher Level : 310.
 
 
 #### 16 ème CO’Tour de Sophia 
@@ -949,7 +949,7 @@ Sujets :
     - iTRA Score : 	418 
     - :black_circle:  iTRA Points : 4
     - :black_circle:  Moutain Points : 8
-    - :black_circle:  Finisher Level : 340
+    - :black_circle:  :checkered_flag: Finisher Level : 340
 
 
 #### Trail des Mélèzes – Version 25 km au départ de :round_pushpin: Colmars
@@ -1017,7 +1017,7 @@ Sujets :
     - iTRA Score :	435 
     - :black_circle:  iTRA Points : 3
     - :black_circle:  Moutain Points : 7
-    - :black_circle: Finisher Level : 370 
+    - :black_circle: :checkered_flag: Finisher Level : 370 
 
 #### Jeux de Sophia - Edition 2018
 
@@ -1046,7 +1046,7 @@ Sujets :
     - iTRA Score 	432 
     - :black_circle:  iTRA Points : 3
     - :black_circle:  Moutain Points : 6
-    - :black_circle: Finisher Level : 390
+    - :black_circle: :checkered_flag: Finisher Level : 390
 
 #### Urban Trail de Cannes : 26 km : Grand Cannois
 
@@ -1077,8 +1077,8 @@ Sujets :
 - :triangular_flag_on_post: :star: ITRA : 
     - 39 km / 1970 :mountain: m+ 	
     - :watch: 5:29:17 	
-    - :black_circle: 520 / 802
-    - :black_circle: 	463 / 659
+    - :black_circle: Ranking : 520 / 802
+    - :black_circle: Ranking Gender : 	463 / 659
     - iTRA Score 	448 
     - :black_circle:  iTRA Points : 2
     - :black_circle:  Moutain Points : 5
@@ -1093,8 +1093,8 @@ Sujets :
 - :triangular_flag_on_post: :star: ITRA :
     - 30 km / 1660 :mountain: m+
     - :watch:	5:32:44 
-    - :black_circle:	291 / 327
-    - :black_circle: 	258 / 283 
+    - :black_circle: Ranking :	291 / 327
+    - :black_circle: Ranking Gender :	258 / 283 
     - iTRA Score	395 
     - :black_circle:  iTRA Points : 2
     - :black_circle:  Moutain Points : 6
@@ -1139,8 +1139,8 @@ Sujets :
 - :triangular_flag_on_post: :star: ITRA :
     - 24 km / 980 :mountain: m+
     - :watch:   3:34:38 
-    - :black_circle:    282 / 483 
-    - :black_circle:    228 / 333 
+    - :black_circle:   Ranking : 282 / 483 
+    - :black_circle:  Ranking Gender :  228 / 333 
     - iTRA Score        414
     - :black_circle:  iTRA Points : 1
     - :black_circle:  Moutain Points : 4
