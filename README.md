@@ -8,9 +8,9 @@ Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC av
 
 Mon but dans un premier temps c'est la migration de mon blog Wordpress sous Hugo, avec au passage le ménage (suppression d'articles). Seuls les articles qui ont un lien dans ce Markdown vont être conservés.
 
-```sequence
-Wordpress->GitHub: Purge
-GitHub->Hugo: Migration
+```sequence {theme="hand"}
+ Wordpress->GitHub: Purge
+ GitHub-->Hugo: Migration
 ```
 
 # Liens externes 
