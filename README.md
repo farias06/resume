@@ -1249,6 +1249,8 @@ Meilleur éditeur au monde
 
 #### Raspberry
 
+<img align="right" src="./img/474px-Raspberry_Pi_logo.svg.png" width="300">
+
 - [Raspberry ( Raspbian : stretch ) / Git Server : Installation en bref](https://www.cyber-neurones.org/2018/11/raspberry-raspbian-stretch-git-server-installation-en-bref/)
 
 - [Raspberry ( Raspbian : stretch ) / OwnCloud (10.0.10) : Installation en bref …](https://www.cyber-neurones.org/2018/11/raspberry-owncloud-installation-en-bref/)
