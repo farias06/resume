@@ -1198,7 +1198,7 @@ Sujets :
 
 - :runner: Trail
 
-- :triangular_flag_on_post: :fr: FFA :  210. (167M - 63V1)	3h02'42'' :round_pushpin:	Bormes Les Mimosas .
+- :triangular_flag_on_post: :fr: FFA :  210. (167M - 63V1) :watch:	3h02'42'' :round_pushpin:	Bormes Les Mimosas .
 
 - :triangular_flag_on_post: :star: ITRA :
     - 19 km / 930 :mountain: m+
@@ -1227,7 +1227,7 @@ Sujets :
 
 - :runner: Trail, 
 
-- :triangular_flag_on_post: :fr: FFA :  57. (51M - 11V1)	1h12'29'' :round_pushpin:	Gorbio
+- :triangular_flag_on_post: :fr: FFA :  57. (51M - 11V1) :watch:	1h12'29'' :round_pushpin:	Gorbio
 
 #### Courir pour une fleur – le semi – 
 
@@ -1235,7 +1235,7 @@ Sujets :
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA : 421. (386M - 152V1)	1h55'24'' :round_pushpin:	Antibes
+- :triangular_flag_on_post: :fr: FFA : 421. (386M - 152V1) :watch:	1h55'24'' :round_pushpin:	Antibes
 
 #### Les foulées Biotoises 2016 :round_pushpin: Biot
 
@@ -1243,7 +1243,7 @@ Sujets :
 
 - :runner: Course 
 
-- :triangular_flag_on_post: :fr: FFA :	163. (142M - 45V1)	49'36'' :round_pushpin:	Biot
+- :triangular_flag_on_post: :fr: FFA :	163. (142M - 45V1) :watch:	49'36'' :round_pushpin:	Biot
 
 #### Jeux de Sophia 2016
 
@@ -1273,7 +1273,7 @@ Sujets :
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA : 	1768. (1522M - 529V1)	1h53'44'' :round_pushpin:	Nice
+- :triangular_flag_on_post: :fr: FFA : 	1768. (1522M - 529V1) :watch:	1h53'44'' :round_pushpin:	Nice
 
 #### Mud Day : Pays d’Aix
 
@@ -1289,24 +1289,30 @@ Sujets :
 
 #### Semi-marathon de :round_pushpin: Cannes 
 
+- :date: 2016-02
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/02/semi-marathon-de-cannes-edition-2016/)
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA : 	932. (796M - 303V1)	1h51'27'' :round_pushpin:	Cannes
+- :triangular_flag_on_post: :fr: FFA : 	932. (796M - 303V1) :watch:	1h51'27'' :round_pushpin:	Cannes
 
 #### PROM Classic 2016 à :round_pushpin: Nice 
+
+- :date: 2016-01
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/01/prom-classic-2016/)
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA : 	2812. (2497M - 761V1)	48'11'' :round_pushpin:	Nice
+- :triangular_flag_on_post: :fr: FFA : 	2812. (2497M - 761V1) :watch:	48'11'' :round_pushpin:	Nice
 
 
 ### 2015
 
 #### Cross Amnesty de :round_pushpin: Valbonne
+
+- :date: 2015-12
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-amnesty-de-valbonne/)
 
@@ -1314,27 +1320,51 @@ Sujets :
 
 #### Cross des îles de Lérins
 
+- :date: 2015-12
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-des-iles-de-lerins/)
 
 - :runner: Cross
 
-- :triangular_flag_on_post: :fr: FFA :	130. (78MA)	42'23'' :round_pushpin:	Cannes
+- :triangular_flag_on_post: :fr: FFA :	130. (78MA) :watch:	42'23'' :round_pushpin:	Cannes
 
 #### Marathon des Alpes-Maritimes
+
+- :date: 2015-11
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/11/marathon-des-alpes-maritimes-sous-le-soleil/)
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA : 2955. (2600M - 1021MA)	3h58'17'' :round_pushpin:	Nice
+- :triangular_flag_on_post: :fr: FFA : 2955. (2600M - 1021MA) :watch:	3h58'17'' :round_pushpin:	Nice
 
-#### Spartan Race Le Castellet : La Trifecta dans le Weekend
+#### Spartan Race :round_pushpin:  Le Castellet : La Trifecta dans le Weekend
+
+<img align="right" src="./img/Spartan-Race-2014_3_IMG_7074_7830.jpg" width="300">
+
+- :date: 2015-10
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/10/spartan-race-le-castellet-la-trifecta-dans-le-weekend/)
 
 - :runner: **Course d'obstacles, 46 km, 1203 m D+, 65 obstacles. :watch: 9;12:35**
 
+#### Trail de la Vésubie (version 22 km)
 
+- :date: 2015-09
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/09/trail-de-la-vesubie-version-22-km/)
+
+- :runner: Trail 
+
+- :triangular_flag_on_post: :fr: FFA : 120. (103M - 22MA) :watch:	3h17'03'' :round_pushpin: 	Saint Martin Vesubie
+
+#### Les foulées Biotoises
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/07/les-foulees-biotoises-edition-2015/)
+
+- :runner: Course 
+
+- :triangular_flag_on_post: :fr: FFA : 120. (106M - 33MA) :watch:	43'28'' :round_pushpin: 	Biot
 
 ### 2014
 
