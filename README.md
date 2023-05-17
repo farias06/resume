@@ -1377,13 +1377,23 @@ Sujets :
 
 #### :hankey: Mud Day à :round_pushpin: Levens  :hankey:
 
-- :date: 2015-05
+- :date: 2015-06
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/monday-morning-mud-day-nice-2015/)
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/mud-day-nice-2015/)
 
 - :runner: Course d'obstacle
+
+#### Jeux de Sophia 2015
+
+- :date: 2015-06
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/06/jeux-de-sophia-2015/)
+
+- **15 épreuves** : Tir à l'arc, Tir au pistolet, Karting, Football à 5, Cross, Badminton, Basket-ball, Football à 7, Volley-Ball, Course d'orientation, Bowling, Baby foot, Beach Volley, VTT.
+
+
 
 ### 2014
 
@@ -2273,6 +2283,12 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 ##### Autre
 
 - [Vélo Palavas-les-flots vers La Grande Motte par le Canal du Rhone à Sète](https://www.cyber-neurones.org/2016/08/velo-palavas-les-flots-vers-la-grande-motte-par-le-canal-du-rhone-a-sete/)
+
+##### Italie
+
+- [Vélo à Sanremo : Ospedaletti à San Lorenzo al Mare](https://www.cyber-neurones.org/2015/05/velo-a-san-remo/)
+
+
 
 #### VTT
 
