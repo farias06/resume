@@ -197,6 +197,10 @@ gantt
 
 ### 2015
 
+#### Notes
+
+- [PostgreSQL : Maximum de connexion en simultanés](https://www.cyber-neurones.org/2015/11/postgresql-maximum-de-connexion-en-simultanes/)
+
 ### 2014
 
 ### 2013
@@ -485,6 +489,8 @@ Sujet : Docker
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
 
 Sujets :
+
+- [Paris Open Source Summit 2015](https://www.cyber-neurones.org/2015/11/paris-open-source-summit-2015/)
 
 #### Salon Cloud à :round_pushpin: Paris : Mars 2012
 
@@ -1306,6 +1312,28 @@ Sujets :
 
 - :runner: Cross
 
+#### Cross des îles de Lérins
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-des-iles-de-lerins/)
+
+- :runner: Cross
+
+- :triangular_flag_on_post: :fr: FFA :	130. (78MA)	42'23'' :round_pushpin:	Cannes
+
+#### Marathon des Alpes-Maritimes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/11/marathon-des-alpes-maritimes-sous-le-soleil/)
+
+- :runner: Course
+
+- :triangular_flag_on_post: :fr: FFA : 2955. (2600M - 1021MA)	3h58'17'' :round_pushpin:	Nice
+
+#### Spartan Race Le Castellet : La Trifecta dans le Weekend
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/10/spartan-race-le-castellet-la-trifecta-dans-le-weekend/)
+
+- :runner: **Course d'obstacles, 46 km, 1203 m D+, 65 obstacles. :watch: 9;12:35**
+
 
 
 ### 2014
@@ -2105,6 +2133,9 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Rapport indemnité vélo ( IKV ) : un rapport comme je les aime !](https://www.cyber-neurones.org/2017/12/rapport-indemnite-velo-ikv-un-rapport-comme-je-les-aime/)
 
+- [Création de piste cyclable dans les alpes-maritimes](https://www.cyber-neurones.org/2015/12/creation-de-piste-cyclable-dans-les-alpes-maritimes/)
+
+
 
 ### Parcours
 
@@ -2421,6 +2452,9 @@ J'ai beaucoup suivi les réunions d'informations sur les inondations.
 - [BIOT : PLU : Reunion n°2 : Habitat (équipement, logement), Environnement et Cadre de vie. J’y étais pour vous](https://www.cyber-neurones.org/2016/03/biot-plu-reunion-n2-habitat-equipement-logement-environnement-et-cadre-de-vie-jy-etais-pour-vous/) :date: 2016-03
 
 - [Réunion publique à l’OSTREA, j’y étais pour vous](https://www.cyber-neurones.org/2015/12/reunion-publique-a-lostrea-jy-etais-pour-vous/) :date: 2015-12
+
+- [Réunion publique sur les inondations – Espace des Arts à Biot – j’y étais pour vous](https://www.cyber-neurones.org/2015/12/reunion-publique-sur-les-inondations-espace-des-arts-jy-etais-pour-vous/) :date: 2015-12
+
 
 ## Réunion 
 
