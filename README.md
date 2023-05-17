@@ -19,7 +19,7 @@ sequenceDiagram
 
 # Liens externes 
 
-<img align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="300">
+<img align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="200">
 
 - [Mon blog](www.cyber-neurones.org)
    - Actuellement mon blog est sur Wordpress (j'ai le nom de domaine cyber-neurones.org depuis que je travaille ...) , j'utilise mon bloc comme "Bloc Note Public" sachant que mon "Bloc Note Privé" c'est [Joplin](https://joplinapp.org/). L'idée est donc d'avoir le même format pour les post à savoir [Markdown](https://fr.wikipedia.org/wiki/Markdown) . Le mieux est donc de migrer vers [Hugo](https://gohugo.io/) . J'ai vu qu'il existait [des softs pour la migration](https://gohugo.io/tools/migrations/#wordpress) . La seule fonctionnalité que je ne veux pas perdre c'est de pouvoir visualiser les GPX de facons dynamique.   
@@ -58,7 +58,7 @@ gantt
     Yocto : done, c1, 2018-06-19, 2019-10-20
 ```
 
-<img align="right" src="./img/P_20220202_154029.jpg" width="300">
+<img align="right" src="./img/P_20220202_154029.jpg" width="200">
 
 ### 2023 (RESIDEO)
 
@@ -86,7 +86,7 @@ gantt
 
 #### Software 
 
-<img align="right" src="./img/1200px-Postgresql_elephant.svg.png" width="300">
+<img align="right" src="./img/1200px-Postgresql_elephant.svg.png" width="200">
 
 - [PostgreSQL](https://www.postgresql.org/) / [Redis](https://redis.io/) / NGINX / Mosquitto / MySQL / RabbitMQ / Jenkins / Supervisord / Grafana.
 
@@ -379,7 +379,7 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 ## Connaissance OS :
 
-<img align="right" src="./img/142-1422592_oracle-logo-png-download-oracle-linux-logo.jpeg" width="300">
+<img align="right" src="./img/142-1422592_oracle-logo-png-download-oracle-linux-logo.jpeg" width="200">
 
 Systèmes :penguin: Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
 
@@ -454,7 +454,7 @@ Lycée La Borde Basse. Mention Passable.
 
 #### Salon Open Source Expérience à :round_pushpin: Paris (Open Source Summit) : novembre 2022 
 
-<img align="right" src="./img/20221109_145009.jpg" width="300">
+<img align="right" src="./img/20221109_145009.jpg" width="200">
 
 Sujets :
 
@@ -703,7 +703,7 @@ Sujets :
 
 #### Grasse Running Days 2021 : Trail de 24 km
 
-<img align="right" src="./img/signal-2021-11-10-18-57-59-570.jpg" width="300">
+<img align="right" src="./img/signal-2021-11-10-18-57-59-570.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
 
@@ -753,7 +753,7 @@ Sujets :
 
 ####  UTCAM MERCANTOUR 45 km
 
-<img align="right" src="./img/D5C_9695.jpg" width="300">
+<img align="right" src="./img/D5C_9695.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/trail-utcam-trail-cote-dazur-mercantour-version-45-km-edition-2020/)
 
@@ -832,7 +832,7 @@ Sujets :
 
 #### Trail de UBAYE Elite
 
-<img align="right" src="./img/67815508_2276016295780505_3875428040053882880_n.jpg" width="300">
+<img align="right" src="./img/67815508_2276016295780505_3875428040053882880_n.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/trail-de-ubaye-elite-a-barcelonnette-edition-2019/)
 
@@ -882,7 +882,7 @@ Sujets :
 
 #### Trail des Gorges de l’Ardèche :smiley: 
 
-<img align="right" src="./img/IMG_20190525_144537.jpg" width="300">
+<img align="right" src="./img/IMG_20190525_144537.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/trail-des-gorges-de-lardeche-gtga-mais-finalement-la-tga/)
 
@@ -957,7 +957,7 @@ Sujets :
 
 #### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
 
-- <img align="right" src="./img/51989192.jpg" width="300">
+- <img align="right" src="./img/51989192.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/09/trail-utmb-occ-au-depart-de-orsiere-version-de-56-km/)
 
@@ -978,7 +978,7 @@ Sujets :
 
 #### Trail des Mélèzes – Version 25 km au départ de :round_pushpin: Colmars
 
-<img align="right" src="./img/IMG_20180722_140420.jpg" width="300">
+<img align="right" src="./img/IMG_20180722_140420.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-des-melezes-version-25-km-au-depart-de-colmars/)
 
@@ -988,7 +988,7 @@ Sujets :
 
 #### Trail : HTV : High Trail Vanoise :sweat: Abandon au kilomètre 51 :sweat:
 
-<img align="right" src="./img/8_HTV_1752.JPG" width="300">
+<img align="right" src="./img/8_HTV_1752.JPG" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-high-trail-vanoise-2018/)
 
@@ -1221,7 +1221,7 @@ Sujets :
 
 #### :round_pushpin: Gorbio : Kilomètre vertical
 
-<img align="right" src="./img/42AE9ABD-B65D-48F9-A059-242A83806D2A.jpeg" width="300">
+<img align="right" src="./img/42AE9ABD-B65D-48F9-A059-242A83806D2A.jpeg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/10/gorbio-kilometre-vertical/)
 
@@ -1340,7 +1340,7 @@ Sujets :
 
 #### Spartan Race :round_pushpin:  Le Castellet : La Trifecta dans le Weekend
 
-<img align="right" src="./img/Spartan-Race-2014_3_IMG_7074_7830.jpg" width="300">
+<img align="right" src="./img/Spartan-Race-2014_3_IMG_7074_7830.jpg" width="200">
 
 - :date: 2015-10
 
@@ -1569,7 +1569,7 @@ Meilleur éditeur au monde
 
 #### Raspberry
 
-<img align="right" src="./img/474px-Raspberry_Pi_logo.svg.png" width="300">
+<img align="right" src="./img/474px-Raspberry_Pi_logo.svg.png" width="200">
 
 - [Raspberry ( Raspbian : stretch ) / Git Server : Installation en bref](https://www.cyber-neurones.org/2018/11/raspberry-raspbian-stretch-git-server-installation-en-bref/)
 
@@ -1714,7 +1714,7 @@ Installation / Administration (sous Debian).
 
 #### [Humhub](https://www.humhub.com/en)
 
-<img align="right" src="./img/HumHub_Logo-2048x535.png" width="300">
+<img align="right" src="./img/HumHub_Logo-2048x535.png" width="200">
 
 Installation / Administration (sous Debian)
 
@@ -1836,7 +1836,7 @@ J'ai migrer de Raspberry vers ESX.
 
 #### Alpes-Maritimes
 
-<img align="right" src="./img/20230225_095708~2.jpg" width="300">
+<img align="right" src="./img/20230225_095708~2.jpg" width="200">
 
 - [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/) :date: 2023-04 
 
@@ -1852,7 +1852,7 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Tour complet du Cap d’Antibes](https://www.cyber-neurones.org/2022/04/marche-tour-complet-du-cap-dantibes/) :date: 2022-04
 
-<img align="right" src="./img/20230423_122023.jpg" width="300">
+<img align="right" src="./img/20230423_122023.jpg" width="200">
 
 - [Brec d’Utelle au départ de Saint-Jean La Rivière](https://www.cyber-neurones.org/2022/03/randonnee-a-utelle-brec-dutelle-au-depart-de-saint-jean-la-riviere/) :date: 2022-03
 
@@ -1890,7 +1890,7 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/) :date: 2020-05
 
-<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="300">
+<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="200">
 
 - [Isola 2000 : Randonnée vers les Lacs de Terre Rouge et le Col Baisse de Druos](https://www.cyber-neurones.org/2019/08/isola-2000-randonnee-vers-les-lacs-de-terre-rouge-et-le-col-baisse-de-druos/) :date: 2019-08
 
@@ -1947,7 +1947,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ##### Tarn
 
-<img align="right" src="./img/P_20170723_154323.jpg" width="300">
+<img align="right" src="./img/P_20170723_154323.jpg" width="200">
 
 - [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/) :date: 2019-04
 
@@ -1979,7 +1979,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ##### Pyrénées-Orientales
 
-<img align="right" src="./img/IMG_20200722_063659.jpg" width="300">
+<img align="right" src="./img/IMG_20200722_063659.jpg" width="200">
 
 - [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/) :date: 2020-08
 
@@ -1990,7 +1990,7 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : :round_pushpin: Gèdre vers le Lac de Bassia.](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-lac-de-bassia/) :date: 2016-07
 
-<img align="right" src="./img/P_20160719_091534.jpg" width="300">
+<img align="right" src="./img/P_20160719_091534.jpg" width="200">
 
 - [Randonnée : Gavarnie vers le Cirque de Gavarnie (et boucle dans le cirque à partir des échelles).](https://www.cyber-neurones.org/2016/07/randonnee-gavarnie-vers-le-cirque-de-gavarnie-et-boucle-dans-le-cirque-a-partir-des-echelles/) :date: 2016-07
 
@@ -2028,7 +2028,7 @@ J'ai migrer de Raspberry vers ESX.
 
 #### Corse
 
-<img align="right" src="./img/06267.jpg" width="300">
+<img align="right" src="./img/06267.jpg" width="200">
 
 - [Sentier des plages de :round_pushpin: Bonifacio en deux étapes](https://www.cyber-neurones.org/2022/04/randonnee-en-corse-sentier-des-plages-de-bonifacio-en-deux-etapes/) :date: 2022-04
 
@@ -2045,7 +2045,7 @@ J'ai migrer de Raspberry vers ESX.
 
 #### Tyrol
 
-<img align="right" src="./img/IMG_20190724_093231.jpg" width="300">
+<img align="right" src="./img/IMG_20190724_093231.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : De Juns Fener-Haus vers Tote Böden](https://www.cyber-neurones.org/2019/08/randonnee-tyrol-en-autriche-de-juns-fener-haus-vers-tote-boden/)
 
@@ -2059,7 +2059,7 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée Tyrol en Autriche : Cascade (ou chutes) de Krimml](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-cascade-de-krimml/)
 
-<img align="right" src="./img/IMG_20190731_091230.jpg" width="300">
+<img align="right" src="./img/IMG_20190731_091230.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : Karlshütte vers le barrage de Schlegeisspeicher](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-karshutte-vers-le-barrage-de-schlegeisspeicher/)
 
@@ -2078,7 +2078,7 @@ J'ai migrer de Raspberry vers ESX.
 
 #### Dolomites 
 
-<img align="right" src="./img/IMG_20180813_150631.jpg" width="300">
+<img align="right" src="./img/IMG_20180813_150631.jpg" width="200">
 
 - [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/)
 
@@ -2132,7 +2132,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Espagne
 
-<img align="right" src="./img/P7290174.jpg" width="300">
+<img align="right" src="./img/P7290174.jpg" width="200">
 
 - [Canyon : Los Oscuros del Balcés (Rodellar)](https://www.cyber-neurones.org/2016/08/canyon-los-oscuros-del-balces-rodellar/)
     - Rio : 2h30
@@ -2160,7 +2160,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Python
 
-<img align="right" src="./img/1200px-Python-logo-notext.svg.png" width="300">
+<img align="right" src="./img/1200px-Python-logo-notext.svg.png" width="200">
 
 - [Python/BRISQUE : Voir la « qualité » des photos NEXTCLOUD avec un script](https://www.cyber-neurones.org/2022/06/python-brisque-voir-la-qualite-des-photos-nextcloud-avec-un-script/) :date: 2022-06
 
@@ -2210,7 +2210,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Association 
 
-<img align="right" src="./img/IMG_20201004_125253-01.jpeg" width="300">
+<img align="right" src="./img/IMG_20201004_125253-01.jpeg" width="200">
 
 Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/), mes quelques artciles sur le vélo : 
 
@@ -2233,7 +2233,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Alpes-Maritimes
 
-<img align="right" src="./img/P_20210326_170603.jpg" width="300">
+<img align="right" src="./img/P_20210326_170603.jpg" width="200">
 
 - [Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/)
 
@@ -2249,7 +2249,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/)
 
-<img align="right" src="./img/P_20210801_121637.jpg" width="300">
+<img align="right" src="./img/P_20210801_121637.jpg" width="200">
 
 - [Vélo : Boucle Biot, Cagnes-sur-Mer, La gaude, Carros, Bouyon, Coursegoules, Pont-du-Loup, Bar-sur-Loup, Valbonne](https://www.cyber-neurones.org/2021/07/velo-boucle-biot-cagnes-sur-mer-la-gaude-carros-bouyon-coursegoules-pont-du-loup-bar-sur-loup-valbonne/)
 
@@ -2261,7 +2261,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Gravel/Vélo de Course : Départ de :round_pushpin: Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/)
 
-<img align="right" src="./img/signal-2022-07-30-09-29-50-991-4.jpg" width="300">
+<img align="right" src="./img/signal-2022-07-30-09-29-50-991-4.jpg" width="200">
 
 - [Départ de l’office du Tourisme vers le Phare de la Garoupe à :round_pushpin: Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/)
 
@@ -2325,7 +2325,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Alpes-Maritimes
 
-<img align="right" src="./img/P_20170525_165946.jpg" width="300">
+<img align="right" src="./img/P_20170525_165946.jpg" width="200">
 
 - [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/) :date: 2022-12
 
@@ -2356,7 +2356,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ### Voyage en vélo 
 
-<img align="right" src="./img/D4A11F96-0996-411B-B05C-6D6A23A74520.jpeg" width="300">
+<img align="right" src="./img/D4A11F96-0996-411B-B05C-6D6A23A74520.jpeg" width="200">
 
 - [Randonné (ou voyage) en vélo : De Mazamet à Antibes : 500 km en 4 jours ( une premier expérience )](https://www.cyber-neurones.org/2016/08/randonne-en-velo-de-mazamet-a-antibes-500-km-une-premier-experience/)
 
@@ -2382,7 +2382,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ## Plongée
 
-<img align="right" src="./img/GOPR3207.JPG" width="300">
+<img align="right" src="./img/GOPR3207.JPG" width="200">
 
 - [Formation Niveau 1 en plongée avec Kalliste Plongée et Divingeek à Porto Vecchio](https://www.cyber-neurones.org/2017/08/formation-niveau-1-en-plongee-avec-kalliste-plongee-et-divingeek-a-porto-vecchio/)
 
@@ -2503,7 +2503,7 @@ gantt
 
 ## Trail
 
-<img align="right" src="./img/P_20160313_125015.jpg" width="300">
+<img align="right" src="./img/P_20160313_125015.jpg" width="200">
 
 - [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/) :date: 2019-10
    - Distance : 14,7 km / 433 m D+
