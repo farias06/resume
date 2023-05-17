@@ -1684,6 +1684,8 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Python
 
+<img align="right" src="./img/1200px-Python-logo-notext.svg.png" width="300">
+
 - [Python/BRISQUE : Voir la « qualité » des photos NEXTCLOUD avec un script](https://www.cyber-neurones.org/2022/06/python-brisque-voir-la-qualite-des-photos-nextcloud-avec-un-script/)
 
 - [Python/OpenCV : Détection des contours du blob](https://www.cyber-neurones.org/2022/04/python-opencv-brouillon-detection-des-contours-du-blob/)
