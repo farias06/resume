@@ -1110,6 +1110,22 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 421. (386M - 152V1)	1h55'24'' :round_pushpin:	Antibes
 
+#### Les foulées Biotoises 2016 :round_pushpin: Biot
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/07/les-foulees-biotoises-2016/)
+
+- :runner: Course 
+
+- :triangular_flag_on_post: :fr: FFA :	163. (142M - 45V1)	49'36'' :round_pushpin:	Biot
+
+#### Jeux de Sophia 2016
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/06/jeux-de-sophia-2016/)
+
+- Basket, Tir à l'arc, Karting, Football à 5, Cross, Football à 7, Tir au pistolet, Bowling, Course d'orientation ...
+
+
+
 ### 2016
 
 ### 2015
@@ -1616,6 +1632,10 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : Gèdre vers le Barrage ( ou Lac ) des Gloriettes](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-barrage-ou-lac-des-gloriettes/)
 
+- [Randonnée : Chapelle de Héas (Gèdre) vers le Lacs des aires.](https://www.cyber-neurones.org/2016/07/randonnee-chapelle-de-heas-gedre-vers-le-lacs-des-aires/)
+
+
+
 #### Savoie
 
 - [Valloire : Randonnée Le Verneys vers Le Crey Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-verneys-vers-le-crey-rond/)
@@ -1724,13 +1744,13 @@ J'ai migrer de Raspberry vers ESX.
     - Le Loup : 2h00. (Approche : 0h10 / Retour : 0h15)
     - Note sur [descente-canyon.com](descente-canyon.com) : 2.1/4 (55 votes)
 
--  Breil-sur-roya avec Les Guides du Mercantour.
+-  [Breil-sur-roya avec Les Guides du Mercantour](https://www.cyber-neurones.org/2016/06/canyon-du-ruisseau-daudin/)
     - Audin : 1h40. (Approche : 0h40 / Retour : 0h20)
     - Note sur [descente-canyon.com](descente-canyon.com) : 2.6/4 (111 votes)
 
 #### Pyrénées :
 
-- Canyon d’Hèas avec Hautes Pyrénées Canyoning.
+- [Canyon d’Hèas avec Hautes Pyrénées Canyoning.](https://www.cyber-neurones.org/2016/07/canyon-dheas/)
     - Gave d’Héas : 3h05 (Approche : 0h05 / Retour : 0h15)
     - Note sur [descente-canyon.com](descente-canyon.com) : 2.8/4 (27 votes)
 
@@ -1896,6 +1916,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [Boucle Saint-Avit (Tarn), Dourgne, Montalric, Sorèze, Cahuzac, Lagardiolle.](https://www.cyber-neurones.org/2018/04/velo-boucle-saint-avit-tarn-dourgne-montalric-soreze-cahuzac-lagardiolle/)
 
 - [Voie verte : de Mazamet (Pont de L’Arn) – Bédarieux : « Passa Païs »](https://www.cyber-neurones.org/2016/08/voie-verte-de-mazamet-pont-de-larn-bedarieux-passa-pais/)
+
+- [Vélo : De Saint-Féréol à Saint-Avit par Sorèze.](https://www.cyber-neurones.org/2016/07/velo-de-saint-fereol-a-saint-avit-par-soreze/)
 
 
 ##### Vaucluse
@@ -2078,6 +2100,10 @@ Mes portables de dev (sous Ubuntu), je change tous les 2-3 ans :
 - [Biot : Rénion du quartier n°2](https://www.cyber-neurones.org/2017/09/biot-renion-du-quartier-n2/)
 
 - [Conseil de quartier à Biot n°2: j’y étais pour vous](https://www.cyber-neurones.org/2016/11/conseil-de-quartier-a-biot-n2-jy-etais-pour-vous/)
+
+## Autre
+
+- [Encore un accident au pont Brejnev à Biot !](https://www.cyber-neurones.org/2016/06/encore-un-accident-au-pont-brejnev-a-biot/)
 
 # Autres
 
