@@ -58,6 +58,7 @@ gantt
     Yocto : done, c1, 2018-06-19, 2019-10-20
 ```
 
+<img align="right" src="./img/P_20220202_154029.jpg" width="300">
 
 ### 2023 (RESIDEO)
 
@@ -678,6 +679,8 @@ Sujets :
 
 #### Grasse Running Days 2021 : Trail de 24 km
 
+<img align="right" src="./img/signal-2021-11-10-18-57-59-570.jpg" width="300">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
 
 - :runner: Trail, 24 km, 1181 m :mountain: D+, :watch: 03:15:33
@@ -950,6 +953,8 @@ Sujets :
 
 
 #### Trail des Mélèzes – Version 25 km au départ de :round_pushpin: Colmars
+
+<img align="right" src="./img/IMG_20180722_140420.jpg" width="300">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-des-melezes-version-25-km-au-depart-de-colmars/)
 
@@ -2151,7 +2156,7 @@ Meilleure alternative à WhatsApp.
 
 ## TUXEDO
 
-Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour faire des dev sous Ubuntu. C'est un très bon rapport qualité/prix.
+Je conseille cette marque : :computer: [Tuxedo](https://www.tuxedocomputers.com/) , pour faire des dev sous Ubuntu. C'est un très bon rapport qualité/prix.
 
 - [TUXEDO InfinityBook Pro 14 v5 : Suppression de la batterie](https://www.cyber-neurones.org/2021/08/tuxedo-infinitybook-pro-14-v5-suppression-de-la-batterie/)
 
@@ -2159,14 +2164,32 @@ Je conseille cette marque : [Tuxedo](https://www.tuxedocomputers.com/) , pour fa
 
 Mes portables de dev (sous Ubuntu), je change tous les 2-3 ans :
 
-- Tuxedo InfinityBook Pro 14 v5 :
+- :computer: Tuxedo InfinityBook Pro 14 v5 : ( 1500 Euros )
   - 64 GB DDR4
-  - 2x1 To SSD
+  - 2x1 To SSD SAMSUNG
   - Garantie 2 ans
-- Tuxedo Infinity Pro 17 :
+- :computer: Tuxedo Infinity Pro 17 : ( 2300 Euros ) 
   - 64 GB DDR4
-  - 2x1 To SSD
+  - 2x1 To SSD SAMSUNG
+  - NVIDIA GeForce RTX 3060 ( Fortement recommandé ) 
   - Garantie 2 ans
+
+A noter que j'ai arreté les MacBook car la mémoire était soudé et que le prix devenait déraisonnable ... Et je regrette pas, pour avoir un MacBook avec 64 GB de DDR4 et 2x1 To de SSD SAMSUNG ... euh, c'est pas possible.
+
+```mermaid
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Computer
+    axisFormat  %Y
+
+    section MacBook
+    **MacBook Pro** (15-inch, 2017) : done, b1, 2018-01-01, 2020-01-02
+
+    section Tuxedo
+    Tuxedo InfinityBook Pro 14 v5 : done, t1, 2020-01-02, 2022-01-12
+    Tuxedo Infinity Pro 17: active, t2, 2022-02-15, 2024-02-15
+```
+
 
 # :round_pushpin: Biot 
 
