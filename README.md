@@ -35,15 +35,15 @@ J'ai eu trois type de poste de developpeur sous Linux.
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Poste
-    excludes    weekends
+    title       Postes
+    axisFormat  %Y
 
     section Dev Driver Linux
     Driver PSTN Board  :done,    a1, 2001-05-15,2002-05-15
 
     section Dev System Linux
     Server : done, b1, 2002-05-15, 2018-06-19
-    Server : active, b2, 2019-05-15, <NOW>
+    Server : active, b2, 2019-10-20, NOW
 
     section Dev IOT Linux
     Yocto : done, c1, 2018-06-19, 2019-10-20
