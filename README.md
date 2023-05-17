@@ -1394,6 +1394,8 @@ Installation / Administration (sous Debian).
 
 #### [Humhub](https://www.humhub.com/en)
 
+<img align="right" src="./img/HumHub_Logo-2048x535.png" width="300">
+
 Installation / Administration (sous Debian)
 
 C'est la meilleure alternative à Facebook pour des groupes à taille humaine. En cours d'utilisation depuis le **11/2020**. 
