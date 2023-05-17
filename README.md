@@ -1475,10 +1475,6 @@ Sujets :
 
 - Course, 7 km
 
-#### 
-
-- :triangular_flag_on_post: :fr: FFA :  	125. (109M – 51SE) 	38’06  	Guillaumes
-
 #### Foulée Biotoise à :round_pushpin: Biot 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/07/ma-course-les-foulees-biotoises/)
