@@ -1369,13 +1369,19 @@ Sujets :
 
 #### Holi Run à :round_pushpin: Villeneuve-Loubet
 
+- :date: 2015-07
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/07/holi-run-a-villeneuve-loubet/)
 
 - :runner: " Course "
 
-#### Mud Day à Levens 
+#### :hankey: Mud Day à :round_pushpin: Levens  :hankey:
+
+- :date: 2015-05
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/monday-morning-mud-day-nice-2015/)
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/06/mud-day-nice-2015/)
 
 - :runner: Course d'obstacle
 
