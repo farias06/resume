@@ -1810,7 +1810,9 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [VTT à :round_pushpin: Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
 
 
-### Voyage 
+### Voyage en vélo 
+
+<img align="right" src="./img/D4A11F96-0996-411B-B05C-6D6A23A74520.jpeg" width="300">
 
 - [Randonné (ou voyage) en vélo : De Mazamet à Antibes : 500 km en 4 jours ( une premier expérience )](https://www.cyber-neurones.org/2016/08/randonne-en-velo-de-mazamet-a-antibes-500-km-une-premier-experience/)
 
@@ -1833,16 +1835,21 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ## Plongée
 
+<img align="right" src="./img/GOPR3207.JPG" width="300">
+
 - [Formation Niveau 1 en plongée avec Kalliste Plongée et Divingeek à Porto Vecchio](https://www.cyber-neurones.org/2017/08/formation-niveau-1-en-plongee-avec-kalliste-plongee-et-divingeek-a-porto-vecchio/)
 
 
 ## :surfer: Surf
 
+- Léon, Madère, ...
+
 - [La meilleure école de surf sur Léon : One Palm ](https://www.cyber-neurones.org/2017/07/la-meilleure-ecole-de-surf-sur-leon-one-palm/)
+    
+## :rugby_football: Rugby
 
 ## Musique : :saxophone: Saxophone .
 
-## :rugby_football: Rugby
 
 # Logiciels 
 
