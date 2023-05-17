@@ -1383,7 +1383,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/mud-day-nice-2015/)
 
-- :runner: Course d'obstacle
+- :runner: Course d'obstacles
 
 #### Jeux de Sophia 2015
 
@@ -1393,7 +1393,37 @@ Sujets :
 
 - **15 épreuves** : Tir à l'arc, Tir au pistolet, Karting, Football à 5, Cross, Badminton, Basket-ball, Football à 7, Volley-Ball, Course d'orientation, Bowling, Baby foot, Beach Volley, VTT.
 
+#### Semi-marathon de Nice
 
+- :date: 2015-04
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/04/semi-marathon-de-nice-2015/)
+
+- [Statistiques du Semi-Marathon de Nice – 2015](https://www.cyber-neurones.org/2015/04/statistiques-du-semi-marathon-de-nice-2015/)
+
+- :triangular_flag_on_post: :fr: FFA : 1473. (1310M - 458MA) :watch: 	1h50'43'' :round_pushpin:	Nice
+
+#### Mud Day Pays d'Aix
+
+- :date: 2015-04
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/04/mud-day-pays-daix/)
+
+- Course d'obstacles
+
+#### Nice Carnaval Run
+
+- :date: 2015-02
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/02/nice-carnaval-run/)
+
+- :triangular_flag_on_post: :fr: FFA : 318. (276M - 85MA) :watch:	50'01'' :round_pushpin:	Nice
+
+#### 12 Bornes de Gorbio
+
+- link: [Wordpress](https://www.cyber-neurones.org/2015/01/12-bornes-de-gorbio/)
+
+- :triangular_flag_on_post: :fr: FFA :  129. (118M - 38MA) :watch:	1h02'20'' :round_pushpin:	Gorbio
 
 ### 2014
 
@@ -2182,7 +2212,7 @@ J'ai migrer de Raspberry vers ESX.
 
 <img align="right" src="./img/IMG_20201004_125253-01.jpeg" width="300">
 
-Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
+Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/), mes quelques artciles sur le vélo : 
 
 - [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/)
 
@@ -2194,6 +2224,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Création de piste cyclable dans les alpes-maritimes](https://www.cyber-neurones.org/2015/12/creation-de-piste-cyclable-dans-les-alpes-maritimes/)
 
+- [Stade Allianz Riviera : un an après la pose du portail anti-cycliste.](https://www.cyber-neurones.org/2015/04/stade-allianz-riviera-un-an-apres-la-pose-du-portail-anti-cycliste/)
 
 
 ### Parcours
