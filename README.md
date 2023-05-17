@@ -1606,6 +1606,15 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée : Bivouac 2 jours : :round_pushpin: Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/)
 
 
+##### Hautes-Pyrénées
+
+- [Randonnée : Gèdre vers le Lac de Bassia.](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-lac-de-bassia/)
+
+<img align="right" src="./img/P_20160719_091534.jpg" width="300">
+
+- [Randonnée : Gavarnie vers le Cirque de Gavarnie (et boucle dans le cirque à partir des échelles).](https://www.cyber-neurones.org/2016/07/randonnee-gavarnie-vers-le-cirque-de-gavarnie-et-boucle-dans-le-cirque-a-partir-des-echelles/)
+
+- [Randonnée : Gèdre vers le Barrage ( ou Lac ) des Gloriettes](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-barrage-ou-lac-des-gloriettes/)
 
 #### Savoie
 
@@ -1738,6 +1747,18 @@ J'ai migrer de Raspberry vers ESX.
     - Rio Alcanadre : 4h05. (Marche aller : 50 min / Marche Retour : 15 min)
     - Nom : La peonera inférieure.
     - Note sur [descente-canyon.com](descente-canyon.com) : 3.1/4 (66 votes)
+
+- [Canyon Formiga à Bierge (Huesca)](https://www.cyber-neurones.org/2016/07/canyon-formiga-a-bierge-huesca/)
+
+
+
+## Via Ferrata
+
+### France
+
+### Espagne
+
+- [Via Ferrata : Espolon de la Virgen (Rodellar).](https://www.cyber-neurones.org/2016/07/via-ferrata-espolon-de-la-virgen-rodellar/)
 
 ## Developpement
 
@@ -1900,6 +1921,10 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [VTT à :round_pushpin: Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
 
+
+##### Espagne
+
+- [TT : Parc Naturel de las Bardenas Reales : Boucle de 28 km](https://www.cyber-neurones.org/2016/07/vtt-parc-naturel-de-las-bardenas-reales-boucle-de-28-km/)
 
 ### Voyage en vélo 
 
