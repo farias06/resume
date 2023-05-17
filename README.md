@@ -1320,6 +1320,10 @@ Sujets :
 
 - :runner: Cross
 
+#### Compétition inter-entreprise de Padel
+
+- Padel 
+
 #### Cross des îles de Lérins
 
 - :date: 2015-12
@@ -1447,7 +1451,7 @@ Sujets :
 
 - Course, 41 km, 
 
-- :triangular_flag_on_post: :fr: FFA : 
+- :triangular_flag_on_post: :fr: FFA : 3226. (2827M – 1049MA) 	3h56’21 :round_pushpin:  	Nice 	
 
 #### Spartan Race Beast : au circuit Paul Ricard.
 
@@ -1461,11 +1465,19 @@ Sujets :
 
 - Course, 21 km,
 
+- :triangular_flag_on_post: :fr: FFA :  407. (387M – 157SE) 	1h46’45 :round_pushpin:  	Juan Les Pins 	
+
 #### Corrida de :round_pushpin: Valbonne
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/08/corrida-de-valbonne/)
 
+- :triangular_flag_on_post: :fr: FFA :  125. (109M – 51SE) 	38’06 :round_pushpin: 	Valbonne 	
+
 - Course, 7 km
+
+#### 
+
+- :triangular_flag_on_post: :fr: FFA :  	125. (109M – 51SE) 	38’06  	Guillaumes
 
 #### Foulée Biotoise à :round_pushpin: Biot 
 
@@ -1487,11 +1499,15 @@ Sujets :
 
 - Trail, 17 km, 
 
+- :triangular_flag_on_post: :fr: FFA : 83. (78M – 30SE) 	2h08’48   	Grasse 	
+
 #### Ronde des Plages à :round_pushpin: Menton
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/05/ronde-des-plages-a-menton-2/)
 
 - Course, 10 km, 
+
+
 
 #### Ascension du Col de :round_pushpin: Vence
 
@@ -1499,7 +1515,93 @@ Sujets :
 
 - Course, 
 
+- :triangular_flag_on_post: :fr: FFA : 250. (215M – 91SE) 	1h13’25  :round_pushpin: 	Vence 	
+
+#### Derby de la Meije :+1:
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/04/derby-de-la-meije/)
+
+- :link: [Statistique : Derby de la Meije](https://www.cyber-neurones.org/2014/03/statistique-derby-de-la-meije/)
+
+- Ski, 7 km , 1537 m D-, 
+
+#### Trail d'Eze
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/03/trail-deze/)
+
+- Trail, 18 km
+
+#### Rock’n Roll Nice 10 Miles du CARNAVAL 2014
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/02/rockn-roll-nice-10-miles-du-carnaval-2014/)
+
+- Course, 10 Miles, 
+
+- :triangular_flag_on_post: :fr: FFA : 639. (558M – 220SE) 	1h22’50 :round_pushpin: 	Nice 	
+
+#### PROM Classic 2014 à Nice
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/01/prom-classic-2014/)
+
+- Course, 10 km, 
+
+- :triangular_flag_on_post: :fr: FFA :2449. ( – 978SE) 	48’53  :round_pushpin: 	Nice
+
 ### 2013
+
+#### Marathon des Alpes Maritimes.
+
+- :date: 10 novembre 2013
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2013/11/ma-course-marathon-des-alpes-maritimes-2013/)
+
+- :link: [Statistique](https://www.cyber-neurones.org/2013/11/marathon-des-alpes-maritimes-2013/)
+
+- Course, 
+
+#### La boucle de Breil sur Roya.
+
+- :date: 27 octobre 2013
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2013/10/boucle-de-breil-sur-roya/)
+
+- Trail,
+
+#### Courir pour une fleur, Semi-marathon d’Antibes.
+
+- :date: 6 octobre 2013
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2013/10/courir-pour-une-fleur-le-semi-marathon/)
+
+#### Les foulées biotoises.
+
+- :date: 7 juillet 2013 
+
+#### Kilomètre vertical.
+
+- :date: 29 juin 2013 
+
+#### La ronde des plages.
+
+- :date: 19 mai 2013
+
+#### Ascension du Col de Vence.
+
+- :date: 5 mai 2013
+
+####  Marathon du Lac d’Annecy.
+
+- :date: 21 avril 2013 
+
+#### Rock’n Roll Nice Carnaval
+
+- :date: 17 février 2013
+
+####  La PROM Classic.
+
+- :date: 6 janvier 2013 
+
+####
 
 ### 2012
 
@@ -1826,6 +1928,9 @@ J'ai aussi mis le plugin Matomo afin de supprimer Google Analytics.
 - [WordPress : WP-Optimize option cache : Des résultats visibles !](https://www.cyber-neurones.org/2020/11/wordpress-wp-optimize-option-cache-des-resultats-visibles/)
 
 - [Transposh , le plugin WordPress qui consomme toute la base de donnée !](https://www.cyber-neurones.org/2016/12/transposh-le-plugin-qui-consomme-toute-la-base-de-donnee/)
+
+- [Installation de WP GPX Maps](https://www.cyber-neurones.org/2014/03/wp-gpx-maps/) Plugin le plus important pour moi, j'espère avoir un équivalant sous Hugo.
+
 
 
 #### [Drupal](https://www.drupal.fr/)
