@@ -853,7 +853,9 @@ Sujets :
 
 - :link: [Course d'orientation & Course](https://www.cyber-neurones.org/2019/05/jeux-de-sophia-2019/)
 
-#### Trail des Gorges de l’Ardèche 
+#### Trail des Gorges de l’Ardèche :smiley: 
+
+<img align="right" src="./img/IMG_20190525_144537.jpg" width="300">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/trail-des-gorges-de-lardeche-gtga-mais-finalement-la-tga/)
 
