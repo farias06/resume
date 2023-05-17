@@ -1092,11 +1092,13 @@ Sujets :
 
 #### Hivernale des templiers : Le marathon d’Orchis.
 
+<img align="right" src="./img/P_20171203_095605.jpg" width="200">
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/12/hivernale-des-templiers-le-marathon-dorchis/)
 
 - :runner: Trail, 39 km, 
 
-- :triangular_flag_on_post: :fr: FFA : 516. (459M - 150V1)	5h29'17'' round_pushpin:	Roquefort Sur Soulzon
+- :triangular_flag_on_post: :fr: FFA : 516. (459M - 150V1) :watch:	5h29'17'' round_pushpin:	Roquefort Sur Soulzon
 
 - :triangular_flag_on_post: :star: ITRA : 
     - 39 km / 1970 :mountain: m+ 	
@@ -1421,11 +1423,81 @@ Sujets :
 
 #### 12 Bornes de Gorbio
 
-- link: [Wordpress](https://www.cyber-neurones.org/2015/01/12-bornes-de-gorbio/)
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/01/12-bornes-de-gorbio/)
+
+- Trail, 
 
 - :triangular_flag_on_post: :fr: FFA :  129. (118M - 38MA) :watch:	1h02'20'' :round_pushpin:	Gorbio
 
+#### PROM Classic 2015
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/01/prom-classic-2015/)
+
+- Course, 10 km, 
+
+- :triangular_flag_on_post: :fr: FFA : 2676. (2405M - 733MA)	49'07''	:round_pushpin: Nice
+
 ### 2014
+
+#### Marathon des Alpes-Maritimes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/11/marathon-des-alpes-maritimes-2014/)
+
+- :link: [Préparation](https://www.cyber-neurones.org/2014/11/preparation-au-marathon-des-alpes-maritimes/)
+
+- Course, 41 km, 
+
+- :triangular_flag_on_post: :fr: FFA : 
+
+#### Spartan Race Beast : au circuit Paul Ricard.
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/10/spartan-race-beast-au-circuit-paul-ricard/)
+
+- Course d'obstacles, 20 km, 40 obstables .
+
+#### Courrir pour une fleur, le semi-marathon à :round_pushpin: Antibes
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/10/courir-pour-une-fleur-le-semi-marathon-2/)
+
+- Course, 21 km,
+
+#### Corrida de :round_pushpin: Valbonne
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/08/corrida-de-valbonne/)
+
+- Course, 7 km
+
+#### Foulée Biotoise à :round_pushpin: Biot 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/07/ma-course-les-foulees-biotoises/)
+
+- Course,
+
+#### Jeux de Sophia 2014
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/06/jeux-de-sophia-2014/)
+
+- :link: [Cross](https://www.cyber-neurones.org/2014/06/cross-de-3-km-des-jeux-de-sophia-antipolis/)
+
+- **13 Epreuves** : Cross, Basket-ball, Tir à l'arc, Tir au pistolet, Tennis de table, Voiles, Karting, Tennis, Squash, Bowling, VTT Nocturne, Padel, Badminton.
+
+#### Trail de :round_pushpin: Grasse : version courte 17 km.
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/06/trail-de-grasse-version-courte-17-km/)
+
+- Trail, 17 km, 
+
+#### Ronde des Plages à :round_pushpin: Menton
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/05/ronde-des-plages-a-menton-2/)
+
+- Course, 10 km, 
+
+#### Ascension du Col de :round_pushpin: Vence
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2014/05/ascension-du-col-de-vence-2/)
+
+- Course, 
 
 ### 2013
 
@@ -1439,6 +1511,14 @@ Sujets :
 
 ### 2008
 
+#### 10 km de :round_pushpin: Grasse
+
+- :date: 23 nov. 2008
+
+- :heavy_check_mark: 953
+
+- Course, 10 km, :watch:  	00:50:07
+
 ### 2007
 
 ### 2006
@@ -1446,6 +1526,23 @@ Sujets :
 ### 2005
 
 ### 2004
+
+#### :round_pushpin: Marseille - :round_pushpin: Cassis
+
+- :date: 31 oct. 2004
+
+- :heavy_check_mark: 5828
+
+- Course, 21 km, :watch: 02:01:10
+
+#### Semi-marathon de :round_pushpin: Nice
+
+- :date: 25 avr. 2004
+
+- :heavy_check_mark: 2923
+
+- Course, 21 km, :watch: 02:04:40
+
 
 ### 2003
 
@@ -1455,15 +1552,45 @@ Sujets :
 
 ### 2000
 
+#### :round_pushpin: Marseille - :round_pushpin: Cassis
+
+- :date: 29 oct. 2000
+
+- :heavy_check_mark: 9830
+
+- Course, 21 km, :watch: 01:55:51
+
 ### 1999
+
+#### Saison 1998/1999 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
 
 ### 1998
 
+#### Marathon Translauraguaise
+
+- :date: 14 sept. 1998
+
+- Course, 42 km, :watch: 05:15:00
+
+#### Saison 1998/1999 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
+
+#### Saison 1997/1998 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
+
 ### 1997
+
+#### Saison 1997/1998 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
+
+#### Saison 1996/1997 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
 
 ### 1996
 
+#### Saison 1996/1997 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
+
+#### Saison 1995/1996 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
+
 ### 1995
+
+#### Saison 1995/1996 de Rugby avec le [Toulouse Université Club (T.U.C.) ](https://tucsports.com/)
 
 ### Materiels
 
@@ -1529,28 +1656,29 @@ Meilleur éditeur au monde
 
 - [TUXEDO InfinityBook Pro 14 v5 : Migration de Ubuntu 18.04 vers Ubuntu 20.04](https://www.cyber-neurones.org/2021/01/tuxedo-infinitybook-pro-14-v5-migration-de-ubuntu-18-04-vers-ubuntu-20-04/)
 
-- [Ubuntu : Crash de update-manager](https://www.cyber-neurones.org/2021/01/ubuntu-crash-de-update-manager/)
+- [Ubuntu : Crash de update-manager](https://www.cyber-neurones.org/2021/01/ubuntu-crash-de-update-manager/) :date: 2021-01
 
-- [Ubuntu 18 : Slack vs Teams ( CPU et Memory )](https://www.cyber-neurones.org/2020/05/ubuntu-18-slack-vs-teams-cpu-et-memory/)
+- [Ubuntu 18 : Slack vs Teams ( CPU et Memory )](https://www.cyber-neurones.org/2020/05/ubuntu-18-slack-vs-teams-cpu-et-memory/) :date: 2020-05
 
-- [Installation de Darling sous Ubuntu afin de lancer des logiciels MacOS](https://www.cyber-neurones.org/2020/04/installation-de-darling-sous-ubuntu-afin-de-lancer-des-logiciels-macos-echec/)
+- [Installation de Darling sous Ubuntu afin de lancer des logiciels MacOS](https://www.cyber-neurones.org/2020/04/installation-de-darling-sous-ubuntu-afin-de-lancer-des-logiciels-macos-echec/) :date: 2020-04
 
-- [Internet Explorer sous Ubuntu 18.04 , c’est possible ? (en mode virtualbox et non libvrt)](https://www.cyber-neurones.org/2020/04/internet-explorer-sous-ubuntu-18-04-cest-possible-en-mode-virtualbox-et-non-libvrt/)
+- [Internet Explorer sous Ubuntu 18.04 , c’est possible ? (en mode virtualbox et non libvrt)](https://www.cyber-neurones.org/2020/04/internet-explorer-sous-ubuntu-18-04-cest-possible-en-mode-virtualbox-et-non-libvrt/) :date: 2020-04
 
-- [Installation Citrix Workspace sous Ubuntu 18](https://www.cyber-neurones.org/2020/04/installation-citrix-workspace-sous-ubuntu-18/)
+- [Installation Citrix Workspace sous Ubuntu 18](https://www.cyber-neurones.org/2020/04/installation-citrix-workspace-sous-ubuntu-18/) :date: 2020-04
 
-- [Ubuntu 18 : Installation d’un client NextCloud avec Flatpak](https://www.cyber-neurones.org/2020/03/ubuntu-18-installation-dun-client-nextcloud-avec-flatpak/)
+- [Ubuntu 18 : Installation d’un client NextCloud avec Flatpak](https://www.cyber-neurones.org/2020/03/ubuntu-18-installation-dun-client-nextcloud-avec-flatpak/) :date: 2020-03
 
-- [Digikam : sqlite3 lecture des tables afin de supprimer les images similaires](https://www.cyber-neurones.org/2020/01/digikam-sqlite3-lecture-des-tables-afin-de-supprimer-les-images-similaires/)
+- [Digikam : sqlite3 lecture des tables afin de supprimer les images similaires](https://www.cyber-neurones.org/2020/01/digikam-sqlite3-lecture-des-tables-afin-de-supprimer-les-images-similaires/) :date: 2020-01
 
-- [Ubuntu : Compression et dimenssion des photos](https://www.cyber-neurones.org/2020/01/ubuntu-compression-et-dimenssion-des-photos/)
+- [Ubuntu : Compression et dimenssion des photos](https://www.cyber-neurones.org/2020/01/ubuntu-compression-et-dimenssion-des-photos/) :date: 2020-01
 
-- [Changer la date de modification et de création de photo avec exiftool](https://www.cyber-neurones.org/2020/01/changer-la-date-de-modification-et-de-creation-de-photo-avec-exiftool/)
+- [Changer la date de modification et de création de photo avec exiftool](https://www.cyber-neurones.org/2020/01/changer-la-date-de-modification-et-de-creation-de-photo-avec-exiftool/) :date: 2020-01
 
-- [Mojave : Build dlib : issue : fatal error: ‘X11/Xlib.h’ file not found](https://www.cyber-neurones.org/2019/02/mojave-build-dlib-issue-fatal-error-x11-xlib-h-file-not-found/)
+- [Mojave : Build dlib : issue : fatal error: ‘X11/Xlib.h’ file not found](https://www.cyber-neurones.org/2019/02/mojave-build-dlib-issue-fatal-error-x11-xlib-h-file-not-found/) :date: 2019-02
 
-- [Ubuntu : Connaitre la version en ligne de commande .](https://www.cyber-neurones.org/2018/09/ubuntu-connaitre-la-version-en-ligne-de-commande/)
+- [Ubuntu : Connaitre la version en ligne de commande .](https://www.cyber-neurones.org/2018/09/ubuntu-connaitre-la-version-en-ligne-de-commande/) :date: 2018-09
 
+- [Comment installer TeamViewer sur Ubuntu 14.10](https://www.cyber-neurones.org/2014/11/comment-installer-teamviewer-sur-ubuntu-14-10/) :date: 2014-11
 
 ### Debian
 
@@ -2016,6 +2144,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée – La Sainte-Victoire par le GR9 – Sentier des Venturiers –](https://www.cyber-neurones.org/2016/05/la-sainte-victoire-par-le-gr9-sentier-des-venturiers/) :date: 2016-05
 
+- [Calanque de sugiton à Marseille.](https://www.cyber-neurones.org/2014/05/calanque-de-sugiton-a-marseille/)
+
 ##### Vaucluse
 
 - [Colorado Provencal à Rustrel ( Vaucluse – Lubéron ) : Circuit orange.](https://www.cyber-neurones.org/2016/05/colorado-provencal-a-rustrel-vaucluse-luberon-circuit-orange/) :date: 2016-05 
@@ -2196,7 +2326,7 @@ J'ai migrer de Raspberry vers ESX.
 
 ### BASH
 
-- [Mon script de test de débit](https://www.cyber-neurones.org/2019/10/mon-script-de-test-de-debit/)
+- [Mon script de test de débit](https://www.cyber-neurones.org/2019/10/mon-script-de-test-de-debit/) :date: 2019-10
 
 - 
 
@@ -2208,9 +2338,9 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Lettre à Christian Estrosi pour l’accès au Stade Allianz-Riviera à Vélo](https://www.cyber-neurones.org/2016/04/lettre-a-christian-estrosi-pour-lacces-au-stade-allianz-riviera-a-velo/) :date: 2016-04
 
-- [Le portail contre les cyclistes en direction de l’Allianz-Riviera.](https://www.cyber-neurones.org/2016/04/le-portail-contre-les-cyclistes-pour-lallianz-riviera/)
+- [Le portail contre les cyclistes en direction de l’Allianz-Riviera.](https://www.cyber-neurones.org/2016/04/le-portail-contre-les-cyclistes-pour-lallianz-riviera/) :date: 2016-04
 
-
+- [Stade Allianz Riviera à Nice : Toujours pas d’accès à Vélo.](https://www.cyber-neurones.org/2014/05/stade-allianz-riviera-a-nice-toujours-pas-dacces-a-velo/) :date: 2014-05
 
 ### Association 
 
@@ -2345,6 +2475,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Randonnée :mountain_biking_man: VTT à la Valmasque : boucle bleue](https://www.cyber-neurones.org/2016/04/randonnee-vtt-a-la-valmasque-boucle-bleue/) :date: 2016-04
 
+- [VTT à BIOT : Biot vers Villeneuve-Loubet](https://www.cyber-neurones.org/2014/05/vtt-a-biot-biot-vers-villeneuve-loubet/) :date: 2014-05
+
 
 ###### Bouches-du-Rhône
 
@@ -2399,7 +2531,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ## :surfer: Surf
 
-- Léon, Madère, ...
+- Léon, [Madère](https://www.cyber-neurones.org/2014/07/madere-surf-a-madere/) , ...
 
 - [La meilleure école de surf sur Léon : One Palm ](https://www.cyber-neurones.org/2017/07/la-meilleure-ecole-de-surf-sur-leon-one-palm/)
     
@@ -2518,15 +2650,15 @@ gantt
 - [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/) :date: 2019-10
    - Distance : 14,7 km / 433 m D+
 
-- [Trail à Biot : Le Mega Tour du Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/) :date: 2020-08
+- [Trail à Biot : Le Mega Tour du :boar: Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/) :date: 2020-08
    - Distance : 21,6 km / 680 m D+
 
 <img align="right" src="./img/P_20160313_124835.jpg" width="200">
 
-- [Trail à Biot : L’Extra Tour du Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/) :date: 2020-08
+- [Trail à Biot : L’Extra Tour du :boar: Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/) :date: 2020-08
    - Distance : 20,1 km / 657 m D+
 
-- [Trail à Biot : Le Grand Tour du Sanglier , le GTS pour les pros !](https://www.cyber-neurones.org/2020/05/trail-a-biot-le-grand-tour-du-sanglier-le-gts-pour-les-pros/) :date: 2020-05
+- [Trail à Biot : Le Grand Tour du :boar: Sanglier , le GTS pour les pros !](https://www.cyber-neurones.org/2020/05/trail-a-biot-le-grand-tour-du-sanglier-le-gts-pour-les-pros/) :date: 2020-05
    - Distance : 16,9 km / 526 m D+
 
 ## Vélo
