@@ -440,6 +440,8 @@ Lycée La Borde Basse. Mention Passable.
 
 #### Salon Open Source Expérience à :round_pushpin: Paris (Open Source Summit) : novembre 2022 
 
+<img align="right" src="./img/20221109_145009.jpg" width="300">
+
 Sujets :
 
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : décembre 2017
@@ -458,7 +460,9 @@ Sujet : Docker
 
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
-Sujets :
+<img align="right" src="./img/6EDCCA85-051C-42DE-A653-7556F9EFBC17.jpeg">
+
+Sujets : IoT
 
 - [Paris Open Source Summit 2016 : #OSSPARIS2016 ](https://www.cyber-neurones.org/2016/11/paris-open-source-summit-2016-ossparis2016/)
 
@@ -1390,7 +1394,7 @@ Installation / Administration (sous Debian).
 
 Installation / Administration (sous Debian)
 
-C'est la meilleure alternative à Facebook pour des groupes à taille humaine. En cours d'utilisation depuis le 11/2020. 
+C'est la meilleure alternative à Facebook pour des groupes à taille humaine. En cours d'utilisation depuis le **11/2020**. 
 
 Competences : Apache / Humhub / Debian / Firewall . 
 
@@ -1540,9 +1544,11 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/)
 
-- [Randonnée à Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/)
+<img align="right" src="./img/20230122_150031.jpg">
 
-- [Randonnée à Auron : Cime de la Bercha via une boucle](https://www.cyber-neurones.org/2017/08/randonnee-a-auron-cime-de-la-bercha-via-une-boucle/)
+- [Randonnée à :round_pushpin: Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/)
+
+- [Randonnée à :round_pushpin: Auron : Cime de la Bercha via une boucle](https://www.cyber-neurones.org/2017/08/randonnee-a-auron-cime-de-la-bercha-via-une-boucle/)
 
 - [Balade à l’ombre : De Biot à Valbonne par la Brague](https://www.cyber-neurones.org/2017/08/balade-de-biot-a-valbonne-par-la-brague/)
 
@@ -1563,6 +1569,8 @@ J'ai migrer de Raspberry vers ESX.
 
 
 ##### Tarn
+
+<img align="right" src="./img/P_20170723_154323.jpg" width="300">
 
 - [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/)
 
