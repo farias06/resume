@@ -460,13 +460,13 @@ Tags : #OSSParis2017
 
 Sujets : DevOps , Python , Haskell , Cloud , IA , Cybersecurity .
 
-- [Paris Open Source Summit 2017 : #OSSParis2017](https://www.cyber-neurones.org/2017/12/paris-open-source-summit-2017-ossparis2017/)
+- [Paris Open Source Summit 2017 : #OSSParis2017](https://www.cyber-neurones.org/2017/12/paris-open-source-summit-2017-ossparis2017/) :date: 2017-12
 
 #### Docker à :round_pushpin: Sophia-Antipolis : mars 2017 
 
 Sujet : Docker
 
-- [Celebration of Docker’s 4th Birthday à Sophia-Antipolis](https://www.cyber-neurones.org/2017/03/celebration-of-dockers-4th-birthday-a-sophia-antipolis/)
+- [Celebration of Docker’s 4th Birthday à Sophia-Antipolis](https://www.cyber-neurones.org/2017/03/celebration-of-dockers-4th-birthday-a-sophia-antipolis/) :date: 2017-03
 
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
@@ -474,11 +474,13 @@ Sujet : Docker
 
 Sujets : IoT
 
-- [Paris Open Source Summit 2016 : #OSSPARIS2016 ](https://www.cyber-neurones.org/2016/11/paris-open-source-summit-2016-ossparis2016/)
+- [Paris Open Source Summit 2016 : #OSSPARIS2016 ](https://www.cyber-neurones.org/2016/11/paris-open-source-summit-2016-ossparis2016/) :date: 2016-11
 
 #### Docker à :round_pushpin: Sophia-Antipolis : mars 2016 .
 
 Sujet : Docker
+
+- [Docker Birthday Celebration à SophiaTech](https://www.cyber-neurones.org/2016/03/docker-birthday-celebration-a-sophiatech/) :date: 2016-03 
 
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2015 : http://www.opensourcesummit.paris
 
@@ -530,12 +532,16 @@ Sujets :
 
 <img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg">
 
+- :date: 2023-05
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
 - :bicyclist: Gravel, 114 km, 3300 m :mountain: D+, :watch: 10:15:47. :round_pushpin: Bédouin
 
 
 #### Semi-marathon de :round_pushpin: Nice 
+
+- :date: 2023-04
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
 
@@ -547,11 +553,15 @@ Sujets :
 
 <img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/03/20230319-114455-300x169.jpg">
 
+- :date: 2023-03
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
 
 - :runner: Trail, 13 km, 670m :mountain: D+, :watch: 01:38:34.
 
 #### Ergysport Trail du Ventoux : Origine 46 km 
+
+- :date: 2023-03
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-du-ventoux-origine-46-km-edition-2023/)
 
@@ -569,6 +579,8 @@ Sujets :
 
 #### Balcon de la Roya 
 
+- :date: 2023-03
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-balcon-de-la-roya-edition-2023/)
 
 - :runner: Trail, 16 km, 1057m :mountain: D+, 02:16:15
@@ -577,6 +589,8 @@ Sujets :
 
 #### Trаіl dеs Сrêtеs de :round_pushpin: Gréolières-les-neiges 
 
+- :date: 2023-02
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/02/tr%d0%b0%d1%96l-d%d0%b5s-%d1%81ret%d0%b5s-de-greolieres-les-neiges-edition-2023/)
 
 - :runner: Trail, 11 km, 600m :mountain: D+, 01:38:37
@@ -584,6 +598,8 @@ Sujets :
 #### Urban Trail de :round_pushpin: Cannes : Version 26 km 
 
 <img align="right" src="./img/03123-444ff4a282864e829307e51de45e9259.jpg">
+
+- :date: 2023-01
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
 
@@ -594,6 +610,8 @@ Sujets :
 ### 2022
 
 #### Cross Amnesty de :round_pushpin: Valbonne 
+
+- :date: 2022-12
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/12/cross-amnesty-de-valbonne-edition-2022/)
 
@@ -1185,6 +1203,8 @@ Sujets :
     - :black_circle:  iTRA Points : 0
     - :black_circle:  Moutain Points : 0
 
+### 2016
+
 #### Marathon Alpes-Maritimes
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/11/marathon-des-alpes-maritimes-edition-2016/)
@@ -1233,12 +1253,50 @@ Sujets :
 
 #### Trans 50 : Transvésubienne 2016 : :sweat: Abandon au kilomètre 69 sur 71 :sweat:
 
+- :date: 2016-05 
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/05/trans-50-transvesubienne-2016-au-moins-jaurais-essaye/)
 
 - VTT, 69 km 
 
+#### Semi-marathon de :round_pushpin: Nice
 
-### 2016
+- :date: 2016-05
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/04/semi-marathon-de-nice-2016/)
+
+- :runner: Course
+
+- :triangular_flag_on_post: :fr: FFA : 	1768. (1522M - 529V1)	1h53'44'' :round_pushpin:	Nice
+
+#### Mud Day : Pays d’Aix
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/04/mud-day-pays-daix-edition-2016/)
+
+- Course d'obstacle
+
+#### VTT : La Bigreen de :round_pushpin: Saint-Vallier à :round_pushpin: Grasse.
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/03/vtt-la-bigreen-de-saint-vallier-a-grasse/)
+
+- VTT, 46 km, 
+
+#### Semi-marathon de :round_pushpin: Cannes 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/02/semi-marathon-de-cannes-edition-2016/)
+
+- :runner: Course
+
+- :triangular_flag_on_post: :fr: FFA : 	932. (796M - 303V1)	1h51'27'' :round_pushpin:	Cannes
+
+#### PROM Classic 2016 à :round_pushpin: Nice 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2016/01/prom-classic-2016/)
+
+- :runner: Course
+
+- :triangular_flag_on_post: :fr: FFA : 	2812. (2497M - 761V1)	48'11'' :round_pushpin:	Nice
+
 
 ### 2015
 
@@ -1590,19 +1648,60 @@ J'ai migrer de Raspberry vers ESX.
 
 - [ENEDIS : Migration des données pour une utilisation dans Mariadb / Grafana (fait en Python)](https://www.cyber-neurones.org/2020/04/enedis-migration-des-donnees-pour-une-utilisation-dans-mariadb-grafana-fait-en-python/)
 
-- [Thunderbird mbox to Influxdb and Postgresql to Grafana in Python](https://www.cyber-neurones.org/2020/03/thunderbird-mbox-to-influxdb-and-postgresql-to-grafana-in-python/)
+- [Thunderbird mbox to Influxdb and Postgresql to Grafana in Python](https://www.cyber-neurones.org/2020/03/thunderbird-mbox-to-influxdb-and-postgresql-to-grafana-in-python/) :date: 2020-03
 
 
 #### [Munin](http://munin-monitoring.org/)
 
-- [MUNIN : Comment ajouter un multiping ?](https://www.cyber-neurones.org/2019/05/munin-comment-ajouter-un-multiping/)
+- [MUNIN : Comment ajouter un multiping ?](https://www.cyber-neurones.org/2019/05/munin-comment-ajouter-un-multiping/) :date: 2019-05
 
-- [Raspberry : Munin : les graphiques de la Freebox après un mois](https://www.cyber-neurones.org/2018/10/raspberry-munin-les-graphiques-de-la-freebox-apres-un-mois/)
+- [Raspberry : Munin : les graphiques de la Freebox après un mois](https://www.cyber-neurones.org/2018/10/raspberry-munin-les-graphiques-de-la-freebox-apres-un-mois/) :date: 2018-10
 
 #### Docker
 
-- [Docker : Le Dix-neuvième pas.](https://www.cyber-neurones.org/2016/05/docker-le-dix-neuvieme-pas/)
+- [Docker : Le Dix-neuvième pas.](https://www.cyber-neurones.org/2016/05/docker-le-dix-neuvieme-pas/) :date: 2016-05
    - [RancherOS](https://www.rancher.com/products/rancher)
+
+- [Docker : Le Dix-Huitième pas.](https://www.cyber-neurones.org/2016/05/docker-le-dix-huitieme-pas/) :date: 2016-05
+   - CoreOS
+
+- [Docker : petit résumé sur les commandes](https://www.cyber-neurones.org/2016/05/docker-petit-resume-sur-les-commandes/) :date: 2016-05
+
+- [Docker : Le Dix-Septième pas.](https://www.cyber-neurones.org/2016/05/docker-le-dix-septieme-pas/) :date: 2016-05
+
+- [Docker : le seizième pas.](https://www.cyber-neurones.org/2016/05/docker-le-seizieme-pas/) :date: 2016-05
+
+- [Docker : le quinzième pas.](https://www.cyber-neurones.org/2016/04/docker-le-quinzieme-pas/) :date: 2016-04
+
+- [Docker : le quatorzième pas.](https://www.cyber-neurones.org/2016/04/docker-le-quatorzieme-pas/) :date: 2016-04
+
+- [Docker : le treizième pas.](https://www.cyber-neurones.org/2016/04/docker-le-treizieme-pas/) :date: 2016-04
+   - Consul / HAProxy
+
+- [Docker : le douzième pas.](https://www.cyber-neurones.org/2016/04/docker-le-douzieme-pas/) :date: 2016-04
+
+- [Docker : le onzième pas.](https://www.cyber-neurones.org/2016/04/docker-le-onzieme-pas/) :date: 2016-04
+
+- [Docker : le dixième pas.](https://www.cyber-neurones.org/2016/04/docker-le-dixieme-pas/) :date: 2016-04
+
+- [Docker : neuvième pas](https://www.cyber-neurones.org/2016/04/docker-neuvieme-pas/) :date: 2016-04
+
+- [Docker : le huitième pas.](https://www.cyber-neurones.org/2016/04/docker-le-huitieme-pas/) :date: 2016-04
+
+- [Docker : le septième pas.](https://www.cyber-neurones.org/2016/04/docker-le-septieme-pas/) :date: 2016-04
+
+- [Docker : le sixième pas.](https://www.cyber-neurones.org/2016/04/docker-le-sixieme-pas/) :date: 2016-04
+
+- [Docker : le cinquième pas.](https://www.cyber-neurones.org/2016/04/docker-le-cinquieme-pas/) :date: 2016-04
+
+- [Docker : le quatrième pas.](https://www.cyber-neurones.org/2016/04/docker-le-quatrieme-pas/) :date: 2016-04
+
+- [Docker : Le troisième pas .](https://www.cyber-neurones.org/2016/04/docker-le-troisieme-pas/) :date: 2016-04
+
+- [Docker : Deuxième pas ou après « Hello world ».](https://www.cyber-neurones.org/2016/04/docker-deuxieme-pas-ou-apres-hello-world/) :date: 2016-04
+
+- [Docker : Les premiers pas .](https://www.cyber-neurones.org/2016/04/docker-les-premiers-pas/)  :date: 2016-04
+
 
 
 
@@ -1614,69 +1713,69 @@ J'ai migrer de Raspberry vers ESX.
 
 <img align="right" src="./img/20230225_095708~2.jpg" width="300">
 
-- [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/)
+- [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/) :date: 2023-04 
 
-- [Boucle des chasseurs entre :round_pushpin: Biot et :round_pushpin: Villeneuve-Loubet ](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/)
+- [Boucle des chasseurs entre :round_pushpin: Biot et :round_pushpin: Villeneuve-Loubet ](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/) :date: 2023-03
 
-- [Chapelle Saint-Jean, Arche de Ponadieu, Grotte des deux goules, Cascades ](https://www.cyber-neurones.org/2023/02/randonnee-tres-difficile-chapelle-saint-jean-arche-de-ponadieu-grotte-des-deux-goules-cascades/)
+- [Chapelle Saint-Jean, Arche de Ponadieu, Grotte des deux goules, Cascades ](https://www.cyber-neurones.org/2023/02/randonnee-tres-difficile-chapelle-saint-jean-arche-de-ponadieu-grotte-des-deux-goules-cascades/) :date: 2023-02
 
-- [Sommet (ou pointe) des quatre cantons au départ de Bairols](https://www.cyber-neurones.org/2023/02/randonnee-sommet-ou-pointe-des-quatre-cantons-au-depart-de-bairols/)
+- [Sommet (ou pointe) des quatre cantons au départ de Bairols](https://www.cyber-neurones.org/2023/02/randonnee-sommet-ou-pointe-des-quatre-cantons-au-depart-de-bairols/) :date: 2023-02
 
-- [Tête de Giarons, Tête de l’Abric, Les Cluots](https://www.cyber-neurones.org/2023/01/randonnee-hivernale-tete-de-giarons-tete-de-labric-les-cluots-avec-13-au-sommet/)
+- [Tête de Giarons, Tête de l’Abric, Les Cluots](https://www.cyber-neurones.org/2023/01/randonnee-hivernale-tete-de-giarons-tete-de-labric-les-cluots-avec-13-au-sommet/) :date: 2023-01
 
-- [Tour du Mont Lion (avec passage par le sommet) au départ de Gilette](https://www.cyber-neurones.org/2022/06/randonnee-tour-du-mont-lion-avec-passage-par-le-sommet-au-depart-de-gilette/)
+- [Tour du Mont Lion (avec passage par le sommet) au départ de Gilette](https://www.cyber-neurones.org/2022/06/randonnee-tour-du-mont-lion-avec-passage-par-le-sommet-au-depart-de-gilette/) :date: 2022-06
 
-- [Tour complet du Cap d’Antibes](https://www.cyber-neurones.org/2022/04/marche-tour-complet-du-cap-dantibes/)
+- [Tour complet du Cap d’Antibes](https://www.cyber-neurones.org/2022/04/marche-tour-complet-du-cap-dantibes/) :date: 2022-04
 
 <img align="right" src="./img/20230423_122023.jpg" width="300">
 
-- [Brec d’Utelle au départ de Saint-Jean La Rivière](https://www.cyber-neurones.org/2022/03/randonnee-a-utelle-brec-dutelle-au-depart-de-saint-jean-la-riviere/)
+- [Brec d’Utelle au départ de Saint-Jean La Rivière](https://www.cyber-neurones.org/2022/03/randonnee-a-utelle-brec-dutelle-au-depart-de-saint-jean-la-riviere/) :date: 2022-03
 
-- [Randonnée à Caille : Crêtes du Bauroux](https://www.cyber-neurones.org/2022/02/randonnee-a-caille-cretes-du-bauroux/)
+- [Randonnée à Caille : Crêtes du Bauroux](https://www.cyber-neurones.org/2022/02/randonnee-a-caille-cretes-du-bauroux/) :date: 2022-02
 
-- [Randonnée : Sommet de Thiey au départ de Nans](https://www.cyber-neurones.org/2022/01/randonnee-sommet-de-thiey-au-depart-de-nans/)
+- [Randonnée : Sommet de Thiey au départ de Nans](https://www.cyber-neurones.org/2022/01/randonnee-sommet-de-thiey-au-depart-de-nans/) :date: 2022-01
 
-- [Randonnée : Baisse de Tueis (Camp d’Argent) vers La Minière de Vallauria](https://www.cyber-neurones.org/2021/08/randonnee-baisse-de-tueis-camp-dargent-vers-la-miniere-de-vallauria/)
+- [Randonnée : Baisse de Tueis (Camp d’Argent) vers La Minière de Vallauria](https://www.cyber-neurones.org/2021/08/randonnee-baisse-de-tueis-camp-dargent-vers-la-miniere-de-vallauria/) :date: 2021-08
 
-- [Randonnée hors piste : La voie Mathis : La minière de Vallauria vers la pointe de la Corne de Bouc](https://www.cyber-neurones.org/2021/08/randonnee-hors-piste-la-voie-mathis-la-miniere-de-vallauria-vers-la-pointe-de-la-corne-de-bouc/)
+- [Randonnée hors piste : La voie Mathis : La minière de Vallauria vers la pointe de la Corne de Bouc](https://www.cyber-neurones.org/2021/08/randonnee-hors-piste-la-voie-mathis-la-miniere-de-vallauria-vers-la-pointe-de-la-corne-de-bouc/) :date: 2021-08
 
-- [Randonnée sportive : Boucle de 22 km sur la Vallée de Merveilles](https://www.cyber-neurones.org/2021/08/randonnee-sportive-boucle-de-22-km-sur-la-vallee-de-merveilles/)
+- [Randonnée sportive : Boucle de 22 km sur la Vallée de Merveilles](https://www.cyber-neurones.org/2021/08/randonnee-sportive-boucle-de-22-km-sur-la-vallee-de-merveilles/) :date: 2021-08
 
 <img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2021/07/p-20210725-114006-300x225.jpg">
 
-- [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/) :grinning:
+- [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/) :grinning: :date: 2021-07 
 
-- [Randonnée : Le Pra – Refuge de Vens – Col du Fer](https://www.cyber-neurones.org/2021/07/randonnee-le-pra-refuge-de-vens-col-du-fer/)
+- [Randonnée : Le Pra – Refuge de Vens – Col du Fer](https://www.cyber-neurones.org/2021/07/randonnee-le-pra-refuge-de-vens-col-du-fer/) :date: 2021-07
 
-- [Trail/Marche sur Biot : Au départ du pont des Tamarins (une boucle de 10 km)](https://www.cyber-neurones.org/2021/04/trail-marche-sur-biot-au-depart-du-pont-des-tamarins-une-boucle-de-10-km/)
+- [Trail/Marche sur Biot : Au départ du pont des Tamarins (une boucle de 10 km)](https://www.cyber-neurones.org/2021/04/trail-marche-sur-biot-au-depart-du-pont-des-tamarins-une-boucle-de-10-km/) :date: 2021-04
 
-- [Randonnée à Caussols : Boucle autour du plateau](https://www.cyber-neurones.org/2021/02/randonnee-a-caussols-boucle-autour-du-plateau/)
+- [Randonnée à Caussols : Boucle autour du plateau](https://www.cyber-neurones.org/2021/02/randonnee-a-caussols-boucle-autour-du-plateau/) :date: 2021-02
 
-- [Courmes : Randonnée vers le Pic de Courmettes](https://www.cyber-neurones.org/2021/01/courmes-randonnee-vers-le-pic-de-courmettes/)
+- [Courmes : Randonnée vers le Pic de Courmettes](https://www.cyber-neurones.org/2021/01/courmes-randonnee-vers-le-pic-de-courmettes/) :date: 2021-01
 
-- [Courmes : Randonnée sur le plateau de Saint-Barnabé.](https://www.cyber-neurones.org/2021/01/courmes-randonnee-sur-le-plateau-de-saint-barnabe/)
+- [Courmes : Randonnée sur le plateau de Saint-Barnabé.](https://www.cyber-neurones.org/2021/01/courmes-randonnee-sur-le-plateau-de-saint-barnabe/) :date: 2021-01
 
-- [Randonnée 2 jours : Vallée des merveilles .](https://www.cyber-neurones.org/2020/09/randonnee-2-jours-vallee-des-merveilles/)
+- [Randonnée 2 jours : Vallée des merveilles .](https://www.cyber-neurones.org/2020/09/randonnee-2-jours-vallee-des-merveilles/) :date: 2020-09
 
-- [Randonnée : Départ de Duranus vers Mine de l’Eguisse , la Chapelle Saint-Michel et les ruines de Rocca Sparvièra.](https://www.cyber-neurones.org/2020/06/randonnees-depart-de-duranus-vers-mine-de-leguisse-la-chapelle-saint-michel-et-les-ruines-de-rocca-sparviera/)
+- [Randonnée : Départ de Duranus vers Mine de l’Eguisse , la Chapelle Saint-Michel et les ruines de Rocca Sparvièra.](https://www.cyber-neurones.org/2020/06/randonnees-depart-de-duranus-vers-mine-de-leguisse-la-chapelle-saint-michel-et-les-ruines-de-rocca-sparviera/) :date: 2020-06
 
-- [Randonnée : Gréolières-les-neiges vers Vegay](https://www.cyber-neurones.org/2020/06/randonnee-greoliere-les-neiges-vers-vegay/)
+- [Randonnée : Gréolières-les-neiges vers Vegay](https://www.cyber-neurones.org/2020/06/randonnee-greoliere-les-neiges-vers-vegay/) :date: 2020-06
 
-- [Randonnée : La crête du Cheiron au départ de Gréolières-les-neiges ( Gréolières station )](https://www.cyber-neurones.org/2020/06/randonnee-la-crete-du-cheiron-au-depart-de-greoliere-station/)
+- [Randonnée : La crête du Cheiron au départ de Gréolières-les-neiges ( Gréolières station )](https://www.cyber-neurones.org/2020/06/randonnee-la-crete-du-cheiron-au-depart-de-greoliere-station/) :date: 2020-06
 
-- [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/)
+- [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/) :date: 2020-05
 
 <img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="300">
 
-- [Isola 2000 : Randonnée vers les Lacs de Terre Rouge et le Col Baisse de Druos](https://www.cyber-neurones.org/2019/08/isola-2000-randonnee-vers-les-lacs-de-terre-rouge-et-le-col-baisse-de-druos/)
+- [Isola 2000 : Randonnée vers les Lacs de Terre Rouge et le Col Baisse de Druos](https://www.cyber-neurones.org/2019/08/isola-2000-randonnee-vers-les-lacs-de-terre-rouge-et-le-col-baisse-de-druos/) :date: 2019-08
 
-- [Isola 2000 : Ranndonnée : Col de Mercière, Tête Mercière, Tête de la Roubine, Col de la Valette](https://www.cyber-neurones.org/2019/08/isola-2000-ranndonnee-col-de-merciere-tete-merciere-tete-de-la-roubine-col-de-la-valette/)
+- [Isola 2000 : Ranndonnée : Col de Mercière, Tête Mercière, Tête de la Roubine, Col de la Valette](https://www.cyber-neurones.org/2019/08/isola-2000-ranndonnee-col-de-merciere-tete-merciere-tete-de-la-roubine-col-de-la-valette/) :date: 2019-08
 
-- [Randonnée de l’Adous (Villars-sur-Var) vers le Baisse des Colettes](https://www.cyber-neurones.org/2019/06/randonnee-de-ladous-villars-sur-var-vers-le-baisse-des-colettes/)
+- [Randonnée de l’Adous (Villars-sur-Var) vers le Baisse des Colettes](https://www.cyber-neurones.org/2019/06/randonnee-de-ladous-villars-sur-var-vers-le-baisse-des-colettes/)  :date: 2019-06
 
-- [Randonnée/escalade : Baou de Saint-Jeannet ( avec équipement )](https://www.cyber-neurones.org/2019/06/randonnee-escalade-baou-de-saint-jeannet-avec-equipement/)
+- [Randonnée/escalade : Baou de Saint-Jeannet ( avec équipement )](https://www.cyber-neurones.org/2019/06/randonnee-escalade-baou-de-saint-jeannet-avec-equipement/) :date: 2019-06
 
-- [Randonnée à Puget-Théniers vers le Col de Rigaudon](https://www.cyber-neurones.org/2019/06/randonnee-a-puget-theniers-vers-le-col-de-rigaudon/)
+- [Randonnée à Puget-Théniers vers le Col de Rigaudon](https://www.cyber-neurones.org/2019/06/randonnee-a-puget-theniers-vers-le-col-de-rigaudon/) :date: 2019-06
 
 - [Randonnée de Sausse vers la Tête de Travers](https://www.cyber-neurones.org/2019/06/randonnee-de-sausse-vers-la-tete-de-travers/)
 
@@ -1688,25 +1787,32 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Randonnée : Boucle de 15 km : Malausséne – Mont Vial – Col du Vial.](https://www.cyber-neurones.org/2018/04/randonnee-boucle-de-15-km-malaussene-mont-vial-col-du-vial/)
 
-- [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/)
+- [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/) :date: 2018-02
 
 <img align="right" src="./img/20230122_150031.jpg">
 
-- [Randonnée à :round_pushpin: Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/)
+- [Randonnée à :round_pushpin: Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/) :date: 2017-09
 
-- [Randonnée à :round_pushpin: Auron : Cime de la Bercha via une boucle](https://www.cyber-neurones.org/2017/08/randonnee-a-auron-cime-de-la-bercha-via-une-boucle/)
+- [Randonnée à :round_pushpin: Auron : Cime de la Bercha via une boucle](https://www.cyber-neurones.org/2017/08/randonnee-a-auron-cime-de-la-bercha-via-une-boucle/) :date: 2017-08
 
-- [Balade à l’ombre : De :round_pushpin: Biot à :round_pushpin: Valbonne par la Brague](https://www.cyber-neurones.org/2017/08/balade-de-biot-a-valbonne-par-la-brague/)
+- [Balade à l’ombre : De :round_pushpin: Biot à :round_pushpin: Valbonne par la Brague](https://www.cyber-neurones.org/2017/08/balade-de-biot-a-valbonne-par-la-brague/) :date: 2017-08
 
-- [Randonnée : Piste du Castellaras (Commune d’Andon)](https://www.cyber-neurones.org/2016/12/randonnee-piste-du-castellaras-commune-dandon/)
+- [Randonnée : Piste du Castellaras (Commune d’Andon)](https://www.cyber-neurones.org/2016/12/randonnee-piste-du-castellaras-commune-dandon/) :date: 2016-12
 
-- [Balade sur le Plateau de Cavillore à :round_pushpin: Gourdon](https://www.cyber-neurones.org/2016/11/balade-sur-le-plateau-de-cavillore-a-gourdon/)
+- [Balade sur le Plateau de Cavillore à :round_pushpin: Gourdon](https://www.cyber-neurones.org/2016/11/balade-sur-le-plateau-de-cavillore-a-gourdon/) :date: 2016-11
 
-- [Balade Sportive : Le Grand Mont](https://www.cyber-neurones.org/2016/10/balade-sportive-le-grand-mont/)
+- [Balade Sportive : Le Grand Mont](https://www.cyber-neurones.org/2016/10/balade-sportive-le-grand-mont/) :date: 2016-10
 
-- [Balade à Tanneron : Les crêtes de Tanneron](https://www.cyber-neurones.org/2016/10/balade-a-tanneron-les-cretes-de-tanneron/)
+- [Balade à Tanneron : Les crêtes de Tanneron](https://www.cyber-neurones.org/2016/10/balade-a-tanneron-les-cretes-de-tanneron/) :date: 2016-10
 
-- [Tentative des Balcons d’Azur par :round_pushpin: Carros Village.](https://www.cyber-neurones.org/2016/05/tentative-des-balcons-dazur-par-carros-village/)
+- [Tentative des Balcons d’Azur par :round_pushpin: Carros Village.](https://www.cyber-neurones.org/2016/05/tentative-des-balcons-dazur-par-carros-village/) :date: 2016-05
+
+- [Balade : Pont des Tamarins à :round_pushpin: Biot vers :round_pushpin: Valbonne par la Brague](https://www.cyber-neurones.org/2016/03/balade-pont-des-tamarins-a-biot-vers-valbonne-par-la-brague/) :date: 2016-03
+
+- [Balade : Pont des Tamarins vers le Village de Biot](https://www.cyber-neurones.org/2016/03/balade-pont-des-tamarins-vers-le-village-de-biot/) :date: 2016-03
+
+- [Circuit de la Malle dans le pays Grassois](https://www.cyber-neurones.org/2016/01/circuit-de-la-malle-dans-le-pays-grassois/) :date: 2016-01
+
 
 
 ##### Alpes-de-Haute-Provence
@@ -1764,6 +1870,18 @@ J'ai migrer de Raspberry vers ESX.
 - [Valloire : Randonnée de Bonnenuit vers l’Aiguille de l’Epaisseur (3230m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-laiguille-de-lepaisseur-3230m/)
 
 - [Valloire : Randonnée de Bonnenuit vers le Lac Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-le-lac-rond/) 
+
+#### Bouches du Rhône
+
+- [Randonnée – La Sainte-Victoire par le GR9 – Sentier des Venturiers –](https://www.cyber-neurones.org/2016/05/la-sainte-victoire-par-le-gr9-sentier-des-venturiers/)
+
+##### Vaucluse
+
+- [Colorado Provencal à Rustrel ( Vaucluse – Lubéron ) : Circuit orange.](https://www.cyber-neurones.org/2016/05/colorado-provencal-a-rustrel-vaucluse-luberon-circuit-orange/)
+
+- [Colorado Provencal à Rustrel ( Vaucluse – Lubéron ) : Circuit bleu.](https://www.cyber-neurones.org/2016/05/colorado-provencal-a-rustrel-vaucluse-luberon-circuit-bleu/)
+
+- [Sentier des Ocres à Roussillon ( Lubéron )](https://www.cyber-neurones.org/2016/05/sentier-des-ocres-a-roussillon-luberon/)
 
 
 
@@ -1903,31 +2021,31 @@ J'ai migrer de Raspberry vers ESX.
 
 <img align="right" src="./img/1200px-Python-logo-notext.svg.png" width="300">
 
-- [Python/BRISQUE : Voir la « qualité » des photos NEXTCLOUD avec un script](https://www.cyber-neurones.org/2022/06/python-brisque-voir-la-qualite-des-photos-nextcloud-avec-un-script/)
+- [Python/BRISQUE : Voir la « qualité » des photos NEXTCLOUD avec un script](https://www.cyber-neurones.org/2022/06/python-brisque-voir-la-qualite-des-photos-nextcloud-avec-un-script/) :date: 2022-06
 
-- [Python/OpenCV : Détection des contours du blob](https://www.cyber-neurones.org/2022/04/python-opencv-brouillon-detection-des-contours-du-blob/)
+- [Python/OpenCV : Détection des contours du blob](https://www.cyber-neurones.org/2022/04/python-opencv-brouillon-detection-des-contours-du-blob/) :date: 2022-04
 
-- [Issue : NVIDIA GeForce RTX 3060 Laptop GPU with CUDA capability sm_86 is not compatible with the current PyTorch installation.](https://www.cyber-neurones.org/2022/03/issue-nvidia-geforce-rtx-3060-laptop-gpu-with-cuda-capability-sm_86-is-not-compatible-with-the-current-pytorch-installation/)
+- [Issue : NVIDIA GeForce RTX 3060 Laptop GPU with CUDA capability sm_86 is not compatible with the current PyTorch installation.](https://www.cyber-neurones.org/2022/03/issue-nvidia-geforce-rtx-3060-laptop-gpu-with-cuda-capability-sm_86-is-not-compatible-with-the-current-pytorch-installation/) :date: 2022-03
 
-- [Python : Creation de PNG à base de CSV, avec des EXIF de localisation](https://www.cyber-neurones.org/2021/02/python-creation-de-png-a-base-de-csv-avec-des-exif-de-localisation/)
+- [Python : Creation de PNG à base de CSV, avec des EXIF de localisation](https://www.cyber-neurones.org/2021/02/python-creation-de-png-a-base-de-csv-avec-des-exif-de-localisation/) :date: 2021-02
 
-- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes avec yolo model et floutage des visages](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-avec-yolo-model-et-floutage-des-visages/)
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes avec yolo model et floutage des visages](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-avec-yolo-model-et-floutage-des-visages/) :date: 2020-10
 
-- [Python facetool : Modification d’un visage par une image dans un MP4.](https://www.cyber-neurones.org/2020/10/python-facetool-modification-dun-visage-par-une-image-dans-un-mp4/)
+- [Python facetool : Modification d’un visage par une image dans un MP4.](https://www.cyber-neurones.org/2020/10/python-facetool-modification-dun-visage-par-une-image-dans-un-mp4/) :date: 2020-10
 
-- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes avec yolo model](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-avec-yolo-model/)
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes avec yolo model](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-avec-yolo-model/) :date: 2020-10
 
-- [Ubuntu : Merge de 4 MP4 en screen split avec Kdenlive](https://www.cyber-neurones.org/2020/10/ubuntu-merge-de-4-mp4-en-screen-split-avec-kdenlive/)
+- [Ubuntu : Merge de 4 MP4 en screen split avec Kdenlive](https://www.cyber-neurones.org/2020/10/ubuntu-merge-de-4-mp4-en-screen-split-avec-kdenlive/) :date: 2020-10
 
-- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-2/)
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes-2/) :date: 2020-10
 
-- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes/)
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Comptage des cyclistes](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-comptage-des-cyclistes/) :date: 2020-10
 
-- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Détection des cyclistes et des casques](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-detection-des-cyclistes-et-des-casques/)
+- [(Draft) Ubuntu, Jupyter Notebook, Python3, Tensorflow, OpenCV : Détection des cyclistes et des casques](https://www.cyber-neurones.org/2020/10/draft-ubuntu-jupyter-notebook-python3-tensorflow-opencv-detection-des-cyclistes-et-des-casques/) :date: 2020-10
 
-- [MacOS : Python : Suppression des doublons d’emails avec l’API Python Elasticsearch/Kibana (Version V3)](https://www.cyber-neurones.org/2019/11/macos-python-suppression-des-doublons-demails-avec-lapi-python-elasticsearch-kibana-version-v3/)
+- [MacOS : Python : Suppression des doublons d’emails avec l’API Python Elasticsearch/Kibana (Version V3)](https://www.cyber-neurones.org/2019/11/macos-python-suppression-des-doublons-demails-avec-lapi-python-elasticsearch-kibana-version-v3/) :date: 2019-11
 
-- [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/)
+- [MacOS : Python : Découverte de l’API Python Elasticsearch/Kibana avec SVN pour des stats](https://www.cyber-neurones.org/2019/11/macos-python-decouverte-de-lapi-python-elasticsearch-kibana-avec-svn-pour-des-stats/) :date: 2019-11
 
 
 
@@ -1941,7 +2059,13 @@ J'ai migrer de Raspberry vers ESX.
 
 ### Information
 
-- [Consommation vélo electrique](https://www.cyber-neurones.org/2023/04/consommation-velo-electrique/)
+- [Consommation vélo electrique](https://www.cyber-neurones.org/2023/04/consommation-velo-electrique/) :date: 2023-04
+
+- [Lettre à Christian Estrosi pour l’accès au Stade Allianz-Riviera à Vélo](https://www.cyber-neurones.org/2016/04/lettre-a-christian-estrosi-pour-lacces-au-stade-allianz-riviera-a-velo/) :date: 2016-04
+
+- [Le portail contre les cyclistes en direction de l’Allianz-Riviera.](https://www.cyber-neurones.org/2016/04/le-portail-contre-les-cyclistes-pour-lallianz-riviera/)
+
+
 
 ### Association 
 
@@ -2052,15 +2176,26 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 <img align="right" src="./img/P_20170525_165946.jpg" width="300">
 
-- [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/)
+- [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/) :date: 2022-12
 
-- [Boucle dans l’Estérel autour du pic de l’Ours au départ de Théoule-sur-mer](https://www.cyber-neurones.org/2022/10/vtt-boucle-dans-lesterel-autour-du-pic-de-lours-au-depart-de-theoule-sur-mer/)
+- [Boucle dans l’Estérel autour du pic de l’Ours au départ de Théoule-sur-mer](https://www.cyber-neurones.org/2022/10/vtt-boucle-dans-lesterel-autour-du-pic-de-lours-au-depart-de-theoule-sur-mer/) :date: 2022-10
 
-- [VTT : De Biot vers les ruines du château de Roquefort](https://www.cyber-neurones.org/2021/03/vtt-de-biot-vers-les-ruines-du-chateau-de-roquefort/)
+- [VTT : De Biot vers les ruines du château de Roquefort](https://www.cyber-neurones.org/2021/03/vtt-de-biot-vers-les-ruines-du-chateau-de-roquefort/) :date: 2021-03
 
-- [VTT à :round_pushpin: Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/)
+- [VTT à :round_pushpin: Théoule-sur-mer : Tour du Pic de l’Ours](https://www.cyber-neurones.org/2020/08/vtt-a-theoule-sur-mer-tour-du-pic-de-lours/) :date: 2020-08
 
-- [VTT : De Biot au Rouret](https://www.cyber-neurones.org/2016/05/vtt-de-biot-au-rouret/)
+- [VTT : De Biot au Rouret](https://www.cyber-neurones.org/2016/05/vtt-de-biot-au-rouret/) :date: 2016-05
+
+- [Grand boucle à la Valmasque : boucle jaune, rouge et bleue.](https://www.cyber-neurones.org/2016/04/grand-boucle-a-la-valmasque-boucle-jaune-rouge-et-bleue/) :date: 2016-04 
+
+- [Randonnée VTT à la Valmasque : boucle bleue](https://www.cyber-neurones.org/2016/04/randonnee-vtt-a-la-valmasque-boucle-bleue/) :date: 2016-04
+
+
+###### Bouches-du-Rhône
+
+- [Camargue : De Saintes-Maries-de-la-mer à Salin-de-Giraud en Vélo](https://www.cyber-neurones.org/2016/04/camargue-de-saintes-maries-de-la-mer-a-salin-de-giraud-en-velo/) :date: 2016-04
+
+- [Camargue : Tour de l’étang de Vacarrès en Vélo](https://www.cyber-neurones.org/2016/04/camargue-tour-de-letang-de-vacarres-en-velo/) :date: 2016-04
 
 
 
@@ -2082,6 +2217,9 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 - [La piste Luc Alphand à Serre-Chevalier](https://www.cyber-neurones.org/2019/02/la-piste-luc-alphand-a-serre-chevalier/)
 
 - [Alpe d’Huez : La piste Sarenne …. pour moi c’est 11 km maximum !](https://www.cyber-neurones.org/2018/03/alpe-dhuez-la-piste-sarenne-pour-moi-cest-11-km-maximum/)
+
+- [Grand Massif ( Flaine , Sixt ) : La piste des cascades.](https://www.cyber-neurones.org/2016/02/grand-massif-la-piste-des-cascades/)
+
 
 
 ## Ski de randonnée
@@ -2212,37 +2350,51 @@ gantt
 
 # :round_pushpin: Biot 
 
+## Trail
+
 <img align="right" src="./img/P_20160313_125015.jpg" width="300">
 
-- [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/)
+- [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/) :date: 2019-10
    - Distance : 14,7 km / 433 m D+
 
-- [Trail à Biot : Le Mega Tour du Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/)
+- [Trail à Biot : Le Mega Tour du Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/) :date: 2020-08
    - Distance : 21,6 km / 680 m D+
 
-- [Trail à Biot : L’Extra Tour du Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/)
+- [Trail à Biot : L’Extra Tour du Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/) :date: 2020-08
    - Distance : 20,1 km / 657 m D+
 
-- [Trail à Biot : Le Grand Tour du Sanglier , le GTS pour les pros !](https://www.cyber-neurones.org/2020/05/trail-a-biot-le-grand-tour-du-sanglier-le-gts-pour-les-pros/)
+- [Trail à Biot : Le Grand Tour du Sanglier , le GTS pour les pros !](https://www.cyber-neurones.org/2020/05/trail-a-biot-le-grand-tour-du-sanglier-le-gts-pour-les-pros/) :date: 2020-05
    - Distance : 16,9 km / 526 m D+
+
+## Vélo
+
+- [BIOT et les pistes cyclables](https://www.cyber-neurones.org/2016/02/biot-et-les-pistes-cyclables/) :date: 2016-02
 
 ## Inondation
 
-- [NAIAD : Atelier participatif du jeudi 20 Décembre 2018, IMREDD Nice](https://www.cyber-neurones.org/2019/02/naiad-atelier-participatif-du-eudi-20-decembre-2018-imredd-nice/)
+- [NAIAD : Atelier participatif du jeudi 20 Décembre 2018, IMREDD Nice](https://www.cyber-neurones.org/2019/02/naiad-atelier-participatif-du-eudi-20-decembre-2018-imredd-nice/) :date: 2019-02
 
-- [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/)
+- [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/) :date: 2018-09
 
-- [Sénat : Aménagement de l’autoroute A8 : buses de l’Autoroute ( par Dominique Estrosi Sassone )](https://www.cyber-neurones.org/2018/06/senat-buses-de-lautoroute/)
+- [Sénat : Aménagement de l’autoroute A8 : buses de l’Autoroute ( par Dominique Estrosi Sassone )](https://www.cyber-neurones.org/2018/06/senat-buses-de-lautoroute/) :date: 2018-06
 
-- [BIOT PPRI](https://www.cyber-neurones.org/2018/02/biot-ppri-lien-nouvelle-carte-et-documents/)
+- [BIOT PPRI](https://www.cyber-neurones.org/2018/02/biot-ppri-lien-nouvelle-carte-et-documents/) :date: 2018-02
 
-- [BIOT nouveau PPRI](https://www.cyber-neurones.org/2017/05/biot-nouveau-plan-de-prevention-des-risques-dinondation-ppri/)
+- [BIOT nouveau PPRI](https://www.cyber-neurones.org/2017/05/biot-nouveau-plan-de-prevention-des-risques-dinondation-ppri/) :date: 2017-05
 
-- [Biot Réunion du 31 : Porter à connaissance de la nouvelle cartographie des zones inondables](https://www.cyber-neurones.org/2017/02/biot-reunion-du-31-porter-a-connaissance-de-la-nouvelle-cartographie-des-zones-inondables/)
+- [Biot Réunion du 31 : Porter à connaissance de la nouvelle cartographie des zones inondables](https://www.cyber-neurones.org/2017/02/biot-reunion-du-31-porter-a-connaissance-de-la-nouvelle-cartographie-des-zones-inondables/) :date: 2017-02
 
-- [BIOT, Présentation du porter à connaissance par la Direction Départementale des Territoires et de la Mer. J’y étais pour vous !](https://www.cyber-neurones.org/2016/09/biot-presentation-du-porter-a-connaissance-par-la-direction-departementale-des-territoires-et-de-la-mer-jy-etais-pour-vous/)
+- [BIOT, Présentation du porter à connaissance par la Direction Départementale des Territoires et de la Mer. J’y étais pour vous !](https://www.cyber-neurones.org/2016/09/biot-presentation-du-porter-a-connaissance-par-la-direction-departementale-des-territoires-et-de-la-mer-jy-etais-pour-vous/) :date: 2016-09
 
-- [BIOT : PLU Réunion Diagnostic , j’y étais pour vous](https://www.cyber-neurones.org/2016/09/biot-plu-reunion-diagnostic-jy-etais-pour-vous/)
+- [BIOT : PLU Réunion Diagnostic , j’y étais pour vous](https://www.cyber-neurones.org/2016/09/biot-plu-reunion-diagnostic-jy-etais-pour-vous/) :date: 2016-09
+
+- [Réunion d’information de l’ASEB-AM au Campus SophiaTech, j’y étais pour vous](https://www.cyber-neurones.org/2016/04/reunion-dinformation-de-laseb-am-au-campus-sophiatech-jy-etais-pour-vous/) :date: 2016-04
+
+- [BIOT : PLU : Reunion n°4 : Biot de demain : synthèse et hiérarchisation des enjeux. J’y étais pour vous](https://www.cyber-neurones.org/2016/03/biot-plu-reunion-n4-biot-de-demain-synthese-et-hierarchisation-des-enjeux-jy-etais-pour-vous/) :date: 2016-03
+
+- [BIOT : PLU : Reunion n°2 : Habitat (équipement, logement), Environnement et Cadre de vie. J’y étais pour vous](https://www.cyber-neurones.org/2016/03/biot-plu-reunion-n2-habitat-equipement-logement-environnement-et-cadre-de-vie-jy-etais-pour-vous/)
+
+
 
 ## Réunion 
 
@@ -2258,8 +2410,11 @@ gantt
 
 ## [OpenData](https://www.data.gouv.fr/fr/)
 
-- [OpenDataGouv : Transaction immobilière sur Biot](https://www.cyber-neurones.org/2019/04/opendatagouv-transaction-immobiliere-sur-biot/)
+- [OpenDataGouv : Transaction immobilière sur Biot](https://www.cyber-neurones.org/2019/04/opendatagouv-transaction-immobiliere-sur-biot/) :date: 2019-04
 
-- [OpenData : Il suffisait de demander pour avoir un format exploitable ;)](https://www.cyber-neurones.org/2016/11/opendata-il-suffisait-de-demander-pour-avoir-un-format-exploitable/)
+- [OpenData : Il suffisait de demander pour avoir un format exploitable ;)](https://www.cyber-neurones.org/2016/11/opendata-il-suffisait-de-demander-pour-avoir-un-format-exploitable/) :date: 2016-11
 
+- [Open Data Gouv : Arrêtés de catastrophe naturelle en France mon troisième fichier](https://www.cyber-neurones.org/2016/01/open-data-gouv-arretes-de-catastrophe-naturelle-en-france-mon-troisieme-fichier/) :date: 2016-01
+
+- [Open Data Gouv : Tentative de discussion](https://www.cyber-neurones.org/2016/01/open-data-gouv-tentative-de-discussion/) :date: 2016-01
 
