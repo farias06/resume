@@ -6,7 +6,13 @@ Ma "vie publique" en un seul Markdown (version fr) , :construction: en cours de 
 
 Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est Linux et plutôt le coté serveur. Vu que je fais du C on peut le mettre sur le l'IoT sans problème.
 
-Mon but dans un premier temps c'est la migration de mon blog sous Hugo.
+Mon but dans un premier temps c'est la migration de mon blog Wordpress sous Hugo, avec au passage le ménage (suppression d'articles). Seuls les articles qui ont un lien dans ce Markdown vont être conservés.
+
+```mermaid
+sequence
+   Wordpress->GitHub: Purge
+   Github->Hugo: Migration
+```
 
 # Liens externes 
 
