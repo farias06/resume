@@ -13,8 +13,8 @@ sequenceDiagram
  participant A as Wordpress
  participant B as Github
  participant C as Hugo
- A->B: Purge
- B->C: Migration
+ A->>B: Purge
+ B->>C: Migration
 ```
 
 # Liens externes 
