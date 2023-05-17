@@ -531,16 +531,16 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/ventoux-gravel-trans-massifs-edition-2023/)
 
-- :bicyclist: Gravel, 114 km, 3300 m D+, 10:15:47. :round_pushpin: Bédouin
+- :bicyclist: Gravel, 114 km, 3300 m :mountain: D+, :watch: 10:15:47. :round_pushpin: Bédouin
 
 
 #### Semi-marathon de :round_pushpin: Nice 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/04/semi-marathon-de-nice-edition-2023/)
 
-- :runner: Course, 21 km, 90m D+, 01:51:30.
+- :runner: Course, 21 km, 90m :mountain: D+, :watch: 01:51:30.
 
-- :triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2)	1h51'28'' :round_pushpin:  Nice 
+- :triangular_flag_on_post: :fr: FFA : 1390. (1149M - 133M2) :watch:	1h51'28'' :round_pushpin:  Nice 
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
@@ -548,23 +548,29 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-des-baous-de-saint-jeannet-parcours-de-13-km-edition-2023/)
 
-- :runner: Trail, 13 km, 670m D+, 01:38:34.
+- :runner: Trail, 13 km, 670m :mountain: D+, :watch: 01:38:34.
 
-#### Trail du Ventoux : Origine 46 km 
+#### Ergysport Trail du Ventoux : Origine 46 km 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-du-ventoux-origine-46-km-edition-2023/)
 
-- :runner: Trail, 46 km, 2690m D+, 07:31:53.
+- :runner: Trail, 46 km, 2690m :mountain: D+, :watch: 07:31:53.
 
-- :triangular_flag_on_post: :fr: FFA : 746. (658M - 118M2)	7h31'40''  :round_pushpin:	Bedoin
+- :triangular_flag_on_post: :fr: FFA : 
+     - 746. (658M - 118M2)	
+     - :watch: 7h31'40''
+     -   :round_pushpin:	Bedoin
 
-- :triangular_flag_on_post: :star: ITRA : Ranking 746 / 1074  iTRA Score : 449 
+- :triangular_flag_on_post: :star: ITRA : 
+    - Ranking 746 / 1074  
+    - iTRA Score : 449 
+    - Finisher Level : 282
 
 #### Balcon de la Roya 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/03/trail-balcon-de-la-roya-edition-2023/)
 
-- :runner: Trail, 16 km, 1057m D+, 02:16:15
+- :runner: Trail, 16 km, 1057m :mountain: D+, 02:16:15
 
 - :triangular_flag_on_post: :fr: FFA :  52. (49M - 7M2)	2h16'23''
 
@@ -572,7 +578,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/02/tr%d0%b0%d1%96l-d%d0%b5s-%d1%81ret%d0%b5s-de-greolieres-les-neiges-edition-2023/)
 
-- :runner: Trail, 11 km, 600m D+, 01:38:37
+- :runner: Trail, 11 km, 600m :mountain: D+, 01:38:37
 
 #### Urban Trail de :round_pushpin: Cannes : Version 26 km 
 
@@ -580,7 +586,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/01/urban-trail-de-cannes-edition-2023-version-26-km-le-vrai/)
 
-- :runner: Trail, 26 km, 686 m D+, 02:42:48
+- :runner: Trail, 26 km, 686 m :mountain: D+, 02:42:48
 
 - :triangular_flag_on_post: :fr: FFA : 154. (135M - 18M2)	2h42'50''
 
@@ -590,7 +596,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/12/cross-amnesty-de-valbonne-edition-2022/)
 
-- :runner: Cross, 11 km, 296 m D+, 00:59:30
+- :runner: Cross, 11 km, 296 m :mountain: D+, 00:59:30
 
 - :triangular_flag_on_post: :fr: FFA : 51. (46M - 13M2)	59'31''
 
@@ -598,7 +604,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/10/courir-pour-une-fleur-a-antibes-edition-2022/)
 
-- :runner: Course, 10 km, 109 m D+, 00:48:27
+- :runner: Course, 10 km, 109 m :mountain: D+, 00:48:27
 
 - :triangular_flag_on_post: :fr: FFA : 312. (267M - 38M2)	48'55'' (48'19'')
 
@@ -606,7 +612,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
 
-- :runner: Tail, 13 km, 1043 m D+, :watch: 02:19:12
+- :runner: Tail, 13 km, 1043 m :mountain: D+, :watch: 02:19:12
 
 - :triangular_flag_on_post: :fr: FFA : 32. (28M - 7M2) :watch:	2h19'13''
 
@@ -614,13 +620,13 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
 
-- :runner: Trail, 12 km, 1072 m D+, :watch: 02:54:56
+- :runner: Trail, 12 km, 1072 m :mountain: D+, :watch: 02:54:56
 
 #### Traversée des Dentelles de Montmirail
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/06/trail-traversee-des-dentelles-de-montmirail-ou-marathon-de-gigondas-ou-marathon-des-dentelles-edition-2022/)
 
-- :runner: Trail, 42 km, 2168 m D+, :watch: 07:30:11
+- :runner: Trail, 42 km, 2168 m :mountain: D+, :watch: 07:30:11
 
 - :triangular_flag_on_post: :fr: FFA : 197. (168M - 24M2) :watch:	7h30'24'' 
 
@@ -628,7 +634,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
 
-- :runner: Trail, 20 km, 1669 m D+, :watch: 04:18:29
+- :runner: Trail, 20 km, 1669 m :mountain: D+, :watch: 04:18:29
 
 - :triangular_flag_on_post: :fr: FFA : 31. (25M - 4M2) :watch:	4h18'28''
 
@@ -638,13 +644,13 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
-- :runner: Trail, 16 km, 398 m D+, :watch: 01:41:21
+- :runner: Trail, 16 km, 398 m :mountain: D+, :watch: 01:41:21
 
 #### Calvaire d’Antibes
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/04/calvaire-dantibes-edition-2022/)
 
-- :runner: Course, 10 km, 205 m D+, :watch: 00:53:19
+- :runner: Course, 10 km, 205 m :mountain: D+, :watch: 00:53:19
 
 - :triangular_flag_on_post: :fr: FFA : 132. (115M - 24M2)  :watch: 53'21''
 
@@ -652,7 +658,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
 
-- :runner: Trail, 33 km, 2068 m D+, :watch: 05:29:01
+- :runner: Trail, 33 km, 2068 m :mountain: D+, :watch: 05:29:01
 
 - :triangular_flag_on_post: :fr: FFA : 	96. (87M - 15M2) :watch:	5h29'16''
 
@@ -666,7 +672,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/trail-de-lours-a-levens/)
 
-- :runner: Trail, 30 km, 2062 m D+, :watch: 05:39:34
+- :runner: Trail, 30 km, 2062 m :mountain: D+, :watch: 05:39:34
 
 - :triangular_flag_on_post: :fr: FFA : 146. (131M - 14M2) :watch:	5h39'42'' (5h39'31'')
 
@@ -674,7 +680,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
 
-- :runner: Trail, 24 km, 1181 m D+, :watch: 03:15:33
+- :runner: Trail, 24 km, 1181 m :mountain: D+, :watch: 03:15:33
 
 - :triangular_flag_on_post: :fr: FFA : 117. (110M - 22M2) :watch:	3h15'55''
 
@@ -682,7 +688,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/09/semi-marathon-de-nice-edition-2021/)
 
-- :runner: Course, 21 km, 166 m D+, :watch: 01:50:13
+- :runner: Course, 21 km, 166 m :mountain: D+, :watch: 01:50:13
 
 - :triangular_flag_on_post: :fr: FFA :  	519. (460M - 66M2) :watch:	1h51'55'' (1h50'13'')
 
@@ -690,7 +696,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/09/urban-trail-de-cannes-edition-2021/)
 
-- :runner: Trail, 27 km, 758 m D+,  :watch: 03:09:51
+- :runner: Trail, 27 km, 758 m :mountain: D+,  :watch: 03:09:51
 
 - :triangular_flag_on_post: :fr: FFA :   130. (109M - 24M2) :watch:	3h09'50''
 
@@ -698,7 +704,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/06/eco-trail-de-carros-une-bonne-reprise/)
 
-- :runner: Trail, 8 km, 516 m D+, :watch: 01:06:26
+- :runner: Trail, 8 km, 516 m :mountain: D+, :watch: 01:06:26
 
 - :triangular_flag_on_post: :fr: FFA : 96. (80M - 14M2) :watch:	1h06'24''
 
@@ -706,7 +712,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/04/calvaire-antibois-connecte-2021/)
 
-- :runner: Course, 10 km,  201 m D+, :watch:  00:53:20
+- :runner: Course, 10 km,  201 m :mountain: D+, :watch:  00:53:20
 
 ### 2020 
 
@@ -714,7 +720,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/ecotrail-de-montauroux-19-km-edition-2020/)
 
-- :runner: Trail, 20 km, 870 m D+, :watch: 02:34:52
+- :runner: Trail, 20 km, 870 m :mountain: D+, :watch: 02:34:52
 
 - :triangular_flag_on_post: :fr: FFA : 86. (79M - 13M2) :watch:	2h34'51''
 
@@ -724,11 +730,13 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/trail-utcam-trail-cote-dazur-mercantour-version-45-km-edition-2020/)
 
-- :runner: Trail, 45 km, 3244 m D+, :watch: 10:33:19
+- :runner: Trail, 45 km, 3244 m :mountain: D+, :watch: 10:33:19
 
 - :triangular_flag_on_post: :fr: FFA : 	264. (220M - 30M2) :watch:	10h33'09''
 
-- :triangular_flag_on_post: :star: ITRA : 264 / 327 
+- :triangular_flag_on_post: :star: ITRA : 
+   - Ranking : 264 / 327 
+   - Ranking Gender : 220 / 268 
    - iTRA SCORE : 400 
    - iTRA POINT : 3
    - Mountain Points : 10
@@ -738,7 +746,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/01/urban-trail-de-cannes-edition-2020/)
 
-- :runner: Trail, 26 km ,  689 m D+, :watch: 03:01:13
+- :runner: Trail, 26 km ,  689 m :mountain: D+, :watch: 03:01:13
 
 - :triangular_flag_on_post: :fr:  FFA : 492. (408M - 79M2) :watch:	3h01'18'' (3h01'18'')
 
@@ -756,7 +764,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/12/trail-de-la-turbie-pelerinage-de-laghet-20-km-edition-2019/)
 
-- :runner: Trail, 20 km, 1059 m D+, :watch: 03:06:45
+- :runner: Trail, 20 km, 1059 m :mountain: D+, :watch: 03:06:45
 
 #### Marathon des Alpes-Maritimes à :round_pushpin: Nice 
 
@@ -778,7 +786,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/09/trail-de-tourrettes-sur-loup-edition-2019/)
 
-- :runner: Trail, 18 km, 1052 m D+, :watch: 02:31:34
+- :runner: Trail, 18 km, 1052 m :mountain: D+, :watch: 02:31:34
 
 - :triangular_flag_on_post: :fr: FFA :  158. (140M - 39V1) :watch:	2h31'35''
 
@@ -788,9 +796,12 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/utmb-ccc-contenu-de-mon-sac-a-dos/)
 
-- :runner: Trail, 73 km, 4254 m D+, :watch: 17:22:15
+- :runner: Trail, **73 km, 4254 m** :mountain: D+, :watch: 17:22:15
 
-- :triangular_flag_on_post: :star: ITRA :  98 km / 6150 m+ 		DNF 	DNF 
+- :triangular_flag_on_post: :star: ITRA :  
+    - :black_circle: **98 km / 6150 :mountain: m+**
+    - :black_circle: DNF
+    - :black_circle: DNF 
 
 #### Trail de UBAYE Elite
 
@@ -798,31 +809,43 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/trail-de-ubaye-elite-a-barcelonnette-edition-2019/)
 
-- :runner: Trail, 41 km, 2522 m D+, :watch:  07:05:09
+- :runner: Trail, 41 km, 2522 m :mountain: D+, :watch:  07:05:09
 
 - :triangular_flag_on_post: :fr: FFA : 265. (238M - 79V1) :watch: 	7h05'06'' :round_pushpin: Barcelonnette
 
-- :triangular_flag_on_post: :star: ITRA :  40 km / 2420 m+ 
+- :triangular_flag_on_post: :star: ITRA :  
+    - :black_circle: 40 km / 2420 :mountain: m+ 
     - :watch:  	7:05:06  
-    - :black_circle:	265 / 386 
-    - :black_circle: 	238 / 343 
-    - iTRA Score	461 
+    - :black_circle: Ranking :	265 / 386 
+    - :black_circle: Ranking Gender : 	238 / 343 
+    - :black_circle: iTRA Score :	461 
+    - :black_circle: iTRA Points : 2
+    - :black_circle: Moutain Points : 8
+    - :black_circle:  Finisher Level : 310.
 
 #### Trail de :round_pushpin: Valberg
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-de-valberg-edition-2019/)
 
-- :runner: Trail, 29 km, 1635 m D+, :watch: 05:23:16
+- :runner: Trail, 29 km, 1635 m :mountain: D+, :watch: 05:23:16
 
 #### Trail Var Verdon
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-var-verdon-30-km-edition-2019/)
 
-- :runner: Trail,31 km, 1785 m D+, :watch: 06:25:27
+- :runner: Trail, 31 km, 1785 m :mountain: D+, :watch: 06:25:27
 
 - :triangular_flag_on_post: :fr: FFA :  222. (183M - 54V1) :watch:	6h25'26'' :round_pushpin: Aiguines
 
-- :triangular_flag_on_post: :star: ITRA :  30 km / 1560 m+ :watch: 	6:25:26 :black_circle: 	222 / 243 :black_circle:	185 / 197 	iTRA Score 371 
+- :triangular_flag_on_post: :star: ITRA :
+    - :black_circle:  30 km / 1560 :mountain: m+ 
+    - :watch: 	6:25:26 
+    - :black_circle: 	222 / 243 
+    - :black_circle:	185 / 197 
+    - :black_circle:  iTRA Score 371 
+    - :black_circle: iTRA Points : 2
+    - :black_circle: Moutain Points : 6
+    - :black_circle:  Finisher Level : 300.
 
 #### Jeux de Sophia
 
@@ -834,11 +857,20 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/trail-des-gorges-de-lardeche-gtga-mais-finalement-la-tga/)
 
-- :runner: Trail, 44 km, 1882 m D+, :watch: 07:54:20
+- :runner: Trail, 44 km, 1882 m :mountain: D+, :watch: 07:54:20
 
 - :triangular_flag_on_post: :fr:  FFA  : 171. (143M - 53V1) :watch:	10h54'28'' ( 07h54'20'' ) :round_pushpin:	Saint Martin D'ardeche
 
-- :triangular_flag_on_post: :star: ITRA : 37 km / 1590 m+ :watch: 	10:54:28  :black_circle:	171 / 201  :black_circle:	144 / 164 	iTRA Score 298 
+- :triangular_flag_on_post: :star: ITRA : 
+    - :black_circle: 37 km / 1590 :mountain: m+ 
+    - :watch: 	10:54:28  
+    - :black_circle: Ranking :	171 / 201  
+    - :black_circle: Ranking Gender :	144 / 164
+    - :black_circle:  iTRA Score : 298 
+    - :black_circle:  iTRA Points : 2
+    - :black_circle:  Moutain Points : 4 
+    - :black_circle:  Finisher Level : 310.
+
 
 #### 16 ème CO’Tour de Sophia 
 
@@ -850,7 +882,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/urban-trail-de-biot-edition-2019/)
 
-- :runner: Trail, 17 km, 472 m D+, :watch: 01:51:41
+- :runner: Trail, 17 km, 472 m :mountain: D+, :watch: 01:51:41
 
 - :triangular_flag_on_post: :fr: FFA : 65. (56M - 21V1) :watch:	1h50'40'' :round_pushpin:	Biot 
 
@@ -858,7 +890,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/semi-marathon-de-nice-edition-2019/)
 
-- :runner: Course, 21 km, 162 m D+, :watch:  01:57:04
+- :runner: Course, 21 km, 162 m :mountain: D+, :watch:  01:57:04
 
 - :triangular_flag_on_post: :fr: FFA :  1573. (1288M - 419V1) :watch: 	2h00'15'' (1h57'00'') :round_pushpin:	Nice
 
@@ -872,7 +904,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/01/urban-trail-de-cannes-edition-2019/)
 
-- :runner: Trail, 26 km, 706 m D+, :watch: 03:07:25
+- :runner: Trail, 26 km, 706 m :mountain: D+, :watch: 03:07:25
 
 - :triangular_flag_on_post: :fr:  FFA : 	621. (504M - 201V1)  :watch:	3h07'23'' :round_pushpin:	Cannes
 
@@ -890,7 +922,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/10/courir-pour-une-fleur-edition-2018/)
 
-- :runner: Course, 21 km, 242 m D+,  :watch: 02:01:06
+- :runner: Course, 21 km, 242 m :mountain: D+,  :watch: 02:01:06
 
 - :triangular_flag_on_post: :fr: FFA :    662. (580M - 202V1)	2h02'47'' :round_pushpin:	Antibes
 
@@ -900,17 +932,26 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/09/trail-utmb-occ-au-depart-de-orsiere-version-de-56-km/)
 
-- :runner: Trail, 60 km, 3492 m D+,  :watch: 11:19:38
+- :runner: Trail, 60 km, 3492 m :mountain: D+,  :watch: 11:19:38
 
 - :triangular_flag_on_post: :fr: FFA :  969. (775M - 268V1) :watch: 	11h19'45''  :round_pushpin: 	Chamonix Mont Blanc
 
-- :triangular_flag_on_post: :star: ITRA : 56 km / 3450 m+ :watch: 	11:19:45 :black_circle:	969 / 1572 :black_circle:	776 / 1185  iTRA Score	418 
+- :triangular_flag_on_post: :star: ITRA : 
+    - 56 km / 3450 :mountain: m+ 
+    - :watch: 	11:19:45 
+    - :black_circle: Ranking : 	969 / 1572 
+    - :black_circle: Ranking Gender : 	776 / 1185  
+    - iTRA Score : 	418 
+    - :black_circle:  iTRA Points : 4
+    - :black_circle:  Moutain Points : 8
+    - :black_circle:  Finisher Level : 340
+
 
 #### Trail des Mélèzes – Version 25 km au départ de :round_pushpin: Colmars
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-des-melezes-version-25-km-au-depart-de-colmars/)
 
-- :runner: Trail, 28 km, 1964 m D+, :watch: 05:28:56
+- :runner: Trail, 28 km, 1964 m :mountain: D+, :watch: 05:28:56
 
 - :triangular_flag_on_post: :fr: FFA : 	172. (143M - 45V1) :watch: 	5h28'42''	 :round_pushpin:  Beauvezer
 
@@ -922,7 +963,14 @@ Sujets :
 
 - :link: [Materiel](https://www.cyber-neurones.org/2018/07/materiel-pour-high-trail-vanoise/)
 
-- :runner: Trail, 51 km, 3716 m D+,  :watch: 11:39:46
+- :runner: Trail, **51 km, 3716 m :mountain: D+**,  :watch: 11:39:46
+
+- :triangular_flag_on_post: :star: ITRA :
+    - **70 km / 5350 :mountain: m+**
+    - :black_circle: DNF
+    - :black_circle: DNF
+    - :black_circle:  iTRA Points : 4
+    - :black_circle:  Moutain Points : 11
 
 #### Foulée Biotoise
 
@@ -934,19 +982,35 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/06/ultra-trail-var-verdon-edition-2018/)
 
-- :runner: Trail, 66 km, 3315 m D+, :watch: 12:28:56
+- :runner: Trail, 66 km, 3315 m :mountain: D+, :watch: 12:28:56
 
-- :triangular_flag_on_post: :star: ITRA :  60 km / 3400 m+  :watch:	12:28:36  :black_circle: 	111 / 179   :black_circle:	103 / 161 iTRA Score	437 
+- :triangular_flag_on_post: :star: ITRA :
+    -  60 km / 3400 :mountain: m+  
+    - :watch:	12:28:36  
+    - :black_circle: Ranking 	111 / 179   
+    - :black_circle: Ranking Gender	103 / 161 
+    - iTRA Score	437 
+    - :black_circle:  iTRA Points : 4
+    - :black_circle:  Moutain Points : 7
+
 
 #### Trail La chaussée des Géants – Thueyts Ardèche
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/06/trail-la-chaussee-des-geants-thueyts-ardeche-edition-2018/)
 
-- :runner: Trail, 50 km,  2782 m D+,  :watch: 09:02:35
+- :runner: Trail, 50 km,  2782 m :mountain: D+,  :watch: 09:02:35
 
 - :triangular_flag_on_post: :fr: FFA : 	157. (151M - 50V1) :watch:	9h02'21'' :round_pushpin:	Thueyts
 
-- :triangular_flag_on_post: :star: ITRA : 49 km / 2870 m+ :watch:  	9:02:21  :black_circle:	157 / 200 :black_circle: 	151 / 187  iTRA Score	435 
+- :triangular_flag_on_post: :star: ITRA : 
+    - 49 km / 2870 :mountain: m+ 
+    - :watch:  	9:02:21  
+    - :black_circle: Ranking :	157 / 200 
+    - :black_circle: Ranking Gender :	151 / 187  
+    - iTRA Score :	435 
+    - :black_circle:  iTRA Points : 3
+    - :black_circle:  Moutain Points : 7
+    - :black_circle: Finisher Level : 370 
 
 #### Jeux de Sophia - Edition 2018
 
@@ -968,11 +1032,14 @@ Sujets :
 
 - :runner: Trail, 46 km
 
-- :triangular_flag_on_post: :star: ITRA : 46 km / 2400 m+ 
-   - :watch:	7:59:50 
-   - :black_circle: 	228 / 291 
-   - :black_circle: 	207 / 264 
-   - iTRA Score 	432 
+- :triangular_flag_on_post: :star: ITRA : 46 km / 2400 :mountain: m+ 
+    - :watch:	7:59:50 
+    - :black_circle: Ranking : 	228 / 291 
+    - :black_circle: Ranking Gender : 	207 / 264 
+    - iTRA Score 	432 
+    - :black_circle:  iTRA Points : 3
+    - :black_circle:  Moutain Points : 6
+    - :black_circle: Finisher Level : 390
 
 #### Urban Trail de Cannes : 26 km : Grand Cannois
 
@@ -1000,11 +1067,15 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 516. (459M - 150V1)	5h29'17'' round_pushpin:	Roquefort Sur Soulzon
 
-- :triangular_flag_on_post: :star: ITRA :  	39 km / 1970 m+ 	
+- :triangular_flag_on_post: :star: ITRA : 
+    - 39 km / 1970 :mountain: m+ 	
     - :watch: 5:29:17 	
     - :black_circle: 520 / 802
     - :black_circle: 	463 / 659
     - iTRA Score 	448 
+    - :black_circle:  iTRA Points : 2
+    - :black_circle:  Moutain Points : 5
+
 
 #### L’Alpin Trail De PICHAURIS (Edition Elite) – 2017
 
@@ -1012,11 +1083,15 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 	Alpin trail e lite 30 kms d/1700m	290. (257M - 111MA)	5h32'44'' :round_pushpin: 	Allauch
 
-- :triangular_flag_on_post: :star: ITRA :  30 km / 1660 m+
+- :triangular_flag_on_post: :star: ITRA :
+    - 30 km / 1660 :mountain: m+
     - :watch:	5:32:44 
     - :black_circle:	291 / 327
     - :black_circle: 	258 / 283 
     - iTRA Score	395 
+    - :black_circle:  iTRA Points : 2
+    - :black_circle:  Moutain Points : 6
+
 
 #### Marathon des Alpes-Maritimes en relais
 
@@ -1054,6 +1129,16 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 283. (229M - 77V1) :watch:	3h34'38'' :round_pushpin: 	Mandelieu La Napoule
 
+- :triangular_flag_on_post: :star: ITRA :
+    - 24 km / 980 :mountain: m+
+    - :watch:   3:34:38 
+    - :black_circle:    282 / 483 
+    - :black_circle:    228 / 333 
+    - iTRA Score        414
+    - :black_circle:  iTRA Points : 1
+    - :black_circle:  Moutain Points : 4
+
+
 #### Trail des 5 Calanques 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-des-5-calanques-edition-2017/)
@@ -1083,6 +1168,15 @@ Sujets :
 - :runner: Trail
 
 - :triangular_flag_on_post: :fr: FFA :  210. (167M - 63V1)	3h02'42'' :round_pushpin:	Bormes Les Mimosas .
+
+- :triangular_flag_on_post: :star: ITRA :
+    - 19 km / 930 :mountain: m+
+    - :watch:    	3:02:42 
+    - :black_circle:    Ranking : 210 / 294 
+    - :black_circle:    Ranking Gender : 167 / 207 
+    - iTRA Score        427
+    - :black_circle:  iTRA Points : 0
+    - :black_circle:  Moutain Points : 0
 
 #### Marathon Alpes-Maritimes
 
