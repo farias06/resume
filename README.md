@@ -4,7 +4,7 @@ ARIAS FREDERIC
 
 Ma "vie publique" en un seul Markdown (version fr) , :construction: en cours de construction. :construction: 
 
-Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est Linux et plutôt le coté serveur. Vu que je fais du C on peut le mettre sur le l'IoT sans problème.
+Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est :penguin: Linux et plutôt le coté serveur. Vu que je fais du C on peut le mettre sur le l'IoT sans problème.
 
 Mon but dans un premier temps c'est la migration de mon blog Wordpress sous Hugo, avec au passage le ménage (suppression d'articles). Seuls les articles qui ont un lien dans ce Markdown vont être conservés.
 
@@ -39,7 +39,7 @@ sequenceDiagram
 
 De Mi-Mai 2001 à aujdourd'hui.
 
-J'ai eu trois type de poste de developpeur sous Linux.
+J'ai eu trois type de poste de developpeur sous :penguin: Linux.
 
 ```mermaid
 gantt
@@ -351,7 +351,7 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 - Mise en place de Bench en Perl et optimisation sur MySQL sous Linux.
 - Création d’une interface générique et développement d’un bureau virtuel en Flash5.
 
-- Environnement : Linux( RedHat ), Windows, Perl, PHP, Apache, OpenlDAP, CVS, MySQL, Flash5( Action Script )
+- Environnement : :penguin: Linux( RedHat ), Windows, Perl, PHP, Apache, OpenlDAP, CVS, MySQL, Flash5( Action Script )
 
 ## CYBERWORKERS – :round_pushpin: Aubagne 
 
@@ -374,14 +374,14 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 - Rédaction de la documentation.
 
-- Environnement : Linux( Debian, SuSE ), Perl, PHP, JavaScript, C, Java (JSP, servlets), Apache, Merise, UML, PL/SQL, Tomcat
+- Environnement : :penguin: Linux( Debian, SuSE ), Perl, PHP, JavaScript, C, Java (JSP, servlets), Apache, Merise, UML, PL/SQL, Tomcat
 
 
 ## Connaissance OS :
 
 <img align="right" src="./img/142-1422592_oracle-logo-png-download-oracle-linux-logo.jpeg" width="300">
 
-Systèmes Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
+Systèmes :penguin: Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
 
 Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
 
@@ -430,7 +430,7 @@ Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
          - Création d’un modèle conceptuel de la BD : création des tables (utilisation de la Méthode MERISE )
          - Enrichissement des tables, à partir de fichier texte : programmation en Perl
          - Création de formulaire d’interrogation de la base de donnée à travers le Web par le langage PHP3 intégré à HTML ainsi que du JavaScript
-         - Environnement : Linux ( Mandrake ) et Linux ( SuSE ), MySQL, SQL, C, Perl, PHP, JavaScript, HTML, Apache
+         - Environnement : :penguin: Linux ( Mandrake ) et Linux ( SuSE ), MySQL, SQL, C, Perl, PHP, JavaScript, HTML, Apache
 
 ### 1998-1999 Maîtrise d’Ingénierie Mathématique – Section calcul scientifique - :round_pushpin: Toulouse
 
@@ -1366,6 +1366,19 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 120. (106M - 33MA) :watch:	43'28'' :round_pushpin: 	Biot
 
+
+#### Holi Run à :round_pushpin: Villeneuve-Loubet
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/07/holi-run-a-villeneuve-loubet/)
+
+- :runner: " Course "
+
+#### Mud Day à Levens 
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/06/monday-morning-mud-day-nice-2015/)
+
+- :runner: Course d'obstacle
+
 ### 2014
 
 ### 2013
@@ -1434,7 +1447,7 @@ gantt
     SAMSUNG Galaxy A53 5G : active,  asc1, 2023-02-08, 600d
 ```
 
-## Linux 
+## :penguin: Linux 
 
 ### Associatioins
 
