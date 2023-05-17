@@ -43,7 +43,7 @@ gantt
 
     section Dev System Linux
     Server : done, b1, 2002-05-15, 2018-06-19
-    Server : active, b2, 2019-10-20, 2023-10-06,
+    Server : active, b2, 2019-10-20, 2023-10-06
 
     section Dev IOT Linux
     Yocto : done, c1, 2018-06-19, 2019-10-20
