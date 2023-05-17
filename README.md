@@ -2053,6 +2053,8 @@ J'ai migrer de Raspberry vers ESX.
 
 - [Hintertux : Panorama Gefrorene-Wand-Spitzen en télécabine.](https://www.cyber-neurones.org/2019/08/hintertux-panorama-gefrorene-wand-spitzen-en-telecabine/)
 
+<img align="right" src="./img/IMG_20190723_134337.jpg" width="200">
+
 - [Randonnée Tyrol en Autriche : De Tux vers Geiselalm](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-de-tux-vers-geiselalm/)
 
 - [Randonnée Tyrol en Autriche : De Finkenberg vers Penkenjoch](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-de-finkenberg-vers-penkenjoch/)
@@ -2066,6 +2068,8 @@ J'ai migrer de Raspberry vers ESX.
 - [Randonnée Tyrol en Autriche : Hintertux vers Pfannkopfl](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-pfannkopfl/)
 
 - [Randonnée Tyrol en Autriche : Juns vers Grüblspitze](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-juns-vers-grublspitze/)
+
+<img align="right" src="./img/IMG_20190727_115757.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : Hintertux vers Tuxer Ferner-Haus](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-tuxer-ferner-haus/)
 
@@ -2352,7 +2356,11 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Espagne
 
+<img align="right" src="./img/P_20160730_121540.jpg" width="200">
+
 - [TT : Parc Naturel de las Bardenas Reales : Boucle de 28 km](https://www.cyber-neurones.org/2016/07/vtt-parc-naturel-de-las-bardenas-reales-boucle-de-28-km/)
+
+- 
 
 ### Voyage en vélo 
 
@@ -2374,6 +2382,8 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 
 ## Ski de randonnée
+
+<img align="right" src="./img/P_20210304_122124.jpg" width="200">
 
 - [Ski de randonnée à :round_pushpin: Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
 
@@ -2510,6 +2520,8 @@ gantt
 
 - [Trail à Biot : Le Mega Tour du Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/) :date: 2020-08
    - Distance : 21,6 km / 680 m D+
+
+<img align="right" src="./img/P_20160313_124835.jpg" width="200">
 
 - [Trail à Biot : L’Extra Tour du Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/) :date: 2020-08
    - Distance : 20,1 km / 657 m D+
