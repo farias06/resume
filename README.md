@@ -927,7 +927,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/04/raid-vallis-bona-edition-2019/)
 
-- :runner: Course d'orientation, Tir à l'arc, Lancée de buche, Rameur, ....
+- :runner: Course d'orientation, :bow_and_arrow: Tir à l'arc, Lancée de buche, Rameur, ....
 
 #### Urban Trail de :round_pushpin: Cannes
 
@@ -1047,7 +1047,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/05/jeux-de-sophia-2018/)
 
-- Tir à l'arc, :runner: Trail, VTT, Karting, Baby Foot, Squash, Bowling, Course d'orientation.
+- :bow_and_arrow: Tir à l'arc, :runner: Trail, :mountain_biking_man: VTT, Karting, Baby Foot, Squash, :bowling: Bowling, Course d'orientation.
 
 #### Semi-marathon de :round_pushpin: Nice
 
@@ -1144,13 +1144,13 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/06/jeux-de-sophia-2017/)
 
-- Basket-ball, Tir à l'arc, Tir au pistolet, Football à 5, Karting, Padel, Bowling, Course d'orientation, Babyfoot, Flechettes.
+- Epreuves : :basketball_man: Basket-ball, :bow_and_arrow: Tir à l'arc, Tir au pistolet, Football à 5, Karting, Padel, :bowling: Bowling, Course d'orientation, Babyfoot, Flechettes.
 
-#### Lachens-mer, randonnée en VTT
+#### Lachens-mer, randonnée en :mountain_biking_man: VTT
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/05/lachens-mer-randonnee-en-vtt/)
 
-- VTT, 90 km.
+- :mountain_biking_man: VTT, 90 km.
 
 #### Trail des Balcons d’Azur : P’tit TBA
 
@@ -1249,7 +1249,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/06/jeux-de-sophia-2016/)
 
-- Basket, Tir à l'arc, Karting, Football à 5, Cross, Football à 7, Tir au pistolet, Bowling, Course d'orientation ...
+-  Epreuves :  :basketball_man: Basket, :bow_and_arrow: Tir à l'arc, Karting, Football à 5, Cross, Football à 7, Tir au pistolet, :bowling: Bowling, Course d'orientation ...
 
 #### Les allumés de la plein lune : jusqu’à :round_pushpin: Mons
 
@@ -1263,7 +1263,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/05/trans-50-transvesubienne-2016-au-moins-jaurais-essaye/)
 
-- VTT, 69 km 
+- :mountain_biking_man: VTT, 69 km 
 
 #### Semi-marathon de :round_pushpin: Nice
 
@@ -1281,11 +1281,11 @@ Sujets :
 
 - Course d'obstacle
 
-#### VTT : La Bigreen de :round_pushpin: Saint-Vallier à :round_pushpin: Grasse.
+#### :mountain_biking_man: VTT : La Bigreen de :round_pushpin: Saint-Vallier à :round_pushpin: Grasse.
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/03/vtt-la-bigreen-de-saint-vallier-a-grasse/)
 
-- VTT, 46 km, 
+- :mountain_biking_man: VTT, 46 km, 
 
 #### Semi-marathon de :round_pushpin: Cannes 
 
@@ -1391,7 +1391,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/jeux-de-sophia-2015/)
 
-- **15 épreuves** : Tir à l'arc, Tir au pistolet, Karting, Football à 5, Cross, Badminton, Basket-ball, Football à 7, Volley-Ball, Course d'orientation, Bowling, Baby foot, Beach Volley, VTT.
+- **15 épreuves** : :bow_and_arrow: Tir à l'arc, Tir au pistolet, Karting, Football à 5, Cross, :badminton: Badminton,  :basketball_man: Basket-ball, Football à 7, :volleyball: Volley-Ball, Course d'orientation, :bowling: Bowling, Baby foot, Beach Volley, :mountain_biking_man: VTT.
 
 #### Semi-marathon de Nice
 
@@ -2325,7 +2325,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 
 
-#### VTT
+#### :mountain_biking_man: VTT
 
 ##### Alpes-Maritimes
 
@@ -2343,7 +2343,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Grand boucle à la Valmasque : boucle jaune, rouge et bleue.](https://www.cyber-neurones.org/2016/04/grand-boucle-a-la-valmasque-boucle-jaune-rouge-et-bleue/) :date: 2016-04 
 
-- [Randonnée VTT à la Valmasque : boucle bleue](https://www.cyber-neurones.org/2016/04/randonnee-vtt-a-la-valmasque-boucle-bleue/) :date: 2016-04
+- [Randonnée :mountain_biking_man: VTT à la Valmasque : boucle bleue](https://www.cyber-neurones.org/2016/04/randonnee-vtt-a-la-valmasque-boucle-bleue/) :date: 2016-04
 
 
 ###### Bouches-du-Rhône
