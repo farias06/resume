@@ -1300,6 +1300,14 @@ Sujets :
 
 ### 2015
 
+#### Cross Amnesty de :round_pushpin: Valbonne
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-amnesty-de-valbonne/)
+
+- :runner: Cross
+
+
+
 ### 2014
 
 ### 2013
@@ -1817,67 +1825,83 @@ J'ai migrer de Raspberry vers ESX.
 
 ##### Alpes-de-Haute-Provence
 
-- [Colmars les alpes : Cascade de la Lance & Cascade de Chaumie](https://www.cyber-neurones.org/2018/07/colmars-les-alpes-cascade-de-la-lance-cascade-de-chaumie/)
+- [Colmars les alpes : Cascade de la Lance & Cascade de Chaumie](https://www.cyber-neurones.org/2018/07/colmars-les-alpes-cascade-de-la-lance-cascade-de-chaumie/) :date: 2018-07
 
 
 ##### Tarn
 
 <img align="right" src="./img/P_20170723_154323.jpg" width="300">
 
-- [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/)
+- [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/) :date: 2019-04
 
-- [Randonnée à :round_pushpin: Dourgne : Source du Melzic](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-source-du-melzic/)
+- [Randonnée à :round_pushpin: Dourgne : Source du Melzic](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-source-du-melzic/) :date: 2019-04
 
-- [Balade à :round_pushpin: Mazamet : La passerelle d’Hautpoul](https://www.cyber-neurones.org/2019/04/balade-a-mazamet-la-passerelle-dhautpoul/)
+- [Balade à :round_pushpin: Mazamet : La passerelle d’Hautpoul](https://www.cyber-neurones.org/2019/04/balade-a-mazamet-la-passerelle-dhautpoul/) :date: 2019-04
 
-- [Saint-Avit (Tarn) vers le Dicosa](https://www.cyber-neurones.org/2018/04/velo-saint-avit-tarn-vers-le-dicosa/)
+- [ :round_pushpin: Saint-Avit (Tarn) vers le Dicosa](https://www.cyber-neurones.org/2018/04/velo-saint-avit-tarn-vers-le-dicosa/) :date: 2018-04
 
-- [La Capelette de Saint-Ferréol à :round_pushpin: Dourgne](https://www.cyber-neurones.org/2016/12/la-capelette-de-saint-ferreol-a-dourgne-dans-le-tarn-2/)
+- [La Capelette de Saint-Ferréol à :round_pushpin: Dourgne](https://www.cyber-neurones.org/2016/12/la-capelette-de-saint-ferreol-a-dourgne-dans-le-tarn-2/) :date: 2016-12
 
+- [Balade aux :round_pushpin: Escoussens ( dans le Tarn )](https://www.cyber-neurones.org/2016/01/balade-aux-escoussens-dans-le-tarn/) :date: 2016-01
 
+- [Balade à :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2015/12/balade-a-massaguel-dans-le-tarn/) :date: 2015-12
+
+- [Tour du Lac de Saint-Férreol](https://www.cyber-neurones.org/2015/12/tour-du-lac-de-saint-ferreol/) :date: 2015-12
+
+- [La Capelette de Saint-Ferréol à Dourgne ( dans le Tarn )](https://www.cyber-neurones.org/2015/12/la-capelette-de-saint-ferreol-a-dourgne-dans-le-tarn/) :date: 2015-12
+
+- [Table d’orientation de Montalric sur les hauteurs de Dourgne ( dans le Tarn ) .](https://www.cyber-neurones.org/2015/12/table-dorientation-de-montalric-sur-les-hauteurs-de-dourgne-dans-le-tarn/) :date: 2015-12
+
+- [Tour du Lac ( ou barrage ) des Cammazes ( dans le Tarn )](https://www.cyber-neurones.org/2015/12/tour-du-lac-ou-barrage-des-cammazes-dans-le-tarn/) :date: 2015-12
+
+- [Balade à l’Oppidum de Berniquaut près de Sorèze : version boucle ( dans le Tarn )](https://www.cyber-neurones.org/2015/12/balade-a-loppidum-de-berniquaut-pres-de-soreze-version-boucle-dans-le-tarn/) :date: 2015-12
+
+- [Balade des Avaris à Saint-Amancet ( dans le Tarn )](https://www.cyber-neurones.org/2015/12/balade-des-avaris-a-saint-amancet-dans-le-tarn/) :date: 2015-12
+
+- [Balade à l’Oppidum de Berniquaut près de Sorèze : version aller-retour ( dans le Tarn )](https://www.cyber-neurones.org/2015/12/balade-a-loppidum-de-berniquaut-pres-de-soreze-dans-le-tarn/) :date: 2015-12
 
 ##### Pyrénées-Orientales
 
 <img align="right" src="./img/IMG_20200722_063659.jpg" width="300">
 
-- [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/)
+- [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/) :date: 2020-08
 
-- [Randonnée : Bivouac 2 jours : :round_pushpin: Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/)
+- [Randonnée : Bivouac 2 jours : :round_pushpin: Font-Romeu <-> Pic Carlit.](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-font-romeu-pic-carlit/) :date: 2020-08
 
 
 ##### Hautes-Pyrénées
 
-- [Randonnée : :round_pushpin: Gèdre vers le Lac de Bassia.](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-lac-de-bassia/)
+- [Randonnée : :round_pushpin: Gèdre vers le Lac de Bassia.](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-lac-de-bassia/) :date: 2016-07
 
 <img align="right" src="./img/P_20160719_091534.jpg" width="300">
 
-- [Randonnée : Gavarnie vers le Cirque de Gavarnie (et boucle dans le cirque à partir des échelles).](https://www.cyber-neurones.org/2016/07/randonnee-gavarnie-vers-le-cirque-de-gavarnie-et-boucle-dans-le-cirque-a-partir-des-echelles/)
+- [Randonnée : Gavarnie vers le Cirque de Gavarnie (et boucle dans le cirque à partir des échelles).](https://www.cyber-neurones.org/2016/07/randonnee-gavarnie-vers-le-cirque-de-gavarnie-et-boucle-dans-le-cirque-a-partir-des-echelles/) :date: 2016-07
 
-- [Randonnée : :round_pushpin: Gèdre vers le Barrage ( ou Lac ) des Gloriettes](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-barrage-ou-lac-des-gloriettes/)
+- [Randonnée : :round_pushpin: Gèdre vers le Barrage ( ou Lac ) des Gloriettes](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-barrage-ou-lac-des-gloriettes/) :date: 2016-07 
 
-- [Randonnée : Chapelle de Héas (Gèdre) vers le Lacs des aires.](https://www.cyber-neurones.org/2016/07/randonnee-chapelle-de-heas-gedre-vers-le-lacs-des-aires/)
+- [Randonnée : Chapelle de Héas (Gèdre) vers le Lacs des aires.](https://www.cyber-neurones.org/2016/07/randonnee-chapelle-de-heas-gedre-vers-le-lacs-des-aires/) :date: 2016-07
 
 
 
 #### Savoie
 
-- [Valloire : Randonnée Le Verneys vers Le Crey Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-verneys-vers-le-crey-rond/)
+- [Valloire : Randonnée Le Verneys vers Le Crey Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-verneys-vers-le-crey-rond/) :date: 2022-08
 
-- [Valloire : Randonnée : Col du Boléon (2845m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-col-du-boleon-2845m/)
+- [Valloire : Randonnée : Col du Boléon (2845m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-col-du-boleon-2845m/) :date: 2022-08
 
-- [Valloire : Randonnée : Le Grand Galibier](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-grand-galibier/)
+- [Valloire : Randonnée : Le Grand Galibier](https://www.cyber-neurones.org/2022/08/valloire-randonnee-le-grand-galibier/) :date: 2022-08
 
-- [Valloire : Randonnée de Bonnenuit vers l’Aiguille de l’Epaisseur (3230m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-laiguille-de-lepaisseur-3230m/)
+- [Valloire : Randonnée de Bonnenuit vers l’Aiguille de l’Epaisseur (3230m)](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-laiguille-de-lepaisseur-3230m/) :date: 2022-08
 
-- [Valloire : Randonnée de Bonnenuit vers le Lac Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-le-lac-rond/) 
+- [Valloire : Randonnée de Bonnenuit vers le Lac Rond](https://www.cyber-neurones.org/2022/08/valloire-randonnee-de-bonnenuit-vers-le-lac-rond/) :date: 2022-08
 
 #### Bouches du Rhône
 
-- [Randonnée – La Sainte-Victoire par le GR9 – Sentier des Venturiers –](https://www.cyber-neurones.org/2016/05/la-sainte-victoire-par-le-gr9-sentier-des-venturiers/)
+- [Randonnée – La Sainte-Victoire par le GR9 – Sentier des Venturiers –](https://www.cyber-neurones.org/2016/05/la-sainte-victoire-par-le-gr9-sentier-des-venturiers/) :date: 2016-05
 
 ##### Vaucluse
 
-- [Colorado Provencal à Rustrel ( Vaucluse – Lubéron ) : Circuit orange.](https://www.cyber-neurones.org/2016/05/colorado-provencal-a-rustrel-vaucluse-luberon-circuit-orange/)
+- [Colorado Provencal à Rustrel ( Vaucluse – Lubéron ) : Circuit orange.](https://www.cyber-neurones.org/2016/05/colorado-provencal-a-rustrel-vaucluse-luberon-circuit-orange/) :date: 2016-05 
 
 - [Colorado Provencal à Rustrel ( Vaucluse – Lubéron ) : Circuit bleu.](https://www.cyber-neurones.org/2016/05/colorado-provencal-a-rustrel-vaucluse-luberon-circuit-bleu/)
 
@@ -1889,9 +1913,9 @@ J'ai migrer de Raspberry vers ESX.
 
 <img align="right" src="./img/06267.jpg" width="300">
 
-- [Sentier des plages de :round_pushpin: Bonifacio en deux étapes](https://www.cyber-neurones.org/2022/04/randonnee-en-corse-sentier-des-plages-de-bonifacio-en-deux-etapes/)
+- [Sentier des plages de :round_pushpin: Bonifacio en deux étapes](https://www.cyber-neurones.org/2022/04/randonnee-en-corse-sentier-des-plages-de-bonifacio-en-deux-etapes/) :date: 2022-04
 
-- [Tour de Sénèque au départ de Fieno (Cap Corse)](https://www.cyber-neurones.org/2022/04/corse-tour-de-seneque-au-depart-de-fieno/)
+- [Tour de Sénèque au départ de Fieno (Cap Corse)](https://www.cyber-neurones.org/2022/04/corse-tour-de-seneque-au-depart-de-fieno/) :date: 2022-04
 
 - GR20 
 
@@ -2372,6 +2396,8 @@ gantt
 
 ## Inondation
 
+J'ai beaucoup suivi les réunions d'informations sur les inondations.
+
 - [NAIAD : Atelier participatif du jeudi 20 Décembre 2018, IMREDD Nice](https://www.cyber-neurones.org/2019/02/naiad-atelier-participatif-du-eudi-20-decembre-2018-imredd-nice/) :date: 2019-02
 
 - [NAIAD2020 : Premier post sur Twitter concernant la Brague.](https://www.cyber-neurones.org/2018/09/naiad2020-premier-post-sur-twitter-concernant-la-brague/) :date: 2018-09
@@ -2392,9 +2418,9 @@ gantt
 
 - [BIOT : PLU : Reunion n°4 : Biot de demain : synthèse et hiérarchisation des enjeux. J’y étais pour vous](https://www.cyber-neurones.org/2016/03/biot-plu-reunion-n4-biot-de-demain-synthese-et-hierarchisation-des-enjeux-jy-etais-pour-vous/) :date: 2016-03
 
-- [BIOT : PLU : Reunion n°2 : Habitat (équipement, logement), Environnement et Cadre de vie. J’y étais pour vous](https://www.cyber-neurones.org/2016/03/biot-plu-reunion-n2-habitat-equipement-logement-environnement-et-cadre-de-vie-jy-etais-pour-vous/)
+- [BIOT : PLU : Reunion n°2 : Habitat (équipement, logement), Environnement et Cadre de vie. J’y étais pour vous](https://www.cyber-neurones.org/2016/03/biot-plu-reunion-n2-habitat-equipement-logement-environnement-et-cadre-de-vie-jy-etais-pour-vous/) :date: 2016-03
 
-
+- [Réunion publique à l’OSTREA, j’y étais pour vous](https://www.cyber-neurones.org/2015/12/reunion-publique-a-lostrea-jy-etais-pour-vous/) :date: 2015-12
 
 ## Réunion 
 
