@@ -31,7 +31,7 @@ sequenceDiagram
 
 - [Mastodon](https://pouet.chapril.org/@Cyberneurones)
 
-- Pas de Twitter : #DeleteTwitter , Pas de Facebook : #DeleteFacebook (Supprimé le 26/11/2018) , Pas d'Instagram : #DeleteInstagram (Supprimé le 26/11/2018), Pas de WhatsApp #DeleteWhatsApp (Supprimé le 26/11/2018), Pas de Pinterest (Supprimé le 26/11/2018), Pas de Viadeo (Supprimé le 26/11/2018), Pas de Xing (Supprimé le 26/11/2018) ....
+- Pas de Twitter : #DeleteTwitter , Pas de Facebook : #DeleteFacebook (Supprimé le :date: 26/11/2018 ) , Pas d'Instagram : #DeleteInstagram (Supprimé le :date: 26/11/2018 ), Pas de WhatsApp #DeleteWhatsApp (Supprimé le :date: 26/11/2018 ), Pas de Pinterest (Supprimé le :date: 26/11/2018 ), Pas de Viadeo (Supprimé le :date: 26/11/2018 ), Pas de Xing (Supprimé le :date: 26/11/2018 ) ....
 
 # Experiences professionnelles :
 
@@ -138,9 +138,9 @@ gantt
 
 #### Notes 
 
-- [Quels sont les langages de programmation les plus verts ? (Dr. Milan Milanović)](https://www.cyber-neurones.org/2022/08/quels-sont-les-langages-de-programmation-les-plus-verts-dr-milan-milanovic/)
+- [Quels sont les langages de programmation les plus verts ? (Dr. Milan Milanović)](https://www.cyber-neurones.org/2022/08/quels-sont-les-langages-de-programmation-les-plus-verts-dr-milan-milanovic/)  :date: 2022-08
 
-- [Voici pourquoi linux est plus facile à débugger](https://www.cyber-neurones.org/2022/08/voici-pourquoi-linux-est-plus-facile-a-debugger/)
+- [Voici pourquoi linux est plus facile à débugger](https://www.cyber-neurones.org/2022/08/voici-pourquoi-linux-est-plus-facile-a-debugger/) :date: 2022-08
 
 - [Asterisk : Fichier asterisk.service pour Oracle Linux 8.6](https://www.cyber-neurones.org/2022/07/asterisk-fichier-asterisk-service-pour-oracle-linux-8-6/)
 
@@ -1253,6 +1253,18 @@ Sujets :
 
 -  Epreuves :  :basketball_man: Basket, :bow_and_arrow: Tir à l'arc, Karting, Football à 5, Cross, Football à 7, Tir au pistolet, :bowling: Bowling, Course d'orientation ...
 
+##### Cross
+
+- :date:                         	3 juin 2016
+- :heavy_check_mark: Dossard  : 9
+- Cross, 9 km,  :watch:                                         43:04
+- Classement général :                   	160/259
+
+##### Sophia Color Race 
+
+- :date:   	16 juin 2016
+
+
 #### Les allumés de la plein lune : jusqu’à :round_pushpin: Mons
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/05/les-allumes-de-la-plein-lune-jusqua-mons/)
@@ -1314,11 +1326,10 @@ Sujets :
 
 #### Cross Amnesty de :round_pushpin: Valbonne
 
-- :date: 2015-12
-
+- :date:  	13 décembre 2015
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-amnesty-de-valbonne/)
-
-- :runner: Cross
+- :runner: Cross, 11 km, :watch: 	58:37
+- Classement Général :  	118/243
 
 #### Compétition inter-entreprise de Padel
 
@@ -1398,6 +1409,14 @@ Sujets :
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/jeux-de-sophia-2015/)
 
 - **15 épreuves** : :bow_and_arrow: Tir à l'arc, Tir au pistolet, Karting, Football à 5, Cross, :badminton: Badminton,  :basketball_man: Basket-ball, Football à 7, :volleyball: Volley-Ball, Course d'orientation, :bowling: Bowling, Baby foot, Beach Volley, :mountain_biking_man: VTT.
+
+##### Cross
+
+- :date:                	4 juin 2015
+- :heavy_check_mark: Dossard  : 132
+- Cross, 9 km,  :watch:                                   	47:13
+- Classement général :           	95/242
+
 
 #### Semi-marathon de Nice
 
@@ -1497,12 +1516,19 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA : 83. (78M – 30SE)  2h08’48    Grasse  
 
+
+#### Jeux de Sophia-Antipolis
+
+- :date:                3 juin 2014
+- :heavy_check_mark: Dossard  : 803
+- Cross, 3km,  :watch:                                  15:28
+- Classement général :          17/94
+
 #### Ronde des Plages à :round_pushpin: Menton
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/05/ronde-des-plages-a-menton-2/)
 
 - Course, 10 km, 
-
 
 
 #### Ascension du Col de :round_pushpin: Vence
@@ -1577,6 +1603,13 @@ Sujets :
 
 - :date: 29 juin 2013 
 
+#### Jeux de Sophia-Antipolis
+
+- :date:                1 juin 2013
+- :heavy_check_mark: Dossard  : 10
+- Cross, 9km,  :watch:                   	 00:45:56
+- Classement général : 46/104
+
 #### La ronde des plages.
 
 - :date: 19 mai 2013
@@ -1589,9 +1622,12 @@ Sujets :
 
 - :date: 21 avril 2013 
 
-#### Rock’n Roll Nice Carnaval
+#### Rock’n Roll
 
-- :date: 17 février 2013
+- :date:               17 févr. 2013
+- :heavy_check_mark: Dossard  : 1124
+- Course, 15 km, :watch:                1:27:16
+- Nombre de participation : 1
 
 #### PROM Classic :round_pushpin: Nice
 
@@ -1620,6 +1656,12 @@ Sujets :
 - Course, 10 km, :watch:         00:49:24
 - Classement Général :                     767/1658
 - Nombre de participation : 4
+
+#### Jeux de Sophia-Antipolis
+
+- :date:         	31 mai 2012
+- :heavy_check_mark: Dossard  : 10
+- Cross, 5km,  :watch:           	00:49:12
 
 #### Ascension du Mont Chauve
 
@@ -1689,6 +1731,14 @@ Sujets :
 - Course, 10 km, :watch:                     00:49:16
 - Classement Général :               356/1863
 - Nombre de participation : 3
+
+#### Jeux de Sophia-Antipolis
+
+- :date:  	31 mai 2011
+- :heavy_check_mark: Dossard  : 7127
+- Cross, 5km,  :watch:  	00:27:57
+- Classement Général :   	22/116
+
 
 #### 10 km :round_pushpin: Menton
 
