@@ -1946,7 +1946,7 @@ Meilleur éditeur au monde
 
 Installation / Administration (sous Ubuntu).
 
-C'est la meilleure alternative pour la synchronisation des fichiers sur le LAN sur different OS ( Linux / Windows / MacOS). Je ne suis pas un pour mettre NextCloud visible sur internet. Nextcloud est mon outil de sauvegarde à local.
+C'est la meilleure alternative pour la synchronisation des fichiers sur le LAN sur different OS ( Linux / Windows / MacOS / Android ). ***Je ne suis pas un pour mettre NextCloud visible sur internet*** . Nextcloud est mon outil de sauvegarde à local.
 
 - [No space left on device in /usr/share/nginx/nextcloud/lib/private/Log/File.php on line 89](https://www.cyber-neurones.org/2023/01/nextcloud-no-space-left-on-device-in-usr-share-nginx-nextcloud-lib-private-log-file-php-on-line-89/) :date: 2023-01
 
@@ -1958,21 +1958,32 @@ C'est la meilleure alternative pour la synchronisation des fichiers sur le LAN s
 
 - [NextCloud : Erreur : « Unable to generate a URL for the named route \ »theming.Theming.getImage\ » as such route does not exist. »](https://www.cyber-neurones.org/2021/08/nextcloud-erreur-unable-to-generate-a-url-for-the-named-route-theming-theming-getimage-as-such-route-does-not-exist/)
 
-- [Nextcloud : Problème dans la rotation des fichiers nextcloud.log](https://www.cyber-neurones.org/2021/07/nextcloud-probleme-dans-la-rotation-des-fichiers-nextcloud-log/)
+- [Nextcloud : Problème dans la rotation des fichiers nextcloud.log](https://www.cyber-neurones.org/2021/07/nextcloud-probleme-dans-la-rotation-des-fichiers-nextcloud-log/) :date: 2021-07
 
-- [NextCloud : APCu not available for local cache (Is the matching PHP module installed and enabled?)](https://www.cyber-neurones.org/2021/07/nextcloud-apcu-not-available-for-local-cache-is-the-matching-php-module-installed-and-enabled/)
+- [NextCloud : APCu not available for local cache (Is the matching PHP module installed and enabled?)](https://www.cyber-neurones.org/2021/07/nextcloud-apcu-not-available-for-local-cache-is-the-matching-php-module-installed-and-enabled/) :date: 2021-07
 
-- [NexCloud : Mise à jours en version 20.0.10](https://www.cyber-neurones.org/2021/05/nexcloud-mise-a-jours-en-version-20-0-10/)
+- [NexCloud : Mise à jours en version 20.0.10](https://www.cyber-neurones.org/2021/05/nexcloud-mise-a-jours-en-version-20-0-10/) :date: 2021-05
 
-- [NextCloud : Suppression manuelle des anciennes versions de fichier](https://www.cyber-neurones.org/2021/03/nextcloud-suppression-manuelle-des-anciennes-versions-de-fichier/)
+- [NextCloud : Suppression manuelle des anciennes versions de fichier](https://www.cyber-neurones.org/2021/03/nextcloud-suppression-manuelle-des-anciennes-versions-de-fichier/) :date: 2021-03
 
-- [Nextcloud : Comment forcer le scan des photos avoir fait des modifications ( Application Maps )](https://www.cyber-neurones.org/2021/02/nextcloud-comment-forcer-le-scan-des-photos-avoir-fait-des-modifications-application-maps/)
+- [Nextcloud : Comment forcer le scan des photos avoir fait des modifications ( Application Maps )](https://www.cyber-neurones.org/2021/02/nextcloud-comment-forcer-le-scan-des-photos-avoir-fait-des-modifications-application-maps/) :date: 2021-12
 
-- [NEXTCLOUD : Error : SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock](https://www.cyber-neurones.org/2020/11/nextcloud-error-sqlstate40001-serialization-failure-1213-deadlock-found-when-trying-to-get-lock/)
+- [NEXTCLOUD : Error : SQLSTATE[40001]: Serialization failure: 1213 Deadlock found when trying to get lock](https://www.cyber-neurones.org/2020/11/nextcloud-error-sqlstate40001-serialization-failure-1213-deadlock-found-when-trying-to-get-lock/) :date: 2020-11
 
-- [NextCloud : Ajouter un certificat SSL sur Apache.](https://www.cyber-neurones.org/2020/11/nextcloud-ajouter-un-certificat-ssl-sur-apache/)
+- [NextCloud : Ajouter un certificat SSL sur Apache.](https://www.cyber-neurones.org/2020/11/nextcloud-ajouter-un-certificat-ssl-sur-apache/) :date: 2020-11 
+##### Update
 
-
+- Done 19/05/2023 :
+  - Nextcloud 26.0.1 
+  - OS : 22.04.2 LTS (Jammy Jellyfish) - Linux 5.15.0-72-generic x86_64
+  - PHP : 8.1.2
+  - DB :  MySQL 	10.6.12
+  - Node.js v14.18.2 pour le plugin recognize
+  - Size : 
+```
+$ sudo du -sh /usr/share/nginx/nextcloud/
+229G	/usr/share/nginx/nextcloud/
+```
 
 #### [Wordpress](https://wordpress.com/fr/)
 
@@ -2033,6 +2044,14 @@ Competences : Apache / Humhub / Debian / Firewall .
 - [Installation de humhub version 1.6.3 sur Debian](https://www.cyber-neurones.org/2020/11/installation-de-humhub-version-1-6-3-sur-debian/) :date: 2020-11
 
 ##### Update
+
+- Mise à jours : **v1.7.0** :date: 14/11/2020
+
+- Mise à jours : **v1.9.0** :date: 30/08/2021
+
+- Mise à jours : **v1.9.1** :date: 27/09/2021
+
+- Mise à jours : **v1.12.1** :date: 28/09/2022
 
 - Mise à jours : **v1.14.1** :date:  19/05/2023 
    - PHP - Version - 7.4.33
