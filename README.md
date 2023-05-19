@@ -1603,19 +1603,92 @@ Sujets :
 
 ### 2011
 
+#### PROM Classic :round_pushpin: Nice
+
+- :date:                9 janv. 2011
+- :heavy_check_mark: Dossard  : 2976
+- Course, 10 km, :watch:                         	00:53:08
+- Classement Général :                          2518/3656
+- Nombre de participation : 1
+
 ### 2010
 
+#### Cross des Iles de Lerens
+
+- :date:         	5 déc. 2010
+- :heavy_check_mark: Dossard  : 10
+- Cross, 8,5 km, :watch:                 	00:40:59
+- Classement Général :                   	117/393
+- Nombre de participation : 1
+
+#### 10 km de :round_pushpin: Grasse
+
+- :date:  	28 nov. 2010
+- :heavy_check_mark: Dossard  : 1160
+- Course, 10 km, :watch:         	00:47:05
+- Classement Général :           	601/1569
+- Nombre de participation : 2
+
+#### Marathon des Alpes-Maritimes :round_pushpin: Nice
+
+- :date:                        14 nov. 2010
+- :heavy_check_mark: Dossard : 4428
+- Course, 42 km, :watch:                                         	04:00:27
+- Classement Général :                                   	4471/8232
+- Nombre de participation : 2
+
+#### Courir pour une fleur, version 10 km à :round_pushpin: Antibes
+
+- :date:                         	3 oct. 2010
+- :heavy_check_mark: Dossard : 2733
+- Course, 10 km, :watch:                                        00:48:09
+- Classement Général :                                  300/1837
+- Nombre de participation : 2
+
 ### 2009
+
+#### Marathon des Alpes-Maritimes :round_pushpin: Nice
+
+- :date:                 	8 nov. 2009
+- :heavy_check_mark: Dossard : 10296
+- Course, 10 km, :watch:                                	03:42:59
+- Classement Général :                           	2971/7842
+- Nombre de participation : 1
+
+#### Courir pour une fleur, version 10 km à :round_pushpin: Antibes
+
+- :date:         	4 oct. 2009
+- :heavy_check_mark: Dossard : 2741
+- Course, 10 km, :watch:                         	00:46:45
+- Classement Général :                   	270/1671
+- Nombre de participation : 1
+
+#### Boucle de :round_pushpin: Cagnes-sur-mer
+
+- :date:  	13 juin 2009
+- :heavy_check_mark: Dossard : 8
+- Course, 10 km, :watch:                 	00:48:58
+- Classement Général :                  254/483
+- Nombre de participation : 1
+
+
+#### 10 km de :round_pushpin: Cannes 
+
+- :date: 15 févr. 2009
+- :heavy_check_mark: Dossard : 1934
+- Course, 10 km, :watch:         	00:50:16
+- Classement Général :           	627/1322
+- Nombre de participation : 1
 
 ### 2008
 
 #### 10 km de :round_pushpin: Grasse
 
 - :date: 23 nov. 2008
-
-- :heavy_check_mark: 953
-
+- :heavy_check_mark: Dossard  : 953
 - Course, 10 km, :watch:  	00:50:07
+- Classement Général :  	983/1863
+- Nombre de participation : 1
 
 ### 2007
 
@@ -1628,35 +1701,34 @@ Sujets :
 #### :round_pushpin: Marseille - :round_pushpin: Cassis
 
 - :date: 31 oct. 2004
-
-- :heavy_check_mark: 5828
-
+- :heavy_check_mark: Dossard : 5828
 - Course, 21 km, :watch: 02:01:10
+- Classement Général : 7588/11718
+- Nombre de participation : 2
 
 #### Semi-marathon de :round_pushpin: Nice
 
 - :date: 25 avr. 2004
-
-- :heavy_check_mark: 2923
-
+- :heavy_check_mark: Dossard : 2923
 - Course, 21 km, :watch: 02:04:40
-
+- Classement Général : 1839/2275
+- Nombre de participation : 1
 
 ### 2003
 
 ### 2002
 
-### 2008
+### 2001
 
 ### 2000
 
 #### :round_pushpin: Marseille - :round_pushpin: Cassis
 
 - :date: 29 oct. 2000
-
-- :heavy_check_mark: 9830
-
+- :heavy_check_mark: Dossard : 9830
 - Course, 21 km, :watch: 01:55:51
+- Classement Général : 5483/11365
+- Nombre de participation : 1
 
 ### 1999
 
@@ -1780,16 +1852,16 @@ Meilleur éditeur au monde
 
 ### Debian
 
-- [Débian : failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory](https://www.cyber-neurones.org/2020/12/debian-failed-to-load-module-mdraid-libbd_mdraid-so-2-cannot-open-shared-object-file-no-such-file-or-directory/)
+- [Débian : failed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory](https://www.cyber-neurones.org/2020/12/debian-failed-to-load-module-mdraid-libbd_mdraid-so-2-cannot-open-shared-object-file-no-such-file-or-directory/) :date: 2020-12
 
-- [Comment ajouter un disque externe vierge à un serveur Débian ?](https://www.cyber-neurones.org/2020/11/comment-ajouter-un-disque-externe-vierge-a-un-serveur-debian/)
+- [Comment ajouter un disque externe vierge à un serveur Débian ?](https://www.cyber-neurones.org/2020/11/comment-ajouter-un-disque-externe-vierge-a-un-serveur-debian/) :date: 2020-11
 
-- [GNUPLOT : Pour l’analyse de mon script de débit](https://www.cyber-neurones.org/2019/10/gnuplot-pour-lanalyse-de-mon-script-de-debit/)
+- [GNUPLOT : Pour l’analyse de mon script de débit](https://www.cyber-neurones.org/2019/10/gnuplot-pour-lanalyse-de-mon-script-de-debit/) :date: 2019-10
 
 
 ### [RASPBIAN](https://raspbian.org)
 
-- [IoT : les langages de programmation les plus utilisés](https://www.cyber-neurones.org/2019/04/iot-les-langages-de-programmation-les-plus-utilises/)
+- [IoT : les langages de programmation les plus utilisés](https://www.cyber-neurones.org/2019/04/iot-les-langages-de-programmation-les-plus-utilises/) :date: 2019-04
 
 
 
@@ -1797,66 +1869,65 @@ Meilleur éditeur au monde
 
 <img align="right" src="./img/474px-Raspberry_Pi_logo.svg.png" width="200">
 
-- [Raspberry ( Raspbian : stretch ) / Git Server : Installation en bref](https://www.cyber-neurones.org/2018/11/raspberry-raspbian-stretch-git-server-installation-en-bref/)
+- [Raspberry ( Raspbian : stretch ) / Git Server : Installation en bref](https://www.cyber-neurones.org/2018/11/raspberry-raspbian-stretch-git-server-installation-en-bref/) :date: 2018-11
 
-- [Raspberry ( Raspbian : stretch ) / OwnCloud (10.0.10) : Installation en bref …](https://www.cyber-neurones.org/2018/11/raspberry-owncloud-installation-en-bref/)
+- [Raspberry ( Raspbian : stretch ) / OwnCloud (10.0.10) : Installation en bref …](https://www.cyber-neurones.org/2018/11/raspberry-owncloud-installation-en-bref/) :date: 2018-11
 
-- [SWAP sur Raspbian](https://www.cyber-neurones.org/2018/10/swap-sur-raspbian/)
+- [SWAP sur Raspbian](https://www.cyber-neurones.org/2018/10/swap-sur-raspbian/) :date: 2018-11
 
-- [PSSH/SSHPASS : Lancer des scripts en parallèle.](https://www.cyber-neurones.org/2018/10/pssh-sshpass-lancer-des-scripts-en-parallele/)
+- [PSSH/SSHPASS : Lancer des scripts en parallèle.](https://www.cyber-neurones.org/2018/10/pssh-sshpass-lancer-des-scripts-en-parallele/) :date: 2018-10
 
-- [Raspberry / Munin / USB : Température via l’USB](https://www.cyber-neurones.org/2018/10/raspberry-munin-usb-temperature-via-lusb/)
+- [Raspberry / Munin / USB : Température via l’USB](https://www.cyber-neurones.org/2018/10/raspberry-munin-usb-temperature-via-lusb/) :date: 2018-10
 
-- [Raspberry / Munin / USB : Température via l’USB : OK mais s’abstenir si on n’est pas développeur !](https://www.cyber-neurones.org/2018/10/munin-usb-temperature-via-lusb-ok-mais-sabstenir-si-on-nest-pas-developpeur/)
+- [Raspberry / Munin / USB : Température via l’USB : OK mais s’abstenir si on n’est pas développeur !](https://www.cyber-neurones.org/2018/10/munin-usb-temperature-via-lusb-ok-mais-sabstenir-si-on-nest-pas-developpeur/) :date: 2018-10
 
-- [Raspberry/Munin : Plugin pour Awox pour suivre la consommation.](https://www.cyber-neurones.org/2018/10/raspberry-munin-plugin-pour-awox-pour-suivre-la-consommation/)
+- [Raspberry/Munin : Plugin pour Awox pour suivre la consommation.](https://www.cyber-neurones.org/2018/10/raspberry-munin-plugin-pour-awox-pour-suivre-la-consommation/) :date: 2018-10
 
-- [Raspberry/Jeedom : Installation …](https://www.cyber-neurones.org/2018/10/raspberry-jeedom-installation/)
+- [Raspberry/Jeedom : Installation …](https://www.cyber-neurones.org/2018/10/raspberry-jeedom-installation/) :date: 2018-10
 
-- [Raspberry/ELK : Installation de Filebeat](https://www.cyber-neurones.org/2018/10/raspberry-elk-installation-de-filebeat/)
+- [Raspberry/ELK : Installation de Filebeat](https://www.cyber-neurones.org/2018/10/raspberry-elk-installation-de-filebeat/) :date: 2018-10
 
-- [Raspberry/ELK : Installation sur 3 Raspberry(s) ](https://www.cyber-neurones.org/2018/10/raspberry-elk-installation-sur-3-raspberrys/)
+- [Raspberry/ELK : Installation sur 3 Raspberry(s) ](https://www.cyber-neurones.org/2018/10/raspberry-elk-installation-sur-3-raspberrys/) :date: 2018-10
 
-- [Raspberry/Rsyslog : Centralisation des logs via syslog](https://www.cyber-neurones.org/2018/10/raspberry-rsyslog-centralisation-des-logs/)
+- [Raspberry/Rsyslog : Centralisation des logs via syslog](https://www.cyber-neurones.org/2018/10/raspberry-rsyslog-centralisation-des-logs/) :date: 2018-10
 
-- [Raspberry : Installation de l’écran WAVESHARE 5″ HDMI LCD (B)](https://www.cyber-neurones.org/2018/10/raspberry-installation-de-lecran-waveshare-5-hdmi-lcd-b/)
+- [Raspberry : Installation de l’écran WAVESHARE 5″ HDMI LCD (B)](https://www.cyber-neurones.org/2018/10/raspberry-installation-de-lecran-waveshare-5-hdmi-lcd-b/) :date: 2018-10
 
-- [Munin/Raspberry : Correction à faire ?! ( irqstats, snmp_admin_swap, acpi )](https://www.cyber-neurones.org/2018/10/munin-raspberry-correction-a-faire-irqstats-snmp_admin_swap-acpi/)
+- [Munin/Raspberry : Correction à faire ?! ( irqstats, snmp_admin_swap, acpi )](https://www.cyber-neurones.org/2018/10/munin-raspberry-correction-a-faire-irqstats-snmp_admin_swap-acpi/) :date: 2018-10
 
-- [Raspberry : Disque SSD vs Carte SD](https://www.cyber-neurones.org/2018/10/raspberry-disque-ssd-vs-carte-sd/)
+- [Raspberry : Disque SSD vs Carte SD](https://www.cyber-neurones.org/2018/10/raspberry-disque-ssd-vs-carte-sd/) :date: 2018-10
 
-- [Si tu n’as pas de salle serveur à 50 ans, on peut dire que tu as raté ta vie ;)](https://www.cyber-neurones.org/2018/10/si-tu-nas-pas-de-salle-serveur-a-50-ans-on-peut-dire-que-tu-as-rate-ta-vie/)
+- [Si tu n’as pas de salle serveur à 50 ans, on peut dire que tu as raté ta vie ;)](https://www.cyber-neurones.org/2018/10/si-tu-nas-pas-de-salle-serveur-a-50-ans-on-peut-dire-que-tu-as-rate-ta-vie/) :date: 2018-10
 
-- [Raspberry/Munin : Installation d’un client SNMP pour Munin](https://www.cyber-neurones.org/2018/09/raspberry-munin-installation-dun-client-snmp-pour-munin/)
+- [Raspberry/Munin : Installation d’un client SNMP pour Munin](https://www.cyber-neurones.org/2018/09/raspberry-munin-installation-dun-client-snmp-pour-munin/) :date: 2018-09
 
-- [Raspberry : Configuration réseau sur une Raspbian GNU/Linux 9 (stretch) avec une Freebox](https://www.cyber-neurones.org/2018/09/raspberry-configuration-reseau-sur-une-raspbian-gnu-linux-9-stretch-avec-une-freebox/)
+- [Raspberry : Configuration réseau sur une Raspbian GNU/Linux 9 (stretch) avec une Freebox](https://www.cyber-neurones.org/2018/09/raspberry-configuration-reseau-sur-une-raspbian-gnu-linux-9-stretch-avec-une-freebox/) :date: 2018-09
 
-- [Raspberry/Munin : Monitor d’un site WordPress distant ( httpresponsetime )](https://www.cyber-neurones.org/2018/09/raspberry-munin-monitor-dun-site-wordpress-distant-httpresponsetime/)
+- [Raspberry/Munin : Monitor d’un site WordPress distant ( httpresponsetime )](https://www.cyber-neurones.org/2018/09/raspberry-munin-monitor-dun-site-wordpress-distant-httpresponsetime/) :date: 2018-09
 
-- [Raspberry/Mac OS : ApplePi-Baker : Créer une carte SD pour le Raspberry.](https://www.cyber-neurones.org/2018/09/raspberry-mac-os-applepi-baker-creer-une-carte-sd-pour-le-raspberry/)
+- [Raspberry/Mac OS : ApplePi-Baker : Créer une carte SD pour le Raspberry.](https://www.cyber-neurones.org/2018/09/raspberry-mac-os-applepi-baker-creer-une-carte-sd-pour-le-raspberry/) :date: 2018-09
 
-- [Raspberry : Que faire avec ?](https://www.cyber-neurones.org/2018/09/raspberry-que-faire-avec/)
+- [Raspberry : Que faire avec ?](https://www.cyber-neurones.org/2018/09/raspberry-que-faire-avec/) :date: 2018-09
 
-- [OSMC/Raspberry : Basculement d’un carte SD à un disque dur SSD.](https://www.cyber-neurones.org/2018/09/osmc-raspberry-basculement-dun-carte-sd-a-un-disque-dur-ssd/)
+- [OSMC/Raspberry : Basculement d’un carte SD à un disque dur SSD.](https://www.cyber-neurones.org/2018/09/osmc-raspberry-basculement-dun-carte-sd-a-un-disque-dur-ssd/) :date: 2018-09
 
-- [OSMC/Raspberry : installation de munin ( et Apache2) avec un script pour Freebox](https://www.cyber-neurones.org/2018/09/osmc-raspberry-installation-de-muni-node-et-apache2-avec-un-script-pour-freebox/)
+- [OSMC/Raspberry : installation de munin ( et Apache2) avec un script pour Freebox](https://www.cyber-neurones.org/2018/09/osmc-raspberry-installation-de-muni-node-et-apache2-avec-un-script-pour-freebox/) :date: 2018-09
 
-- [OSMC/Raspberry : Ajout de ELK ( Elasticsearch / Logstash / Kibana / Beats / Nginx )](https://www.cyber-neurones.org/2018/09/osmc-raspberry-ajout-de-elk-elasticsearch-logstash-kibana-beats-nginx/)
+- [OSMC/Raspberry : Ajout de ELK ( Elasticsearch / Logstash / Kibana / Beats / Nginx )](https://www.cyber-neurones.org/2018/09/osmc-raspberry-ajout-de-elk-elasticsearch-logstash-kibana-beats-nginx/) :date: 2018-09
 
-- [Installation un media-center avec OSMC sur un Raspberry Pi 3 Model B](https://www.cyber-neurones.org/2016/09/installation-un-media-center-avec-osmc-sur-un-raspberry-pi-3-model-b/)
-
+- [Installation un media-center avec OSMC sur un Raspberry Pi 3 Model B](https://www.cyber-neurones.org/2016/09/installation-un-media-center-avec-osmc-sur-un-raspberry-pi-3-model-b/) :date: 2016-09
 
 
 
 #### Rock64
 
-- [Rock64 / Débian : Ajouter un disque dur externe](https://www.cyber-neurones.org/2019/09/rock64-debian-ajouter-un-disque-dur-externe/)
+- [Rock64 / Débian : Ajouter un disque dur externe](https://www.cyber-neurones.org/2019/09/rock64-debian-ajouter-un-disque-dur-externe/) :date: 2019-09
 
-- [Installation de NextCloud sur Rock64](https://www.cyber-neurones.org/2019/09/installation-de-nextcloud-sur-rock64/)
+- [Installation de NextCloud sur Rock64](https://www.cyber-neurones.org/2019/09/installation-de-nextcloud-sur-rock64/) :date: 2019-09
 
-- [Rock64 : Les premiers pas …](https://www.cyber-neurones.org/2019/03/rock64-les-premiers-pas/)
+- [Rock64 : Les premiers pas …](https://www.cyber-neurones.org/2019/03/rock64-les-premiers-pas/) :date: 2019-03
 
-- [Rock64 & 2 capteurs de débits d’eau ( Débitmètre )](https://www.cyber-neurones.org/2019/03/rock64-2-capteurs-de-debits-deau-debitmetre/)
+- [Rock64 & 2 capteurs de débits d’eau ( Débitmètre )](https://www.cyber-neurones.org/2019/03/rock64-2-capteurs-de-debits-deau-debitmetre/) :date: 2019-03
 
 
 
@@ -1864,9 +1935,9 @@ Meilleur éditeur au monde
 
 #### Cloud
 
-- [Raspberry / Cloud Privé : Architecture : Interrogation écrite !](https://www.cyber-neurones.org/2018/10/raspberry-cloud-prive-architecture-interrogation-ecrite/)
+- [Raspberry / Cloud Privé : Architecture : Interrogation écrite !](https://www.cyber-neurones.org/2018/10/raspberry-cloud-prive-architecture-interrogation-ecrite/) :date: 2018-10
 
-- [Raspberry : Architecture : Interrogation écrite !](https://www.cyber-neurones.org/2018/10/raspberry-architecture-interrogation-ecrite/)
+- [Raspberry : Architecture : Interrogation écrite !](https://www.cyber-neurones.org/2018/10/raspberry-architecture-interrogation-ecrite/) :date: 2018-10
 
 
 
@@ -1877,9 +1948,9 @@ Installation / Administration (sous Ubuntu).
 
 C'est la meilleure alternative pour la synchronisation des fichiers sur le LAN sur different OS ( Linux / Windows / MacOS). Je ne suis pas un pour mettre NextCloud visible sur internet. Nextcloud est mon outil de sauvegarde à local.
 
-- [No space left on device in /usr/share/nginx/nextcloud/lib/private/Log/File.php on line 89](https://www.cyber-neurones.org/2023/01/nextcloud-no-space-left-on-device-in-usr-share-nginx-nextcloud-lib-private-log-file-php-on-line-89/)
+- [No space left on device in /usr/share/nginx/nextcloud/lib/private/Log/File.php on line 89](https://www.cyber-neurones.org/2023/01/nextcloud-no-space-left-on-device-in-usr-share-nginx-nextcloud-lib-private-log-file-php-on-line-89/) :date: 2023-01
 
-- [Migration to 25.0.3](https://www.cyber-neurones.org/2023/01/nextcloud-migration-to-25-0-3/)
+- [Migration to 25.0.3](https://www.cyber-neurones.org/2023/01/nextcloud-migration-to-25-0-3/) :date: 2023-01
 
 - [NEXTCLOUD 24.0.1 : Migration de php 7.3 vers 7.4](https://www.cyber-neurones.org/2022/05/nextcloud-24-0-1-migration-de-php-7-3-vers-7-4/)
 
@@ -1951,17 +2022,22 @@ C'est la meilleure alternative à Facebook pour des groupes à taille humaine. E
 
 Competences : Apache / Humhub / Debian / Firewall . 
 
-- [Humhub v1.11.1 : Migration de php 7.3 vers php 7.4](https://www.cyber-neurones.org/2022/05/humhub-v1-11-1-migration-de-php-7-3-vers-php-7-4/)
+- [Humhub v1.11.1 : Migration de php 7.3 vers php 7.4](https://www.cyber-neurones.org/2022/05/humhub-v1-11-1-migration-de-php-7-3-vers-php-7-4/) :date: 2022-05
 
-- [HumHub : Compression d’image](https://www.cyber-neurones.org/2021/05/humhub-compression-dimage/)
+- [HumHub : Compression d’image](https://www.cyber-neurones.org/2021/05/humhub-compression-dimage/) :date: 2021-05
 
-- [Humhub : runtime/searchdb/segments… is not readable.](https://www.cyber-neurones.org/2020/12/humhub-runtime-searchdb-segments-is-not-readable/)
+- [Humhub : runtime/searchdb/segments… is not readable.](https://www.cyber-neurones.org/2020/12/humhub-runtime-searchdb-segments-is-not-readable/) :date: 2020-12
 
-- [Humhub : Administration à faire](https://www.cyber-neurones.org/2020/11/humhub-administration-a-faire/)
+- [Humhub : Administration à faire](https://www.cyber-neurones.org/2020/11/humhub-administration-a-faire/) :date: 2020-11
 
-- [Installation de humhub version 1.6.3 sur Debian](https://www.cyber-neurones.org/2020/11/installation-de-humhub-version-1-6-3-sur-debian/)
+- [Installation de humhub version 1.6.3 sur Debian](https://www.cyber-neurones.org/2020/11/installation-de-humhub-version-1-6-3-sur-debian/) :date: 2020-11
 
+##### Update
 
+- Mise à jours : **v1.14.1** :date:  19/05/2023 
+   - PHP - Version - 7.4.33
+   - Limite maximale de mémoire (64 MB) (Hint: limite actuelle : 134 Mo)
+   - MariaDB - Version - 5.5.5-10.5.18-MariaDB-0+deb11u1
 
 #### [Home Assistant](https://www.home-assistant.io/) 
 
@@ -1972,12 +2048,11 @@ Avant j'utilisais [Jeedom](https://www.jeedom.com/fr/) sur Raspberry mais depuis
 J'utilise du "SONOFF ZigBee" pour les périphériques.
 
 
-
 #### [Jenkins](https://www.jenkins.io/)
 
 Installation / Administration (sous Debian).
 
-- [Jenkins : 32 Go de RAM …](https://www.cyber-neurones.org/2019/04/jenkins-32-go-de-ram/)
+- [Jenkins : 32 Go de RAM …](https://www.cyber-neurones.org/2019/04/jenkins-32-go-de-ram/) :date: 2019-04
 
 - [Jenkins & Docker : /usr/bin/cat: cannot execute binary file](https://www.cyber-neurones.org/2019/04/jenkins-docker-usr-bin-cat-cannot-execute-binary-file/)
 
@@ -2067,9 +2142,14 @@ J'ai migrer de Raspberry vers ESX.
 
 <img align="right" src="./img/20230225_095708~2.jpg" width="200">
 
+- [Randonné à Moulinet : Tête de Gars, Cime du Tiers, Mangiabo, Baisse de la Déa](https://www.cyber-neurones.org/2023/05/randonne-a-moulinet-tete-de-gars-cime-du-tiers-mangiabo-baisse-de-la-dea/) :date: 2023-05 
+    - Distance : 19 km, Denivelé : 1200m D+, :watch: 7h00
+
 - [Randonnée Saint-Grat : Cime de Prals, Cime de la Valette de Prals, Cime de Montjoia](https://www.cyber-neurones.org/2023/04/randonnee-saint-grat-cime-de-prals-cime-de-la-valette-de-prals-cime-de-montjoia/) :date: 2023-04 
+    - Distance : 13 km, Denivelé : 1300m D+, :watch: 7h00
 
 - [Boucle des chasseurs entre :round_pushpin: Biot et :round_pushpin: Villeneuve-Loubet ](https://www.cyber-neurones.org/2023/03/randonnee-boucle-des-chasseurs-entre-biot-et-villeneuve-loubet/) :date: 2023-03
+   - Distance : 16 km, Denivelé : 700m D+, :watch: 4h00
 
 - [Chapelle Saint-Jean, Arche de Ponadieu, Grotte des deux goules, Cascades ](https://www.cyber-neurones.org/2023/02/randonnee-tres-difficile-chapelle-saint-jean-arche-de-ponadieu-grotte-des-deux-goules-cascades/) :date: 2023-02
 
@@ -2315,26 +2395,26 @@ J'ai migrer de Raspberry vers ESX.
 
 <img align="right" src="./img/IMG_20180813_150631.jpg" width="200">
 
-- [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/)
+- [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°517,18,22 : Karer Pass, échec de l’ascension vers Latemar (mal sécurisé)](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n5171822-karer-pass-echec-de-lascension-vers-latemar-mal-securise/)
+- [Italie Dolomites : Randonnée n°517,18,22 : Karer Pass, échec de l’ascension vers Latemar (mal sécurisé)](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n5171822-karer-pass-echec-de-lascension-vers-latemar-mal-securise/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°580,579 : De Mazzin à la cascade Spina de Lech](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n580579-de-mazzin-a-la-cascade-spina-de-lech/)
+- [Italie Dolomites : Randonnée n°580,579 : De Mazzin à la cascade Spina de Lech](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n580579-de-mazzin-a-la-cascade-spina-de-lech/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°2,9 : Aller-Retour de Weisslahnbad à Schafkopfe.](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n29-aller-retour-de-weisslahnbad-a-schafkopfe/)
+- [Italie Dolomites : Randonnée n°2,9 : Aller-Retour de Weisslahnbad à Schafkopfe.](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n29-aller-retour-de-weisslahnbad-a-schafkopfe/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°5,5A,1,1A : Boucle de Tiers (Tires) vers NigerPass](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n55a11a-boucle-de-tiers-tires-vers-nigerpass/)
+- [Italie Dolomites : Randonnée n°5,5A,1,1A : Boucle de Tiers (Tires) vers NigerPass](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n55a11a-boucle-de-tiers-tires-vers-nigerpass/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°1,550,541,549 : Boucle départ Nigerpass autour de Coronelle, Zigolade, Rotwand.](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n1550541549-boucle-depart-nigerpass-autour-de-coronelle-zigolade-rotwand/)
+- [Italie Dolomites : Randonnée n°1,550,541,549 : Boucle départ Nigerpass autour de Coronelle, Zigolade, Rotwand.](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n1550541549-boucle-depart-nigerpass-autour-de-coronelle-zigolade-rotwand/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°2,1,7,7B,4 : Boucle Weisslahnbad, Sesselsschwaige, Tschafonhütte .](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n2177b4-boucle-weisslahnbad-sesselsschwaige-tschafonhutte/)
+- [Italie Dolomites : Randonnée n°2,1,7,7B,4 : Boucle Weisslahnbad, Sesselsschwaige, Tschafonhütte .](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n2177b4-boucle-weisslahnbad-sesselsschwaige-tschafonhutte/) :date: 2018-08
 
-- [Italie Dolomites : Randonnée n°3 : Rifugio (Refuge) Alpe di Tires ( Tierser Alpl )](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n3-rifugio-refuge-alpe-di-tires-tierser-alpl/)
+- [Italie Dolomites : Randonnée n°3 : Rifugio (Refuge) Alpe di Tires ( Tierser Alpl )](https://www.cyber-neurones.org/2018/08/italie-dolomites-randonnee-n3-rifugio-refuge-alpe-di-tires-tierser-alpl/) :date: 2018-08
 
 
 ### Espagne
 
-- [Balade San Juan de Gaztelugatxe (Bermeo, Espagne)](https://www.cyber-neurones.org/2016/08/balade-san-juan-de-gaztelugatxe/)
+- [Balade San Juan de Gaztelugatxe (Bermeo, Espagne)](https://www.cyber-neurones.org/2016/08/balade-san-juan-de-gaztelugatxe/) :date: 2016-08
 
 - 
 
@@ -2449,9 +2529,9 @@ J'ai migrer de Raspberry vers ESX.
 
 Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/), mes quelques artciles sur le vélo : 
 
-- [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/)
+- [Comptage des cyclistes avec YOLO](https://www.cyber-neurones.org/2021/10/convergence-azureenne-2021-comptage-des-cyclistes/) :date: 2021-10
 
-- [Tous à vélo : :round_pushpin: Biot – :round_pushpin: Antibes – :round_pushpin: Cannes . ( Edition 2019 ) #TousàVélo](https://www.cyber-neurones.org/2019/11/tous-a-velo-biot-antibes-cannes-edition-2019-tousavelo/)
+- [Tous à vélo : :round_pushpin: Biot – :round_pushpin: Antibes – :round_pushpin: Cannes . ( Edition 2019 ) #TousàVélo](https://www.cyber-neurones.org/2019/11/tous-a-velo-biot-antibes-cannes-edition-2019-tousavelo/) :date: 2019-11
 
 - [Plan vélo de Sophia Antipolis et les extensions prévues pour 2020](https://www.cyber-neurones.org/2018/04/plan-velo-de-sophia-antipolis-et-les-extensions-prevues-pour-2020/)
 
@@ -2470,46 +2550,46 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 <img align="right" src="./img/P_20210326_170603.jpg" width="200">
 
-- [Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/)
+- [Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/) :date: 2023-04
 
-- [Biot vers Gourdon en gravel](https://www.cyber-neurones.org/2023/03/gravel-biot-vers-gourdon-en-gravel/)
+- [Biot vers Gourdon en gravel](https://www.cyber-neurones.org/2023/03/gravel-biot-vers-gourdon-en-gravel/) :date: 2023-03
 
-- [Allianz Riviera à Vélo : au départ de Biot ](https://www.cyber-neurones.org/2022/08/allianz-riviera-a-velo-au-depart-de-biot-ostrea/)
+- [Allianz Riviera à Vélo : au départ de Biot ](https://www.cyber-neurones.org/2022/08/allianz-riviera-a-velo-au-depart-de-biot-ostrea/) :date: 2022-08
 
-- [Rond point d’Opio – Col de Gourdon – Col de l’Ecre – Observatoire de Calern](https://www.cyber-neurones.org/2022/07/velo-rond-point-dopio-col-de-gourdon-col-de-lecre-observatoire-de-calern/)
+- [Rond point d’Opio – Col de Gourdon – Col de l’Ecre – Observatoire de Calern](https://www.cyber-neurones.org/2022/07/velo-rond-point-dopio-col-de-gourdon-col-de-lecre-observatoire-de-calern/) :date: 2022-07
 
-- [Vélo : Col de Braus : 1002 m depuis Sospel](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-sospel/)
+- [Vélo : Col de Braus : 1002 m depuis Sospel](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-sospel/) :date: 2021-09
 
-- [Vélo : Mont Agaisen : 751 m depuis Sospel](https://www.cyber-neurones.org/2021/09/velo-mont-agaisen-751-m-depuis-sospel/)
+- [Vélo : Mont Agaisen : 751 m depuis Sospel](https://www.cyber-neurones.org/2021/09/velo-mont-agaisen-751-m-depuis-sospel/) :date: 2021-09
 
-- [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/)
+- [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/) :date: 2021-09
 
 <img align="right" src="./img/P_20210801_121637.jpg" width="200">
 
-- [Vélo : Boucle Biot, Cagnes-sur-Mer, La gaude, Carros, Bouyon, Coursegoules, Pont-du-Loup, Bar-sur-Loup, Valbonne](https://www.cyber-neurones.org/2021/07/velo-boucle-biot-cagnes-sur-mer-la-gaude-carros-bouyon-coursegoules-pont-du-loup-bar-sur-loup-valbonne/)
+- [Vélo : Boucle Biot, Cagnes-sur-Mer, La gaude, Carros, Bouyon, Coursegoules, Pont-du-Loup, Bar-sur-Loup, Valbonne](https://www.cyber-neurones.org/2021/07/velo-boucle-biot-cagnes-sur-mer-la-gaude-carros-bouyon-coursegoules-pont-du-loup-bar-sur-loup-valbonne/) :date: 2021-07
 
-- [Vélo & Gravel : Boucle au départ de Biot, Villeneuve-Loubet, La Colle Sur Loup, Châteauneuf-Grasse, Opio, Valbonne](https://www.cyber-neurones.org/2021/05/velo-gravel-boucle-au-depart-de-biot-villeneuve-loubet-la-colle-sur-loup-chateauneuf-grasse-opio-valbonne/)
+- [Vélo & Gravel : Boucle au départ de Biot, Villeneuve-Loubet, La Colle Sur Loup, Châteauneuf-Grasse, Opio, Valbonne](https://www.cyber-neurones.org/2021/05/velo-gravel-boucle-au-depart-de-biot-villeneuve-loubet-la-colle-sur-loup-chateauneuf-grasse-opio-valbonne/) :date: 2021-05
 
-- [Vélo & Gravel : Col de Vence au départ de Biot](https://www.cyber-neurones.org/2021/05/velo-gravel-col-de-vence-au-depart-de-biot/)
+- [Vélo & Gravel : Col de Vence au départ de Biot](https://www.cyber-neurones.org/2021/05/velo-gravel-col-de-vence-au-depart-de-biot/) :date: 2021-05
 
-- [Vélo Course/Gravel : Mur de Courmettes au départ de la D2210](https://www.cyber-neurones.org/2021/04/velo-course-gravel-mur-de-courmettes-au-depart-de-la-d2210/)
+- [Vélo Course/Gravel : Mur de Courmettes au départ de la D2210](https://www.cyber-neurones.org/2021/04/velo-course-gravel-mur-de-courmettes-au-depart-de-la-d2210/) :date: 2021-04
 
-- [Gravel/Vélo de Course : Départ de :round_pushpin: Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/)
+- [Gravel/Vélo de Course : Départ de :round_pushpin: Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/) :date: 2021-04
 
 <img align="right" src="./img/signal-2022-07-30-09-29-50-991-4.jpg" width="200">
 
-- [Départ de l’office du Tourisme vers le Phare de la Garoupe à :round_pushpin: Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/)
+- [Départ de l’office du Tourisme vers le Phare de la Garoupe à :round_pushpin: Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/) :date: 2021-04
 
-- [Boucle au départ de la place de Biot, puis Saint-Philippe et le pont des Tamarins](https://www.cyber-neurones.org/2021/04/gravel-a-biot-boucle-au-depart-de-la-place-de-biot-puis-saint-philippe-et-le-pont-des-tamarins/)
+- [Boucle au départ de la place de Biot, puis Saint-Philippe et le pont des Tamarins](https://www.cyber-neurones.org/2021/04/gravel-a-biot-boucle-au-depart-de-la-place-de-biot-puis-saint-philippe-et-le-pont-des-tamarins/) :date: 2021-04
 
-- [Vélo : :round_pushpin:  Nice ( Vieux port ) vers :round_pushpin:  Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/)
+- [Vélo : :round_pushpin:  Nice ( Vieux port ) vers :round_pushpin:  Biot par le bord de mer](https://www.cyber-neurones.org/2020/09/velo-nice-vieux-port-vers-biot/) :date: 2020-09
 
-- [Balade en vélo (équivalente à San Rémo) de Nice à Antibes](https://www.cyber-neurones.org/2016/08/balade-en-velo-equivalente-a-san-remo-de-nice-a-antibes/)
+- [Balade en vélo (équivalente à San Rémo) de Nice à Antibes](https://www.cyber-neurones.org/2016/08/balade-en-velo-equivalente-a-san-remo-de-nice-a-antibes/) :date: 2016-08
 
 
 ##### Hautes-Alpes
 
-- [Col du Galibier au départ de Le Verneys](https://www.cyber-neurones.org/2022/08/col-du-galibier-au-depart-de-le-verneys/)
+- [Col du Galibier au départ de Le Verneys](https://www.cyber-neurones.org/2022/08/col-du-galibier-au-depart-de-le-verneys/) :date: 2022-08
 
 
 ##### Tarn
