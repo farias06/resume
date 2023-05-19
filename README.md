@@ -1952,6 +1952,12 @@ Sujets :
 - Classement Général :            952/1753
 - Nombre de participation : 2
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°12
+   -    952  ( - 393SE)
+   - :watch:     51'34''
+   - :round_pushpin:  Cannes
+
 #### PROM Classic :round_pushpin: Nice
 
 - :date:                8 janv. 2012
@@ -1959,6 +1965,12 @@ Sujets :
 - Course, 10 km, :watch:       00:48:39
 - Classement Général :       2501/6182
 - Nombre de participation : 2
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°11
+   - 	2501  ( - 957SE)
+   - :watch:            	50'55''
+   - :round_pushpin:  Nice 
 
 ### 2011
 
@@ -1969,6 +1981,13 @@ Sujets :
 - Course, 42 km, :watch:     04:13:25
 - Classement Général :                  4625/7093
 - Nombre de participation : 3
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°10
+   -            4311 . ( - 1297SE)
+   - :watch:     	4h14'03''
+   - :round_pushpin:  Nice :round_pushpin: Cannes
+
 
 #### 10 km de :round_pushpin:  Grasse
 
