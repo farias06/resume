@@ -2,11 +2,11 @@
 ARIAS FREDERIC
 ==============
 
-Ma "vie publique" en un seul Markdown (version fr) , :construction: en cours de construction. :construction: 
+Ma "vie publique" en un seul Markdown (version fr) , :construction: en cours de construction . :construction: 
 
-Ceci n'est pas un CV car je ne sais pas faire de CV. Je fais tellement de POC avec tellement de techno ...  Ce qui est sûr c'est que ma compétence première est :penguin: Linux et plutôt le coté serveur. Vu que je fais du C on peut le mettre sur le l'IoT sans problème.
+Ceci n'est pas un CV car je ne sais pas faire de CV . Je fais tellement de POC avec tellement de techno  . . .  Ce qui est sûr c'est que ma compétence première est :penguin: Linux et plutôt le coté serveur . Vu que je fais du C on peut le mettre sur le l'IoT sans problème .
 
-Mon but dans un premier temps c'est la migration de mon blog Wordpress sous Hugo, avec au passage le ménage (suppression d'articles). Seuls les articles qui ont un lien dans ce Markdown vont être conservés.
+Mon but dans un premier temps c'est la migration de mon blog Wordpress sous Hugo, avec au passage le ménage (suppression d'articles) . Seuls les articles qui ont un lien dans ce Markdown vont être conservés .
 
 ```mermaid
 sequenceDiagram
@@ -22,7 +22,7 @@ sequenceDiagram
 <img align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="200">
 
 - [Mon blog](www.cyber-neurones.org)
-   - Actuellement mon blog est sur Wordpress (j'ai le nom de domaine cyber-neurones.org depuis que je travaille ...) , j'utilise mon bloc comme "Bloc Note Public" sachant que mon "Bloc Note Privé" c'est [Joplin](https://joplinapp.org/). L'idée est donc d'avoir le même format pour les post à savoir [Markdown](https://fr.wikipedia.org/wiki/Markdown) . Le mieux est donc de migrer vers [Hugo](https://gohugo.io/) . J'ai vu qu'il existait [des softs pour la migration](https://gohugo.io/tools/migrations/#wordpress) . La seule fonctionnalité que je ne veux pas perdre c'est de pouvoir visualiser les GPX de facons dynamique.   
+   - Actuellement mon blog est sur Wordpress (j'ai le nom de domaine cyber-neurones.org depuis que je travaille ...) , j'utilise mon bloc comme "Bloc Note Public" sachant que mon "Bloc Note Privé" c'est [Joplin](https://joplinapp.org/). L'idée est donc d'avoir le même format pour les post à savoir [Markdown](https://fr.wikipedia.org/wiki/Markdown) . Le mieux est donc de migrer vers [Hugo](https://gohugo.io/) . J'ai vu qu'il existait [des softs pour la migration](https://gohugo.io/tools/migrations/#wordpress) . La seule fonctionnalité que je ne veux pas perdre c'est de pouvoir visualiser les GPX de facons dynamique .   
 
 - [Linkedin](http://fr.linkedin.com/in/ariasfrederic)
 
@@ -39,7 +39,7 @@ sequenceDiagram
 
 De Mi-Mai 2001 à aujdourd'hui.
 
-J'ai eu trois type de poste de developpeur sous :penguin: Linux.
+J'ai eu trois type de poste de developpeur sous :penguin: Linux .
 
 ```mermaid
 gantt
@@ -64,7 +64,7 @@ gantt
 
 #### Langage Dev : 
 
-- C (70%) / PHP (20%) / BASH / AEL. 
+- C (70%) / PHP (20%) / BASH / AEL . 
 
 - Protocol XML / JSON / SIP / RTP / Alarm ...
 
@@ -77,9 +77,9 @@ gantt
 - Kali 
 
 - Docker 
-   - Oracle Linux.
-   - RancherOS.
-   - Alpine.
+   - Oracle Linux .
+   - RancherOS .
+   - Alpine .
 
 - Yocto
    - Linphone
@@ -103,7 +103,7 @@ gantt
 
 #### Langage Dev : 
 
-- C (70%) / PHP (20%) / BASH / AEL.
+- C (70%) / PHP (20%) / BASH / AEL .
 
 - Protocol XML / JSON / SIP / RTP / Alarm ...
 
@@ -118,9 +118,9 @@ gantt
 - Docker .
    - Oracle Linux.
    - RancherOS.
-   - Alpine.
+   - Alpine .
 
-- Marathon/Apache Mesos : End of life.
+- Marathon/Apache Mesos : End of life .
   - [Marathon/Mesos : Environnement complet via Docker ( docker-compose )](https://www.cyber-neurones.org/2022/04/marathon-mesos-environnement-complet-via-docker-docker-compose/)
 
 #### Software 
@@ -234,7 +234,7 @@ gantt
 Impossible de lister tous les protocoles et outils ... 
 
 - Langages de Programmation :  C, C++, Perl, PHP, Java (JSB, Servlets), JavaScript, GO LANG, Python, Bash , Perl, Pascal ...
-   - 70% de mes programmes sont fait en C, le Java/Javascript/Pascal je le fais que sous la torture ... et j'aimerai bien faire du RUST. 
+   - 70% de mes programmes sont fait en C, le Java/Javascript/Pascal je le fais que sous la torture ... et j'aimerai bien faire du RUST . 
 
 - Langages de balisage :  XML, HTML, JSON, Markdown ...
 
@@ -276,80 +276,80 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 - PE1800IP / PE1800IP-S / PE1800XS / PE1800HB / PE1800 ( C’est un ensemble de logiciels pour la reception/transmission d’evenement relatif aux alarmes) :
     - XACAPELA (Linux in C): (Alpha release only) Manage client to use text to speech.
-    - XACTIVITY (Linux in C): (Alpha release only) Supervision of process.
-    - XADEMCO685 (Linux in C): Manage the protocol Ademco685 to send event.
-    - XCCMD / XCCMD2 (Linux in C): Manage client for protocol TIP-CMD.
-    - XCEVT (Linux in C) : Manage client for protocol TIP-EVT.
-    - XCEVTONE (Linux in C): Manage client for protocol TIP-EVT.
-    - XCIST (Linux in C):(Alpha release only) Manage client for protocol TIP-IST.
+    - XACTIVITY (Linux in C): (Alpha release only) Supervision of process .
+    - XADEMCO685 (Linux in C): Manage the protocol Ademco685 to send event .
+    - XCCMD / XCCMD2 (Linux in C): Manage client for protocol TIP-CMD .
+    - XCEVT (Linux in C) : Manage client for protocol TIP-EVT .
+    - XCEVTONE (Linux in C): Manage client for protocol TIP-EVT .
+    - XCIST (Linux in C):(Alpha release only) Manage client for protocol TIP-IST .
     - XCMESSAGE (Linux in C): Mange client for protocol Message for SIA Alarm ( Smartphone )
-    - XCONF (Linux in C): Manage configuration.
+    - XCONF (Linux in C): Manage configuration .
     - XCSMS (Linux in C): Manage client on serial port to send SMS ( with Gateway WaveCom of other )
-    - XCSPEECH (Linux in C): Manage client to use text to speech.
-    - XCVAT (Linux in C): Manage PSTN board for protocol SECOM3 and VAT.
+    - XCSPEECH (Linux in C): Manage client to use text to speech .
+    - XCVAT (Linux in C): Manage PSTN board for protocol SECOM3 and VAT .
     - XDEFAULT / XDEFAULT2 / XDEFAULT3 (Linux in C): Manage de default of heartbeat
-    - XEICONTOOLS (Linux in C): (Alpha release only) : Manage PSTN board EICON.
-    - DIALOUTEZ (Linux in C): (Alpha release only) : Manage PSTN board EICON.
-    - XFEP (Linux in C): Manage protocol FEP.
-    - XFRONTEL (Linux in C): (Alpha release only) Manage protocol Frontel.
+    - XEICONTOOLS (Linux in C): (Alpha release only) : Manage PSTN board EICON .
+    - DIALOUTEZ (Linux in C): (Alpha release only) : Manage PSTN board EICON .
+    - XFEP (Linux in C): Manage protocol FEP .
+    - XFRONTEL (Linux in C): (Alpha release only) Manage protocol Frontel .
     - XFRONTELCC (Linux in C): (Alpha release only) Manage protocol CC for Frontel
-    - XFTP (Linux in C): Send file in FTP, SFTP, SCP.
-    - XGTC (Linux in C): Manage all process to send default in syslog.
-    - XHEARTBEAT / XHEARTBEAT2 (Linux in C): Manage protocol for heartbeat.
-    - XIMG (Linux in C): Manage and merde picture.
+    - XFTP (Linux in C): Send file in FTP, SFTP, SCP .
+    - XGTC (Linux in C): Manage all process to send default in syslog .
+    - XHEARTBEAT / XHEARTBEAT2 (Linux in C): Manage protocol for heartbeat .
+    - XIMG (Linux in C): Manage and merde picture .
     - XIP (Linux in C): Manage protocol SECOM3/VAT in TCP/IP
-    - XLOADIP / XLOADIP2 (Linux in C): Test load on IP.
-    - XMAIL (Linux in C): Send mail.
-    - XMQTT (Linux in C): (Alpha release only) Manage MQTT for event.
-    - XNUAGE / XNUAGE2 (Linux in C): Manage protocol for heartbeat.
+    - XLOADIP / XLOADIP2 (Linux in C): Test load on IP .
+    - XMAIL (Linux in C): Send mail .
+    - XMQTT (Linux in C): (Alpha release only) Manage MQTT for event .
+    - XNUAGE / XNUAGE2 (Linux in C): Manage protocol for heartbeat .
     - XODBC (Linux in C): Manage ODBC to Microsoft SQL Server
-    - XOPENSSL (Linux in C): Send SMS with protocol SSL.
-    - XPARTITION (Linux in C): Manage partition.
-    - XPE12 (Linux in C): Manage protocol PE1200.
-    - XPING (Linux in C): Manage internet link.
-    - XPRINT (Linux in C): Send event to printer.
+    - XOPENSSL (Linux in C): Send SMS with protocol SSL .
+    - XPARTITION (Linux in C): Manage partition .
+    - XPE12 (Linux in C): Manage protocol PE1200 .
+    - XPING (Linux in C): Manage internet link .
+    - XPRINT (Linux in C): Send event to printer .
     - XPROTO (Linux in C): Manage protocol for PSTN board (B-channel)
-    - XPURGE (Linux in C): Purge file on server.
-    - XPURGEDATABASE (Linux in C): Purge event on database.
-    - XPUSH (Linux in C): (Alpha release only) Push event on XML/JSON.
-    - XPUSHJSON (Linux in C): (Alpha release only) Push event on XML/JSON.
-    - XREPLIK (Linux in C): Share keys.
-    - XRNIS (Linux in C): Manage server for protocol TIP-CMD and manage PSTN board (D-channel).
-    - XSAS (Linux in C): Manage protocol SAS.
+    - XPURGE (Linux in C): Purge file on server .
+    - XPURGEDATABASE (Linux in C): Purge event on database .
+    - XPUSH (Linux in C): (Alpha release only) Push event on XML/JSON .
+    - XPUSHJSON (Linux in C): (Alpha release only) Push event on XML/JSON .
+    - XREPLIK (Linux in C): Share keys .
+    - XRNIS (Linux in C): Manage server for protocol TIP-CMD and manage PSTN board (D-channel) .
+    - XSAS (Linux in C): Manage protocol SAS .
     - XSECHO / XSECHO2 (Linux in C):(Alpha release only)
-    - XSERIAL (Linux in C): Manage serial port for protocol VAT.
-    - XSEVT (Linux in C): Manage server with protocol TIP-EVT.
-    - XSF1COM (Linux in C): Manage protocol F1COM to send event.
-    - XSIADC09 (Linux in C): Manage protocol SIA DC 09 to send alarm.
-    - XSIADC09GRIP (Linux in C): Manage protocol SIA DC 09 to receive alarm (in TCP/IP).
-    - XSIAIP (Linux in C): Manage protocol SIA DC 03 to receive alarm (in TCP/IP).
-    - XSIAUDP (Linux in C): Manage protocol SIA DC 09 to receive alarm (in UDP/IP).
-    - XSIP (Linux in C): (Alpha release only)  Manage protocol SIP.
-    - XSIST (Linux in C): (Alpha release only) Manage server with protocol TIP-IST.
-    - XSMS (Linux in C): Send SMS with lot of providers (Orange, Vodafone, Ocito, Text Anywhere, Pswin, TMobil, Mblox, …).
-    - XSMSC (Linux in C): Send SMS with protocol UCP.
-    - XSURGARD (Linux in C): Manage protocol MLR2 to send event.
-    - XSVAT (Linux in C): Manage server with protocol TIP-VAT.
-    - XSYNC / XSYNC2 (Linux in C): Sync of event.
-    - XTICTAC (Linux in C):  Manage time and freeze of time.
-    - XTRANSVEIL (Linux in C): (Alpha release only) Manage protocol Transveil.
+    - XSERIAL (Linux in C): Manage serial port for protocol VAT .
+    - XSEVT (Linux in C): Manage server with protocol TIP-EVT .
+    - XSF1COM (Linux in C): Manage protocol F1COM to send event .
+    - XSIADC09 (Linux in C): Manage protocol SIA DC 09 to send alarm .
+    - XSIADC09GRIP (Linux in C): Manage protocol SIA DC 09 to receive alarm (in TCP/IP) .
+    - XSIAIP (Linux in C): Manage protocol SIA DC 03 to receive alarm (in TCP/IP) .
+    - XSIAUDP (Linux in C): Manage protocol SIA DC 09 to receive alarm (in UDP/IP) .
+    - XSIP (Linux in C): (Alpha release only)  Manage protocol SIP .
+    - XSIST (Linux in C): (Alpha release only) Manage server with protocol TIP-IST .
+    - XSMS (Linux in C): Send SMS with lot of providers (Orange, Vodafone, Ocito, Text Anywhere, Pswin, TMobil, Mblox, …) .
+    - XSMSC (Linux in C): Send SMS with protocol UCP .
+    - XSURGARD (Linux in C): Manage protocol MLR2 to send event .
+    - XSVAT (Linux in C): Manage server with protocol TIP-VAT .
+    - XSYNC / XSYNC2 (Linux in C): Sync of event .
+    - XTICTAC (Linux in C):  Manage time and freeze of time .
+    - XTRANSVEIL (Linux in C): (Alpha release only) Manage protocol Transveil .
     - XVEBONIP (Linux in C): (Alpha release only) Manage protocol Vebon
-    - XVOIP (Linux in C): (Alpha release only) Manage Voice Over IP.
-    - XWHATSUP (Linux in C):  (Alpha release only) Supervision of process.
+    - XVOIP (Linux in C): (Alpha release only) Manage Voice Over IP .
+    - XWHATSUP (Linux in C):  (Alpha release only) Supervision of process .
     - …
-    - XLOFT (Linux in PHP): GUI and WebService.
+    - XLOFT (Linux in PHP): GUI and WebService .
 
 ## RIGTHVISION – :round_pushpin: Mouans Sartoux 
 
 - De Mi-Janvier 2001 à Mi-Mai 2001
 
-- Righvision est une société qui développe des Appliances ( EyeBox ) sous Linux. http://www.rightvision.com/
+- Righvision est une société qui développe des Appliances ( EyeBox ) sous Linux . http://www.rightvision.com/
 
-- Développeur sous Windows et sous Linux.
+- Développeur sous Windows et sous Linux .
 
-- Création d’une interface en PHP pour la gestion de MySQL.
-- Mise en place de Bench en Perl et optimisation sur MySQL sous Linux.
-- Création d’une interface générique et développement d’un bureau virtuel en Flash5.
+- Création d’une interface en PHP pour la gestion de MySQL .
+- Mise en place de Bench en Perl et optimisation sur MySQL sous Linux .
+- Création d’une interface générique et développement d’un bureau virtuel en Flash5 .
 
 - Environnement : :penguin: Linux( RedHat ), Windows, Perl, PHP, Apache, OpenlDAP, CVS, MySQL, Flash5( Action Script )
 
@@ -357,12 +357,12 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 - De Mi-Avril 2000 à Mi-Janvier 2001
 
-- Cyberworkers est une société qui développe une plate-forme destinée au télétravail pour les indépendants. http://www.cyberworkers.com/ Développeur, concepteur et DBA de 80% de la plate-forme sous LINUX :
+- Cyberworkers est une société qui développe une plate-forme destinée au télétravail pour les indépendants . http://www.cyberworkers.com/ Développeur, concepteur et DBA de 80% de la plate-forme sous LINUX :
 
 - Création de pages dynamiques : Utilisation de PHP et SQL :
    - MySQL – Apache .
-   - PostgreSQL – Apache.
-   -  OpenLDAP – Apache.
+   - PostgreSQL – Apache .
+   -  OpenLDAP – Apache .
 
 - Création de requêtes complexes sous PostgreSQL : Utilisation de PL/SQL & PL/Perl
 
@@ -372,7 +372,7 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 - Création du MLD ( Modèle Logique des Données ) à l’aide des méthodes MERISE et UML (120 tables).
 
-- Rédaction de la documentation.
+- Rédaction de la documentation .
 
 - Environnement : :penguin: Linux( Debian, SuSE ), Perl, PHP, JavaScript, C, Java (JSP, servlets), Apache, Merise, UML, PL/SQL, Tomcat
 
@@ -385,9 +385,9 @@ Systèmes :penguin: Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto),
 
 Dans le détail des OS utilisés pour le dev dans l’ordre d’apparition :
 
-- Redhat 5.2 ( la date de release est : 2 novembre 1998 ) : A l’université de Toulouse.
-- SuSE & Mandrake : Au Centre Océanographique de Marseille.
-- Debian ? & NetBSD : Chez Cyber-workers / Alias .
+- Redhat 5.2 ( la date de release est : 2 novembre 1998 ) : A l’université de Toulouse .
+- SuSE & Mandrake : Au Centre Océanographique de Marseille .
+- Debian ? & NetBSD : Chez Cyber-workers / Alias  .
 - Redhat ? : Chez Rightvision / Altior .
 - Redhat 7.2 ( date release : 22 octobre 2001 ) & Unix SCO version 5 : Chez Honeywell / SeCOM
 - Redhat 8.0 ( date release : 30 septembre 2002 )  : Chez Honeywell / SeCOM
@@ -526,11 +526,11 @@ Sujets :
 
 - [ITRA](https://itra.run/RunnerSpace/ARIAS.Frederic/1260843) : Profil public. :unlock:
 
-- [J'aime courrir](https://www.jaimecourir.fr/) : Profil privé. :lock:
+- [J'aime courrir](https://www.jaimecourir.fr/) : Profil privé . :lock:
 
-- [BeTrail](https://www.betrail.run/runner/arias.frederic/overview) : Profil public. :unlock:
+- [BeTrail](https://www.betrail.run/runner/arias.frederic/overview) : Profil public . :unlock:
 
-- [kikourou](http://www.kikourou.net/) : Profil public. :unlock:
+- [kikourou](http://www.kikourou.net/) : Profil public . :unlock:
 
 ### 2023
 
@@ -553,7 +553,7 @@ Sujets :
 - :runner: Course, 21 km, 90m :mountain: D+, :watch: 01:51:30.
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 1390. (1149M - 133M2) 
+   - 1390 (1149M - 133M2) 
    - :watch: 1h51'28'' 
    - :round_pushpin:  Nice 
 
@@ -576,7 +576,7 @@ Sujets :
 - :runner: Trail, 46 km, 2690m :mountain: D+, :watch: 07:31:53.
 
 - :triangular_flag_on_post: :fr: FFA : 
-     - 746. (658M - 118M2) 
+     - 746 (658M - 118M2) 
      - :watch: 7h31'40''
      -   :round_pushpin: Bedoin
 
@@ -595,7 +595,7 @@ Sujets :
 - :runner: Trail, 16 km, 1057m :mountain: D+, 02:16:15
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 52. (49M - 7M2) 
+   - 52 (49M - 7M2) 
    - 2h16'23''
 
 #### Trаіl dеs Сrêtеs de :round_pushpin: Gréolières-les-neiges 
@@ -617,7 +617,7 @@ Sujets :
 - :runner: Trail, 26 km, 686 m :mountain: D+, 02:42:48
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 154. (135M - 18M2) 
+   - 154 (135M - 18M2) 
    -:watch:  2h42'50''
 
 ### 2022
@@ -631,7 +631,7 @@ Sujets :
 - :runner: Cross, 11 km, 296 m :mountain: D+, 00:59:30
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 51. (46M - 13M2) 
+   - 51 (46M - 13M2) 
    - :watch: 59'31''
 
 #### Courir pour une fleur à :round_pushpin: Antibes 
@@ -643,7 +643,7 @@ Sujets :
 - :runner: Course, 10 km, 109 m :mountain: D+, 00:48:27
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 312. (267M - 38M2) 
+   - 312 (267M - 38M2) 
    - :watch: 48'55'' (48'19'')
 
 ####  Trail Per Cami : Parcours découverte de 13 km
@@ -653,7 +653,7 @@ Sujets :
 - :runner: Tail, 13 km, 1043 m :mountain: D+, :watch: 02:19:12
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 32. (28M - 7M2) 
+   - 32 (28M - 7M2) 
    - :watch: 2h19'13''
 
 #### Trail Mounte Cala à :round_pushpin: Gréolières-les-Neiges
@@ -671,7 +671,7 @@ Sujets :
 - :runner: Trail, 42 km, 2168 m :mountain: D+, :watch: 07:30:11
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 197. (168M - 24M2) 
+   - 197 (168M - 24M2) 
    - :watch: 7h30'24'' 
 
 #### Trail de Rimplas
@@ -681,7 +681,7 @@ Sujets :
 - :runner: Trail, 20 km, 1669 m :mountain: D+, :watch: 04:18:29
 
 - :triangular_flag_on_post: :fr: FFA : 
-    - 31. (25M - 4M2) 
+    - 31 (25M - 4M2) 
     - :watch: 4h18'28''
 
 #### Trail de :round_pushpin: Biot
@@ -699,7 +699,7 @@ Sujets :
 - :runner: Course, 10 km, 205 m :mountain: D+, :watch: 00:53:19
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 132. (115M - 24M2)  
+   - 132 (115M - 24M2)  
    - :watch: 53'21''
 
 #### Trail des merveilles à :round_pushpin: Breil-sur-roya
@@ -709,7 +709,7 @@ Sujets :
 - :runner: Trail, 33 km, 2068 m :mountain: D+, :watch: 05:29:01
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 96. (87M - 15M2) 
+   - 96 (87M - 15M2) 
    - :watch: 5h29'16''
 
 ### 2021 
@@ -717,7 +717,7 @@ Sujets :
 #### Cross Amnesty à :round_pushpin: Valbonne
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 116. (89M - 15M2) 
+   - 116 (89M - 15M2) 
    - :watch:  1h15'53''
 
 #### Trail de l'Ours à :round_pushpin: Levens
@@ -727,7 +727,7 @@ Sujets :
 - :runner: Trail, 30 km, 2062 m :mountain: D+, :watch: 05:39:34
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 146. (131M - 14M2) 
+   - 146 (131M - 14M2) 
    - :watch: 5h39'42'' (5h39'31'')
 
 #### Grasse Running Days 2021 : Trail de 24 km
@@ -739,7 +739,7 @@ Sujets :
 - :runner: Trail, 24 km, 1181 m :mountain: D+, :watch: 03:15:33
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 117. (110M - 22M2) 
+   - 117 (110M - 22M2) 
    - :watch: 3h15'55''
 
 #### Semi-marathon de :round_pushpin: Nice
@@ -749,7 +749,7 @@ Sujets :
 - :runner: Course, 21 km, 166 m :mountain: D+, :watch: 01:50:13
 
 - :triangular_flag_on_post: :fr: FFA :   
-   - 519. (460M - 66M2) 
+   - 519 (460M - 66M2) 
    - :watch: 1h51'55'' (1h50'13'')
 
 #### Urban Trail de :round_pushpin: Cannes 
@@ -759,7 +759,7 @@ Sujets :
 - :runner: Trail, 27 km, 758 m :mountain: D+,  :watch: 03:09:51
 
 - :triangular_flag_on_post: :fr: FFA :   
-    - 130. (109M - 24M2) 
+    - 130 (109M - 24M2) 
     - :watch: 3h09'50''
 
 #### Eco-Trail de :round_pushpin: Carros
@@ -769,7 +769,7 @@ Sujets :
 - :runner: Trail, 8 km, 516 m :mountain: D+, :watch: 01:06:26
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 96. (80M - 14M2) 
+   - 96 (80M - 14M2) 
    - :watch: 1h06'24''
 
 #### Calvaire Antibois Connecté à :round_pushpin: Antibes
@@ -787,7 +787,7 @@ Sujets :
 - :runner: Trail, 20 km, 870 m :mountain: D+, :watch: 02:34:52
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 86. (79M - 13M2) 
+   - 86 (79M - 13M2) 
    - :watch: 2h34'51''
 
 ####  UTCAM MERCANTOUR 45 km
@@ -799,7 +799,7 @@ Sujets :
 - :runner: Trail, 45 km, 3244 m :mountain: D+, :watch: 10:33:19
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 264. (220M - 30M2) 
+   - 264 (220M - 30M2) 
    - :watch: 10h33'09''
 
 - :triangular_flag_on_post: :star: ITRA : 
@@ -856,7 +856,7 @@ Sujets :
 - :runner: Course, 21 km, :watch: 01:57:15
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 530. (467M - 199V1) 
+   - 530 . (467M - 199V1) 
    - :watch: 1h57'56'' (1h57'09'')
 
 #### Trail de :round_pushpin: Tourrettes-sur-Loup 
@@ -908,7 +908,7 @@ Sujets :
     - :black_circle: iTRA Score : 461 
     - :black_circle: iTRA Points : 2
     - :black_circle: Moutain Points : 8
-    - :black_circle:  :checkered_flag: Finisher Level : 310.
+    - :black_circle:  :checkered_flag: Finisher Level : 310 .
 
 #### Trail de :round_pushpin: Valberg
 
@@ -936,7 +936,7 @@ Sujets :
     - :black_circle:  iTRA Score 371 
     - :black_circle: iTRA Points : 2
     - :black_circle: Moutain Points : 6
-    - :black_circle:  :checkered_flag: Finisher Level : 300.
+    - :black_circle:  :checkered_flag: Finisher Level : 300 .
 
 #### Jeux de Sophia
 
@@ -982,7 +982,7 @@ Sujets :
     - :black_circle:  iTRA Score : 298 
     - :black_circle:  iTRA Points : 2
     - :black_circle:  Moutain Points : 4 
-    - :black_circle:  :checkered_flag: Finisher Level : 310.
+    - :black_circle:  :checkered_flag: Finisher Level : 310 .
 
 
 #### 16 ème CO’Tour de Sophia 
@@ -1170,6 +1170,10 @@ Sujets :
 - Trail, 12 km,  :watch:                  1:12:47
 - Classement général :            67/191
 
+##### Course d'orientation
+
+- :watch:  	1:37:00
+
 
 #### Semi-marathon de :round_pushpin: Nice
 
@@ -1251,7 +1255,7 @@ Sujets :
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/11/lalpin-trail-de-pichauris-edition-elite-2017/)
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 290. (257M - 111MA) 
+    - 290 . (257M - 111MA) 
     - :watch: 5h32'44'' 
     - :round_pushpin:  Allauch
 
@@ -1296,6 +1300,10 @@ Sujets :
 
 - :date:        1 juin 2017
 - Cross, 9 km,  :watch:       48:51
+
+##### Course d'orientation
+
+- :watch: 1:57:00
 
 
 #### Lachens-mer, randonnée en :mountain_biking_man: VTT
@@ -1361,7 +1369,7 @@ Sujets :
 - :runner: Trail
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 210. (167M - 63V1) 
+    - 210 . (167M - 63V1) 
     - :watch: 3h02'42'' 
     - :round_pushpin: Bormes Les Mimosas .
 
@@ -1528,7 +1536,7 @@ Sujets :
 
 - :runner: Cross
 
-- :triangular_flag_on_post: :fr: FFA : 130. (78MA) :watch: 42'23'' :round_pushpin: Cannes
+- :triangular_flag_on_post: :fr: FFA : 130 . (78MA) :watch: 42'23'' :round_pushpin: Cannes
 
 #### Marathon des Alpes-Maritimes
 
@@ -1582,7 +1590,7 @@ Sujets :
 
 - :runner: Trail 
 
-- :triangular_flag_on_post: :fr: FFA : 120. (103M - 22MA) :watch: 3h17'03'' :round_pushpin:  Saint Martin Vesubie
+- :triangular_flag_on_post: :fr: FFA : 120 . (103M - 22MA) :watch: 3h17'03'' :round_pushpin:  Saint Martin Vesubie
 
 #### Les foulées Biotoises
 
@@ -1590,7 +1598,7 @@ Sujets :
 
 - :runner: Course 
 
-- :triangular_flag_on_post: :fr: FFA : 120. (106M - 33MA) :watch: 43'28'' :round_pushpin:  Biot
+- :triangular_flag_on_post: :fr: FFA : 120 . (106M - 33MA) :watch: 43'28'' :round_pushpin:  Biot
 
 
 #### Holi Run à :round_pushpin: Villeneuve-Loubet
@@ -1625,6 +1633,10 @@ Sujets :
 - Cross, 9 km,  :watch:                  47:13
 - Classement général :            95/242
 
+##### Course d'orientation
+
+- :watch: 1:46:33
+- Classement général :  86/120
 
 #### Semi-marathon de Nice
 
@@ -1772,7 +1784,7 @@ Sujets :
 - Course, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 250. (215M – 91SE)  
+   - 250 . (215M – 91SE)  
    - :watch: 1h13’25 
    - :round_pushpin:  Vence  
 
@@ -1966,6 +1978,12 @@ Sujets :
 - Classement Général :   493/1562
 - Nombre de participation : 3
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°9
+   -           	494. ( - 205SE)
+   - :watch:     44'47''
+   - :round_pushpin:  Grasse
+
 
 #### Courir pour une fleur , version 10 km à :round_pushpin: Antibes
 
@@ -1991,6 +2009,11 @@ Sujets :
 - Classement Général :       480/1039
 - Nombre de participation : 2
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°8
+   -    	1646. ( - 624SE)
+   - :watch:                            	55'51''
+   - :round_pushpin:  Menton
 
 #### Semi-marathon de :round_pushpin: Nice
 
@@ -2000,6 +2023,11 @@ Sujets :
 - Classement Général :   1651/3239
 - Nombre de participation : 2
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°7
+   -    1646 ( - 624SE)
+   - :watch:                    	1h54'01''
+   - :round_pushpin:  Nice
 
 #### PROM Classic :round_pushpin: Nice
 
@@ -2019,6 +2047,13 @@ Sujets :
 - Classement Général :  117/393
 - Nombre de participation : 1
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°6
+   -   	117 (59SE)
+   - :watch:            	40'59''
+   - :round_pushpin:  Cannes
+
+
 #### 10 km de :round_pushpin: Grasse
 
 - :date:   28 nov. 2010
@@ -2026,6 +2061,13 @@ Sujets :
 - Course, 10 km, :watch:          00:47:05
 - Classement Général :            601/1569
 - Nombre de participation : 2
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°5
+   -   	601 ( - 239SE)
+   - :watch:           	47'05''
+   - :round_pushpin:  Grasse
+
 
 #### Marathon des Alpes-Maritimes :round_pushpin: Nice
 
@@ -2052,6 +2094,12 @@ Sujets :
 - Course, 10 km, :watch:            03:42:59
 - Classement Général :       2971/7842
 - Nombre de participation : 1
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°4
+   -    2984 ( - 1096SE)
+   - :watch:            3h44'41''
+   - :round_pushpin:  Cannes
 
 #### Courir pour une fleur, version 10 km à :round_pushpin: Antibes
 
@@ -2088,6 +2136,13 @@ Sujets :
 - Classement Général :   983/1863
 - Nombre de participation : 1
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°3
+   - 983 ( - 345SE)
+   - :watch:    50'07''
+   - :round_pushpin: Grasse
+
+
 ### 2007
 
 ### 2006
@@ -2104,6 +2159,13 @@ Sujets :
 - Classement Général : 7588/11718
 - Nombre de participation : 2
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°2
+   - 7588 ( - 3118SE)
+   - :watch :   	2h01'10''
+   - :round_pushpin: Marseille
+
+
 #### Semi-marathon de :round_pushpin: Nice
 
 - :date: 25 avr. 2004
@@ -2111,6 +2173,12 @@ Sujets :
 - Course, 21 km, :watch: 02:04:40
 - Classement Général : 1839/2275
 - Nombre de participation : 1
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°1
+   - 1839 ( - 824SE)
+   - :watch : 	2h04'40''
+   - :round_pushpin: Nice
 
 ### 2003
 
