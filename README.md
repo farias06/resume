@@ -2078,10 +2078,16 @@ Installation / Administration (sous Debian).
 
 #### [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
 
-Installation sur serveur DELL PowerEdge T110 II avec 32 Go.
+- Installation sur serveur DELL PowerEdge T110 II :
+   - 32 Go.
+   - 4 CPUs x Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz
+   - 2 DataStore de 1 To. 
 
 J'ai migrer de Raspberry vers ESX.
 
+##### Update 
+
+- Version : 6.7.0 Update 3 (Build 14320388)
 
 
 #### [IPTable](https://doc.ubuntu-fr.org/iptables)
