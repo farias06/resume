@@ -2043,6 +2043,7 @@ Sujets :
 #### Spartan Race Beast : au circuit Paul Ricard.
 
 - :date:   11 octobre 2014
+- TRaining IMPulse : 323
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/10/spartan-race-beast-au-circuit-paul-ricard/)
 - Course d'obstacles, 21 km, 40 obstables .
 - Classement Général :   444/935
@@ -2050,6 +2051,8 @@ Sujets :
 
 #### Courrir pour une fleur, le semi-marathon à :round_pushpin: Antibes
 
+- :date: 2014-10-05
+- TRaining IMPulse : 272
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/10/courir-pour-une-fleur-le-semi-marathon-2/)
 
 - Course, 21 km,
@@ -2062,15 +2065,10 @@ Sujets :
 
 #### Corrida de :round_pushpin: Valbonne
 
+- :date: 2014-08-15
+- TRaining IMPulse : 101
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/08/corrida-de-valbonne/)
-
-- :triangular_flag_on_post: :fr: FFA :  
-   - 125. (109M – 51SE)  
-   - :watch: 38’06 
-   - :round_pushpin:  Valbonne  
-
-- Course, 7 km
-
+- Course, 7,2 km , 159m  D+ ,
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°26
@@ -2078,12 +2076,14 @@ Sujets :
    - :watch: 38'06''
    - :round_pushpin: Valbonne
 
-
 #### Foulée Biotoise à :round_pushpin: Biot 
+
+- :date: 2014-07-06
+- TRaining IMPulse : 130
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/07/ma-course-les-foulees-biotoises/)
 
-- Course,
+- Course, 8,1 km , 145 m D+ , :watch: 41m11
 
 #### Jeux de Sophia 2014 #J2S
 
@@ -2102,9 +2102,12 @@ Sujets :
 
 #### Trail de :round_pushpin: Grasse : version courte 17 km.
 
+- :date: 2014-06-01
+- TRaining IMPulse : 265
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/06/trail-de-grasse-version-courte-17-km/)
 
-- Trail, 17 km, 
+- Trail, 17,47 km, 754m D+ ,  
 
 - :triangular_flag_on_post: :fr: FFA : 
    - Course n°25
@@ -2115,16 +2118,22 @@ Sujets :
 
 #### Ronde des Plages à :round_pushpin: Menton
 
+- :date: 2014-05-18
+- TRaining IMPulse : 166
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/05/ronde-des-plages-a-menton-2/)
 
-- Course, 10 km, 
+- Course, 10 km, 33 m D+, 
 
 
 #### Ascension du Col de :round_pushpin: Vence
 
+- :date: 2014-05-04
+- TRaining IMPulse : 167
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/05/ascension-du-col-de-vence-2/)
 
-- Course, 
+- Course, 11,23 km , 655 m D+, 
 
 - :triangular_flag_on_post: :fr: FFA : 
    - Course n°24
@@ -2134,6 +2143,8 @@ Sujets :
 
 #### Derby de la Meije :+1:
 
+- :date: 2014-03-04
+- TRaining IMPulse :  54
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/04/derby-de-la-meije/)
 
 - :link: [Statistique : Derby de la Meije](https://www.cyber-neurones.org/2014/03/statistique-derby-de-la-meije/)
@@ -2142,15 +2153,21 @@ Sujets :
 
 #### Trail d'Eze
 
+- :date: 2014-03-09
+- TRaining IMPulse : 402
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/03/trail-deze/)
 
-- Trail, 18 km
+- Trail, 18 km, 890m D+ , 
 
-#### Rock’n Roll Nice 10 Miles du CARNAVAL 2014
+#### Rock’n Roll :round_pushpin: Nice 10 Miles du CARNAVAL 2014
+
+- :date: 2014-02-16
+- TRaining IMPulse : 256
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/02/rockn-roll-nice-10-miles-du-carnaval-2014/)
 
-- Course, 10 Miles, 
+- Course, 10 Miles, 83 m D+,
 
 - :triangular_flag_on_post: :fr: FFA : 
    - Course n°23
@@ -2158,11 +2175,13 @@ Sujets :
    - :watch: 1h22’50 
    - :round_pushpin:  Nice  
 
-#### PROM Classic 2014 à Nice
+#### PROM Classic 2014 à :round_pushpin: Nice
 
+- :date: 2014-01-05
+- TRaining IMPulse : 182
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/01/prom-classic-2014/)
 
-- Course, 10 km, 
+- Course, 10 km, 25m D+,
 
 - :triangular_flag_on_post: :fr: FFA : 
    - Course n°22
@@ -2175,6 +2194,7 @@ Sujets :
 #### Marathon des Alpes Maritimes.
 
 - :date: 10 novembre 2013
+- TRaining IMPulse : 512 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2013/11/ma-course-marathon-des-alpes-maritimes-2013/)
 
@@ -2193,24 +2213,31 @@ Sujets :
 #### La boucle de Breil sur Roya.
 
 - :date: 27 octobre 2013
+- TRaining IMPulse : 228 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2013/10/boucle-de-breil-sur-roya/)
 
-- Trail,
+- Trail, 13,44 km , 333m D+
 
 #### Courir pour une fleur, Semi-marathon d’Antibes.
 
 - :date: 6 octobre 2013
-
+- TRaining IMPulse : 314
 - :link: [Wordpress](https://www.cyber-neurones.org/2013/10/courir-pour-une-fleur-le-semi-marathon/)
 
-#### Les foulées biotoises.
+- Course, 21,38 km , 190m D+, :watch: 1h54m40
+
+#### Les foulées biotoises à :round_pushpin: Biot 
 
 - :date: 7 juillet 2013 
+- TRaining IMPulse : 136
+
+- Course, 7,33 km , 138m D+, :watch: 43m19
 
 #### Open Kilomètre vertical.
 
 - :date: 29 juin 2013 
+- TRaining IMPulse : 239
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°20
@@ -2225,10 +2252,10 @@ Sujets :
 - Cross, 9km,  :watch:   00:45:56
 - Classement général : 46/104
 
-#### La ronde des plages.
+#### La ronde des plages à :round_pushpin:  Menton 
 
 - :date: 19 mai 2013
-
+- TRaining IMPulse : 161
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°19
    - 461 ( - 185SE)
@@ -2238,7 +2265,8 @@ Sujets :
 #### Ascension du Col de Vence.
 
 - :date: 5 mai 2013
-
+- TRaining IMPulse : 223
+- Course, 11,21 km, 646m D+ ,
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°18
    -  365 ( - 91SE)
@@ -2248,7 +2276,7 @@ Sujets :
 ####  Marathon du Lac d’Annecy.
 
 - :date: 21 avril 2013 
-
+- TRaining IMPulse : 557
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°17
    -  2282 ( - 596SE)
@@ -2317,9 +2345,10 @@ Sujets :
 #### Ascension du Mont Chauve
 
 - :date:                  27 mai 2012
+- TRaining IMPulse : 276
 - :link: [Wordpress](https://www.cyber-neurones.org/2012/05/ascension-du-mont-chauve/)
 - :heavy_check_mark: Dossard  : 224
-- Course, 12 km, :watch:                 01:31:13
+- Course, 12 km , 653 m D+ ,  :watch:     01:31:13
 - Classement Général :          121/167
 - Nombre de participation : 1
 
