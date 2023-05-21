@@ -534,6 +534,20 @@ Sujets :
 
 ### 2023
 
+#### Marathon de la Vésubie
+
+- :date: 2023-05-20
+- Dossard : 404 
+- TRaining IMPulse : 684
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/trail-marathon-de-la-vesubie-edition-2023/)
+
+- :runner: Trail, 41 km, 2400m :mountain: D+, :watch: 07:05:15  :round_pushpin: Roquebilière  
+
+- :triangular_flag_on_post: :fr: FFA :
+
+- :triangular_flag_on_post: :star: ITRA :
+
+
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
 <img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg">
