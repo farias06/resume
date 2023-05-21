@@ -536,6 +536,8 @@ Sujets :
 
 #### Marathon de la Vésubie
 
+<img align="right" src="./img/signal-2023-05-20-12-45-13-727.jpg">
+
 - :date: 2023-05-20
 - Dossard : 404 
 - TRaining IMPulse : 684
@@ -588,6 +590,8 @@ Sujets :
 - :runner: Trail, 13 km, 670m :mountain: D+, :watch: 01:38:34.
 
 #### Ergysport Trail du Ventoux : Origine 46 km 
+
+<img align="right" src="./img/20230312_111413.jpg">
 
 - :date: 2023-03-12
 - TRaining IMPulse : 827
