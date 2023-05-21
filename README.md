@@ -530,7 +530,7 @@ Sujets :
 
 - [BeTrail](https://www.betrail.run/runner/arias.frederic/overview) : Profil public . :unlock:
 
-- [kikourou](http://www.kikourou.net/) : Profil public . :unlock:
+- [kikourou](http://www.kikourou.net/) : Profil public : farias . :unlock:
 
 ### 2023
 
@@ -544,9 +544,12 @@ Sujets :
 - :runner: Trail, 41 km, 2400m :mountain: D+, :watch: 07:05:15  :round_pushpin: Roquebilière  
 
 - :triangular_flag_on_post: :fr: FFA :
+   - wait ...
 
 - :triangular_flag_on_post: :star: ITRA :
+   - wait ...
 
+- Nombre de participation : 1 (2eme Edition)
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
@@ -558,6 +561,8 @@ Sujets :
 
 - :bicyclist: Gravel, 114 km, 3300 m :mountain: D+, :watch: 10:15:47. :round_pushpin: Bédouin
 
+- Nombre de participation : 1 (1er Edition)
+
 #### Semi-marathon de :round_pushpin: Nice 
 
 - :date: 2023-04-30
@@ -567,9 +572,10 @@ Sujets :
 - :runner: Course, 21 km, 90m :mountain: D+, :watch: 01:51:30.
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 1390 (1149M - 133M2) 
-   - :watch: 1h51'28'' 
-   - :round_pushpin:  Nice 
+     - Course n°88
+     - 1390 (1149M - 133M2) 
+     - :watch: 1h51'28'' 
+     - :round_pushpin:  Nice 
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
@@ -590,6 +596,7 @@ Sujets :
 - :runner: Trail, 46 km, 2690m :mountain: D+, :watch: 07:31:53.
 
 - :triangular_flag_on_post: :fr: FFA : 
+     - Course n°87
      - 746 (658M - 118M2) 
      - :watch: 7h31'40''
      -   :round_pushpin: Bedoin
@@ -609,8 +616,10 @@ Sujets :
 - :runner: Trail, 16 km, 1057m :mountain: D+, 02:16:15
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 52 (49M - 7M2) 
-   - 2h16'23''
+    - Course n°86
+    - 52 (49M - 7M2) 
+    - 2h16'23''
+    - :round_pushpin: Breil-Sur-Roya
 
 #### Trаіl dеs Сrêtеs de :round_pushpin: Gréolières-les-neiges 
 
@@ -630,9 +639,11 @@ Sujets :
 
 - :runner: Trail, 26 km, 686 m :mountain: D+, 02:42:48
 
-- :triangular_flag_on_post: :fr: FFA : 
-   - 154 (135M - 18M2) 
-   -:watch:  2h42'50''
+- :triangular_flag_on_post: :fr: FFA :
+    - Course n°85
+    - 154 (135M - 18M2) 
+    -:watch:  2h42'50''
+    - :round_pushpin: Cannes
 
 ### 2022
 
@@ -645,8 +656,10 @@ Sujets :
 - :runner: Cross, 11 km, 296 m :mountain: D+, 00:59:30
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 51 (46M - 13M2) 
-   - :watch: 59'31''
+    - Course n°84
+    - 51 (46M - 13M2) 
+    - :watch: 59'31''
+    - :round_pushpin: Valbonne
 
 #### Courir pour une fleur à :round_pushpin: Antibes 
 
@@ -657,8 +670,10 @@ Sujets :
 - :runner: Course, 10 km, 109 m :mountain: D+, 00:48:27
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 312 (267M - 38M2) 
-   - :watch: 48'55'' (48'19'')
+    - Course n°83
+    - 312 (267M - 38M2) 
+    - :watch: 48'55'' (48'19'')
+   - :round_pushpin: Antibes
 
 ####  Trail Per Cami : Parcours découverte de 13 km
 
@@ -667,8 +682,10 @@ Sujets :
 - :runner: Tail, 13 km, 1043 m :mountain: D+, :watch: 02:19:12
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 32 (28M - 7M2) 
-   - :watch: 2h19'13''
+    - Course n°82
+    - 32 (28M - 7M2) 
+    - :watch: 2h19'13''
+    - :round_pushpin: Belvedere
 
 #### Trail Mounte Cala à :round_pushpin: Gréolières-les-Neiges
 
@@ -685,8 +702,10 @@ Sujets :
 - :runner: Trail, 42 km, 2168 m :mountain: D+, :watch: 07:30:11
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 197 (168M - 24M2) 
-   - :watch: 7h30'24'' 
+    - Course n°81
+    - 197 (168M - 24M2) 
+    - :watch: 7h30'24'' 
+    - :round_pushpin: Gigondas
 
 #### Trail de Rimplas
 
@@ -695,8 +714,10 @@ Sujets :
 - :runner: Trail, 20 km, 1669 m :mountain: D+, :watch: 04:18:29
 
 - :triangular_flag_on_post: :fr: FFA : 
+    - Course n°80
     - 31 (25M - 4M2) 
     - :watch: 4h18'28''
+    - :round_pushpin: Rimplas
 
 #### Trail de :round_pushpin: Biot
 
@@ -713,8 +734,10 @@ Sujets :
 - :runner: Course, 10 km, 205 m :mountain: D+, :watch: 00:53:19
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 132 (115M - 24M2)  
-   - :watch: 53'21''
+    - Course n°79
+    - 132 (115M - 24M2)  
+    - :watch: 53'21''
+    - :round_pushpin: Antibes
 
 #### Trail des merveilles à :round_pushpin: Breil-sur-roya
 
@@ -723,16 +746,20 @@ Sujets :
 - :runner: Trail, 33 km, 2068 m :mountain: D+, :watch: 05:29:01
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 96 (87M - 15M2) 
-   - :watch: 5h29'16''
+    - Course n°78
+    - 96 (87M - 15M2) 
+    - :watch: 5h29'16''
+    - :round_pushpin:  Breil-sur-roya
 
 ### 2021 
 
 #### Cross Amnesty à :round_pushpin: Valbonne
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 116 (89M - 15M2) 
-   - :watch:  1h15'53''
+    - Course n°77
+    - 116 (89M - 15M2) 
+    - :watch:  1h15'53''
+    - :round_pushpin: Valbonne
 
 #### Trail de l'Ours à :round_pushpin: Levens
 
@@ -741,8 +768,10 @@ Sujets :
 - :runner: Trail, 30 km, 2062 m :mountain: D+, :watch: 05:39:34
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 146 (131M - 14M2) 
-   - :watch: 5h39'42'' (5h39'31'')
+    - Course n°76
+    - 146 (131M - 14M2) 
+    - :watch: 5h39'42'' (5h39'31'')
+    - :round_pushpin:  Levens
 
 #### Grasse Running Days 2021 : Trail de 24 km
 
@@ -753,8 +782,10 @@ Sujets :
 - :runner: Trail, 24 km, 1181 m :mountain: D+, :watch: 03:15:33
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 117 (110M - 22M2) 
-   - :watch: 3h15'55''
+    - Course n°75
+    - 117 (110M - 22M2) 
+    - :watch: 3h15'55''
+    - :round_pushpin: Grasse
 
 #### Semi-marathon de :round_pushpin: Nice
 
@@ -763,8 +794,10 @@ Sujets :
 - :runner: Course, 21 km, 166 m :mountain: D+, :watch: 01:50:13
 
 - :triangular_flag_on_post: :fr: FFA :   
-   - 519 (460M - 66M2) 
-   - :watch: 1h51'55'' (1h50'13'')
+    - Course n°74
+    - 519 (460M - 66M2) 
+    - :watch: 1h51'55'' (1h50'13'')
+    - :round_pushpin: Nice
 
 #### Urban Trail de :round_pushpin: Cannes 
 
@@ -773,8 +806,10 @@ Sujets :
 - :runner: Trail, 27 km, 758 m :mountain: D+,  :watch: 03:09:51
 
 - :triangular_flag_on_post: :fr: FFA :   
+    - Course n°73
     - 130 (109M - 24M2) 
     - :watch: 3h09'50''
+   - :round_pushpin: Cannes
 
 #### Eco-Trail de :round_pushpin: Carros
 
@@ -783,8 +818,10 @@ Sujets :
 - :runner: Trail, 8 km, 516 m :mountain: D+, :watch: 01:06:26
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 96 (80M - 14M2) 
-   - :watch: 1h06'24''
+    - Course n°72
+    - 96 (80M - 14M2) 
+    - :watch: 1h06'24''
+   - :round_pushpin: Carros
 
 #### Calvaire Antibois Connecté à :round_pushpin: Antibes
 
@@ -801,8 +838,10 @@ Sujets :
 - :runner: Trail, 20 km, 870 m :mountain: D+, :watch: 02:34:52
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 86 (79M - 13M2) 
-   - :watch: 2h34'51''
+    - Course n°71
+    - 86 (79M - 13M2) 
+    - :watch: 2h34'51''
+   - :round_pushpin: Montauroux
 
 ####  UTCAM MERCANTOUR 45 km
 
@@ -813,8 +852,10 @@ Sujets :
 - :runner: Trail, 45 km, 3244 m :mountain: D+, :watch: 10:33:19
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 264 (220M - 30M2) 
-   - :watch: 10h33'09''
+    - Course n°70
+    - 264 (220M - 30M2) 
+    - :watch: 10h33'09''
+   - :round_pushpin: Nice
 
 - :triangular_flag_on_post: :star: ITRA : 
    - Course n°15
@@ -832,8 +873,10 @@ Sujets :
 - :runner: Trail, 26 km ,  689 m :mountain: D+, :watch: 03:01:13
 
 - :triangular_flag_on_post: :fr:  FFA : 
-    - 492. (408M - 79M2) 
+    - Course n°69
+    - 492 (408M - 79M2) 
     - :watch: 3h01'18'' (3h01'18'')
+   - :round_pushpin: Cannes
 
 #### PROM Classic à :round_pushpin: Nice 
 
@@ -842,8 +885,10 @@ Sujets :
 - :runner: Course
 
 - :triangular_flag_on_post: :fr: FFA :   
-   - 3021. (2515M - 349M2) 
+   - Course n°68
+   - 3021 (2515M - 349M2) 
    - :watch:  57'24'' (51'01'')
+   - :round_pushpin: Nice
 
 ### 2019
 
@@ -853,15 +898,17 @@ Sujets :
 
 - :runner: Trail, 20 km, 1059 m :mountain: D+, :watch: 03:06:45
 
-#### Marathon des Alpes-Maritimes à :round_pushpin: Nice 
+#### Semi-Marathon des Alpes-Maritimes à :round_pushpin: Nice 
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/11/marathon-des-alpes-maritimes-edition-2019/)
 
 - :runner: Course, 21 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 1573. (1288M - 419V1) 
+   - Course n°67
+   - 1573 (1288M - 419V1) 
    - :watch: 2h00'15'' (1h57'00'')
+   - :round_pushpin: Antibes
 
 #### Courir pour une Fleur à :round_pushpin: Antibes
 
@@ -870,8 +917,10 @@ Sujets :
 - :runner: Course, 21 km, :watch: 01:57:15
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 530 . (467M - 199V1) 
+   - Course n°66
+   - 530  (467M - 199V1) 
    - :watch: 1h57'56'' (1h57'09'')
+   - :round_pushpin: Antibes
 
 #### Trail de :round_pushpin: Tourrettes-sur-Loup 
 
@@ -880,8 +929,10 @@ Sujets :
 - :runner: Trail, 18 km, 1052 m :mountain: D+, :watch: 02:31:34
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 158. (140M - 39V1) 
+   - Course n°65
+   - 158  (140M - 39V1) 
    - :watch: 2h31'35''
+   - :round_pushpin:  Tourrettes Sur Loup
 
 #### UTMB CCC :sweat: Abandon au kilomètre 71 :sweat:
 
@@ -909,7 +960,8 @@ Sujets :
 - :runner: Trail, 41 km, 2522 m :mountain: D+, :watch:  07:05:09
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 265. (238M - 79V1) 
+   - Course n°64
+   - 265 (238M - 79V1) 
    - :watch:  7h05'06'' 
    - :round_pushpin: Barcelonnette
 
@@ -937,7 +989,8 @@ Sujets :
 - :runner: Trail, 31 km, 1785 m :mountain: D+, :watch: 06:25:27
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 222. (183M - 54V1) 
+    - Course n°63
+    - 222 (183M - 54V1) 
     - :watch: 6h25'26'' 
     - :round_pushpin: Aiguines
 
@@ -983,7 +1036,8 @@ Sujets :
 - :runner: Trail, 44 km, 1882 m :mountain: D+, :watch: 07:54:20
 
 - :triangular_flag_on_post: :fr:  FFA  : 
-    - 171. (143M - 53V1) 
+    - Course n°62
+    - 171 (143M - 53V1) 
     - :watch: 10h54'28'' ( 07h54'20'' ) 
     - :round_pushpin: Saint Martin D'ardeche
 
@@ -1012,7 +1066,8 @@ Sujets :
 - :runner: Trail, 17 km, 472 m :mountain: D+, :watch: 01:51:41
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 65. (56M - 21V1) 
+   - Course n°61
+   - 65 (56M - 21V1) 
    - :watch: 1h50'40'' 
    - :round_pushpin: Biot 
 
@@ -1023,7 +1078,8 @@ Sujets :
 - :runner: Course, 21 km, 162 m :mountain: D+, :watch:  01:57:04
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 1573. (1288M - 419V1) 
+   - Course n°60
+   - 1573 (1288M - 419V1) 
    - :watch:  2h00'15'' (1h57'00'') 
    - :round_pushpin: Nice
 
@@ -1040,7 +1096,8 @@ Sujets :
 - :runner: Trail, 26 km, 706 m :mountain: D+, :watch: 03:07:25
 
 - :triangular_flag_on_post: :fr:  FFA :  
-   - 621. (504M - 201V1)  
+   - Course n°59
+   - 621  (504M - 201V1)  
    - :watch: 3h07'23'' 
    - :round_pushpin: Cannes
 
@@ -1051,7 +1108,8 @@ Sujets :
 - :runner: Course, 10 km, 
 
 - :triangular_flag_on_post: :fr:  FFA : 
-   - 2017. (1775M - 499V1) 
+   - Course n°58
+   - 2017 (1775M - 499V1) 
    - :watch:  52'06'' (49'16'') 
    - :round_pushpin:  Nice
 
@@ -1064,7 +1122,8 @@ Sujets :
 - :runner: Course, 21 km, 242 m :mountain: D+,  :watch: 02:01:06
 
 - :triangular_flag_on_post: :fr: FFA :    
-   - 662. (580M - 202V1) 
+   - Course n°57
+   - 662  (580M - 202V1) 
    - :watch: 2h02'47'' 
    - :round_pushpin: Antibes
 
@@ -1079,7 +1138,8 @@ Sujets :
 - :runner: Trail, 60 km, 3492 m :mountain: D+,  :watch: 11:19:38
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 969. (775M - 268V1) 
+    - Course n°56
+    - 969 (775M - 268V1) 
     - :watch:  11h19'45''  
     - :round_pushpin:  Chamonix Mont Blanc
 
@@ -1104,7 +1164,8 @@ Sujets :
 - :runner: Trail, 28 km, 1964 m :mountain: D+, :watch: 05:28:56
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 172. (143M - 45V1) 
+    - Course n°55
+    - 172  (143M - 45V1) 
     - :watch:  5h28'42''  
     - :round_pushpin:  Beauvezer
 
@@ -1156,7 +1217,8 @@ Sujets :
 - :runner: Trail, 50 km,  2782 m :mountain: D+,  :watch: 09:02:35
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 157. (151M - 50V1) 
+    - Course n°54
+    - 157  (151M - 50V1) 
     - :watch: 9h02'21'' 
     - :round_pushpin: Thueyts
 
@@ -1196,7 +1258,8 @@ Sujets :
 - :runner: Course, 21 km,  :watch:  01:43:43
 
 - :triangular_flag_on_post: :fr: FFA :   
-   - 871. (762M - 259V1) 
+   - Course n°53
+   - 871 (762M - 259V1) 
    - :watch:  1h52'15'' (1h49'44'') 
    - :round_pushpin:  Nice
 
@@ -1223,7 +1286,8 @@ Sujets :
 - :runner: Trail, 26 km
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 342. (304M - 125V1) 
+   - Course n°52
+   - 342  (304M - 125V1) 
    - :watch: 2h43'07'' 
    - :round_pushpin: Cannes 
 
@@ -1234,7 +1298,8 @@ Sujets :
 - :runner: Course, 10 km
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 2092. (1809M - 558V1) 
+   - Course n°51
+   - 2092 (1809M - 558V1) 
    - 56'14'' (49'01'') 
    - :round_pushpin:  Nice
 
@@ -1249,6 +1314,7 @@ Sujets :
 - :runner: Trail, 39 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
+   - Course n°50
    - 516. (459M - 150V1) 
    - :watch: 5h29'17'' 
    - :round_pushpin: Roquefort Sur Soulzon
@@ -1269,6 +1335,7 @@ Sujets :
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/11/lalpin-trail-de-pichauris-edition-elite-2017/)
 
 - :triangular_flag_on_post: :fr: FFA :  
+    - Course n°49
     - 290 . (257M - 111MA) 
     - :watch: 5h32'44'' 
     - :round_pushpin:  Allauch
@@ -1326,6 +1393,7 @@ Sujets :
 
 - :mountain_biking_man: VTT, 90 km.
 
+
 #### Trail des Balcons d’Azur : P’tit TBA
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-des-balcons-dazur-ptit-tba/)
@@ -1333,7 +1401,8 @@ Sujets :
 - :runner: Trail :watch: 3:33:26
 
 - :triangular_flag_on_post: :fr: FFA : 
-    - 283. (229M - 77V1) 
+    - Course n°48
+    - 283 (229M - 77V1) 
     - :watch: 3h34'38'' 
     - :round_pushpin:  Mandelieu La Napoule
 
@@ -1355,7 +1424,8 @@ Sujets :
 - :runner: Trail :watch: 
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 427. (357M - 238MA) 
+    - Course n°47
+    - 427 (357M - 238MA) 
     - :watch: 3h05'23'' 
     - :round_pushpin: Ensues La Redonne
 
@@ -1366,7 +1436,8 @@ Sujets :
 - :runner: Trail :watch:
 
 - :triangular_flag_on_post: :fr: FFA :  
-    - 167. (137M - 46V1) 
+    - Course n°46
+    - 167 (137M - 46V1) 
     - :watch: 3h10'10'' 
     - :round_pushpin: Frejus 
 
@@ -1383,6 +1454,7 @@ Sujets :
 - :runner: Trail
 
 - :triangular_flag_on_post: :fr: FFA :  
+    - Course n°45
     - 210 . (167M - 63V1) 
     - :watch: 3h02'42'' 
     - :round_pushpin: Bormes Les Mimosas .
@@ -1406,9 +1478,12 @@ Sujets :
 - :runner: Course, Marathon, 
 
 - :triangular_flag_on_post: :fr: FFA :   
-   - 4627. (3836M - 1552V1) 
+   - Course n°44
+   - 4627  (3836M - 1552V1) 
    - :watch:  4h23'12'' 
    - :round_pushpin: Nice .
+
+- Nombre de participation : 8
 
 #### :round_pushpin: Gorbio : Kilomètre vertical
 
@@ -1419,7 +1494,8 @@ Sujets :
 - :runner: Trail, 
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 57. (51M - 11V1) 
+   - Course n°43
+   - 57 (51M - 11V1) 
    - :watch: 1h12'29'' 
    - :round_pushpin: Gorbio
 
@@ -1430,7 +1506,8 @@ Sujets :
 - :runner: Course
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 421. (386M - 152V1) 
+   - Course n°42
+   - 421 (386M - 152V1) 
    - :watch: 1h55'24'' 
    - :round_pushpin: Antibes
 
@@ -1441,7 +1518,8 @@ Sujets :
 - :runner: Course 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 163. (142M - 45V1) 
+   - Course n°41
+   - 163 (142M - 45V1) 
    - :watch: 49'36'' 
    - :round_pushpin: Biot
 
@@ -1486,6 +1564,7 @@ Sujets :
 - :runner: Course
 
 - :triangular_flag_on_post: :fr: FFA :  
+   - Course n°40
    - 1768. (1522M - 529V1) 
    - :watch: 1h53'44'' 
    - :round_pushpin: Nice
@@ -1514,7 +1593,8 @@ Sujets :
 - :runner: Course
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 932. (796M - 303V1) 
+   - Course n°39
+   - 932 (796M - 303V1) 
    - :watch: 1h51'27'' 
    - :round_pushpin: Cannes
 
@@ -1526,7 +1606,11 @@ Sujets :
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA :  2812. (2497M - 761V1) :watch: 48'11'' :round_pushpin: Nice
+- :triangular_flag_on_post: :fr: FFA :  
+   - Course n°38
+   - 2812 (2497M - 761V1) 
+   - :watch: 48'11'' 
+   - :round_pushpin: Nice
 
 
 ### 2015
@@ -1550,7 +1634,11 @@ Sujets :
 
 - :runner: Cross
 
-- :triangular_flag_on_post: :fr: FFA : 130 . (78MA) :watch: 42'23'' :round_pushpin: Cannes
+- :triangular_flag_on_post: :fr: FFA : 
+   - Course n°37
+   - 130 . (78MA) 
+   - :watch: 42'23'' 
+   - :round_pushpin: Cannes
 
 #### Marathon des Alpes-Maritimes
 
@@ -1560,7 +1648,13 @@ Sujets :
 
 - :runner: Course
 
-- :triangular_flag_on_post: :fr: FFA : 2955. (2600M - 1021MA) :watch: 3h58'17'' :round_pushpin: Nice
+- :triangular_flag_on_post: :fr: FFA : 
+   - Course n°36
+   - 2955 (2600M - 1021MA) 
+   - :watch: 3h58'17'' 
+   - :round_pushpin: Nice
+
+- Nombre de participation : 7
 
 #### Spartan Race :round_pushpin:  Le Castellet : La Trifecta dans le Weekend
 
@@ -1604,7 +1698,11 @@ Sujets :
 
 - :runner: Trail 
 
-- :triangular_flag_on_post: :fr: FFA : 120 . (103M - 22MA) :watch: 3h17'03'' :round_pushpin:  Saint Martin Vesubie
+- :triangular_flag_on_post: :fr: FFA : 
+   - Course n°34
+   - 120 . (103M - 22MA) 
+   - :watch: 3h17'03'' 
+   - :round_pushpin:  Saint Martin Vesubie
 
 #### Les foulées Biotoises
 
@@ -1612,7 +1710,11 @@ Sujets :
 
 - :runner: Course 
 
-- :triangular_flag_on_post: :fr: FFA : 120 . (106M - 33MA) :watch: 43'28'' :round_pushpin:  Biot
+- :triangular_flag_on_post: :fr: FFA : 
+   - Course n°33
+   - 120 . (106M - 33MA) 
+   - :watch: 43'28'' 
+   - :round_pushpin:  Biot
 
 
 #### Holi Run à :round_pushpin: Villeneuve-Loubet
@@ -1661,7 +1763,8 @@ Sujets :
 - [Statistiques du Semi-Marathon de Nice – 2015](https://www.cyber-neurones.org/2015/04/statistiques-du-semi-marathon-de-nice-2015/)
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 1473. (1310M - 458MA) 
+   - Course n°32
+   - 1473  (1310M - 458MA) 
    - :watch:  1h50'43'' 
    - :round_pushpin: Nice
 
@@ -1680,7 +1783,8 @@ Sujets :
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/02/nice-carnaval-run/)
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 318. (276M - 85MA) 
+   - Course n°31
+   - 318 (276M - 85MA) 
    - :watch: 50'01'' 
    - :round_pushpin: Nice
 
@@ -1691,7 +1795,8 @@ Sujets :
 - Trail, 
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 129. (118M - 38MA) 
+   - Course n°30
+   - 129 (118M - 38MA) 
    - :watch: 1h02'20'' 
    - :round_pushpin: Gorbio
 
@@ -1702,7 +1807,8 @@ Sujets :
 - Course, 10 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 2676. (2405M - 733MA) 
+  - Course n°29
+   - 2676 (2405M - 733MA) 
    - :watch: 49'07'' 
    - :round_pushpin: Nice
 
@@ -1717,9 +1823,12 @@ Sujets :
 - Course, 41 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 3226. (2827M – 1049MA)
+   - Course n°28
+   - 3226 (2827M – 1049MA)
    - :watch: 3h56’21 
    - :round_pushpin:   Nice  
+
+- Nombre de participation : 6
 
 #### Spartan Race Beast : au circuit Paul Ricard.
 
@@ -1736,7 +1845,8 @@ Sujets :
 - Course, 21 km,
 
 - :triangular_flag_on_post: :fr: FFA :  
-   - 407. (387M – 157SE)  
+   - Course n°27
+   - 407 (387M – 157SE)  
    - :watch: 1h46’45 
    - :round_pushpin:   Juan Les Pins  
 
@@ -1750,6 +1860,14 @@ Sujets :
    - :round_pushpin:  Valbonne  
 
 - Course, 7 km
+
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°26
+   - 125  (109M - 51SE)
+   - :watch: 38'06''
+   - :round_pushpin: Valbonne
+
 
 #### Foulée Biotoise à :round_pushpin: Biot 
 
@@ -1779,6 +1897,7 @@ Sujets :
 - Trail, 17 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
+   - Course n°25
    - 83  (78M – 30SE)  
    - :watch: 2h08’48    
    - :round_pushpin: Grasse  
@@ -1859,6 +1978,8 @@ Sujets :
    - :watch:                    4h27'53''
    - :round_pushpin:  Nice
 
+- Nombre de participation : 5
+
 #### La boucle de Breil sur Roya.
 
 - :date: 27 octobre 2013
@@ -1923,6 +2044,8 @@ Sujets :
    -  2282 ( - 596SE)
    - :watch:            4h43'56''
    - :round_pushpin:  Annecy
+
+- Nombre de participation : 1
 
 #### Rock’n Roll
 
