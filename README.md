@@ -2304,13 +2304,15 @@ Sujets :
 
 #### Derby de la Meije :+1:
 
+<img align="right" src="./img/1924555_10153964626970364_1769840946_n.jpg" width="200">
+
 - :date: 2014-03-04
 - TRaining IMPulse :  54
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/04/derby-de-la-meije/)
 
 - :link: [Statistique : Derby de la Meije](https://www.cyber-neurones.org/2014/03/statistique-derby-de-la-meije/)
 
-- Ski, 7 km , 1537 m D-, 
+- :ski: Ski, 7 km , 1537 m D-, 
 
 #### Trail d'Eze
 
