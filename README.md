@@ -677,6 +677,9 @@ Sujets :
 
 ####  Trail Per Cami : Parcours découverte de 13 km
 
+- :date: 2022-09-04
+- TRaining IMPulse : 304
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/09/trail-per-cami-parcours-decouverte-de-13-km-edition-2022/)
 
 - :runner: Tail, 13 km, 1043 m :mountain: D+, :watch: 02:19:12
@@ -688,6 +691,9 @@ Sujets :
     - :round_pushpin: Belvedere
 
 #### Trail Mounte Cala à :round_pushpin: Gréolières-les-Neiges
+
+- :date: 2022-07-03
+- TRaining IMPulse : 234
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/07/trail-mounte-cala-a-greolieres-les-neiges-edition-2022/)
 
@@ -709,6 +715,9 @@ Sujets :
 
 #### Trail de Rimplas
 
+- :date: 2022-05-28
+- TRaining IMPulse : 459
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-rimplas-2022-superbe-organisation/)
 
 - :runner: Trail, 20 km, 1669 m :mountain: D+, :watch: 04:18:29
@@ -723,11 +732,17 @@ Sujets :
 
 <img align="right" src="./img/IMG_20190512_094339.jpg">
 
+- :date: 2022-05-15
+- TRaining IMPulse : 268
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/05/trail-de-biot-edition-2022/)
 
 - :runner: Trail, 16 km, 398 m :mountain: D+, :watch: 01:41:21
 
 #### Calvaire d’Antibes
+
+- :date: 2022-04-27
+- TRaining IMPulse : 149
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/04/calvaire-dantibes-edition-2022/)
 
@@ -740,6 +755,9 @@ Sujets :
     - :round_pushpin: Antibes
 
 #### Trail des merveilles à :round_pushpin: Breil-sur-roya
+
+- :date: 2022-03-06
+- TRaining IMPulse : 647
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2022/03/trail-des-merveilles-a-breil-sur-roya/)
 
@@ -755,6 +773,9 @@ Sujets :
 
 #### Cross Amnesty à :round_pushpin: Valbonne
 
+- :date: 2021-12-12
+- TRaining IMPulse : 171
+
 - :triangular_flag_on_post: :fr: FFA : 
     - Course n°77
     - 116 (89M - 15M2) 
@@ -762,6 +783,9 @@ Sujets :
     - :round_pushpin: Valbonne
 
 #### Trail de l'Ours à :round_pushpin: Levens
+
+- :date: 2021-11-28
+- TRaining IMPulse : 731
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/trail-de-lours-a-levens/)
 
@@ -777,6 +801,9 @@ Sujets :
 
 <img align="right" src="./img/signal-2021-11-10-18-57-59-570.jpg" width="200">
 
+- :date: 2021-11-06
+- TRaining IMPulse : 580
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/11/grasse-running-days-2021/)
 
 - :runner: Trail, 24 km, 1181 m :mountain: D+, :watch: 03:15:33
@@ -788,6 +815,9 @@ Sujets :
     - :round_pushpin: Grasse
 
 #### Semi-marathon de :round_pushpin: Nice
+
+- :date: 2021-09-26
+- TRaining IMPulse : 282
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/09/semi-marathon-de-nice-edition-2021/)
 
@@ -801,6 +831,9 @@ Sujets :
 
 #### Urban Trail de :round_pushpin: Cannes 
 
+- :date: 2021-09-12
+- TRaining IMPulse : 501
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/09/urban-trail-de-cannes-edition-2021/)
 
 - :runner: Trail, 27 km, 758 m :mountain: D+,  :watch: 03:09:51
@@ -812,6 +845,9 @@ Sujets :
    - :round_pushpin: Cannes
 
 #### Eco-Trail de :round_pushpin: Carros
+
+- :date: 2021-06-12
+- TRaining IMPulse : 207
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/06/eco-trail-de-carros-une-bonne-reprise/)
 
@@ -825,6 +861,16 @@ Sujets :
 
 #### Calvaire Antibois Connecté à :round_pushpin: Antibes
 
+##### Session n°1
+
+- :date: 2021-04-18
+- TRaining IMPulse : 133
+
+##### Session n°2
+
+- :date: 2021-04-07
+- TRaining IMPulse : 159
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2021/04/calvaire-antibois-connecte-2021/)
 
 - :runner: Course, 10 km,  201 m :mountain: D+, :watch:  00:53:20
@@ -832,6 +878,9 @@ Sujets :
 ### 2020 
 
 #### EcoTrail de :round_pushpin: Montauroux 19 km
+
+- :date: 2020-09-27
+- TRaining IMPulse : 420
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/ecotrail-de-montauroux-19-km-edition-2020/)
 
@@ -846,6 +895,9 @@ Sujets :
 ####  UTCAM MERCANTOUR 45 km
 
 <img align="right" src="./img/D5C_9695.jpg" width="200">
+
+- :date: 2020-09-05
+- TRaining IMPulse : 800
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/09/trail-utcam-trail-cote-dazur-mercantour-version-45-km-edition-2020/)
 
@@ -868,6 +920,9 @@ Sujets :
 
 #### Urban Trail de :round_pushpin: Cannes
 
+- :date: 2020-01-26
+- TRaining IMPulse : 463
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/01/urban-trail-de-cannes-edition-2020/)
 
 - :runner: Trail, 26 km ,  689 m :mountain: D+, :watch: 03:01:13
@@ -879,6 +934,9 @@ Sujets :
    - :round_pushpin: Cannes
 
 #### PROM Classic à :round_pushpin: Nice 
+
+- :date: 2020-01-05
+- TRaining IMPulse : 158
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2020/01/prom-classic-edition-2020/)
 
@@ -894,11 +952,17 @@ Sujets :
 
 #### Trail de la Turbie : Pèlerinage de Laghet – 20 km
 
+- :date: 2019-12-15
+- TRaining IMPulse : 493
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/12/trail-de-la-turbie-pelerinage-de-laghet-20-km-edition-2019/)
 
 - :runner: Trail, 20 km, 1059 m :mountain: D+, :watch: 03:06:45
 
 #### Semi-Marathon des Alpes-Maritimes à :round_pushpin: Nice 
+
+- :date: 2019-11-03
+- TRaining IMPulse : 276
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/11/marathon-des-alpes-maritimes-edition-2019/)
 
@@ -912,6 +976,9 @@ Sujets :
 
 #### Courir pour une Fleur à :round_pushpin: Antibes
 
+- :date: 2019-10-13
+- TRaining IMPulse : 328
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/10/courir-pour-une-fleur-a-antibes-edition-2019/)
 
 - :runner: Course, 21 km, :watch: 01:57:15
@@ -923,6 +990,9 @@ Sujets :
    - :round_pushpin: Antibes
 
 #### Trail de :round_pushpin: Tourrettes-sur-Loup 
+
+- :date: 2019-09-22
+- TRaining IMPulse : 437
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/09/trail-de-tourrettes-sur-loup-edition-2019/)
 
@@ -943,7 +1013,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/utmb-ccc-contenu-de-mon-sac-a-dos/)
 
-- :runner: Trail, **73 km, 4254 m** :mountain: D+, :watch: 17:22:15
+- :runner: Trail, **73 km, 4254 m :mountain: D+** :trophy: , :watch: 17:22:15
 
 - :triangular_flag_on_post: :star: ITRA :  
     - Course n°14
@@ -952,6 +1022,9 @@ Sujets :
     - :black_circle: DNF 
 
 #### Trail de UBAYE Elite
+
+- :date: 2019-08-11
+- TRaining IMPulse : 639
 
 <img align="right" src="./img/67815508_2276016295780505_3875428040053882880_n.jpg" width="200">
 
@@ -978,11 +1051,17 @@ Sujets :
 
 #### Trail de :round_pushpin: Valberg
 
+- :date: 2019-06-30
+- TRaining IMPulse : 484
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-de-valberg-edition-2019/)
 
 - :runner: Trail, 29 km, 1635 m :mountain: D+, :watch: 05:23:16
 
 #### Trail Var Verdon
+
+- :date: 2019-06-23
+- TRaining IMPulse : 382
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/06/trail-var-verdon-30-km-edition-2019/)
 
@@ -1017,6 +1096,7 @@ Sujets :
 
 ##### Course d'orientation
 
+- :date:        20 juin 2019
 - :link: [Course d'orientation & Course](https://www.cyber-neurones.org/2019/05/jeux-de-sophia-2019/)
 
 ##### Cross
@@ -1030,6 +1110,9 @@ Sujets :
 #### Trail des Gorges de l’Ardèche :smiley: 
 
 <img align="right" src="./img/IMG_20190525_144537.jpg" width="200">
+
+- :date: 2019-05-05
+- TRaining IMPulse : 753
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/trail-des-gorges-de-lardeche-gtga-mais-finalement-la-tga/)
 
@@ -1061,6 +1144,9 @@ Sujets :
 
 #### Urban Trail de Biot 
 
+- :date: 2019-05-12
+- TRaining IMPulse : 285
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/urban-trail-de-biot-edition-2019/)
 
 - :runner: Trail, 17 km, 472 m :mountain: D+, :watch: 01:51:41
@@ -1072,6 +1158,9 @@ Sujets :
    - :round_pushpin: Biot 
 
 #### Semi-Marathon de :round_pushpin: Nice
+
+- :date: 2019-05-05
+- TRaining IMPulse : 287
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/05/semi-marathon-de-nice-edition-2019/)
 
@@ -1091,6 +1180,9 @@ Sujets :
 
 #### Urban Trail de :round_pushpin: Cannes
 
+- :date: 2019-01-13
+- TRaining IMPulse : 437
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/01/urban-trail-de-cannes-edition-2019/)
 
 - :runner: Trail, 26 km, 706 m :mountain: D+, :watch: 03:07:25
@@ -1102,6 +1194,9 @@ Sujets :
    - :round_pushpin: Cannes
 
 #### PROM Classic :round_pushpin: Nice
+
+- :date: 2019-01-06
+- TRaining IMPulse : 183
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/01/prom-classic-edition-2019/)
 
@@ -1117,6 +1212,9 @@ Sujets :
 
 #### Courir pour une fleur à :round_pushpin: Antibes
 
+- :date: 2018-10-14
+- TRaining IMPulse : 328
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/10/courir-pour-une-fleur-edition-2018/)
 
 - :runner: Course, 21 km, 242 m :mountain: D+,  :watch: 02:01:06
@@ -1130,7 +1228,7 @@ Sujets :
 #### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
 
 - :date: 30-08-2018
-- TRaining IMPulse : 1005
+- TRaining IMPulse : 1005 :trophy:
 - <img align="right" src="./img/51989192.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/09/trail-utmb-occ-au-depart-de-orsiere-version-de-56-km/)
@@ -1159,6 +1257,9 @@ Sujets :
 
 <img align="right" src="./img/IMG_20180722_140420.jpg" width="200">
 
+- :date: 2018-07-22
+- TRaining IMPulse : 533
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-des-melezes-version-25-km-au-depart-de-colmars/)
 
 - :runner: Trail, 28 km, 1964 m :mountain: D+, :watch: 05:28:56
@@ -1172,6 +1273,9 @@ Sujets :
 #### Trail : HTV : High Trail Vanoise :sweat: Abandon au kilomètre 51 :sweat:
 
 <img align="right" src="./img/8_HTV_1752.JPG" width="200">
+
+- :date: 2018-07-07
+- TRaining IMPulse : 746
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/trail-high-trail-vanoise-2018/)
 
@@ -1189,11 +1293,17 @@ Sujets :
 
 #### Foulée Biotoise
 
+- :date: 2018-07-01
+- TRaining IMPulse : 151
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/07/foulee-biotoise-2018/)
 
 - :runner: Course, :watch: 49:48:00
 
 #### Ultra-Trail Var Verdon
+
+- :date: 2018-06-23
+- TRaining IMPulse : 913
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/06/ultra-trail-var-verdon-edition-2018/)
 
@@ -1211,6 +1321,9 @@ Sujets :
 
 
 #### Trail La chaussée des Géants – Thueyts Ardèche
+
+- :date: 2018-06-02
+- TRaining IMPulse : 823
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/06/trail-la-chaussee-des-geants-thueyts-ardeche-edition-2018/)
 
@@ -1248,10 +1361,19 @@ Sujets :
 
 ##### Course d'orientation
 
+- :date:                7 juin 2018
 - :watch:   1:37:00
 
+##### VTT
+
+- :date:                24 mai 2018
+- 15,69 km, 316 D+
+- :watch:   1:32:00
 
 #### Semi-marathon de :round_pushpin: Nice
+
+- :date: 2018-04-15
+- TRaining IMPulse : 317
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/04/semi-marathon-de-nice-edition-2018/)
 
@@ -1265,9 +1387,13 @@ Sujets :
 
 #### Trail de la Galinette : Les drailles de la Galinette (46 km) à :round_pushpin: Cadolive
 
+
+- :date: 2018-01-28
+- TRaining IMPulse : 886
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/02/trail-de-la-galinette-les-drailles-de-la-galinette-46-km-a-cadolive/)
 
-- :runner: Trail, 46 km
+- :runner: Trail , 46 km, 2303 D+ ,
 
 - :triangular_flag_on_post: :star: ITRA : 46 km / 2400 :mountain: m+ 
     - Course n°6
@@ -1281,6 +1407,9 @@ Sujets :
 
 #### Urban Trail de Cannes : 26 km : Grand Cannois
 
+- :date: 2018-01-21
+- TRaining IMPulse : 312
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/01/urban-trail-de-cannes-26-km-grand-cannois/)
 
 - :runner: Trail, 26 km
@@ -1292,6 +1421,9 @@ Sujets :
    - :round_pushpin: Cannes 
 
 #### PROM Classic à  :round_pushpin:  Nice
+
+- :date: 2018-01-07
+- TRaining IMPulse : 154
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/01/prom-classic-edition-2018/)
 
@@ -1306,6 +1438,9 @@ Sujets :
 ### 2017
 
 #### Hivernale des templiers : Le marathon d’Orchis.
+
+- :date: 2017-12-03
+- TRaining IMPulse : 747
 
 <img align="right" src="./img/P_20171203_095605.jpg" width="200">
 
@@ -1332,6 +1467,9 @@ Sujets :
 
 #### L’Alpin Trail De PICHAURIS (Edition Elite) – 2017
 
+- :date: 2017-11-11
+- TRaining IMPulse : 700
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/11/lalpin-trail-de-pichauris-edition-elite-2017/)
 
 - :triangular_flag_on_post: :fr: FFA :  
@@ -1353,6 +1491,9 @@ Sujets :
 
 #### Marathon des Alpes-Maritimes en relais
 
+- :date: 2017-11-05
+- TRaining IMPulse : 344
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/11/marathon-des-alpes-maritimes-en-relais/)
 
 - :runner: Course,
@@ -1362,9 +1503,14 @@ Sujets :
 
 #### Trail de la Vésubie – version 44 km :sweat: Abandon :sweat:
 
+- :date: 2017-08-27
+- TRaining IMPulse : 833
+
+- [IBP](https://www.ibpindex.com/index.php/fr/) : 492 RNG pour les 32 km.
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/08/trail-de-la-vesubie-version-44-km/)
 
-- :runner: Trail,
+- :runner: Trail, 32 km
 
 - :triangular_flag_on_post: :fr: FFA :
 
@@ -1384,17 +1530,24 @@ Sujets :
 
 ##### Course d'orientation
 
+- :date:        8 juin 2017
 - :watch: 1:57:00
 
 
 #### Lachens-mer, randonnée en :mountain_biking_man: VTT
 
+- :date: 2017-05-25
+- TRaining IMPulse : 741
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/05/lachens-mer-randonnee-en-vtt/)
 
-- :mountain_biking_man: VTT, 90 km.
+- :mountain_biking_man: VTT, 90 km , 1261 D+ 
 
 
 #### Trail des Balcons d’Azur : P’tit TBA
+
+- :date: 2017-04-22
+- TRaining IMPulse : 550
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-des-balcons-dazur-ptit-tba/)
 
@@ -1419,6 +1572,9 @@ Sujets :
 
 #### Trail des 5 Calanques 
 
+- :date: 2017-04-16
+- TRaining IMPulse : 425
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-des-5-calanques-edition-2017/)
 
 - :runner: Trail :watch: 
@@ -1430,6 +1586,9 @@ Sujets :
     - :round_pushpin: Ensues La Redonne
 
 #### Trail Hermes Fréjus Estérel
+
+- :date: 2017-04-09
+- TRaining IMPulse : 492
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/04/trail-hermes-frejus-esterel/)
 
@@ -1443,11 +1602,17 @@ Sujets :
 
 #### :round_pushpin: Mougins Urban Trail (Première édition)
 
+- :date: 2017-03-19
+- TRaining IMPulse : 296
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/03/mougins-urban-trail-premiere-edition/)
 
-- :runner:  Course
+- :runner:  Course, 15,37 km , 348 D+ ,
 
 #### Trail des 3 cols à :round_pushpin: Bormes-les-mimosas .
+
+- :date: 2017-02-05
+- TRaining IMPulse : 379
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/02/trail-des-3-cols-a-bormes-les-mimosas/)
 
@@ -1473,6 +1638,9 @@ Sujets :
 
 #### Marathon Alpes-Maritimes
 
+- :date: 2016-11-13
+- TRaining IMPulse : 546
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/11/marathon-des-alpes-maritimes-edition-2016/)
 
 - :runner: Course, Marathon, 
@@ -1486,6 +1654,9 @@ Sujets :
 - Nombre de participation : 8
 
 #### :round_pushpin: Gorbio : Kilomètre vertical
+
+- :date: 2016-10-08
+- TRaining IMPulse : 224
 
 <img align="right" src="./img/42AE9ABD-B65D-48F9-A059-242A83806D2A.jpeg" width="200">
 
@@ -1501,6 +1672,9 @@ Sujets :
 
 #### Courir pour une fleur – le semi – 
 
+- :date: 2016-10-02
+- TRaining IMPulse : 297
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/10/courir-pour-une-fleur-le-semi-edition-2016/)
 
 - :runner: Course
@@ -1512,6 +1686,9 @@ Sujets :
    - :round_pushpin: Antibes
 
 #### Les foulées Biotoises 2016 :round_pushpin: Biot
+
+- :date: 2016-07-03
+- TRaining IMPulse : 132
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/07/les-foulees-biotoises-2016/)
 
@@ -1531,7 +1708,7 @@ Sujets :
 
 ##### Cross
 
-- :date:        3 juin 2016
+- :date:        2 juin 2016
 - :heavy_check_mark: Dossard  : 9
 - Cross, 9 km,  :watch:     43:04
 - Classement général :  160/259
@@ -1543,21 +1720,26 @@ Sujets :
 
 #### Les allumés de la plein lune : jusqu’à :round_pushpin: Mons
 
+- :date: 2016-05-21
+- TRaining IMPulse : 320
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/05/les-allumes-de-la-plein-lune-jusqua-mons/)
 
-- Marche, 51,4 km
+- Marche, 51,4 km , 1179 D+ , 
 
 #### Trans 50 : Transvésubienne 2016 : :sweat: Abandon au kilomètre 69 sur 71 :sweat:
 
-- :date: 2016-05 
+- :date: 2016-05-15 
+- TRaining IMPulse : 830
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/05/trans-50-transvesubienne-2016-au-moins-jaurais-essaye/)
 
-- :mountain_biking_man: VTT, 69 km 
+- :mountain_biking_man: VTT, 69 km , 1631 D+ , 
 
 #### Semi-marathon de :round_pushpin: Nice
 
-- :date: 2016-05
+- :date: 2016-05-24
+- TRaining IMPulse : 312
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/04/semi-marathon-de-nice-2016/)
 
@@ -1580,13 +1762,17 @@ Sujets :
 
 #### :mountain_biking_man: VTT : La Bigreen de :round_pushpin: Saint-Vallier à :round_pushpin: Grasse.
 
+ :date: 2016-03-28
+- TRaining IMPulse : 327
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/03/vtt-la-bigreen-de-saint-vallier-a-grasse/)
 
-- :mountain_biking_man: VTT, 46 km, 
+- :mountain_biking_man: VTT, 46 km, 687 D+ , :watch: 6h01
 
 #### Semi-marathon de :round_pushpin: Cannes 
 
-- :date: 2016-02
+- :date: 2016-02-21
+- TRaining IMPulse : 310
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/02/semi-marathon-de-cannes-edition-2016/)
 
@@ -1600,7 +1786,7 @@ Sujets :
 
 #### PROM Classic 2016 à :round_pushpin: Nice 
 
-- :date: 2016-01
+- :date: 2016-01-10
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/01/prom-classic-2016/)
 
@@ -1618,6 +1804,7 @@ Sujets :
 #### Cross Amnesty de :round_pushpin: Valbonne
 
 - :date:   13 décembre 2015
+- TRaining IMPulse : 163
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-amnesty-de-valbonne/)
 - :runner: Cross, 11 km, :watch:  58:37
 - Classement Général :   118/243
@@ -1628,7 +1815,8 @@ Sujets :
 
 #### Cross des îles de Lérins
 
-- :date: 2015-12
+- :date: 2015-12-06
+- TRaining IMPulse : 140
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/12/cross-des-iles-de-lerins/)
 
@@ -1642,7 +1830,7 @@ Sujets :
 
 #### Marathon des Alpes-Maritimes
 
-- :date: 2015-11
+- :date: 2015-11-08
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/11/marathon-des-alpes-maritimes-sous-le-soleil/)
 
@@ -1664,7 +1852,7 @@ Sujets :
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/10/spartan-race-le-castellet-la-trifecta-dans-le-weekend/)
 
-- :runner: **Course d'obstacles, 46 km, 1203 m D+, 65 obstacles. :watch: 9;12:35**
+- :runner: **Course d'obstacles, 46 km, 1203 m D+, 65 obstacles. :watch: 9h12m35**
 
 ##### Spartan Race : Beast
 
@@ -1692,8 +1880,8 @@ Sujets :
 
 #### Trail de la Vésubie (version 22 km)
 
-- :date: 2015-09
-
+- :date: 2015-09-06
+- TRaining IMPulse : 413
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/09/trail-de-la-vesubie-version-22-km/)
 
 - :runner: Trail 
@@ -1705,6 +1893,9 @@ Sujets :
    - :round_pushpin:  Saint Martin Vesubie
 
 #### Les foulées Biotoises
+
+- :date: 2015-07-19
+- TRaining IMPulse : 127
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/07/les-foulees-biotoises-edition-2015/)
 
@@ -1746,18 +1937,25 @@ Sujets :
 
 - :date:                 4 juin 2015
 - :heavy_check_mark: Dossard  : 132
+- 8,91 km , 72 m D+,
 - Cross, 9 km,  :watch:                  47:13
 - Classement général :            95/242
 
 ##### Course d'orientation
 
+- :date: 10 juin 2015
 - :watch: 1:46:33
 - Classement général :  86/120
 
+##### VTT
+
+- :date: 18 juin 2015
+- 15,75 km , 355m D+, :watch: 1h28m
+
 #### Semi-marathon de Nice
 
-- :date: 2015-04
-
+- :date: 2015-04-26
+- TRaining IMPulse : 270
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/04/semi-marathon-de-nice-2015/)
 
 - [Statistiques du Semi-Marathon de Nice – 2015](https://www.cyber-neurones.org/2015/04/statistiques-du-semi-marathon-de-nice-2015/)
@@ -1771,15 +1969,18 @@ Sujets :
 #### Mud Day Pays d'Aix
 
 - :date:     12 avril 2015
+- TRaining IMPulse : 151
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/04/mud-day-pays-daix/)
 - Course d'obstacles
 - Dossard : 305
 - :watch:   1:57:25
 
+#### Tournois Tennis Biot Club
+
 #### Nice Carnaval Run
 
-- :date: 2015-02
-
+- :date: 2015-02-15
+- TRaining IMPulse : 164
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/02/nice-carnaval-run/)
 
 - :triangular_flag_on_post: :fr: FFA : 
@@ -1790,9 +1991,12 @@ Sujets :
 
 #### 12 Bornes de Gorbio
 
+- :date: 2015-01-25
+- TRaining IMPulse : 174
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/01/12-bornes-de-gorbio/)
 
-- Trail, 
+- Trail, 11,45 km , 218m D+, 
 
 - :triangular_flag_on_post: :fr: FFA :  
    - Course n°30
@@ -1802,12 +2006,15 @@ Sujets :
 
 #### PROM Classic 2015
 
+- :date: 2015-01-11
+- TRaining IMPulse : 157
+
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/01/prom-classic-2015/)
 
-- Course, 10 km, 
+- Course, 10 km , 41 m D+ ,
 
 - :triangular_flag_on_post: :fr: FFA : 
-  - Course n°29
+   - Course n°29
    - 2676 (2405M - 733MA) 
    - :watch: 49'07'' 
    - :round_pushpin: Nice
@@ -1815,6 +2022,9 @@ Sujets :
 ### 2014
 
 #### Marathon des Alpes-Maritimes
+
+- :date: 2014-11-09
+- TRaining IMPulse : 468
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/11/marathon-des-alpes-maritimes-2014/)
 
@@ -3388,6 +3598,10 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 <img align="right" src="./img/D4A11F96-0996-411B-B05C-6D6A23A74520.jpeg" width="200">
 
 - [Randonné (ou voyage) en vélo : De Mazamet à Antibes : 500 km en 4 jours ( une premier expérience )](https://www.cyber-neurones.org/2016/08/randonne-en-velo-de-mazamet-a-antibes-500-km-une-premier-experience/)
+   - Jour n°1 : 140 km, 900 D+ , :watch: 7h33
+   - Jour n°2 : 118 km, 345 D+ , :watch: 7h23
+   - Jour n°3 : 157 km, 912 D+ , :watch: 9h10
+   - Jour n°4 : 89 km, 800 D+ , :watch: 6h02
 
 
 ## Padel
