@@ -1186,7 +1186,7 @@ Sujets :
 
 ##### Course d'orientation
 
-- :watch:  	1:37:00
+- :watch:   1:37:00
 
 
 #### Semi-marathon de :round_pushpin: Nice
@@ -1492,9 +1492,9 @@ Sujets :
 
 #### Mud Day : Pays d’Aix
 
-- :date:  	9 avril 2016
+- :date:   9 avril 2016
 - Dossard : 201
-- :watch:  	1:49:06 
+- :watch:   1:49:06 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/04/mud-day-pays-daix-edition-2016/)
 
 - Course d'obstacle
@@ -1575,24 +1575,24 @@ Sujets :
 ##### Spartan Race : Beast
 
 - :date:        17 octobre 2015
-- :watch:                	4:01:24
-- Classement Général :           	422/1221
+- :watch:                 4:01:24
+- Classement Général :            422/1221
 - Dossard : 11399
 
 
 ##### Spartan Race : Sprint
 
 - :date:        17 octobre 2015
-- :watch:        	2:02:27
-- Classement Général :   	1088/1667
+- :watch:         2:02:27
+- Classement Général :    1088/1667
 - Dossard : 13030
 
 
 ##### Spartan Race : Super
 
-- :date:  	18 octobre 2015
-- :watch:  	3:08:34
-- Classement Général :  	742/2331
+- :date:   18 octobre 2015
+- :watch:   3:08:34
+- Classement Général :   742/2331
 - Dossard : 13737
 
 
@@ -1629,7 +1629,7 @@ Sujets :
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/monday-morning-mud-day-nice-2015/)
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/06/mud-day-nice-2015/)
 - :runner: Course d'obstacles
-- :watch:  	1:45:00
+- :watch:   1:45:00
 - Dossard : 101
 
 #### Jeux de Sophia 2015
@@ -1667,11 +1667,11 @@ Sujets :
 
 #### Mud Day Pays d'Aix
 
-- :date:  	 	12 avril 2015
+- :date:     12 avril 2015
 - :link: [Wordpress](https://www.cyber-neurones.org/2015/04/mud-day-pays-daix/)
 - Course d'obstacles
 - Dossard : 305
-- :watch:  	1:57:25
+- :watch:   1:57:25
 
 #### Nice Carnaval Run
 
@@ -1723,11 +1723,11 @@ Sujets :
 
 #### Spartan Race Beast : au circuit Paul Ricard.
 
-- :date:  	11 octobre 2014
+- :date:   11 octobre 2014
 - :link: [Wordpress](https://www.cyber-neurones.org/2014/10/spartan-race-beast-au-circuit-paul-ricard/)
 - Course d'obstacles, 21 km, 40 obstables .
-- Classement Général :  	444/935
-- :watch:  	3:53:55
+- Classement Général :   444/935
+- :watch:   3:53:55
 
 #### Courrir pour une fleur, le semi-marathon à :round_pushpin: Antibes
 
@@ -1855,7 +1855,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°21
-   - 	4997 ( - 1421SE)
+   -  4997 ( - 1421SE)
    - :watch:                    4h27'53''
    - :round_pushpin:  Nice
 
@@ -1884,7 +1884,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°20
    - 162 ( - 53SE)
-   - :watch:            	1h16'06''
+   - :watch:             1h16'06''
    - :round_pushpin:  Saint-Martin-De-Vesubie
 
 #### Jeux de Sophia-Antipolis
@@ -1901,7 +1901,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°19
    - 461 ( - 185SE)
-   - :watch:     	49'47''
+   - :watch:      49'47''
    - :round_pushpin:  Menton
 
 #### Ascension du Col de Vence.
@@ -1910,7 +1910,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°18
-   - 	365 ( - 91SE)
+   -  365 ( - 91SE)
    - :watch:      1h21'27''
    - :round_pushpin:  Vence
 
@@ -1920,8 +1920,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°17
-   - 	2282 ( - 596SE)
-   - :watch:           	4h43'56''
+   -  2282 ( - 596SE)
+   - :watch:            4h43'56''
    - :round_pushpin:  Annecy
 
 #### Rock’n Roll
@@ -1942,7 +1942,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°16
    -  2396 ( - 947SE)
-   - :watch:    	49'14''
+   - :watch:     49'14''
    - :round_pushpin:  Nice
 
 ### 2012
@@ -1972,7 +1972,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°14
    -  767 ( - 294SE)
-   - :watch:       	50'22''
+   - :watch:        50'22''
    - :round_pushpin:  Grasse
 
 #### Jeux de Sophia-Antipolis
@@ -2008,7 +2008,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°12
    - 579 ( - 216SE)
-   - :watch:                 	51'18''
+   - :watch:                  51'18''
    - :round_pushpin:  Menton
 
 #### Ascension de :round_pushpin: Gourdon
@@ -2043,8 +2043,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°11
-   - 	2501  ( - 957SE)
-   - :watch:            	50'55''
+   -  2501  ( - 957SE)
+   - :watch:             50'55''
    - :round_pushpin:  Nice 
 
 ### 2011
@@ -2059,8 +2059,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°10
-   -            4311 . ( - 1297SE)
-   - :watch:     	4h14'03''
+   - 4311 ( - 1297SE)
+   - :watch:      4h14'03''
    - :round_pushpin:  Nice :round_pushpin: Cannes
 
 
@@ -2074,7 +2074,7 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°9
-   -           	494. ( - 205SE)
+   - 494 ( - 205SE)
    - :watch:     44'47''
    - :round_pushpin:  Grasse
 
@@ -2105,8 +2105,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°8
-   -    	1646. ( - 624SE)
-   - :watch:                            	55'51''
+   - 1646 ( - 624SE)
+   - :watch:              55'51''
    - :round_pushpin:  Menton
 
 #### Semi-marathon de :round_pushpin: Nice
@@ -2120,7 +2120,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°7
    -    1646 ( - 624SE)
-   - :watch:                    	1h54'01''
+   - :watch:                     1h54'01''
    - :round_pushpin:  Nice
 
 #### PROM Classic :round_pushpin: Nice
@@ -2143,8 +2143,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°6
-   -   	117 (59SE)
-   - :watch:            	40'59''
+   -    117 (59SE)
+   - :watch:             40'59''
    - :round_pushpin:  Cannes
 
 
@@ -2158,8 +2158,8 @@ Sujets :
 
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°5
-   -   	601 ( - 239SE)
-   - :watch:           	47'05''
+   -    601 ( - 239SE)
+   - :watch:            47'05''
    - :round_pushpin:  Grasse
 
 
@@ -2256,7 +2256,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°2
    - 7588 ( - 3118SE)
-   - :watch :   	2h01'10''
+   - :watch :    2h01'10''
    - :round_pushpin: Marseille
 
 
@@ -2271,7 +2271,7 @@ Sujets :
 - :triangular_flag_on_post: :fr: FFA :
    - Course n°1
    - 1839 ( - 824SE)
-   - :watch : 	2h04'40''
+   - :watch:  2h04'40''
    - :round_pushpin: Nice
 
 ### 2003
