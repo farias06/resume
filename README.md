@@ -1779,7 +1779,7 @@ Sujets :
 - Trail, 17 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 83. (78M – 30SE)  
+   - 83  (78M – 30SE)  
    - :watch: 2h08’48    
    - :round_pushpin: Grasse  
 
@@ -1798,7 +1798,8 @@ Sujets :
 - Course, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 250 . (215M – 91SE)  
+   - Course n°24
+   - 250  (215M – 91SE)  
    - :watch: 1h13’25 
    - :round_pushpin:  Vence  
 
@@ -1823,7 +1824,8 @@ Sujets :
 - Course, 10 Miles, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 639. (558M – 220SE)  
+   - Course n°23
+   - 639 (558M – 220SE)  
    - :watch: 1h22’50 
    - :round_pushpin:  Nice  
 
@@ -1834,7 +1836,8 @@ Sujets :
 - Course, 10 km, 
 
 - :triangular_flag_on_post: :fr: FFA : 
-   - 2449. ( – 978SE)  
+   - Course n°22
+   - 2449 ( – 978SE)  
    - :watch: 48’53  
    - :round_pushpin:  Nice
 
@@ -1848,7 +1851,13 @@ Sujets :
 
 - :link: [Statistique](https://www.cyber-neurones.org/2013/11/marathon-des-alpes-maritimes-2013/)
 
-- Course, 
+- Course, Marathon,
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°21
+   - 	4997 ( - 1421SE)
+   - :watch:                    4h27'53''
+   - :round_pushpin:  Nice
 
 #### La boucle de Breil sur Roya.
 
@@ -1868,9 +1877,15 @@ Sujets :
 
 - :date: 7 juillet 2013 
 
-#### Kilomètre vertical.
+#### Open Kilomètre vertical.
 
 - :date: 29 juin 2013 
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°20
+   - 162 ( - 53SE)
+   - :watch:            	1h16'06''
+   - :round_pushpin:  Saint-Martin-De-Vesubie
 
 #### Jeux de Sophia-Antipolis
 
@@ -1883,13 +1898,31 @@ Sujets :
 
 - :date: 19 mai 2013
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°19
+   - 461 ( - 185SE)
+   - :watch:     	49'47''
+   - :round_pushpin:  Menton
+
 #### Ascension du Col de Vence.
 
 - :date: 5 mai 2013
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°18
+   - 	365 ( - 91SE)
+   - :watch:      1h21'27''
+   - :round_pushpin:  Vence
+
 ####  Marathon du Lac d’Annecy.
 
 - :date: 21 avril 2013 
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°17
+   - 	2282 ( - 596SE)
+   - :watch:           	4h43'56''
+   - :round_pushpin:  Annecy
 
 #### Rock’n Roll
 
@@ -1906,6 +1939,11 @@ Sujets :
 - Classement Général :       2386/6385
 - Nombre de participation : 3
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°16
+   -  2396 ( - 947SE)
+   - :watch:    	49'14''
+   - :round_pushpin:  Nice
 
 ### 2012
 
@@ -1917,6 +1955,11 @@ Sujets :
 - Classement Général :  4916/6405
 - Nombre de participation : 4
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°15
+   -  4916 ( - 1363SE)
+   - :watch:            4h29'34''
+   - :round_pushpin:  Nice
 
 #### 10 km de :round_pushpin:  Grasse
 
@@ -1925,6 +1968,12 @@ Sujets :
 - Course, 10 km, :watch:         00:49:24
 - Classement Général :   767/1658
 - Nombre de participation : 4
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°14
+   -  767 ( - 294SE)
+   - :watch:       	50'22''
+   - :round_pushpin:  Grasse
 
 #### Jeux de Sophia-Antipolis
 
@@ -1941,6 +1990,12 @@ Sujets :
 - Classement Général :          121/167
 - Nombre de participation : 1
 
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°13
+   -  121 ( - 35SE)
+   - :watch:       1h31'21''
+   - :round_pushpin:  Nice Stade Du Ray
+
 #### 10 km :round_pushpin: Menton
 
 - :date:                20 mai 2012
@@ -1949,6 +2004,12 @@ Sujets :
 - Course, 10 km, :watch:               00:51:18
 - Classement Général :         582/1012
 - Nombre de participation : 3
+
+- :triangular_flag_on_post: :fr: FFA :
+   - Course n°12
+   - 579 ( - 216SE)
+   - :watch:                 	51'18''
+   - :round_pushpin:  Menton
 
 #### Ascension de :round_pushpin: Gourdon
 
