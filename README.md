@@ -58,8 +58,6 @@ gantt
     Yocto : done, c1, 2018-06-19, 2019-10-20
 ```
 
-<img align="right" src="./img/P_20220202_154029.jpg" width="200">
-
 ### 2023 (RESIDEO)
 
 #### Langage Dev : 
@@ -103,6 +101,8 @@ gantt
 
 #### Langage Dev : 
 
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
 - C (70%) / PHP (20%) / BASH / AEL .
 
 - Protocol XML / JSON / SIP / RTP / Alarm ...
@@ -134,7 +134,7 @@ gantt
 
 #### Tools 
 
-- Teams / Slack / JIRA / Github / SVN /
+- Teams / Slack / JIRA / Github / SVN .
 
 #### Notes 
 
@@ -146,7 +146,17 @@ gantt
 
 - [Migration de Oracle Linux 7.x vers Oracle Linux 8.x avec leapp : Echec complet](https://www.cyber-neurones.org/2022/05/migration-de-oracle-linux-7-x-vers-oracle-linux-8-x-avec-leapp-echec-complet/)
 
+##### 20 years !!!
+
+<img align="right" src="./img/P_20220202_154029.jpg" width="200">
+
 ### 2021 (RESIDEO)
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
 
 #### OS :
 
@@ -168,7 +178,21 @@ gantt
 
 ### 2020
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2019
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 #### Notes
 
@@ -177,6 +201,13 @@ gantt
 - [Jenkins / LibVirt / Qemu / Fédora : Brouillon d’une tentative de mise en place …](https://www.cyber-neurones.org/2019/09/jenkins-libvirt-qemu-fedora-brouillon-dune-tentative-de-mise-en-place/)
 
 ### 2018 
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 #### Notes 
 
@@ -187,6 +218,13 @@ gantt
 
 ### 2017
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 #### Notes
 
 - [Redis : Configuration et performance sous Fédora & Redhat](https://www.cyber-neurones.org/2017/09/redis-configuration-et-performance-sous-fedora-redhat/)
@@ -195,7 +233,21 @@ gantt
 
 ### 2016
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2015
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 #### Notes
 
@@ -203,38 +255,138 @@ gantt
 
 ### 2014
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2013
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 ### 2012
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2011
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 ### 2010
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2009
+
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 ### 2008
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2007
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 
 ### 2006
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2005
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 ### 2004
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2003
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 ### 2002
 
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
+
 ### 2001
+
+#### Langage Dev :
+
+<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+
+- C (70%) / PHP (20%) / BASH
+
 
 ### Connaissances informatiques
 
 Impossible de lister tous les protocoles et outils ... 
 
 - Langages de Programmation :  C, C++, Perl, PHP, Java (JSB, Servlets), JavaScript, GO LANG, Python, Bash , Perl, Pascal ...
-   - 70% de mes programmes sont fait en C, le Java/Javascript/Pascal je le fais que sous la torture ... et j'aimerai bien faire du RUST . 
+   - **70% de mes programmes sont fait en C**, le Java/Javascript/Pascal je le fais que sous la torture ... et j'aimerai bien faire du **RUST** . 
 
 - Langages de balisage :  XML, HTML, JSON, Markdown ...
 
@@ -820,6 +972,8 @@ Sujets :
 
 #### Semi-marathon de :round_pushpin: Nice
 
+<img align="right" src="./img/semi-nice-2-2011.png" width="200">
+
 - :date: 2021-09-26
 - TRaining IMPulse : 282
 
@@ -1231,9 +1385,10 @@ Sujets :
 
 #### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
 
+<img align="right" src="./img/51989192.jpg" width="200">
+
 - :date: 30-08-2018
 - TRaining IMPulse : 1005 :trophy:
-- <img align="right" src="./img/51989192.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2018/09/trail-utmb-occ-au-depart-de-orsiere-version-de-56-km/)
 
@@ -1244,6 +1399,8 @@ Sujets :
     - 969 (775M - 268V1) 
     - :watch:  11h19'45''  
     - :round_pushpin:  Chamonix Mont Blanc
+
+<img align="right" src="./img/UTMB-OCC-2018.png" width="200">
 
 - :triangular_flag_on_post: :star: ITRA : 
     - Course n°10
