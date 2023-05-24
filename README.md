@@ -3175,11 +3175,18 @@ Installation / Administration (sous Debian).
 #### [VMWare ESXi](https://www.vmware.com/products/esxi-and-esx.html)
 
 - Installation sur serveur DELL PowerEdge T110 II :
-   - 32 Go RAM.
+   - 32 Go RAM. 
    - 4 CPUs x Intel(R) Xeon(R) CPU E3-1230 V2 @ 3.30GHz
    - 2 DataStore de 1 To, dont 1 en RAID 5.
 
-J'ai migrer de Raspberry vers ESX.
+---
+**NOTE**
+
+J'ai migrer de Raspberry vers Beelink puis vers VMWare ESXi .
+
+Les Beelinks (neuf) que j'utilisais : Mini PC Beelink T45 8GB DDR3 256GB SSD Fanless , mais au finale c'est mieux de prendre un  DELL PowerEdge T110 II d'occasion. 
+
+---
 
 ##### Update 
 
