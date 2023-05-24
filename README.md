@@ -686,6 +686,17 @@ Sujets :
 
 ### 2023
 
+#### Jeux de Sophia-Antipolis
+
+##### Cross 9 km
+
+- :date: 2023-05-23
+- Dossard : 104
+- TRaining IMPulse : ?
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/jeux-de-sophia-2023/) 
+
+- :runner: Cross, 8,8 km, 167m :mountain: D+, :watch: 00:47:26 :round_pushpin: Sophia-Antipolis
+
 #### Marathon de la Vésubie
 
 <img align="right" src="./img/signal-2023-05-20-12-45-13-727.jpg">
