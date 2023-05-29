@@ -684,6 +684,8 @@ Sujets :
 
 - [kikourou](http://www.kikourou.net/) : Profil public : farias . :unlock:
 
+- [RunTrail](https://www.runtrail.fr/profile/a00f98e45772)  Profil public : Frederic A . :unlock:
+
 ### 2023
 
 #### Marathon des Maures
@@ -692,6 +694,7 @@ Sujets :
 - Dossard : 4086
 - TRaining IMPulse : 606
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/marathon-des-maures-edition-2023/)
+- :link: [runtrail.fr](https://www.runtrail.fr/profile/a00f98e45772/badge/171420)
 
 - :runner: Trail, Marathon, 42,59 km, 2106m :mountain: D+, :watch:  07:27:11 :round_pushpin: Collobrières 
 
@@ -725,6 +728,7 @@ Sujets :
 - Dossard : 404 
 - TRaining IMPulse : 684
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/trail-marathon-de-la-vesubie-edition-2023/)
+- :link: [runtrail.fr](https://www.runtrail.fr/profile/a00f98e45772/badge/171423)
 
 - :runner: Trail, Marathon, 41 km, 2400m :mountain: D+, :watch: 07:05:15  :round_pushpin: Roquebilière  
 
