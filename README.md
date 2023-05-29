@@ -686,13 +686,33 @@ Sujets :
 
 ### 2023
 
+#### Marathon des Maures
+
+- :date: 2023-05-28
+- Dossard : 4086
+- TRaining IMPulse : 606
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/marathon-des-maures-edition-2023/)
+
+- :runner: Trail, Marathon, 42,59 km, 2106m :mountain: D+, :watch:  07:27:11 :round_pushpin: Collobrières 
+
+- :triangular_flag_on_post: :fr: FFA :
+   - wait ...
+
+- :triangular_flag_on_post: :star: ITRA :
+    - Course n°18
+    - Ranking 
+    - iTRA Score : 
+    - :checkered_flag: Finisher Level : 
+
+- Nombre de participation : 1 
+
 #### Jeux de Sophia-Antipolis
 
 ##### Cross 9 km
 
 - :date: 2023-05-23
 - Dossard : 104
-- TRaining IMPulse : ?
+- TRaining IMPulse : 132
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/jeux-de-sophia-2023/) 
 
 - :runner: Cross, 8,8 km, 167m :mountain: D+, :watch: 00:47:26 :round_pushpin: Sophia-Antipolis
@@ -706,13 +726,21 @@ Sujets :
 - TRaining IMPulse : 684
 - :link: [Wordpress](https://www.cyber-neurones.org/2023/05/trail-marathon-de-la-vesubie-edition-2023/)
 
-- :runner: Trail, 41 km, 2400m :mountain: D+, :watch: 07:05:15  :round_pushpin: Roquebilière  
+- :runner: Trail, Marathon, 41 km, 2400m :mountain: D+, :watch: 07:05:15  :round_pushpin: Roquebilière  
 
 - :triangular_flag_on_post: :fr: FFA :
-   - wait ...
+    - Course n°89
+    - 78 (68M - 12M2)
+    - 7h07'01''
+    - :round_pushpin: 	Roquebilliere
 
 - :triangular_flag_on_post: :star: ITRA :
-   - wait ...
+    - Course n°17
+    - Ranking 77 / 89
+    - Mountain Point : 7
+    - ITRA Point : 2
+    - iTRA Score : 
+    - :checkered_flag: Finisher Level : 7
 
 - Nombre de participation : 1 (2eme Edition)
 
@@ -3209,6 +3237,8 @@ Les Beelinks (neuf) que j'utilisais : Mini PC Beelink T45 8GB DDR3 256GB SSD Fan
 
 
 #### [Munin](http://munin-monitoring.org/)
+
+Actuellement mon Munin est assez basique ... 
 
 - [MUNIN : Comment ajouter un multiping ?](https://www.cyber-neurones.org/2019/05/munin-comment-ajouter-un-multiping/) :date: 2019-05
 
