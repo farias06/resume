@@ -19,7 +19,7 @@ sequenceDiagram
 
 # Liens externes 
 
-<img align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="200">
+<img class="special-img-class"  align="right" src="./img/Logo_200x200_cyberneurones.jpg" width="200">
 
 - [Mon blog](www.cyber-neurones.org)
    - Actuellement mon blog est sur Wordpress (j'ai le nom de domaine cyber-neurones.org depuis que je travaille ...) , j'utilise mon bloc comme "Bloc Note Public" sachant que mon "Bloc Note Privé" c'est [Joplin](https://joplinapp.org/). L'idée est donc d'avoir le même format pour les post à savoir [Markdown](https://fr.wikipedia.org/wiki/Markdown) . Le mieux est donc de migrer vers [Hugo](https://gohugo.io/) . J'ai vu qu'il existait [des softs pour la migration](https://gohugo.io/tools/migrations/#wordpress) . La seule fonctionnalité que je ne veux pas perdre c'est de pouvoir visualiser les GPX de facons dynamique .   
@@ -84,7 +84,7 @@ gantt
 
 #### Software 
 
-<img align="right" src="./img/1200px-Postgresql_elephant.svg.png" width="200">
+<img class="special-img-class" align="right" src="./img/1200px-Postgresql_elephant.svg.png" width="200">
 
 - [PostgreSQL](https://www.postgresql.org/) / [Redis](https://redis.io/) / NGINX / Mosquitto / MySQL / RabbitMQ / Jenkins / Supervisord / Grafana.
 
@@ -101,7 +101,7 @@ gantt
 
 #### Langage Dev : 
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH / AEL .
 
@@ -148,13 +148,13 @@ gantt
 
 ##### 20 years !!!
 
-<img align="right" src="./img/P_20220202_154029.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20220202_154029.jpg" width="200">
 
 ### 2021 (RESIDEO)
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -180,7 +180,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -189,7 +189,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -204,7 +204,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -220,7 +220,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -235,7 +235,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -244,7 +244,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -257,7 +257,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -266,7 +266,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -275,7 +275,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -284,7 +284,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -293,7 +293,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -303,7 +303,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -312,7 +312,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -321,7 +321,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -331,7 +331,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -340,7 +340,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -349,7 +349,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -358,7 +358,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -367,7 +367,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -376,7 +376,7 @@ gantt
 
 #### Langage Dev :
 
-<img align="right" src="./img/logo-langage-C-300x300.png" width="200">
+<img class="special-img-class" align="right" src="./img/logo-langage-C-300x300.png" width="200">
 
 - C (70%) / PHP (20%) / BASH
 
@@ -422,7 +422,7 @@ J’ai effectué de nombreux déplacements en Espagne ( :round_pushpin: Madrid, 
 
 ### Quelques logiciels "systemes" 
 
-<img align="right" src="./img/screenshot-from-2021-04-16-10-49-50.png">
+<img class="special-img-class" align="right" src="./img/screenshot-from-2021-04-16-10-49-50.png">
 
 Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
@@ -531,7 +531,7 @@ Certains sont fait à 100% par moi dans ma periode "Dev System Linux" :
 
 ## Connaissance OS :
 
-<img align="right" src="./img/142-1422592_oracle-logo-png-download-oracle-linux-logo.jpeg" width="200">
+<img class="special-img-class" align="right" src="./img/142-1422592_oracle-logo-png-download-oracle-linux-logo.jpeg" width="200">
 
 Systèmes :penguin: Linux ( Debian, RedHat, SuSE, Fedora, Oracle Linux , Yocto), Unix SCO, NetBSD, Docker (sur mon blog), Raspberry.
 
@@ -606,7 +606,7 @@ Lycée La Borde Basse. Mention Passable.
 
 #### Salon Open Source Expérience à :round_pushpin: Paris (Open Source Summit) : novembre 2022 
 
-<img align="right" src="./img/20221109_145009.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/20221109_145009.jpg" width="200">
 
 Sujets :
 
@@ -626,7 +626,7 @@ Sujet : Docker
 
 #### Salon Linux à :round_pushpin: Paris (Open Source Summit) : Dock pullman : novembre 2016 : http://www.opensourcesummit.paris
 
-<img align="right" src="./img/6EDCCA85-051C-42DE-A653-7556F9EFBC17.jpeg">
+<img class="special-img-class" align="right" src="./img/6EDCCA85-051C-42DE-A653-7556F9EFBC17.jpeg">
 
 Sujets : IoT
 
@@ -672,7 +672,7 @@ Sujets :
 
 ## Compétitions
 
-<img align="right" src="./img/20220515_172410.jpg">
+<img class="special-img-class" align="right" src="./img/20220515_172410.jpg">
 
 - [Strava](https://www.strava.com/athletes/12487918) : Profil privé. :lock:
 
@@ -722,7 +722,7 @@ Sujets :
 
 #### Marathon de la Vésubie
 
-<img align="right" src="./img/signal-2023-05-20-12-45-13-727.jpg">
+<img class="special-img-class" align="right" src="./img/signal-2023-05-20-12-45-13-727.jpg">
 
 - :date: 2023-05-20
 - Dossard : 404 
@@ -750,7 +750,7 @@ Sujets :
 
 #### Ventoux Gravel Trans Massifs : Dentelles & Sommets 
 
-<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg">
+<img class="special-img-class" align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/05/gopr8234-300x169.jpg">
 
 - :date: 2023-05-06
 - TRaining IMPulse : 644
@@ -776,7 +776,7 @@ Sujets :
 
 #### Trail des baous de Saint-Jeannet – Parcours de 13 km
 
-<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/03/20230319-114455-300x169.jpg">
+<img class="special-img-class" align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2023/03/20230319-114455-300x169.jpg">
 
 - :date: 2023-03-19
 - TRaining IMPulse : 232
@@ -786,7 +786,7 @@ Sujets :
 
 #### Ergysport Trail du Ventoux : Origine 46 km 
 
-<img align="right" src="./img/20230312_111413.jpg">
+<img class="special-img-class" align="right" src="./img/20230312_111413.jpg">
 
 - :date: 2023-03-12
 - TRaining IMPulse : 827
@@ -830,7 +830,7 @@ Sujets :
 
 #### Urban Trail de :round_pushpin: Cannes : Version 26 km 
 
-<img align="right" src="./img/03123-444ff4a282864e829307e51de45e9259.jpg">
+<img class="special-img-class" align="right" src="./img/03123-444ff4a282864e829307e51de45e9259.jpg">
 
 - :date: 2023-01-29
 - TRaining IMPulse : 383
@@ -929,7 +929,7 @@ Sujets :
 
 #### Trail de :round_pushpin: Biot
 
-<img align="right" src="./img/IMG_20190512_094339.jpg">
+<img class="special-img-class" align="right" src="./img/IMG_20190512_094339.jpg">
 
 - :date: 2022-05-15
 - TRaining IMPulse : 268
@@ -998,7 +998,7 @@ Sujets :
 
 #### Grasse Running Days 2021 : Trail de 24 km
 
-<img align="right" src="./img/signal-2021-11-10-18-57-59-570.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/signal-2021-11-10-18-57-59-570.jpg" width="200">
 
 - :date: 2021-11-06
 - TRaining IMPulse : 580
@@ -1015,7 +1015,7 @@ Sujets :
 
 #### Semi-marathon de :round_pushpin: Nice
 
-<img align="right" src="./img/semi-nice-2-2011.png" width="200">
+<img class="special-img-class" align="right" src="./img/semi-nice-2-2011.png" width="200">
 
 - :date: 2021-09-26
 - TRaining IMPulse : 282
@@ -1095,7 +1095,7 @@ Sujets :
 
 ####  UTCAM MERCANTOUR 45 km
 
-<img align="right" src="./img/D5C_9695.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/D5C_9695.jpg" width="200">
 
 - :date: 2020-09-05
 - TRaining IMPulse : 800
@@ -1227,7 +1227,7 @@ Sujets :
 - :date: 2019-08-11
 - TRaining IMPulse : 639
 
-<img align="right" src="./img/67815508_2276016295780505_3875428040053882880_n.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/67815508_2276016295780505_3875428040053882880_n.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2019/08/trail-de-ubaye-elite-a-barcelonnette-edition-2019/)
 
@@ -1310,7 +1310,7 @@ Sujets :
 
 #### Trail des Gorges de l’Ardèche :smiley: 
 
-<img align="right" src="./img/IMG_20190525_144537.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20190525_144537.jpg" width="200">
 
 - :date: 2019-05-05
 - TRaining IMPulse : 753
@@ -1428,7 +1428,7 @@ Sujets :
 
 #### Trail UTMB OCC au départ de :round_pushpin: Orsière – Version de 56 km
 
-<img align="right" src="./img/51989192.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/51989192.jpg" width="200">
 
 - :date: 30-08-2018
 - TRaining IMPulse : 1005 :trophy:
@@ -1443,7 +1443,7 @@ Sujets :
     - :watch:  11h19'45''  
     - :round_pushpin:  Chamonix Mont Blanc
 
-<img align="right" src="./img/UTMB-OCC-2018.png" width="200">
+<img class="special-img-class" align="right" src="./img/UTMB-OCC-2018.png" width="200">
 
 - :triangular_flag_on_post: :star: ITRA : 
     - Course n°10
@@ -1459,7 +1459,7 @@ Sujets :
 
 #### Trail des Mélèzes – Version 25 km au départ de :round_pushpin: Colmars
 
-<img align="right" src="./img/IMG_20180722_140420.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20180722_140420.jpg" width="200">
 
 - :date: 2018-07-22
 - TRaining IMPulse : 533
@@ -1476,7 +1476,7 @@ Sujets :
 
 #### Trail : HTV : High Trail Vanoise :sweat: Abandon au kilomètre 51 :sweat:
 
-<img align="right" src="./img/8_HTV_1752.JPG" width="200">
+<img class="special-img-class" align="right" src="./img/8_HTV_1752.JPG" width="200">
 
 - :date: 2018-07-07
 - TRaining IMPulse : 746
@@ -1646,7 +1646,7 @@ Sujets :
 - :date: 2017-12-03
 - TRaining IMPulse : 747
 
-<img align="right" src="./img/P_20171203_095605.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20171203_095605.jpg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2017/12/hivernale-des-templiers-le-marathon-dorchis/)
 
@@ -1862,7 +1862,7 @@ Sujets :
 - :date: 2016-10-08
 - TRaining IMPulse : 224
 
-<img align="right" src="./img/42AE9ABD-B65D-48F9-A059-242A83806D2A.jpeg" width="200">
+<img class="special-img-class" align="right" src="./img/42AE9ABD-B65D-48F9-A059-242A83806D2A.jpeg" width="200">
 
 - :link: [Wordpress](https://www.cyber-neurones.org/2016/10/gorbio-kilometre-vertical/)
 
@@ -2050,7 +2050,7 @@ Sujets :
 
 #### Spartan Race :round_pushpin:  Le Castellet : La Trifecta dans le Weekend
 
-<img align="right" src="./img/Spartan-Race-2014_3_IMG_7074_7830.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/Spartan-Race-2014_3_IMG_7074_7830.jpg" width="200">
 
 - :date: 17 & 18 octobre 2015
 
@@ -2347,7 +2347,7 @@ Sujets :
 
 #### Derby de la Meije :+1:
 
-<img align="right" src="./img/1924555_10153964626970364_1769840946_n.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/1924555_10153964626970364_1769840946_n.jpg" width="200">
 
 - :date: 2014-03-04
 - TRaining IMPulse :  54
@@ -2995,7 +2995,7 @@ Meilleur éditeur au monde
 
 #### Raspberry
 
-<img align="right" src="./img/474px-Raspberry_Pi_logo.svg.png" width="200">
+<img class="special-img-class" align="right" src="./img/474px-Raspberry_Pi_logo.svg.png" width="200">
 
 - [Raspberry ( Raspbian : stretch ) / Git Server : Installation en bref](https://www.cyber-neurones.org/2018/11/raspberry-raspbian-stretch-git-server-installation-en-bref/) :date: 2018-11
 
@@ -3153,7 +3153,7 @@ Installation / Administration (sous Debian).
 
 #### [Humhub](https://www.humhub.com/en)
 
-<img align="right" src="./img/HumHub_Logo-2048x535.png" width="200">
+<img class="special-img-class" align="right" src="./img/HumHub_Logo-2048x535.png" width="200">
 
 Installation / Administration (sous Debian)
 
@@ -3302,7 +3302,7 @@ Actuellement mon Munin est assez basique ...
 
 #### Alpes-Maritimes
 
-<img align="right" src="./img/20230225_095708~2.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/20230225_095708~2.jpg" width="200">
 
 - [Randonné à Moulinet : Tête de Gars, Cime du Tiers, Mangiabo, Baisse de la Déa](https://www.cyber-neurones.org/2023/05/randonne-a-moulinet-tete-de-gars-cime-du-tiers-mangiabo-baisse-de-la-dea/) :date: 2023-05 
     - Distance : 19 km, Denivelé : 1200m D+, :watch: 7h00
@@ -3323,7 +3323,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Tour complet du Cap d’Antibes](https://www.cyber-neurones.org/2022/04/marche-tour-complet-du-cap-dantibes/) :date: 2022-04
 
-<img align="right" src="./img/20230423_122023.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/20230423_122023.jpg" width="200">
 
 - [Brec d’Utelle au départ de Saint-Jean La Rivière](https://www.cyber-neurones.org/2022/03/randonnee-a-utelle-brec-dutelle-au-depart-de-saint-jean-la-riviere/) :date: 2022-03
 
@@ -3337,7 +3337,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Randonnée sportive : Boucle de 22 km sur la Vallée de Merveilles](https://www.cyber-neurones.org/2021/08/randonnee-sportive-boucle-de-22-km-sur-la-vallee-de-merveilles/) :date: 2021-08
 
-<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2021/07/p-20210725-114006-300x225.jpg">
+<img class="special-img-class" align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2021/07/p-20210725-114006-300x225.jpg">
 
 - [Randonnée Ultra-Sportive : Cime du Gélas (Départ La Gordolasque) avec une boucle](https://www.cyber-neurones.org/2021/07/randonnee-ultra-sportif-cime-du-gelas-depart-la-gordolasque/) :grinning: :date: 2021-07 
 
@@ -3361,7 +3361,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Randonnée hors piste : Col de la Sinne vers Lauvet d’Ilonse , et au retour Le Mont D’Ilonse](https://www.cyber-neurones.org/2020/05/randonnee-hors-piste-col-de-la-sinne-vers-lauvet-dilonse-et-au-retour-le-mont-dilonse/) :date: 2020-05
 
-<img align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="200">
+<img class="special-img-class" align="right" src="https://www.cyber-neurones.org/wp-content/uploads/2018/02/p_20180211_143559-576x1024.jpg" width="200">
 
 - [Isola 2000 : Randonnée vers les Lacs de Terre Rouge et le Col Baisse de Druos](https://www.cyber-neurones.org/2019/08/isola-2000-randonnee-vers-les-lacs-de-terre-rouge-et-le-col-baisse-de-druos/) :date: 2019-08
 
@@ -3385,7 +3385,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Lantosque : Randonnée vers le Col de Turini](https://www.cyber-neurones.org/2018/02/lantosque-randonnee-vers-le-col-de-turini/) :date: 2018-02
 
-<img align="right" src="./img/20230122_150031.jpg">
+<img class="special-img-class" align="right" src="./img/20230122_150031.jpg">
 
 - [Randonnée à :round_pushpin: Eze](https://www.cyber-neurones.org/2017/09/randonnee-a-eze/) :date: 2017-09
 
@@ -3418,7 +3418,7 @@ Actuellement mon Munin est assez basique ...
 
 ##### Tarn
 
-<img align="right" src="./img/P_20170723_154323.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20170723_154323.jpg" width="200">
 
 - [Randonnée à :round_pushpin: Dourgne : Boucle Saint Stapin, La Capelette de Saint-Ferréol, :round_pushpin: Massaguel ( dans le Tarn )](https://www.cyber-neurones.org/2019/04/randonnee-a-dourgne-boucle-saint-stapin-la-capelette-de-saint-ferreol-massaguel-dans-le-tarn/) :date: 2019-04
 
@@ -3450,7 +3450,7 @@ Actuellement mon Munin est assez basique ...
 
 ##### Pyrénées-Orientales
 
-<img align="right" src="./img/IMG_20200722_063659.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20200722_063659.jpg" width="200">
 
 - [Randonnée : Bivouac 2 jours : Lac des Bouillouses -> Refuge des Camporells -> Lac Estany Gros](https://www.cyber-neurones.org/2020/08/randonnee-bivouac-2-jours-lac-des-bouillouses-refuge-des-camporells-lac-estany-gros/) :date: 2020-08
 
@@ -3461,7 +3461,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Randonnée : :round_pushpin: Gèdre vers le Lac de Bassia.](https://www.cyber-neurones.org/2016/07/randonnee-gedre-vers-le-lac-de-bassia/) :date: 2016-07
 
-<img align="right" src="./img/P_20160719_091534.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20160719_091534.jpg" width="200">
 
 - [Randonnée : Gavarnie vers le Cirque de Gavarnie (et boucle dans le cirque à partir des échelles).](https://www.cyber-neurones.org/2016/07/randonnee-gavarnie-vers-le-cirque-de-gavarnie-et-boucle-dans-le-cirque-a-partir-des-echelles/) :date: 2016-07
 
@@ -3501,7 +3501,7 @@ Actuellement mon Munin est assez basique ...
 
 #### Corse
 
-<img align="right" src="./img/06267.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/06267.jpg" width="200">
 
 - [Sentier des plages de :round_pushpin: Bonifacio en deux étapes](https://www.cyber-neurones.org/2022/04/randonnee-en-corse-sentier-des-plages-de-bonifacio-en-deux-etapes/) :date: 2022-04
 
@@ -3518,7 +3518,7 @@ Actuellement mon Munin est assez basique ...
 
 #### Tyrol
 
-<img align="right" src="./img/IMG_20190724_093231.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20190724_093231.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : De Juns Fener-Haus vers Tote Böden](https://www.cyber-neurones.org/2019/08/randonnee-tyrol-en-autriche-de-juns-fener-haus-vers-tote-boden/)
 
@@ -3526,7 +3526,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Hintertux : Panorama Gefrorene-Wand-Spitzen en télécabine.](https://www.cyber-neurones.org/2019/08/hintertux-panorama-gefrorene-wand-spitzen-en-telecabine/)
 
-<img align="right" src="./img/IMG_20190723_134337.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20190723_134337.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : De Tux vers Geiselalm](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-de-tux-vers-geiselalm/)
 
@@ -3534,7 +3534,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Randonnée Tyrol en Autriche : Cascade (ou chutes) de Krimml](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-cascade-de-krimml/)
 
-<img align="right" src="./img/IMG_20190731_091230.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20190731_091230.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : Karlshütte vers le barrage de Schlegeisspeicher](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-karshutte-vers-le-barrage-de-schlegeisspeicher/)
 
@@ -3542,7 +3542,7 @@ Actuellement mon Munin est assez basique ...
 
 - [Randonnée Tyrol en Autriche : Juns vers Grüblspitze](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-juns-vers-grublspitze/)
 
-<img align="right" src="./img/IMG_20190727_115757.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20190727_115757.jpg" width="200">
 
 - [Randonnée Tyrol en Autriche : Hintertux vers Tuxer Ferner-Haus](https://www.cyber-neurones.org/2019/07/randonnee-tyrol-en-autriche-hintertux-vers-tuxer-ferner-haus/)
 
@@ -3555,7 +3555,7 @@ Actuellement mon Munin est assez basique ...
 
 #### Dolomites 
 
-<img align="right" src="./img/IMG_20180813_150631.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20180813_150631.jpg" width="200">
 
 - [Italie Dolomites : Parc Naturel « Dello Sciliar-Catinaccio » : Les sculptures sur bois.](https://www.cyber-neurones.org/2018/08/italie-dolomites-parc-naturel-dello-sciliar-catinaccio-les-sculptures-sur-bois/) :date: 2018-08
 
@@ -3609,7 +3609,7 @@ Actuellement mon Munin est assez basique ...
 
 ### Espagne
 
-<img align="right" src="./img/P7290174.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P7290174.jpg" width="200">
 
 - [Canyon : Los Oscuros del Balcés (Rodellar)](https://www.cyber-neurones.org/2016/08/canyon-los-oscuros-del-balces-rodellar/)
     - Rio : 2h30
@@ -3637,7 +3637,7 @@ Actuellement mon Munin est assez basique ...
 
 ### Python
 
-<img align="right" src="./img/1200px-Python-logo-notext.svg.png" width="200">
+<img class="special-img-class" align="right" src="./img/1200px-Python-logo-notext.svg.png" width="200">
 
 - [Python/BRISQUE : Voir la « qualité » des photos NEXTCLOUD avec un script](https://www.cyber-neurones.org/2022/06/python-brisque-voir-la-qualite-des-photos-nextcloud-avec-un-script/) :date: 2022-06
 
@@ -3687,7 +3687,7 @@ Actuellement mon Munin est assez basique ...
 
 ### Association 
 
-<img align="right" src="./img/IMG_20201004_125253-01.jpeg" width="200">
+<img class="special-img-class" align="right" src="./img/IMG_20201004_125253-01.jpeg" width="200">
 
 Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/), mes quelques artciles sur le vélo : 
 
@@ -3710,7 +3710,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Alpes-Maritimes
 
-<img align="right" src="./img/P_20210326_170603.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20210326_170603.jpg" width="200">
 
 - [Canal de la Siagne de Mougins à Grasse](https://www.cyber-neurones.org/2023/04/gravel-canal-de-la-siagne-de-mougins-a-grasse/) :date: 2023-04
 
@@ -3726,7 +3726,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Vélo : Col de Braus : 1002 m depuis L’Escarène](https://www.cyber-neurones.org/2021/09/velo-col-de-braus-1002-m-depuis-lescarene/) :date: 2021-09
 
-<img align="right" src="./img/P_20210801_121637.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20210801_121637.jpg" width="200">
 
 - [Vélo : Boucle Biot, Cagnes-sur-Mer, La gaude, Carros, Bouyon, Coursegoules, Pont-du-Loup, Bar-sur-Loup, Valbonne](https://www.cyber-neurones.org/2021/07/velo-boucle-biot-cagnes-sur-mer-la-gaude-carros-bouyon-coursegoules-pont-du-loup-bar-sur-loup-valbonne/) :date: 2021-07
 
@@ -3738,7 +3738,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 - [Gravel/Vélo de Course : Départ de :round_pushpin: Biot, circuit sur le dos du Dragon](https://www.cyber-neurones.org/2021/04/gravel-velo-de-course-depart-de-biot-circuit-sur-le-dos-du-dragon/) :date: 2021-04
 
-<img align="right" src="./img/signal-2022-07-30-09-29-50-991-4.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/signal-2022-07-30-09-29-50-991-4.jpg" width="200">
 
 - [Départ de l’office du Tourisme vers le Phare de la Garoupe à :round_pushpin: Antibes](https://www.cyber-neurones.org/2021/04/gravel-a-biot-depart-de-loffice-du-tourisme-vers-le-phare-de-la-garoupe-a-antibes/) :date: 2021-04
 
@@ -3802,7 +3802,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Alpes-Maritimes
 
-<img align="right" src="./img/P_20170525_165946.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20170525_165946.jpg" width="200">
 
 - [Théoule-sur-mer vers le Mont vinaigre](https://www.cyber-neurones.org/2022/12/vtt-theoule-sur-mer-vers-le-mont-vinaigre/) :date: 2022-12
 
@@ -3831,7 +3831,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ##### Espagne
 
-<img align="right" src="./img/P_20160730_121540.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20160730_121540.jpg" width="200">
 
 - [TT : Parc Naturel de las Bardenas Reales : Boucle de 28 km](https://www.cyber-neurones.org/2016/07/vtt-parc-naturel-de-las-bardenas-reales-boucle-de-28-km/)
 
@@ -3839,7 +3839,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ### Voyage en vélo 
 
-<img align="right" src="./img/D4A11F96-0996-411B-B05C-6D6A23A74520.jpeg" width="200">
+<img class="special-img-class" align="right" src="./img/D4A11F96-0996-411B-B05C-6D6A23A74520.jpeg" width="200">
 
 - [Randonné (ou voyage) en vélo : De Mazamet à Antibes : 500 km en 4 jours ( une premier expérience )](https://www.cyber-neurones.org/2016/08/randonne-en-velo-de-mazamet-a-antibes-500-km-une-premier-experience/)
    - Jour n°1 : 140 km, 900 D+ , :watch: 7h33
@@ -3862,7 +3862,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ## Ski de randonnée
 
-<img align="right" src="./img/P_20210304_122124.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20210304_122124.jpg" width="200">
 
 - [Ski de randonnée à :round_pushpin: Roubion](https://www.cyber-neurones.org/2021/12/ski-de-randonnee-a-roubion/)
 
@@ -3871,7 +3871,7 @@ Membre de l'association [Choisir Velo](https://www.choisirlevelo.org/bienvenue/)
 
 ## Plongée
 
-<img align="right" src="./img/GOPR3207.JPG" width="200">
+<img class="special-img-class" align="right" src="./img/GOPR3207.JPG" width="200">
 
 - [Formation Niveau 1 en plongée avec Kalliste Plongée et Divingeek à Porto Vecchio](https://www.cyber-neurones.org/2017/08/formation-niveau-1-en-plongee-avec-kalliste-plongee-et-divingeek-a-porto-vecchio/)
 
@@ -3992,7 +3992,7 @@ gantt
 
 ## Trail
 
-<img align="right" src="./img/P_20160313_125015.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20160313_125015.jpg" width="200">
 
 - [Trail à :round_pushpin: Biot : Le tour du sanglier !](https://www.cyber-neurones.org/2019/10/trail-a-biot-le-tour-du-sanglier/) :date: 2019-10
    - Distance : 14,7 km / 433 m D+
@@ -4000,7 +4000,7 @@ gantt
 - [Trail à Biot : Le Mega Tour du :boar: Sanglier ! ( Version Mega )](https://www.cyber-neurones.org/2020/08/trail-a-biot-le-mega-tour-du-sanglier-version-mega/) :date: 2020-08
    - Distance : 21,6 km / 680 m D+
 
-<img align="right" src="./img/P_20160313_124835.jpg" width="200">
+<img class="special-img-class" align="right" src="./img/P_20160313_124835.jpg" width="200">
 
 - [Trail à Biot : L’Extra Tour du :boar: Sanglier ! ( Version ETS )](https://www.cyber-neurones.org/2020/08/trail-a-biot-lextra-tour-du-sanglier-version-ets/) :date: 2020-08
    - Distance : 20,1 km / 657 m D+
@@ -4064,4 +4064,41 @@ J'ai beaucoup suivi les réunions d'informations sur les inondations.
 - [Open Data Gouv : Arrêtés de catastrophe naturelle en France mon troisième fichier](https://www.cyber-neurones.org/2016/01/open-data-gouv-arretes-de-catastrophe-naturelle-en-france-mon-troisieme-fichier/) :date: 2016-01
 
 - [Open Data Gouv : Tentative de discussion](https://www.cyber-neurones.org/2016/01/open-data-gouv-tentative-de-discussion/) :date: 2016-01
+
+
+# HUGO Migration 
+
+## Version 
+
+Par défaut sur Debian il y a la version ( v0.80.0 ):
+```
+hugo version
+Hugo Static Site Generator v0.80.0/extended linux/amd64 BuildDate: 2021-07-18T09:31:51Z (debian 0.80.0-6+b5
+```
+
+Vu que je voulais les emojis j'ai mis la dernière version ( v0.112.3 ) :
+```
+hugo v0.112.3+extended linux/amd64 BuildDate=unknown
+```
+
+
+##  Process d'installation sur Hugo
+
+En cours ...
+
+```
+https://github.com/farias06/resume
+cp resume/README.md /var/arias-frederic.org/content/_index.md 
+cp resume/img/* /var/arias-frederic.org/static/img/.
+chown -R www-data.www-data /var/arias-frederic.org/public/
+```
+Pour le build et test:
+```
+cd /var/arias-frederic.org/
+/root/go/bin/hugo server -D --bind="0.0.0.0"
+```
+## L'affichage se fait via Apache
+
+Resultat provisoire:  [https://my.cyber-neurones.org/](https://my.cyber-neurones.org/)
+
 
