@@ -720,6 +720,27 @@ Sujets :
 
 - :runner: Cross, 8,8 km, 167m :mountain: D+, :watch: 00:47:26 :round_pushpin: Sophia-Antipolis
 
+##### Velo Pont-du-Loup vers Col de L'Ecre
+
+<img class="special-img-class" align="right" src="./img/Ecre2013.png">
+
+- :date: 2023-07-07
+- Dossard : 5061
+- TRaining IMPulse : 182
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/jeux-de-sophia-2023/)
+
+- :bike: Velo de course, 18,8 km, 915m :mountain: D+, :watch: 01:15:02 :round_pushpin: Pont-du-Loup
+
+##### Trail 18 km
+
+- :date: 2023-06-06
+- Dossard : 282
+- TRaining IMPulse : 246
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/05/jeux-de-sophia-2023/)
+
+- :runner: Trail, 18,8 km, 528m :mountain: D+, :watch: 02:20:11 :round_pushpin: Sophia-Antipolis
+
+
 #### Marathon de la Vésubie
 
 <img class="special-img-class" align="right" src="./img/signal-2023-05-20-12-45-13-727.jpg">
