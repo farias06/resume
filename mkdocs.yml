@@ -17,7 +17,7 @@ nav:
     - Serveur : SERVEUR/SERVEUR.md
   - Quelques dev : DEV/DEV.md     
   - Loisir / Compétition : 
-    - COMPPEITIONS/COMPETITIONS.md
+    - COMPETITIONS/COMPETITIONS.md
     - Resultat ITRA : ITRA/ITRA.md  
   - Trekking : TREKKING/TREKKING.md
   - Canyonning / Via Ferrata : MONTAGNE/MONTAGNE.md
@@ -27,7 +27,7 @@ nav:
   - Le harware que j'aime : HARDWARE/HARDWARE.md
   - Biot, le village : BIOT/BIOT.md   
   - Autre : AUTRE/AUTRE.md  
-  - HUGO, tentative migration : HUHO/HUGO.md   
+  - HUGO, tentative migration : HUGO/HUGO.md   
   - MKDOCS, tentative migration : MKDOCS/MKDOCS.md  
 
 theme:
