@@ -8,14 +8,16 @@ nav:
   - Profession : README.md
   - Salon : SALON.md  
   - Formation : FORMATION.md
-  - Linux : LINUX.md
-      - Ubuntu : UBUNTU.md
-      - Debian : DEBIAN.md
-      - Raspbian : RASPIAN.md
-      - Serveur : SERVEUR.md
-  - Dev     
-  - Loisir / Compétition : COMPETITIONS.md
-      - Resultat ITRA : ITRA.md  
+  - Linux : 
+    - LINUX.md
+    - Ubuntu : UBUNTU.md
+    - Debian : DEBIAN.md
+    - Raspbian : RASPBIAN.md
+    - Serveur : SERVEUR.md
+  - Quelques dev : DEV.md     
+  - Loisir / Compétition : 
+    - COMPETITIONS.md
+    - Resultat ITRA : ITRA.md  
   - Trekking : TREKKING.md
   - Canyonning / Via Ferrata : MONTAGNE.md
   - Velo : VELO.md   
