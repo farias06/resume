@@ -5,7 +5,8 @@ site_author: ARIAS FREDERIC
 site_description: Test de conversion Markdown vers Site
 
 nav:
-  - Profession : README.md
+  - Introduction : README.md
+  - Experiences professionnelles : PROFESSION.md  
   - Salon : SALON.md  
   - Formation : FORMATION.md
   - Linux : 
