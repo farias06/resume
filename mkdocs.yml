@@ -1,0 +1,86 @@
+site_name: Ma vie publique
+docs_dir: ./resume/
+repo_url: https://my.cyber-neurones.org/
+site_author: ARIAS FREDERIC
+site_description: Test de conversion Markdown vers Site
+
+nav:
+  - Profession : README.md
+  - Salon : SALON.md  
+  - Formation : FORMATION.md
+  - Linux : LINUX.md
+      - Ubuntu : UBUNTU.md
+      - Debian : DEBIAN.md
+      - Raspbian : RASPIAN.md
+      - Serveur : SERVEUR.md
+  - Dev     
+  - Loisir / Compétition : COMPETITIONS.md
+      - Resultat ITRA : ITRA.md  
+  - Trekking : TREKKING.md
+  - Canyonning / Via Ferrata : MONTAGNE.md
+  - Velo : VELO.md   
+  - Autres sports : SPORT.md     
+  - Les logiciels que j'aime : APP.md
+  - Le harware que j'aime : HARDWARE.md
+  - Biot, le village : BIOT.md   
+  - Autre : AUTRE.md  
+  - HUGO, tentative migration : HUGO.md   
+
+theme:
+    name: readthedocs
+    sticky_navigation: true
+    features:
+        - navigation.instant
+        - navigation.sections
+    custom_dir: overrides 
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+    nav_style: dark
+    locale: fr
+    include_homepage_in_sidebar: true
+    collapse_navigation: true
+    titles_only: false
+    navigation_depth: 5 
+
+markdown_extensions:
+  - admonition
+  - markdown.extensions.toc:
+      baselevel: 2
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true 
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - def_list
+  - pymdownx.tasklist
+  - pymdownx.details
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+  - codehilite
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_div_format
+
+extra_css:
+  - https://unpkg.com/mermaid@8.5.1/dist/mermaid.css
+  - css/extra.css
+extra_javascript:
+  - https://unpkg.com/mermaid@8.5.1/dist/mermaid.min.js
+
+plugins:
+  - search
+
+extra:
+  social:
+    - link: http://fr.linkedin.com/in/ariasfrederic
+
+copyright: Copyright &copy; 2023 ARIAS Frederic
+
+
