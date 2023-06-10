@@ -6,29 +6,29 @@ site_description: Test de conversion Markdown vers Site
 
 nav:
   - Introduction : README.md
-  - Experiences professionnelles : PROFESSION/PROFESSION.md  
-  - Salon : SALON/SALON.md  
-  - Formation : FORMATION/FORMATION.md
+  - Experiences professionnelles : PROFESSION/README.md  
+  - Salon : SALON/README.md  
+  - Formation : FORMATION/README.md
   - Linux : 
-    - LINUX/LINUX.md
-    - Ubuntu : UBUNTU/UBUNTU.md
-    - Debian : DEBIAN/DEBIAN.md
-    - Raspbian : RASPBIAN/RASPBIAN.md
-    - Serveur : SERVEUR/SERVEUR.md
-  - Quelques dev : DEV/DEV.md     
+    - General : LINUX/README.md
+    - Ubuntu : UBUNTU/README.md
+    - Debian : DEBIAN/README.md
+    - Raspbian : RASPBIAN/README.md
+    - Serveur : SERVEUR/README.md
+  - Quelques dev : DEV/README.md     
   - Loisir / Compétition : 
-    - COMPETITIONS/COMPETITIONS.md
-    - Resultat ITRA : ITRA/ITRA.md  
-  - Trekking : TREKKING/TREKKING.md
-  - Canyonning / Via Ferrata : MONTAGNE/MONTAGNE.md
-  - Velo : VELO/VELO.md   
-  - Autres sports : SPORT/SPORT.md     
-  - Les logiciels que j'aime : APP/APP.md
-  - Le harware que j'aime : HARDWARE/HARDWARE.md
-  - Biot, le village : BIOT/BIOT.md   
-  - Autre : AUTRE/AUTRE.md  
-  - HUGO, tentative migration : HUGO/HUGO.md   
-  - MKDOCS, tentative migration : MKDOCS/MKDOCS.md  
+     - Liste : COMPETITIONS/README.md
+    - Resultat ITRA : ITRA/README.md  
+  - Trekking : TREKKING/README.md
+  - Canyonning / Via Ferrata : MONTAGNE/README.md
+  - Velo : VELO/README.md   
+  - Autres sports : SPORT/README.md     
+  - Les logiciels que j'aime : APP/README.md
+  - Le harware que j'aime : HARDWARE/README.md
+  - Biot, le village : BIOT/README.md   
+  - Autre : AUTRE/README.md  
+  - HUGO, tentative migration : HUGO/README.md   
+  - MKDOCS, tentative migration : MKDOCS/README.md  
 
 theme:
     name: readthedocs
