@@ -2,7 +2,7 @@
 ARIAS FREDERIC
 ==============
 
-Ma "vie publique" en un seul Markdown (version fr) , :construction: en cours de construction . :construction: 
+Ma "vie publique" en plusieurs Markdowns (version fr) sous [https://github.com/farias06/resume](https://github.com/farias06/resume) , :construction: en cours de construction . :construction: 
 
 Ceci n'est pas un CV car je ne sais pas faire de CV . Je fais tellement de POC avec tellement de techno  . . .  Ce qui est sûr c'est que ma compétence première est :penguin: Linux et plutôt le coté serveur . Vu que je fais du C on peut le mettre sur le l'IoT sans problème .
 
@@ -31,5 +31,12 @@ sequenceDiagram
 
 - [Mastodon](https://pouet.chapril.org/@Cyberneurones)
 
-- Pas de Twitter : #DeleteTwitter , Pas de Facebook : #DeleteFacebook (Supprimé le :date: 26/11/2018 ) , Pas d'Instagram : #DeleteInstagram (Supprimé le :date: 26/11/2018 ), Pas de WhatsApp #DeleteWhatsApp (Supprimé le :date: 26/11/2018 ), Pas de Pinterest (Supprimé le :date: 26/11/2018 ), Pas de Viadeo (Supprimé le :date: 26/11/2018 ), Pas de Xing (Supprimé le :date: 26/11/2018 ) ....
+- Pas de Twitter : #DeleteTwitter , 
+- Pas de Facebook : #DeleteFacebook (Supprimé le :date: 26/11/2018 ) , 
+- Pas de Instagram : #DeleteInstagram (Supprimé le :date: 26/11/2018 ), 
+- Pas de WhatsApp : #DeleteWhatsApp (Supprimé le :date: 26/11/2018 ), 
+- Pas de Pinterest (Supprimé le :date: 26/11/2018 ), 
+- Pas de Viadeo (Supprimé le :date: 26/11/2018 ), 
+- Pas de Xing (Supprimé le :date: 26/11/2018 ),
+- Pas de TicTok ....
 
