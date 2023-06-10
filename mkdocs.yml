@@ -6,28 +6,29 @@ site_description: Test de conversion Markdown vers Site
 
 nav:
   - Introduction : README.md
-  - Experiences professionnelles : PROFESSION.md  
-  - Salon : SALON.md  
-  - Formation : FORMATION.md
+  - Experiences professionnelles : PROFESSION/PROFESSION.md  
+  - Salon : SALON/SALON.md  
+  - Formation : FORMATION/FORMATION.md
   - Linux : 
-    - LINUX.md
-    - Ubuntu : UBUNTU.md
-    - Debian : DEBIAN.md
-    - Raspbian : RASPBIAN.md
-    - Serveur : SERVEUR.md
-  - Quelques dev : DEV.md     
+    - LINUX/LINUX.md
+    - Ubuntu : UBUNTU/UBUNTU.md
+    - Debian : DEBIAN/DEBIAN.md
+    - Raspbian : RASPBIAN/RASPBIAN.md
+    - Serveur : SERVEUR/SERVEUR.md
+  - Quelques dev : DEV/DEV.md     
   - Loisir / Compétition : 
-    - COMPETITIONS.md
-    - Resultat ITRA : ITRA.md  
-  - Trekking : TREKKING.md
-  - Canyonning / Via Ferrata : MONTAGNE.md
-  - Velo : VELO.md   
-  - Autres sports : SPORT.md     
-  - Les logiciels que j'aime : APP.md
-  - Le harware que j'aime : HARDWARE.md
-  - Biot, le village : BIOT.md   
-  - Autre : AUTRE.md  
-  - HUGO, tentative migration : HUGO.md   
+    - COMPPEITIONS/COMPETITIONS.md
+    - Resultat ITRA : ITRA/ITRA.md  
+  - Trekking : TREKKING/TREKKING.md
+  - Canyonning / Via Ferrata : MONTAGNE/MONTAGNE.md
+  - Velo : VELO/VELO.md   
+  - Autres sports : SPORT/SPORT.md     
+  - Les logiciels que j'aime : APP/APP.md
+  - Le harware que j'aime : HARDWARE/HARDWARE.md
+  - Biot, le village : BIOT/BIOT.md   
+  - Autre : AUTRE/AUTRE.md  
+  - HUGO, tentative migration : HUHO/HUGO.md   
+  - MKDOCS, tentative migration : MKDOCS/MKDOCS.md  
 
 theme:
     name: readthedocs
