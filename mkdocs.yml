@@ -16,9 +16,10 @@ nav:
     - Raspbian : RASPBIAN/README.md
     - Serveur : SERVEUR/README.md
   - Quelques dev : DEV/README.md     
-  - Loisir / Compétition : 
+  - Compétitions sportives : 
     - Liste : COMPETITIONS/README.md
-    - Resultat ITRA : ITRA/README.md  
+        - Resultat ITRA : ITRA/README.md  
+        - Resultat FFA : FFA/README.md 
   - Trekking : TREKKING/README.md
   - Canyonning / Via Ferrata : MONTAGNE/README.md
   - Velo : VELO/README.md   
