@@ -2,7 +2,7 @@
 ARIAS FREDERIC
 ==============
 
-Ma "vie publique" en plusieurs Markdowns (version fr) sous [https://github.com/farias06/resume](https://github.com/farias06/resume) , :construction: en cours de construction . :construction: 
+Ma "vie publique numérique" en plusieurs Markdowns (version fr) sous [https://github.com/farias06/resume](https://github.com/farias06/resume) , :construction: en cours de construction . :construction: 
 
 Ceci n'est pas un CV car je ne sais pas faire de CV . Je fais tellement de POC avec tellement de techno  . . .  Ce qui est sûr c'est que ma compétence première est :penguin: Linux et plutôt le coté serveur . Vu que je fais du C on peut le mettre sur le l'IoT sans problème .
 
@@ -13,9 +13,24 @@ sequenceDiagram
  participant A as Wordpress
  participant B as Github
  participant C as Hugo
+ participant D as Apache
  A->>B: Purge
  B->>C: Migration
+ C->>D: Build
 ```
+
+Pour l'instant le but est donc fonctionnel j'ai donc fait du mkdocs avec les Markdowns.
+
+```mermaid
+sequenceDiagram
+ participant A as Github
+ participant B as MkDocs
+ participant C as Apache
+ A->>B: Pull
+ B->>C: Build
+```
+
+J'ai donc couper le Markdown en plusieurs Markdowns ... pour être plus dans le concept de MkDocs.
 
 # Liens externes 
 
