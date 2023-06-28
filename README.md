@@ -53,5 +53,5 @@ J'ai donc couper le Markdown en plusieurs Markdowns ... pour être plus dans le 
 - Pas de Pinterest (Supprimé le :date: 26/11/2018 ), 
 - Pas de Viadeo (Supprimé le :date: 26/11/2018 ), 
 - Pas de Xing (Supprimé le :date: 26/11/2018 ),
-- Pas de TicTok ....
+- Pas de TikTok ....
 
