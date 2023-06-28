@@ -16,6 +16,18 @@
 
 ### 2023
 
+#### Col connecté 06
+
+<img class="special-img-class" align="right" src="./img/Capture2023-06-25-09.12.38.png">
+
+- :date: 2023-06-25
+- Dossard : ?
+- TRaining IMPulse : ?
+
+- :link: [Wordpress](https://www.cyber-neurones.org/2023/06/velo-le-defi-des-3-cols-col-des-champs-col-dallos-col-de-la-cayolle/)
+
+- Velo : 3 cols : 113 km & 3340 m D+ :mountain: :round_pushpin: Saint-Martin-d'Entraunes 
+
 #### Marathon des Maures
 
 - :date: 2023-05-28
